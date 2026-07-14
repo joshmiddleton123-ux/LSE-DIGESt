@@ -209,6 +209,8 @@ document.getElementById('copySel').addEventListener('click',()=>{
   });
 });
 loadBooks();
+// silently check for newly published data every 60s
+setInterval(()=>{ load().catch(()=>{}); }, 60000);
 document.getElementById('refresh').addEventListener('click',async()=>{
   const btn=document.getElementById('refresh');
   btn.disabled=true; btn.textContent='Refreshing…';

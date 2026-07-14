@@ -5,7 +5,7 @@ on:
     # Hourly through the UK trading day so the Pages site stays fresh.
     # Cron is UTC; the guard below only lets runs proceed when London
     # local time is between 07:00 and 18:59, which handles GMT/BST.
-    - cron: "5,20,35,50 6-18 * * 1-5"
+    - cron: "*/5 6-18 * * 1-5"
   workflow_dispatch: {}   # manual trigger — run any time, pulls 07:00 up to now for today
 
 permissions:
