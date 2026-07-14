@@ -13,6 +13,8 @@ h1{font-size:20px;margin:0 0 4px}
 .controls input{width:320px;max-width:100%}
 .controls button{font:inherit;padding:6px 12px;border:1px solid #bbb;border-radius:3px;background:#f6f6f6;cursor:pointer;margin-right:8px}
 .controls button:disabled{color:#999;cursor:default}
+#books button{font:inherit;font-size:13px;padding:5px 11px;border:1px solid #bbb;border-radius:3px;background:#f6f6f6;cursor:pointer;margin:0 6px 6px 0}
+#books button.on{background:#333;color:#fff;border-color:#333}
 td.sel,th.sel{width:26px;text-align:center}
 td.sel input,th.sel input{cursor:pointer}
 table{border-collapse:collapse;width:100%}
@@ -43,6 +45,7 @@ a:hover{text-decoration:underline}
 <body>
 <h1>LSE RNS Digest</h1>
 <div class="meta" id="meta">Loading…</div>
+<div id="books" style="margin-bottom:10px" hidden></div>
 <div class="controls" id="controls" hidden>
   <input id="q" type="search" placeholder="Search…" aria-label="Search">
   <select id="cat" aria-label="Category"><option value="">All categories</option></select>
@@ -53,7 +56,8 @@ a:hover{text-decoration:underline}
 <p class="foot">Summaries are automated and for information only — not investment advice.</p>
 
 <script>
-let items=[], q='', cat='';
+let items=[], q='', cat='', book='';
+let books={}; // name -> Set of normalised tickers
 const selected=new Set();
 
 function parseCSV(text){
@@ -75,6 +79,12 @@ function parseCSV(text){
 
 function esc(s){const d=document.createElement('div');d.textContent=s||'';return d.innerHTML;}
 
+function shortName(n){
+  let s=(n||'').trim();
+  const suf=/\s+(plc\.?|p\.l\.c\.?|limited|ltd\.?|ld|inc\.?|s\.a\.?|sa|ag|nv|group|holdings|\(holdings\))$/i;
+  while(suf.test(s)) s=s.replace(suf,'');
+  return s||n;
+}
 function bbg(t){
   if(!t) return '';
   return '{'+t.replace(/\.$/,'/').toUpperCase()+' LN Equity}';
@@ -89,8 +99,11 @@ function url(it){
   return `https://www.londonstockexchange.com/news-article/${encodeURIComponent(it.ticker||'x')}/${slug}/${it.news_id}`;
 }
 
+function normTick(t){return (t||'').toUpperCase().replace(/[^A-Z0-9]/g,'');}
+
 function render(){
   const v=items.filter(it=>{
+    if(book && !(books[book]&&books[book].has(normTick(it.ticker)))) return false;
     if(cat && it.category!==cat) return false;
     if(q){const s=(it.company+' '+it.ticker+' '+it.headline+' '+(it.brief||'')+' '+it.summary+' '+it.retail_take).toLowerCase();
       if(!s.includes(q)) return false;}
@@ -126,6 +139,33 @@ function syncSel(v){
   btn.textContent=`Copy selected (${selected.size})`;
 }
 
+async function loadBooks(){
+  try{
+    const r=await fetch('books.csv?t='+Date.now());
+    if(!r.ok) return;
+    const lines=(await r.text()).trim().split(/\r?\n/);
+    for(const line of lines.slice(1)){
+      const i=line.indexOf(',');
+      if(i<1) continue;
+      const b=line.slice(0,i).trim(), t=normTick(line.slice(i+1));
+      if(!b||!t) continue;
+      (books[b]=books[b]||new Set()).add(t);
+    }
+    const names=Object.keys(books);
+    if(!names.length) return;
+    const div=document.getElementById('books');
+    const mk=(label,val)=>{
+      const btn=document.createElement('button');
+      btn.textContent=label;
+      btn.onclick=()=>{book=val;div.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===btn));render();};
+      return btn;
+    };
+    const all=mk('View all','');all.classList.add('on');div.appendChild(all);
+    for(const n of names.sort()) div.appendChild(mk(n,n));
+    div.hidden=false;
+  }catch(e){}
+}
+
 async function load(){
   let text;
   try{
@@ -151,7 +191,7 @@ async function load(){
 document.getElementById('copySel').addEventListener('click',()=>{
   const lines=items.filter(it=>selected.has(it.news_id))
     .map(it=>{
-      let txt=`- ${it.company} - ${it.headline}`;
+      let txt=`- ${shortName(it.company)} - ${it.headline}`;
       if(it.brief) txt+=`: ${it.brief}`;
       txt=txt.replace(/[.\s]+$/,'')+'.';
       return it.ticker?`${txt} ${bbg(it.ticker)}`:txt;
@@ -162,6 +202,7 @@ document.getElementById('copySel').addEventListener('click',()=>{
     btn.textContent=`Copied ${lines.length}`; setTimeout(()=>{btn.textContent=o;},900);
   });
 });
+loadBooks();
 document.getElementById('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
 document.getElementById('cat').addEventListener('change',e=>{cat=e.target.value;render();});
 load();
