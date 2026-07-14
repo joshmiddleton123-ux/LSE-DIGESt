@@ -126,7 +126,7 @@ def pull_all() -> tuple[list[dict], int]:
 
 
 def one_liner(it: dict) -> str:
-    t = to_london(it["datetime"]).strftime("%H:%M")
+    t = to_london(it["datetime"]).strftime("%H:%M:%S")
     cat = CATEGORY.get(it.get("category") or "", it.get("category") or "—")
     company = it.get("companyname") or it.get("issuername") or "Unknown"
     return f"{t} | {company} | {cat} | {it['title']}"
@@ -159,7 +159,7 @@ def main():
     with open(args.out, "w") as f:
         f.write(f"# LSE announcements — {to_london(items[0]['datetime']).strftime('%Y-%m-%d')}\n\n")
         win = f" ({args.since or ''}-{args.until or 'latest'})" if (args.since or args.until) else ""
-        f.write(f"{len(items)} announcements{win}. One line each: time | company | category | headline.\n\n")
+        f.write(f"{len(items)} announcements{win}. One line each: time (hh:mm:ss) | company | category | headline.\n\n")
         for it in items:
             f.write(f"- {one_liner(it)}\n")
     print(f"Wrote {args.out}")
