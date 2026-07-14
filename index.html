@@ -150,7 +150,7 @@ async function load(){
 
 document.getElementById('copySel').addEventListener('click',()=>{
   const lines=items.filter(it=>selected.has(it.news_id))
-    .map(it=>`${it.company}${it.ticker?' '+bbg(it.ticker):''} — ${it.headline}`);
+    .map(it=>`${it.company}${it.ticker?' '+bbg(it.ticker):''} — ${it.headline}${it.brief?': '+it.brief:''}`);
   if(!lines.length) return;
   navigator.clipboard.writeText(lines.join('\n')).then(()=>{
     const btn=document.getElementById('copySel'); const o=btn.textContent;
