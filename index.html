@@ -151,7 +151,7 @@ async function load(){
 document.getElementById('copySel').addEventListener('click',()=>{
   const lines=items.filter(it=>selected.has(it.news_id))
     .map(it=>{
-      let txt=`${it.company} - ${it.headline}`;
+      let txt=`- ${it.company} - ${it.headline}`;
       if(it.brief) txt+=`: ${it.brief}`;
       txt=txt.replace(/[.\s]+$/,'')+'.';
       return it.ticker?`${txt} ${bbg(it.ticker)}`:txt;
