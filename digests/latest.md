@@ -1,143 +1,437 @@
 # LSE announcements — 2026-07-14
 
-139 announcements (07:00-latest). One line each plus AI summary where available.
+153 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:35:00 | Volex PLC | Miscellaneous | Share Buyback Programme Update
+  - Volex has halved its share buyback programme from £40 million to £20 million following its acquisition of remaining stake in KST SignalTek Ltd for $74.7 million cash. The company is prioritising capital for organic growth, acquisitions and maintaining dividends while preserving financial flexibility.
+  - Retail take: Positive signal: disciplined capital allocation favoring growth investments over buybacks suggests management confidence in M&A pipeline and organic opportunities.
+- 10:31:06 | Hongkong Land Hldgs Ltd | Change of position | Transaction in Own Shares
+  - Hongkong Land repurchased 190,000 ordinary shares on 13 July 2026 at prices ranging from US$7.19 to US$7.34 per share, with a weighted average of US$7.2424. The shares will be cancelled. Post-repurchase, the company's issued share capital comprises 2,135,400,826 ordinary shares.
+  - Retail take: Routine capital management; share cancellation slightly reduces share count, marginally accretive to EPS but not material enough to move markets.
+- 10:30:00 | Volex PLC | Acquisition | Acquisition of remaining stake in Kepler SignalTek
+  - Volex PLC acquired the remaining 64.3% stake in Kepler SignalTek for up to $89.4 million ($74.7m upfront plus $14.7m deferred, subject to revenue targets), taking ownership to 100%. KST manufactures patient-connected medical products; the deal extends Volex's medical offering with limited customer overlap. KST generated $51.8m revenue (10% organic growth) in FY2026 and is expected to be immediately earnings-accretive with 15%+ ROCE within two years.
+  - Retail take: Positive read: strategic bolt-on acquisition of profitable business with strong margins, limited overlap enabling cross-sell, and management retained. Supports $2bn revenue target outlined April 2026.
+- 10:20:05 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: Announcement regarding Corporate Governance Rating Agreement
+- 10:10:24 | M. P. Evans Group PLC | Holding(s) in company | Holding(s) in Company
+  - Nokia Bell Pensioenfonds OFP (Belgium) reduced its holding in M.P. Evans Group PLC from 9.999980% to 8.922680% of voting rights on 14 July 2026, disposing of approximately 3.35 million shares. The fund now holds 4.65 million voting rights directly, crossing below the 9% threshold. The transaction was completed in Antwerpen, Belgium.
+  - Retail take: Routine disclosure of major holding change; passive investor reducing position below 10% threshold—no specific negative signal, likely portfolio rebalancing.
+- 10:05:44 | Ondo InsurTech PLC | Holding(s) in company | Holding(s) in Company
+  - James van den Bergh crossed a major shareholding threshold in Ondo InsurTech PLC on 10 July 2026, acquiring 17.2 million voting rights representing 6.99% of the company. The threshold crossing was notified to the issuer on 13 July 2026. No indirect voting rights or financial instruments were involved in the transaction.
+  - Retail take: Routine major shareholding disclosure below typical 10% threshold; likely reflects investor accumulation but insufficient scale to signal strategic control or significant governance implications.
+- 10:02:13 | Imaging Biometrics Limited | FUR | Sub-division
+  - Imaging Biometrics Limited has completed its sub-division, resulting in 246,709,789 ordinary shares of £0.005 each. The Jersey Financial Services Commission has issued a Certificate of Registration approving the sub-division resolution. This follows previous announcements on 12 May and 3 June 2026.
+  - Retail take: Routine capital restructuring; sub-divisions typically increase share count to improve liquidity and tradability, generally neutral to slightly positive for retail investors.
+- 10:00:00 | Bytes Technology Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - Two Bytes Technology Group directors purchased shares on 13 July 2026 via LSE on-market trades. CEO Sam Mudd bought 25,000 shares at 413.09p, while Independent Non-Executive Director Gavin Rochussen purchased 100,000 shares at 415.79p. Combined investment totalled approximately £621,000, signalling management confidence in the company.
+  - Retail take: Insider buying by senior directors typically signals confidence in company prospects; likely read as modestly positive but routine disclosure with limited market-moving impact.
+- 09:53:43 | Intertek Group PLC | Holding(s) in company | Holding(s) in Company
+  - Societe Generale increased its voting stake in Intertek Group PLC to 6.20% as of 10 July 2026, comprising 5.61% in direct shares (8.6m voting rights) and 0.59% through cash-settled contracts for difference expiring June 2028. This represents a rise from 5.37% previously held, crossing a notification threshold and disclosed to the market on 13 July 2026.
+  - Retail take: Routine disclosure of major shareholder position change; likely neutral unless SocGen signals strategic intent beyond financial investment.
+- 09:47:45 | Liontrust Asset Management PLC | Holding(s) in company | Holding(s) in Company
+  - River Global PLC crossed the 5% major shareholding threshold in Liontrust Asset Management PLC on 30 June 2026, holding 2,970,232 ordinary shares representing 4.72% of voting rights. The notification was made to the issuer on 13 July 2026. This represents a new holding with no previous notification recorded.
+  - Retail take: Routine disclosure of major shareholding notification; no immediate market implications absent context on River Global's investment intentions or strategic rationale.
+- 09:46:52 | CelLBxHealth PLC | Regulatory application/grant | Result of AGM
+  - CelLBxHealth plc held its AGM on 14 July 2026 with all resolutions passed except Resolution 4, which was withdrawn. Resolution 4 sought to re-appoint director P M Collins, who left the business on 6 July 2026. Voting details are available on the company's investor relations website.
+  - Retail take: Routine governance matter; director departure preceded AGM vote withdrawal, likely non-event for market sentiment absent further strategic context.
+- 09:18:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
+  - Artemis UK Future Leaders Plc purchased 11,830 ordinary shares (0.02% of issued capital) on 13 July 2026 at 366 pence per share for treasury. Following the purchase, issued share capital stands at 49,826,436 shares with 20,682,955 held in treasury, leaving 29,143,481 shares with voting rights.
+  - Retail take: Routine share buyback; modest treasury accumulation likely signalling capital management but immaterial in scale; non-event for investors.
+- 09:16:00 | BH Macro Limited | Change of position | Transaction in Own Shares
+  - BH Macro Limited purchased 13,732 Sterling shares on 13 July 2026 at 4.2350p via JPMorgan, holding them in treasury. Total voting rights now 459.5m. Sterling shares in issue (excluding treasury) total 300.2m with 77.6m held in treasury; US Dollar shares 23.6m in issue with 928,765 in treasury.
+  - Retail take: Routine share buyback; treasury holding reduces outstanding share count but signals no major strategic shift or capital allocation change for this macro hedge fund feeder.
+- 09:07:29 | Thames Water Utilities Finance PLC | Miscellaneous | Results of Twelfth Consent Requests
 - 09:00:01 | Brown Advisory US Smaller Cos. PLC | Portfolio update | Portfolio Update
-- 09:00:01 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
+  - Brown Advisory US Smaller Companies PLC released month-end portfolio data as at 30 June 2026. Top holding Oceaneering International represents 3.79% of assets, with ten holdings totalling 27.45%. Portfolio is heavily weighted to Industrials (32.46%) and Healthcare (21.97%), with 5.46% in cash. Full sector breakdown and holdings details available on Brown Advisory's website.
+  - Retail take: Routine portfolio disclosure; provides transparency on fund composition and sector allocation but offers no material trading signal or performance insight for investors.
 - 09:00:01 | Thames Water Utilities Limited | Miscellaneous | Results of Twelfth Consent Requests
+- 09:00:01 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
+  - GCP Infrastructure Investments repurchased 3.57m ordinary shares on 13 July 2026 at an average price of 83.55p through Canaccord Genuity, with prices ranging from 82.91p to 83.70p. Since the buyback programme launched in December 2024, the company has purchased 79.6m shares for treasury. Post-transaction, 788.2m voting shares remain in issue.
+  - Retail take: Routine capital management activity; buyback at modest discount to recent valuations signals confidence but unlikely to materially move the stock.
 - 08:50:54 | Agronomics Limited | Director/PDMR shareholding | Director/PDMR Shareholding
+  - Jim Mellon, Executive Chair of Agronomics Limited (AIM: ANIC), acquired 33.5m shares totalling £1.49m: 27.5m from BlueNalu at 5.43p and 6m market purchases at 6.6-7.0p between March-July 2026. His total holding now represents 18.3% (199.3m shares). The acquisition includes a right of first refusal on remaining BlueNalu shares and grants Mellon a board seat at BlueNalu, while he committed to equivalent lock-in arrangements.
+  - Retail take: Positive signal: insider buying at significant discount to NAV (56%) suggests conviction in valuation; continued accumulation indicates confidence despite recent weakness.
 - 08:34:00 | Capita | Holding(s) in company | Holding(s) in Company
+  - Harwood Capital entities crossed a 5% voting rights threshold in Capita PLC on 10 July 2026, holding 6.26m shares (5.181% of voting rights). The position increased from 4.56% previously. Christopher Harwood and Bernard Mills control the stake through Harwood Capital LLP, Rockwood Strategic Plc, and Oryx International Growth Fund Limited.
+  - Retail take: Material stake building by established investor; signals potential activist interest or long-term positioning in Capita, likely to attract attention from market participants monitoring the stock.
 - 08:30:00 | Christie Group PLC | Holding(s) in company | Holding(s) in Company
+  - Lord John Lee of Trafford's holding in Christie Group PLC has decreased to 1,542,915 shares (5.82% of issued share capital) from the previous 6.30%, following the death of a fund beneficiary. Lee ceased discretionary investment management of fund shares worth approximately 0.48% of the company, with voting rights passing to the beneficiary's estate executors. The threshold change was crossed on 9 July 2026.
+  - Retail take: Routine disclosure with minor negative read; a director's stake reduced slightly due to estate circumstances. No material strategic implications for investors.
 - 08:18:59 | India Capital Growth Fund Limited | Change of position | Transaction in Own Shares and Total Voting Rights
+  - India Capital Growth Fund repurchased 25,000 shares at 171p each on 13 July 2026 for treasury. Post-transaction, 65.4m shares remain in issue (excluding 47.1m treasury shares from 112.5m total). The fund, managing £118.6m in assets with 12.23% average annual returns, is commencing interim dividends from October 2026.
+  - Retail take: Routine capital management; share buybacks typically neutral to slightly positive, signalling management confidence in valuation relative to NAV.
 - 07:35:00 | Old Mutual Limited | Miscellaneous | Engagement with dissenting shareholders
+  - Old Mutual's remuneration policy and implementation report failed to meet the 75% shareholder approval threshold at its June AGM, receiving 68.39% and 70.72% support respectively. The company is engaging dissenting shareholders via a virtual call on 29 July 2026 and inviting written submissions by 24 July, following King Code governance recommendations and JSE listing requirements for non-binding advisory votes.
+  - Retail take: Non-event governance process; standard shareholder engagement on failed remuneration votes poses no material business risk to the company.
 - 07:30:00 | Sunda Energy PLC | Strategy/company update | Exploration permit application in New Zealand
+  - Sunda Energy has applied for a Petroleum Exploration Permit covering 645 km² in New Zealand's offshore Taranaki Basin, containing the Awakino gas condensate field discovered in 1985. The application, accepted by NZ Petroleum and Minerals, enters a three-month competitive process. If successful, Sunda commits to technical studies and reprocessing 450 km² of 3D seismic data within 36 months to delineate the field for potential appraisal and development.
+  - Retail take: Positive signal: supports Sunda's New Zealand growth strategy aligned with the Matahio NZ acquisition and government gas security policy, though permit award remains uncertain pending the competitive process.
 - 07:07:25 | MicroSalt PLC | Holding(s) in company | Holding(s) in Company
+  - Tekcapital Europe Limited notified a change in its holding in MicroSalt PLC on 6 July 2026, crossing a disclosure threshold. The entity now holds 32,457,535 ordinary shares representing 57.84% of voting rights, down from 58.26% previously. Tekcapital plc is the ultimate controlling entity with 100% ownership of Tekcapital Europe Limited.
+  - Retail take: Routine major holding notification showing a minor reduction in stake; non-event unless linked to broader strategic developments at MicroSalt.
 - 07:04:13 | MicroSalt PLC | Holding(s) in company | Holding(s) in Company
+  - Tekcapital Europe Limited notified on 10 July 2026 that its voting rights in MicroSalt PLC fell from 58.26% to 57.84% (32,457,535 shares) following a disposal on 6 July 2026. Tekcapital plc retains ultimate control with 100% ownership of Tekcapital Europe Limited.
+  - Retail take: Routine regulatory notification of a modest shareholding reduction below major holder threshold; likely a non-event with no material implications for MicroSalt.
 - 07:04:03 | Cobra Resources PLC | Director/PDMR shareholding | Director Shareholding & Issue of Equity
+  - Cobra Resources issued 3.5m shares to newly-appointed Non-Executive Chairman Andrew Michelmore AO at 4p per share (£140k investment), granted 10.75m options to directors and 5.75m to employees at 6p exercise price, issued 4m warrants at 8p to project stakeholders, and issued 12.08m shares at 4.34p to acquire Manna Hill Copper Project. Total shares post-admission: 1.08bn. Admission expected 17 July 2026.
+  - Retail take: Positive signal: industry heavyweight backing with cash, dual-project strategy (rare earths and copper), and key-person retention incentives suggest confidence in execution, though significant dilution warrants monitoring.
 - 07:01:01 | BRCK Group PLC | Board appointment/change | Appointment of Non-Executive Director - Update
-- 07:00:06 | Helium One Global Ltd | Miscellaneous | First Helium Sold from Pinon Canyon Plant
-- 07:00:06 | Insig AI Plc | Miscellaneous | Equity Subscription, TVR and PDMR Dealings
-- 07:00:06 | Gateley (Holdings) PLC | Notice of results | Notice of Results
-- 07:00:06 | Marks Electrical Group plc | Notice of AGM | Notice of Annual General Meeting
-- 07:00:06 | Itaconix PLC | NRA | Customer Agreement Update
+  - BRCK Group PLC confirms Clive Norman has joined the Board as Non-Executive Director with immediate effect, following completion of due diligence. The 76-year-old holds 2,007,096 ordinary shares (0.62% of issued capital) and has extensive construction industry experience, including prior directorships at BRCK and related firms.
+  - Retail take: Routine board appointment; strengthens governance with experienced industry figure already holding meaningful stake. Likely neutral to modestly positive signal of continuity.
 - 07:00:06 | Irish Residential Properties REIT plc | Notice of results | Notice of Interim Results
+  - Irish Residential Properties REIT (IRES) will release its H1 2026 interim results on Friday 14 August 2026 at 7:00am GMT, followed by a management investor conference call at 9:00am GMT. The announcement provides dial-in numbers for multiple regions and webcast registration details, with a replay available until 28 August 2026.
+  - Retail take: Routine administrative notice; no material information disclosed. Market will await actual results and management commentary on 14 August for substantive trading impact.
+- 07:00:06 | Itaconix PLC | NRA | Customer Agreement Update
+  - Itaconix PLC secured its first customer supply agreement for 8-gram plastic-free dish detergent tablets using its proprietary TSI polymers and Bonals tablet press technology. The North American purpose-driven brand will source from Itaconix's Innovation Center pilot capacity, with retail availability targeted by end-2026. Tablets were showcased at the American Cleaning Institute's Innovation Showcase in February 2026.
+  - Retail take: Early commercialization milestone for plant-based polymer technology; demonstrates market traction but limited volume scale and single customer concentration presents modest positive signal.
+- 07:00:06 | Helium One Global Ltd | Miscellaneous | First Helium Sold from Pinon Canyon Plant
+  - Helium One's Colorado joint venture (50% stake, operated by Blue Star Helium) has sold its first helium production tube trailer from the Pinon Canyon Plant following commissioning. A second trailer under a fixed-price offtake agreement is now being filled. Three additional development wells are planned for H2 2026, with existing wells to be deepened. Strong North American helium pricing driven by semiconductor, aerospace and defence demand, plus Middle Eastern supply disruptions.
+  - Retail take: Positive milestone validating the Colorado project's commercial viability and revenue generation, though scale and profitability metrics remain unclear. Material for growth narrative but dependent on successful ramp-up execution.
+- 07:00:06 | Insig AI Plc | Miscellaneous | Equity Subscription, TVR and PDMR Dealings
+  - Insig AI raised £350,000 through equity subscriptions: CEO Richard Bernstein invested £250,000 for 1.67m shares at 15p (9.1% premium to 13.75p close), increasing his stake to 18.6%, plus a £250,000 call option at 18p exercisable within six months. An existing high-net-worth shareholder subscribed £100,000 for 666,667 shares at 15p. Post-admission, total voting rights reach 129.9m shares.
+  - Retail take: Insider confidence signal via CEO top-up and unsolicited external investor backing; modest capital raise supports digital asset investments, though dilution and related-party scrutiny may temper enthusiasm.
+- 07:00:06 | Gateley (Holdings) PLC | Notice of results | Notice of Results
+  - Gateley (Holdings) PLC will announce full year results for the period ended 30 April 2026 on Tuesday 21 July 2026. The professional services group has set a firm date for the disclosure following the financial year-end.
+  - Retail take: Routine announcement of results date; no material read-through until actual results published next week.
+- 07:00:06 | Marks Electrical Group plc | Notice of AGM | Notice of Annual General Meeting
+  - Marks Electrical Group plc's 2026 AGM is scheduled for 12:30 p.m. on 6 August 2026 at its Leicester registered office. The Board encourages proxy voting by the 4 August 2026 deadline. Shareholders wishing to attend in person should notify the Company Secretary by close of business on 4 August 2026.
+  - Retail take: Routine disclosure with no material implications; standard AGM notice with administrative voting deadlines and attendance requirements.
 - 07:00:06 | AstraZeneca PLC | Miscellaneous | AstraZeneca licenses novel EGFR inhibitor
-- 07:00:05 | Poolbeg Pharma PLC | Issue of equity | Placing to raise £3.5 million
-- 07:00:05 | Big Yellow Group PLC | Miscellaneous | Notification of Q1 Statement
-- 07:00:05 | Atalaya Mining Copper, S.A. | Drilling/exploration | Q2 2026 Operations Update 
-- 07:00:05 | Taylor Wimpey PLC | Board appointment/change | Directorate change
+  - AstraZeneca acquires global rights to Zegfrovy (sunvozertinib), an oral EGFR inhibitor for lung cancer with exon 20 insertion mutations, from Dizal Pharmaceutical for $600m upfront plus up to $900m in milestone payments. Zegfrovy is approved in US and China; recent Phase III trial showed positive first-line results with FDA and China CDE Breakthrough Therapy Designation granted. Transaction closes H2 2026 and doesn't impact 2026 guidance.
+  - Retail take: Portfolio-bolstering oncology acquisition in competitive lung cancer space; modest upfront cost with meaningful milestone exposure suggests confidence in peak sales potential, though unlikely material to 2026 results.
 - 07:00:05 | Angus Energy PLC | Board appointment/change | Appointment of Director 
-- 07:00:05 | Titon Holdings PLC | Holding(s) in company | Notification of Shareholdings
-- 07:00:05 | Celsius Resources Limited | Board appointment/change | Appointment of Non-Executive Chair
-- 07:00:05 | Coro Energy PLC | Holding(s) in company | Holding(s) in Company
-- 07:00:05 | SysGroup PLC | Director/PDMR shareholding | Director Dealing
-- 07:00:05 | Physiomics PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-- 07:00:05 | Spire Healthcare Group PLC | Board appointment/change | Chair Succession
-- 07:00:05 | Genedrive PLC | Board appointment/change | Board Appointment
-- 07:00:05 | Potentially AI PLC | Holding(s) in company | Holding(s) in Company
-- 07:00:05 | Naked Wines PLC | Notice of results | Notice of Full Year Results
-- 07:00:05 | Mony Group PLC | RDN | Director Declaration
-- 07:00:05 | Tharisa PLC | Miscellaneous | Production Report Q3 2026 ended 30 June 2026
-- 07:00:05 | FRP Advisory Group PLC | Miscellaneous | Investor Presentation via Investor Meet Company
-- 07:00:05 | JPEL Private Equity Limited | Miscellaneous | Post-Close Statement and Board Update
-- 07:00:05 | ZCCM Invs.Hldgs PLC | APP | Appointment of Transaction Advisers
+  - Angus Energy appoints Ross Pearson as Chief Operating Officer and Executive Director effective immediately. Pearson, 49, was Director of Wells and Subsurface since October 2023 and previously held technical leadership roles at IGas Energy. He holds 12.5m shares (0.16% stake) following a June subscription and brings 25 years' E&P experience across UK, North America and Australia.
+  - Retail take: Internal promotion of proven technical operator to board-level role. Positive signal of operational continuity and management depth for an onshore UK oil/gas producer.
+- 07:00:05 | Taylor Wimpey PLC | Board appointment/change | Directorate change
+- 07:00:05 | Atalaya Mining Copper, S.A. | Drilling/exploration | Q2 2026 Operations Update 
+  - Atalaya Mining delivered strong Q2 2026 production of 13,493 tonnes copper (vs 9,939 tonnes Q1), with improved grades at 0.39% and recovery at 83.91%. Net cash position surged to €340.2m from €122.0m at year-end 2025, aided by robust copper prices averaging US$6.14/lb. FY2026 guidance maintained at 50,000-54,000 tonnes copper production, though potential cost headwinds of US$0.15-0.20/lb flagged if Middle East fuel disruptions persist.
+  - Retail take: Positive operational momentum and materially strengthened balance sheet support growth ambitions; offsetting concern about cost inflation resilience and mid-half production guidance maintenance at low-end rather than upgrade.
 - 07:00:05 | GreenX Metals Limited | Result of meeting | Results of Meeting 
-- 07:00:05 | Coinsilium Group Limited | MSCL | Coinsilium Group Limited: Predictive Labs Unveils Nijinn; Coinsilium Increases Strategic Investment and Accelerates Venture-Building Strategy
+  - GreenX Metals shareholders approved issuance of 2.1m unlisted options exercisable at A$1.50 by 31 May 2031. Directors Benjamin Stoikovich and Mark Pearce each received incentive options following shareholder approval (99% and 99% votes respectively). Total securities on issue now include 311.3m ordinary shares and 27.9m options across multiple exercise prices and expiry dates.
+  - Retail take: Routine shareholder-approved incentive grant to management; no material capital raise or dilution surprise, typical corporate governance disclosure.
+- 07:00:05 | Poolbeg Pharma PLC | Issue of equity | Placing to raise £3.5 million
+  - Poolbeg Pharma raised £3.5m via placing of 58.3m shares at 6p (16% discount to 7.15p closing price on 13 July). Proceeds fund POLB 001 TOPICAL trial and oral GLP-1 proof-of-concept trial through completion, extending cash runway to Q2 2028. Executive Chair Cathal Friel subscribed £250k; admission expected 21 July 2026.
+  - Retail take: Dilutive placing (8.27% increase) at discount, but backs clinical progress with near-term catalysts; interim POLB 001 data expected late summer could drive partnering value.
+- 07:00:05 | Titon Holdings PLC | Holding(s) in company | Notification of Shareholdings
+  - Following settlement of John Anderson's estate on 6 July 2026, his 868,902 Titon Holdings shares were transferred to Tyson Anderson (434,451 shares, 3.86%) and Kimberly Anderson (487,451 shares, 4.33%). Both notified the company of their beneficial ownership between 11-13 July 2026.
+  - Retail take: Routine estate settlement notification; no strategic implications. Market unlikely to react materially to straightforward wealth transfer between family members.
+- 07:00:05 | Celsius Resources Limited | Board appointment/change | Appointment of Non-Executive Chair
+  - Celsius Resources appoints George Bujtor as Non-Executive Chair effective immediately. Bujtor brings 50+ years mining experience, 25 years with Rio Tinto, and extensive Philippine mining sector expertise including managing Toledo Mining and Carmen Copper. Peter Hume steps down as Interim Chair but remains on the Board. Bujtor receives A$100,000 annual base fee.
+  - Retail take: Positive signal: experienced Philippine mining executive with proven track record leading board during MCB Project development and MMCI arbitration resolution attempts.
 - 07:00:05 | Lendinvest PLC | Miscellaneous | Delay in FY26 Audited Financial Statement
-- 07:00:05 | Northern Bear Plc | Notice of results | Notice of Results and Investor Presentation
-- 07:00:05 | Audioboom Group PLC | Notice of results | Notice of Interim Results & Investor Presentation
-- 07:00:05 | Technology Minerals PLC | Circular | Posting of Circular
-- 07:00:05 | Great Portland Estates PLC | Miscellaneous | GPE sets standard for materials reuse
+- 07:00:05 | SysGroup PLC | Director/PDMR shareholding | Director Dealing
+  - Executive Chairman Heejae Chae purchased 416,639 ordinary shares at 24 pence per share on 13 July 2026, increasing his beneficial holding to 11,025,709 shares (13.17% of voting rights). SysGroup is an AIM-listed managed IT services provider offering cybersecurity, managed services and AI-enabled solutions to UK mid-market clients, with £1bn+ in client revenue protected across 500+ customers.
+  - Retail take: Insider buying by the chairman at modest valuations typically signals confidence in company prospects, though the 24p price and modest transaction size suggest non-transformative conviction.
+- 07:00:05 | Physiomics PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - Physiomics plc Executive Director Ian Bagnall purchased 1,111,111 ordinary shares at 0.45p per share on 10 July 2026, increasing his holding to 16,111,111 shares (3.55% of issued capital). The AIM-listed mathematical modelling and biostatistics company supports drug development for clients including Merck KGaA, Astellas, and Bicycle Therapeutics.
+  - Retail take: Director share purchase signals management confidence in valuation; modest positive signal but routine disclosure with limited market impact.
+- 07:00:05 | Spire Healthcare Group PLC | Board appointment/change | Chair Succession
+  - Sir Ian Cheshire steps down as Chair of Spire Healthcare by 30 September 2026 after five years. Debbie White, an independent non-executive director since February 2023 and senior independent director since May 2023, becomes Chair-Designate immediately and assumes the role when Cheshire departs. Cheshire cited new commitments as Ofcom Chair and recently appointed Anglian Water Chair.
+  - Retail take: Orderly succession with internal promotion to experienced sector expert; likely viewed neutrally as continuity play with planned transition and smooth handover.
+- 07:00:05 | Genedrive PLC | Board appointment/change | Board Appointment
+  - Genedrive PLC appoints Graham Cole CBE as Chair and independent Non-Executive Director effective immediately. Cole, aged 77, brings 40+ years of international leadership experience, previously chairing Westland Helicopters (£4bn revenues) and holding senior roles at AgustaWestland. The company is also recruiting two further independent Non-Executive Directors as it scales UK pharmacogenetic diagnostics internationally.
+  - Retail take: Positive signal; experienced aerospace/defence chairman strengthens governance credibility as company pursues commercial growth and international expansion in precision diagnostics.
+- 07:00:05 | Potentially AI PLC | Holding(s) in company | Holding(s) in Company
+  - Premier Miton Group plc has crossed a 5.37% voting rights threshold in Potentially AI PLC (formerly Tiger Alpha Plc) following a reverse takeover on 13 July 2026. Premier Miton holds 20.56 million voting rights through a chain of controlled undertakings including Premier Asset Management entities. The notification is made under AIM Rule 14 requirements.
+  - Retail take: Routine regulatory disclosure of a major shareholder stake following reverse takeover completion; no material implications for retail investors.
+- 07:00:05 | Naked Wines PLC | Notice of results | Notice of Full Year Results
+  - Naked Wines plc will release audited full-year results for the 52 weeks ended 30 March 2026 on 23 July 2026. An investor presentation will be held at 14:00 BST via Investor Meet Company platform with live Q&A. A recording will be available subsequently on the company's investor website.
+  - Retail take: Routine disclosure of results timing and presentation arrangements; non-event for markets until actual financial performance is revealed on 23 July.
+- 07:00:05 | Mony Group PLC | RDN | Director Declaration
+  - Sarah Warby, a non-executive director at Mony Group PLC, will take on an additional non-executive director role at Taylor Wimpey plc effective 2 October 2026. The appointment is disclosed under UK Listing Rules 6.4.9(2) requirements for director conflicts of interest.
+  - Retail take: Routine disclosure of director appointment; no material implications for Mony Group unless governance concerns arise from dual board responsibilities.
+- 07:00:05 | Tharisa PLC | Miscellaneous | Production Report Q3 2026 ended 30 June 2026
+  - Tharisa PLC reported Q3 FY2026 production of 39.6 koz PGMs (up 15.5% QoQ) and 393.8 kt chrome. PGM basket prices averaged $2,681/oz (down 11.8% QoQ but up 70% YoY). Net cash position declined to $10.7m from $54.7m due to increased capex on Karo Platinum and underground transition projects. Group maintains $198.8m cash on hand; FY2026 guidance reaffirmed at 145-165 koz PGMs and 1.50-1.65 Mt chrome.
+  - Retail take: On-track execution and robust YoY pricing support confidence in guidance, but rising debt and tighter net cash amid ongoing capex investment raise cycle timing concerns for income investors.
+- 07:00:05 | FRP Advisory Group PLC | Miscellaneous | Investor Presentation via Investor Meet Company
+  - FRP Advisory Group PLC will host a management presentation on its Full Year Results via Investor Meet Company on 24 July 2026 at 10:00 BST. The presentation is open to existing and potential shareholders, with pre-event questions accepted until 23 July 2026 at 09:00 BST. Investors can register free via the Investor Meet Company platform.
+  - Retail take: Routine disclosure. FRP scheduling a standard results presentation; likely a non-event unless Full Year Results contain material updates.
+- 07:00:05 | JPEL Private Equity Limited | Miscellaneous | Post-Close Statement and Board Update
+  - JPEL Private Equity Limited announced board refreshment with Roy Barrett becoming Chair Designate in October 2026. The company reduced annual accounting and administrative expenses from $400,000 to $150,000 effective January 2026. The board is assessing strategic options including potential liquidation, self-management, or continued listing as the portfolio winds down, having returned over $500 million to shareholders since 2016.
+  - Retail take: Non-event; routine governance update and cost-cutting for a mature wind-down vehicle. Expense reduction slightly positive but strategic optionality suggests no imminent catalysts for shareholders.
+- 07:00:05 | ZCCM Invs.Hldgs PLC | APP | Appointment of Transaction Advisers
+  - ZCCM Investments Holdings appointed Bowsprit Partners as UK financial adviser and corporate broker, and Stockbrokers Zambia as LuSE advisor for its listing optimisation process. CEO Kakenenwa Muyangwa outlined a long-term growth strategy targeting market capitalisation increase from US$1.4 billion to US$7 billion over the next decade, focusing on copper production growth, international shareholder base expansion, and improved liquidity across overseas listings.
+  - Retail take: Positive signal: company pursuing strategic listing changes and international capital market access to fund ambitious growth targets; suggests confidence in execution and potential shareholder value creation.
+- 07:00:05 | Big Yellow Group PLC | Miscellaneous | Notification of Q1 Statement
+  - Big Yellow Group PLC, the UK's self-storage market leader, will release its Q1 statement for the period ended 30 June 2026 on Monday, 20 July 2026. The announcement serves as advance notice of the upcoming quarterly results disclosure.
+  - Retail take: Routine notification of results publication date; no material information disclosed. Market impact will depend on actual Q1 figures when released.
 - 07:00:05 | Wizz Air Holdings PLC | Notice of results | Notice of F27 First Quarter Results Date
+  - Wizz Air will release unaudited F27 first quarter results for the three months ended 30 June 2026 on 6 August 2026 at 07:00 BST, with a management webcast at 09:30 BST. The low-cost carrier operated 264 Airbus aircraft and carried 69.7 million passengers in FY2026, holding recognition as Europe's most emissions-efficient airline.
+  - Retail take: Routine disclosure of results date; investors will await actual quarterly earnings figures and forward guidance on 6 August for material market impact.
+- 07:00:05 | Great Portland Estates PLC | Miscellaneous | GPE sets standard for materials reuse
+  - Great Portland Estates showcased circular economy achievements at 30 Duke Street development, reusing 450 tonnes of structural steel, 45 tonnes of recycled aluminium, and 21 tonnes of Portland stone. The fully pre-let building demonstrates commercial viability of circularity. GPE's Circular Economy Focus Group aims to extend these practices across its development pipeline through its proprietary Circularity Score.
+  - Retail take: Positive signal on ESG credentials and differentiation, but primarily narrative-focused; limited material impact on near-term financial performance or valuation metrics.
+- 07:00:05 | Technology Minerals PLC | Circular | Posting of Circular
+  - Technology Minerals PLC is posting a circular ahead of its 17 July 2026 AGM detailing post-meeting steps if shareholders approve a share subdivision (Resolution 13). Current 3.14bn shares of £0.001 nominal value will subdivide into 6.29bn shares of £0.0005 each, enabling a planned fundraise with FCA Prospectus approval imminent and settlement of convertible loan notes. Subsequently, the company intends to create non-voting Deferred Shares to simplify capital structure while preserving single ordinary share class.
+  - Retail take: Routine procedural disclosure for shareholder approval; the subdivision enables near-term fundraising and debt settlement critical to balance sheet strengthening, though share dilution and subsequent two-step restructuring suggest material ongoing capital activity.
+- 07:00:05 | Audioboom Group PLC | Notice of results | Notice of Interim Results & Investor Presentation
+  - Audioboom Group PLC will publish interim results for the six months ending 30 June 2026 on 15 July 2026. CEO Stuart Last and CFO Brad Clarke will present live via Investor Meet Company at 3pm, open to existing and potential shareholders with pre-event Q&A submission available until 9am.
+  - Retail take: Routine announcement notice; the substance lies in the interim results publication tomorrow, not this procedural disclosure.
+- 07:00:05 | Northern Bear Plc | Notice of results | Notice of Results and Investor Presentation
+  - Northern Bear plc will release audited results for the year ended 31 March 2026 on 16 July 2026 at 07:00 BST. CEO John Davies and Interim FD Jim Waring will present results via Investor Meet Company on 21 July 2026 at 13:00 BST, open to existing and potential shareholders with pre-submitted and live Q&A.
+  - Retail take: Routine disclosure; results announcement and investor presentation scheduling represent standard market engagement with no material announcements indicated.
+- 07:00:05 | Coro Energy PLC | Holding(s) in company | Holding(s) in Company
+  - The Lang Family, through G.P. (Jersey) Limited and Frazer Lang, acquired voting rights in Coro Energy PLC crossing the 3% notification threshold on 10 July 2026. The holding now represents 3,300,000 voting rights (3.04% of total voting rights), held directly with no financial instruments involved. Notification was filed with the FCA on 12 July 2026.
+  - Retail take: Routine major holding disclosure; modest 3% stake suggests passive investment rather than strategic control attempt. Likely non-event for equity price direction.
+- 07:00:05 | Coinsilium Group Limited | MSCL | Coinsilium Group Limited: Predictive Labs Unveils Nijinn; Coinsilium Increases Strategic Investment and Accelerates Venture-Building Strategy
 - 07:00:05 | RM PLC | Interim results | RM plc: Interim Results
-- 07:00:04 | Ashmore Group PLC | Trading statement | Trading Statement
-- 07:00:04 | Ampeak Energy Limited | Regulatory application/grant | Results of AGM
-- 07:00:04 | ECR Minerals PLC | Issue of equity | Issue of Equity and Grant of Options
-- 07:00:04 | Genus PLC | Trading statement | FY26 Trading Update – Ahead of expectations
-- 07:00:04 | Experian plc | Change of position | Transaction in Own Shares
-- 07:00:04 | InterContinental Hotels Group PLC | Change of position | Transaction in Own Shares
-- 07:00:04 | BP PLC | Trading statement | 2Q26 bp Trading Statement Part 1 of 1
-- 07:00:04 | Grafton Group PLC | Change of position | Transaction in Own Shares
+  - RM plc's interim results show adjusted operating profit surged 200% to £2.7m and adjusted EBITDA rose 48.6% to £5.2m, driven by transformation savings and 7.3% growth in Assessment recurring revenue. Total revenue fell 4.2% to £70.1m due to UK schools market weakness. Assessment recurring revenue reached £19.0m (92.7% of divisional sales) with 100% customer renewal rates. Net debt remained flat at £59.3m with £3.7m additional investment in RM Ava platform. Full-year FY26 adjusted operating profit and EBITDA guidance maintained, though overall revenue expected slightly below FY25.
+  - Retail take: Positive: margin expansion and Assessment momentum offset revenue declines, but Technology weakness and flat overall revenue growth temper near-term outlook. Debt reduction remains uncertain as equity proceeds fund platform investment.
 - 07:00:04 | Sabre Insurance Group PLC | Change of position | Transaction in Own Shares
-- 07:00:04 | Water Services Regulation Authority | IRS | Ofwat confirms £30.5m package for South East Water
-- 07:00:04 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
-- 07:00:04 | Sealand Capital Galaxy Limited | Trading statement | AGM Trading Update 
-- 07:00:04 | Ironveld PLC | UPD | Operational Update, Off Take & Mineralogical Study
-- 07:00:04 | Guardian Metal Resources PLC | UPD | Non-Core Portfolio Exploration Results
-- 07:00:04 | Watches of Switzerland Group PLC | Final results | FY26 Results
+  - Sabre Insurance Group completed a share buyback during 7-13 July 2026, purchasing 483,635 ordinary shares for cancellation at prices ranging from 179.40p to 183.00p, with an average price of 181.48p. Following cancellation, 244,643,201 shares remain in issue. The buyback was authorized at the May 2026 AGM and announced on 2 June 2026.
+  - Retail take: Routine buyback execution disclosure. Shares repurchased at relatively tight range suggests orderly execution; neutral for investors absent capital allocation concerns.
+- 07:00:04 | Grafton Group PLC | Change of position | Transaction in Own Shares
+  - Grafton Group purchased 60,000 ordinary shares for cancellation on 13 July 2026 at a volume-weighted average price of £9.01, with a range of £8.99-£9.05. This brings total share purchases under the £25m buyback programme (announced 30 June 2026) to 599,174 shares. Shares purchased through Goodbody Stockbrokers on the London Stock Exchange.
+  - Retail take: Routine capital management; share buybacks are generally neutral to modestly positive, indicating management confidence in valuation but offering no material information about business performance or strategy.
+- 07:00:04 | BP PLC | Trading statement | 2Q26 bp Trading Statement Part 1 of 1
+  - BP expects 2Q26 upstream production of 2,170-2,220mboe/d versus 2,339mboe/d in 1Q26, driven by Gulf of America maintenance and Middle East disruption. Oil realizations expected +$1.8-2.1bn and refining margins +$1.2-1.4bn quarter-on-quarter. Net debt forecast $22-23bn versus $25.3bn, with underlying tax rate 33-37% and ~$1bn impairment charges on transition businesses.
+  - Retail take: Mixed signals: production decline and impairments are headwinds, but strong realization gains from higher Brent ($103.85/bbl vs $81.13) and refining margins ($29.6/bbl RIM), plus debt reduction, likely offset concerns for near-term earnings.
+- 07:00:04 | InterContinental Hotels Group PLC | Change of position | Transaction in Own Shares
+  - InterContinental Hotels Group purchased 40,000 of its own shares on 13 July 2026 via Goldman Sachs at an average price of $165.17, with a range of $163.40–$166.45. The shares will be cancelled. Post-transaction, the company has 148.6 million shares in issue, excluding 5.4 million held in treasury. The buyback was authorised by shareholders at the May 2025 AGM and executed under instructions issued in February 2026.
+  - Retail take: Routine capital management; modest share count reduction supports EPS but signals no major strategic catalyst. Market likely treats as non-event absent broader company developments.
+- 07:00:04 | Experian plc | Change of position | Transaction in Own Shares
+  - Experian repurchased 225,940 ordinary shares on 13 July 2026 at prices between 2,589p and 2,678p per share, with a weighted average price of 2,628.95p. The shares will be cancelled as part of a share repurchase programme announced on 30 June 2026. Weekly transaction updates will be published on the company website.
+  - Retail take: Routine capital allocation disclosure; modest share count reduction slightly accretive to EPS but signals confidence in valuation and shareholder returns management.
+- 07:00:04 | Genus PLC | Trading statement | FY26 Trading Update – Ahead of expectations
+  - Genus PLC expects FY26 adjusted profit before tax of approximately £98m, moderately ahead of consensus (£95.5m midpoint), driven by strong PIC performance in Asia and Latin America offsetting North American weakness. The group received £111m net cash from its Chinese joint venture partner BCA in Q4, reducing year-end net leverage to 0.4x and substantially strengthening the balance sheet ahead of FY27.
+  - Retail take: Positive read: earnings beat, strong cash generation, and dramatically improved balance sheet provide downside protection and strategic flexibility. Market likely to welcome the deleveraging and operational momentum.
+- 07:00:04 | Ashmore Group PLC | Trading statement | Trading Statement
+  - Ashmore Group's AuM rose 7% to US$54.0bn in Q4 FY2026, driven by US$2.0bn positive investment performance and US$1.3bn net inflows. Fixed income grew to US$42.0bn, equities to US$10.0bn. Net inflows across local currency, equities, blended and corporate debt reflect client confidence in emerging markets despite Middle East tensions. CEO notes strong EM outperformance and supportive macroeconomic outlook.
+  - Retail take: Positive read: solid double-digit AuM growth with net inflows resuming amid EM outperformance validates the investment thesis and suggests momentum ahead of September results.
+- 07:00:04 | Ampeak Energy Limited | Regulatory application/grant | Results of AGM
+  - Ampeak Energy's AGM on 14 July 2026 passed all 13 resolutions with strong shareholder support. David Taaffe (COO) joined as Executive Director and Mark Dawber as Non-Executive Director. Directors' remuneration report approval received 88.87% support; share allotment authority passed 95.01%. Scott Martin did not join the Board despite resolution approval. Under the 2023 LTIP, 1,989,855 shares were issued in the 12-month period.
+  - Retail take: Routine governance event with solid shareholder backing and clear board strengthening; modest minority dissent on remuneration (11.13%) may warrant monitoring but unlikely to signal material concern.
+- 07:00:04 | ECR Minerals PLC | Issue of equity | Issue of Equity and Grant of Options
+  - ECR Minerals issued 57.7m shares on 13 July 2026: 28.4m to directors and advisers as Q3 remuneration at 0.211p per share (Chairman Tulloch received 14.2m shares for £30k accrued pay), and 25m to Slievemara Consulting at 0.26p for introducing the Paleogold acquisition. Chris Gibbs also granted 5.5m options at 0.211p over 5 years. Admission expected 20 July; post-issuance share capital reaches 3.6bn shares.
+  - Retail take: Routine share-based director remuneration and broker consideration shares; modest dilution at modest valuations. Non-event for market sentiment but reflects ongoing cash constraints typical of junior explorers.
 - 07:00:04 | BioPharma Credit PLC | Acquisition | UPDATE ON ARCHIMED ESPERION ACQUISITION
 - 07:00:04 | Robert Walters PLC | Trading statement | Q2 2026 Trading Update
+  - Robert Walters reported H1 2026 net fees down 3% in constant currency, with Q2 down 4%, showing sequential improvement from full-year 2025's 14% decline. UK specialist recruitment surged 21%, while Asia-Pacific and Rest of World grew, but Europe fell 16%. Recruitment outsourcing grew 9% in Q2. Headcount reduced 11% year-on-year to 2,782; net cash £17.2m.
+  - Retail take: Mixed signals: improving trajectory and UK strength offset persistent European weakness and overall fee decline, suggesting cautious recovery with uneven geographic exposure.
 - 07:00:04 | Schroder British Opportunities Tst. | Final results | Final Results
+  - Schroder British Opportunities Trust's NAV per share fell 3.0% to 107.24p for the year ended 31 March 2026, primarily due to multiple compression affecting technology holdings despite strong underlying operational performance (16.3% average EBITDA growth). The company completed its strategic transition to a fully private equity-focused portfolio, exiting all quoted positions by 31 May 2026. A managed wind-down resolution will be put to shareholders in Q1 2027, with the board intending to consult major shareholders beforehand.
+  - Retail take: Transition-driven NAV decline signals valuation headwinds in private tech but portfolio operationally sound; wind-down vote offers shareholders eventual liquidity, though likely seen as defensive given market discount to NAV and small fund size.
 - 07:00:04 | Headlam Group PLC | Trading statement | Trading Update and Strategic Review
+  - Headlam Group's H1 2026 revenue fell 22.8% to £188.8m due to deliberate low-margin customer exit, weak markets, and inventory shortages. The company posted significant operating losses, with net debt rising to £36.2m from £31.4m. Management is undertaking a strategic review exploring refinancing, asset sales, and partnerships, with financing offers already received, but no certainty of success.
+  - Retail take: Distressed trading update signals serious liquidity stress; refinancing in progress but uncertain outcome likely to concern equity holders facing potential dilution or worse.
 - 07:00:04 | Shuka Minerals PLC | Drilling/exploration | Kabwe Drilling (“KBDD08”)
+  - Shuka Minerals completed drill hole KBDD08 at Kabwe Zinc Mine in Zambia, intersecting 3% copper grades alongside zinc (up to 22%) and lead mineralisation. Three zones yielded 18.67m at 2.05% Zn, 3.66m at 8.27% Zn with 0.93% Cu, and 5.66m at 4.18% Zn. Results confirm expected copper oxide mineralisation and improved orebody continuity; drilling programme extended to 2,500m.
+  - Retail take: Positive signals for exploration upside at previously underexplored zones; thickening mineralisation and confirmed copper grades suggest resource expansion potential, though XRF results require laboratory verification.
 - 07:00:04 | Celebrus Technologies PLC | Final results | Final Results for the year ended 31 March 2026
-- 07:00:04 | Boohoo Group Plc | AGM statement | Continued Positive Trading
-- 07:00:04 | Shearwater Group PLC | CNT | US$1.2m global financial services contract
-- 07:00:04 | Rank Group PLC | Trading statement | Full Year Trading Update
-- 07:00:04 | BRCK Group PLC | Final results | Final Results
-- 07:00:04 | ACG Metals Limited | UPD | H1 2026 Operations Update
-- 07:00:04 | Plus500 Limited | Change of position | Transaction in Own Shares
-- 07:00:04 | Catenai PLC | UPD | Klarian CLN Update
+  - Celebrus Technologies reported FY26 results with Celebrus ARR growing 10.3% to $15.0m and strong 96.7% net revenue retention, but Group revenue fell 39% to $23.6m due to intentional shift to straight-line license revenue recognition from April 2025. The company ended with $32.5m cash, no debt, and positive operating cash flow of $4.9m. Management restructured go-to-market into three focused functions and secured two new logos post-year-end, signalling early validation of changes.
+  - Retail take: Mixed signals: strong customer retention and platform momentum offset by significant new business miss in FY26, though management confidence in restructured sales model and early pipeline signs may attract growth investors betting on FY27 recovery.
+- 07:00:04 | Water Services Regulation Authority | IRS | Ofwat confirms £30.5m package for South East Water
+- 07:00:04 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
+  - Greencoat Renewables purchased 251,586 ordinary shares on 13 July 2026 at prices ranging from €0.75 to €0.763 per share (VWAP €0.7576) via RBC Europe Limited on Euronext Dublin. The shares will be cancelled as part of the company's March 2026 buyback programme. Post-transaction, the company holds 200,000 treasury shares and has 1,083,937,464 shares in issue.
+  - Retail take: Routine share buyback execution within announced programme; modest capital allocation signal but non-event for investors absent broader strategy changes.
+- 07:00:04 | Sealand Capital Galaxy Limited | Trading statement | AGM Trading Update 
+  - Sealand Capital Galaxy (LSE: SCGL) held its AGM on 14 July 2026. The Board reported encouragement from H1 progress and a strengthened balance sheet, positioning the group to execute its long-term strategy. The company expects full-year performance in line with expectations, focused on expanding AI-enabled technology capabilities across Asia-Pacific with new commercial opportunities.
+  - Retail take: Routine AGM update with generic positive commentary but no concrete metrics, guidance revisions or material developments—likely a non-event for markets lacking specificity.
+- 07:00:04 | Ironveld PLC | UPD | Operational Update, Off Take & Mineralogical Study
+  - Ironveld's DMS plant has achieved sustained production at 1.4 tonnes/hour of magnetite (versus 5 tph design capacity) with consistent quality. Three clients secured with repeat orders; a major off-taker requiring 5,000 tonnes/month receiving samples shortly. Material sold at projected premium pricing. Unexpected maghemite recovery (1 tph) presents additional revenue stream. Layer 21 mineralogical study progressing on schedule with initial assay results expected within 30 days.
+  - Retail take: Positive momentum: production milestones achieved, strong commercial validation with premium pricing realized, and new revenue stream identified, though plant still operates below capacity and Layer 21 upside remains speculative.
+- 07:00:04 | Guardian Metal Resources PLC | UPD | Non-Core Portfolio Exploration Results
+  - Guardian Metal Resources announced exploration results across seven non-core Nevada projects, including new tungsten discoveries at White Elephant (95 ft @ 0.31% WO3) and Cinch (0.22% WO3, 1,950 g/t Ag). Pilot North returned 95 ft @ 0.18% WO3, while Garfield yielded gold assays up to 11.2 g/t Au. The board is assessing strategic options for these assets to free resources for advancing flagship Pilot Mountain and Tempiute projects toward commercial production.
+  - Retail take: Non-event for near-term trading; exploration stage results on non-core assets signal portfolio depth but reinforce management focus on flagship projects, unlikely to move sentiment absent major flagship updates.
+- 07:00:04 | Watches of Switzerland Group PLC | Final results | FY26 Results
+  - Watches of Switzerland reported FY26 record revenue of £1.8bn (+11% reported, +13% constant currency) with adjusted EBIT of £155m (+6% constant currency) and statutory PBT up 76% to £133m. US revenue now exceeds 50% of group total at £927m (+24% constant currency). Free cash flow jumped 65% to £162m with 80% conversion. FY27 guidance targets 5-10% revenue growth at constant currency with 40-80bps EBIT margin expansion.
+  - Retail take: Strong execution with US momentum and margin recovery expected; cost discipline and cash generation evident, but UK consumer weakness and tariff headwinds remain near-term risks to guidance.
 - 07:00:04 | Geo Exploration Limited | CRO | Change of Registered Office
-- 07:00:03 | GlobalData PLC | Change of position | Transaction in Own Shares
-- 07:00:03 | Gamma Communications PLC | Change of position | Transaction in Own Shares
-- 07:00:03 | Airtel Africa PLC | Change of position | Transaction in Own Shares
-- 07:00:03 | CelLBxHealth PLC | AGM statement | AGM Statement
-- 07:00:03 | Pantheon International PLC | Change of position | Transaction in Own Shares
-- 07:00:03 | Polar Capital Global Financials Tst | Interim results | Half-year Financial Report
-- 07:00:03 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
-- 07:00:03 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
+  - GEO Exploration Limited (AIM: GEO), a mineral resource and hydrocarbon exploration company, has relocated its registered office effective immediately to Level 7, 88 Phillip Street, Sydney, New South Wales 2000, Australia. The company explores projects in Australia, Namibia, and Italy. All other company details remain unchanged.
+  - Retail take: Non-event administrative relocation. Aligns registered office with operational focus in Australia; no material impact on business strategy or shareholder value.
+- 07:00:04 | Catenai PLC | UPD | Klarian CLN Update
+  - Catenai PLC's AIM-quoted subsidiary Klarian has missed its £699,160 repayment deadline (1 July 2026) on a convertible loan note originally issued in April 2024. The company is negotiating a further extension while accruing 3% monthly fees on the outstanding balance. Management remains positive citing Klarian's £5 million+ sales pipeline and fundraising progress, though repayment completion carries no certainty.
+  - Retail take: Negative signal: missed debt deadline suggests Klarian's financial stress despite management optimism; repayment uncertainty creates balance sheet risk for Catenai investors.
+- 07:00:04 | Plus500 Limited | Change of position | Transaction in Own Shares
+  - Plus500 repurchased 48,120 ordinary shares on 13 July 2026 at prices ranging from 4,130p to 4,898p per share, with a volume-weighted average price of 4,571.43p. Following this purchase, 69.2 million shares remain in issue (excluding 45.6 million treasury shares). The buyback is part of the February 2026 programme and shares are held in treasury.
+  - Retail take: Routine share buyback execution under existing programme; signals capital management and potential EPS accretion but is non-event without programme size or timing context.
+- 07:00:04 | ACG Metals Limited | UPD | H1 2026 Operations Update
+  - ACG Metals exceeded H1 2026 oxide production target (18,487 oz AuEq vs 17,500 oz target) while the Gediktepe Sulphide Expansion Project reached 87.2% completion on-budget, with first copper/zinc production expected August 2026. Gold/silver realised prices rose 64%/142% YoY to $4,838/oz and $78.2/oz respectively, though AISC increased 52% to $1,609/oz AuEq. Net debt stands at $140m with $60m cash; FY2026 production guidance of 20-22 kt CuEq maintained.
+  - Retail take: Positive read: production beat and on-track capex execution de-risk the transition to copper production, though higher AISC and elevated leverage warrant monitoring as sulphide ramp accelerates.
+- 07:00:04 | BRCK Group PLC | Final results | Final Results
+  - BRCK Group reported FY26 revenue of £645.4m (+1.3%), with adjusted EBITDA up 4.5% to £51.0m despite subdued construction markets. A £13.4m non-cash impairment reduced reported profit to £6.3m from £11.7m; adjusted profit rose 4.9% to £38.3m. The group completed the Jacksons fencing acquisition (£20m) post-period, restructured from four to two divisions, and maintained the final dividend at 2.39p.
+  - Retail take: Resilient operational performance offset by non-cash impairment and modest headline growth; dividend maintained signals confidence, but tight net debt leverage (1.19x) and challenging near-term market outlook may temper investor enthusiasm.
+- 07:00:04 | Rank Group PLC | Trading statement | Full Year Trading Update
+  - Rank Group delivered full-year underlying operating profit of at least £76m, ahead of £68.2m consensus, on 6% like-for-like NGR growth to £834.1m. Digital revenue grew 8% despite Remote Gaming Duty increase to 40% from April 2026. The group also disclosed a £5m regulatory settlement provision with the Gambling Commission for historical compliance failings at Grosvenor Casinos.
+  - Retail take: Better-than-expected profits and resilient digital growth despite tax headwinds likely viewed positively, though the £5m settlement and regulatory history may temper sentiment.
+- 07:00:04 | Boohoo Group Plc | AGM statement | Continued Positive Trading
+  - Boohoo Group reports continued positive trading with two guidance upgrades in nine months. GMV growing year-on-year with improved margins. Company targets net debt materially lower in current year, below 1x Adjusted EBITDA by Feb-27, with potential full debt elimination. Debenhams positioned for £bn+ GMV with £100m+ EBITDA; Young Fashion returning to growth; Karen Millen noted as significant value.
+  - Retail take: Positive read: turnaround momentum accelerating with concrete debt reduction targets and profitability improvement expected in H1 results. Market likely receptive to strategic optionality and brand value narratives.
+- 07:00:04 | Shearwater Group PLC | CNT | US$1.2m global financial services contract
+  - Shearwater Group's subsidiary Brookcourt Solutions secured a US$1.2 million three-year contract with a major Japanese financial institution to deliver Core Email Protection technology. The deal provides recurring revenue and reinforces Brookcourt's position in global financial services, protecting against email-based cyber threats including phishing and business email compromise.
+  - Retail take: Positive signal: recurring revenue win from tier-one banking client validates enterprise cybersecurity capabilities and supports growth strategy, though contract value modest relative to typical AIM-listed tech scale.
 - 07:00:03 | IQE PLC | UPD | IQE plc: $14m AI & datacentre production order
+  - IQE secured a $14 million multi-year production order from a strategic global technology customer for AI and datacentre applications, to be manufactured at its Newport foundry. The order strengthens IQE's position in high-performance storage and data communications, with ongoing development of next-generation technologies for the customer's data lifecycle.
+  - Retail take: Positive signal of demand in booming AI/datacentre markets; demonstrates manufacturing scale-up at Newport, though single customer concentration and lack of customer name limits clarity on deal materiality.
+- 07:00:03 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
+  - Edinburgh Investment Trust repurchased 50,000 ordinary shares on 13 July 2026 at an average price of 813.53p per share via Investec Bank, to be held in treasury. The company now holds 69.5m treasury shares out of 195.7m issued shares, reducing voting shares to 126.2m. This represents ongoing capital management by the trust.
+  - Retail take: Routine share buyback; modest positive signal on capital management but typical activity for investment trusts seeking to support NAV per share.
+- 07:00:03 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
+  - HarbourVest Global Private Equity (HVPE), a FTSE 250-listed investment company, repurchased 7,000 of its own shares on 13 July 2026 at an average price of £33.61 per share for cancellation. Following the transaction, total shares in issue reduced to 69,647,352. The buyback was executed under authority granted at the July 2025 AGM.
+  - Retail take: Routine share buyback; minor capital reduction suggests modest excess cash but no material impact on share price or investor returns expected.
+- 07:00:03 | Polar Capital Global Financials Tst | Interim results | Half-year Financial Report
+  - Polar Capital Global Financials Trust reported H1 2026 NAV total return of 4.8%, outperforming its MSCI ACWI Financials benchmark (3.1%). Net assets fell 1.1% to £372m due to share buybacks totalling 6.8m shares (4.1% of capital). The trust narrowed its discount to 4.3% from 5.1%, adopted a 4% annual dividend policy paid quarterly, and maintained 1.3% net cash gearing. Geopolitical volatility and AI concerns pressured financials but strong bank earnings and M&A activity supported performance.
+  - Retail take: Modest outperformance and discount reduction are mildly positive; however, declining AUM and sector underperformance versus broader markets suggest cautious investor sentiment on financials despite improving bank fundamentals.
+- 07:00:03 | Airtel Africa PLC | Change of position | Transaction in Own Shares
+  - Airtel Africa purchased 1.856 million shares between 6-10 July 2026 at prices ranging from 316.8p to 340.2p, with a volume-weighted average of 328.89p. This brings total buyback purchases to 12.864 million shares since the programme's May 2026 launch, at an average price of 339.40p. All purchased shares will be cancelled.
+  - Retail take: Routine share buyback execution within approved programme; neutral signal suggesting management views valuation reasonable, though no strategic implications evident for investors.
+- 07:00:03 | CelLBxHealth PLC | AGM statement | AGM Statement
+  - CelLBxHealth held its AGM on 14 July 2026. Executive Chairman Jan Groen stated the company remains on track to deliver FY 2026 revenues of at least £2.1m, representing 50% growth on FY 2025. The Board is recruiting a new CEO while Groen continues as Executive Chairman, with confidence in senior leadership capacity to maintain trading momentum.
+  - Retail take: Positive signal: revenue guidance reaffirmed, leadership continuity maintained, and significant commercial pipeline conversion expectations supported investor confidence.
+- 07:00:03 | GlobalData PLC | Change of position | Transaction in Own Shares
+  - GlobalData PLC repurchased 99,475 ordinary shares on 13 July 2026 at prices between 74.90p and 77.00p, with a weighted average price of 75.92p. The shares will be cancelled, reducing total voting rights to 746,095,973. This represents the latest tranche under the company's buyback programme that commenced 23 June 2026.
+  - Retail take: Routine share buyback execution within disclosed programme parameters; no material signal on company strategy or valuation concerns; minimal market impact.
+- 07:00:03 | Gamma Communications PLC | Change of position | Transaction in Own Shares
+  - Gamma Communications purchased 17,609 ordinary shares on 13 July 2026 at a weighted average price of 903.5p per share through Investec, continuing its January 2026 buyback programme. To date, 2,667,373 shares have been repurchased and will be cancelled. Post-settlement, Gamma has 91,096,978 shares in issue with 89,572,586 voting rights, down from the starting position.
+  - Retail take: Routine capital management during offer period; share buybacks typically signal management confidence but represent non-event for most investors during active takeover tension.
+- 07:00:03 | Victoria PLC | Disposal | Completion of Belgium property sale 
+  - Victoria PLC completed a €34.4m sale and leaseback of its Belgian distribution centre to Avantage Property Holding BV, generating a substantial gain against €5.6m net book value. Proceeds will fund the relocation of Balta Rug production to Turkey (expected Q3 FY2027) alongside two additional property disposals, with tax losses offsetting capital gains.
+  - Retail take: Positive signal: asset monetisation funds strategic manufacturing restructuring while retaining European distribution hub, with proceeds fully funding transition costs.
 - 07:00:03 | AdvancedAdvT Limited | Change of position | Purchase of Own Shares
-- 07:00:03 | AEP Plantations PLC | Change of position | Transaction in Own Shares
+  - AdvancedAdvT Limited (ADVT) purchased 20,000 ordinary shares on 13 July 2026 at 157.41p per share, adding to its buyback programme initiated in March 2026. The cumulative total now stands at 5,203,100 shares held in treasury, reducing voting share count to 131,922,706 from 137,125,806 issued shares.
+  - Retail take: Routine share buyback execution; modest capital deployment that slightly reduces share count and could support EPS, though no material signalling on valuation or capital allocation priorities.
+- 07:00:03 | Orosur Mining Inc | Drilling/exploration | APTA Continues to Deliver 
+  - Orosur Mining's second drill hole (MAP107) at the APTA prospect in Colombia returned 135.5m @ 1.91g/t Au, including 49m @ 4.06g/t Au, demonstrating mineralisation extends higher and broader than historical drilling suggested. The hole ended in mineralisation due to difficult ground conditions. The company is now drilling from the east to test shallower potential, with MAP108 expected to start within days.
+  - Retail take: Positive incremental update showing APTA resource expansion potential; continued drilling success supports future mineral resource estimate development and validates new geological model.
 - 07:00:03 | HICL Infrastructure PLC | Change of position | Transaction in Own Shares
+  - HICL Infrastructure repurchased 500,000 ordinary shares on 13 July 2026 at a weighted average price of 134.52p through Investec Bank plc. The shares will be held in treasury. Following the purchase, HICL holds 165.8 million treasury shares, with 1.87 billion shares in issue excluding treasury holdings.
+  - Retail take: Routine share buyback; typically signals management confidence in valuation but carries no material implications for investors without context on capital allocation strategy.
 - 07:00:03 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
+  - M.P. Evans Group repurchased and cancelled 2,664 shares on 13 July 2026 at an average price of 1,588.07p, with trades ranging from 1,570p to 1,606p. Post-cancellation, the company has 52,169,823 shares in issue. The buyback reduces share count, potentially enhancing earnings per share, though the modest scale suggests a modest ongoing capital return programme.
+  - Retail take: Routine capital management; modest buyback signals confidence but unlikely to meaningfully move the stock without broader operational catalysts.
 - 07:00:03 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
 - 07:00:03 | International Workplace Group PLC | Change of position | Transaction in Own Shares
+  - International Workplace Group purchased 156,909 shares on 13 July 2026 at an average price of 1.9257 GBP, continuing its buyback programme announced 31 December 2025. Total shares repurchased under the programme now amount to 39.39 million. Following the purchase, 954.9 million shares remain in issue (excluding treasury shares).
+  - Retail take: Routine capital management disclosure; buyback execution continues as planned with no indication of valuation concerns or strategic changes at current price levels.
 - 07:00:03 | GETECH Group plc | Trading statement | Trading Statement
+  - Getech delivered H1 FY26 revenue growth of 15% to £2.4m, swinging to adjusted EBITDA of £0.2m from a £0.1m loss year-ago, following 18-month strategic refocus and 20% cost reduction. Orderbook stands at £4.0m with £1.6m expected in H2; cash increased to £0.6m. Annual recurring revenue stable at £2.8m with strong customer retention including four oil/gas supermajors.
+  - Retail take: Positive read: turnaround strategy delivering tangible results with improved profitability, growing pipeline, and stronger balance sheet positioning the company for sustained growth.
 - 07:00:03 | Science Group PLC | Change of position | Transaction in Own Shares
+  - Science Group PLC repurchased 10,000 ordinary shares on 13 July 2026 at 583 pence per share through Panmure Liberum Limited, representing 0.02% of voting rights. The shares will be held in treasury. Following the purchase, 40,712,593 shares remain in issue, with the company holding 5,473,281 treasury shares.
+  - Retail take: Routine share buyback execution; modest scale suggests ongoing capital management rather than significant market signal.
 - 07:00:03 | CT Healthcare Trust PLC | Change of position | Transaction in Own Shares
+  - CT Healthcare Trust PLC repurchased 30,000 ordinary shares on 13 July 2026 at an average price of 134.90p per share via J.P. Morgan Securities, intending to hold them in treasury. The company now holds 268.5m treasury shares with 46.7m shares in issue.
+  - Retail take: Routine share buyback; typically neutral or mildly positive as it reduces share count, though modest scale suggests incremental capital management rather than transformational activity.
 - 07:00:03 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
+  - TRIG purchased 275,000 ordinary shares on 13 July 2026 at a weighted average price of 71.89p under its buyback programme announced August 2024. The company now holds 152.4m treasury shares. Total voting rights (excluding treasury) stand at 2.33bn shares.
+  - Retail take: Routine share buyback execution; signals capital management confidence but immaterial to valuation given ongoing programme context.
 - 07:00:03 | IntegraFin Holdings plc | Trading statement | Q3 Trading Update
+  - IntegraFin's Transact platform reported Q3 FUD of £85.5bn, up 23% year-on-year, with net inflows of £1.0bn representing the sixth consecutive quarter above £1bn. Average daily FUD reached a record £82.8bn. The company reiterated cost guidance with underlying administrative expense growth expected to slow to approximately 3% in FY26 and FY27, positioning the group for accelerated profit growth.
+  - Retail take: Strong momentum in net inflows and record FUD levels suggest robust competitive positioning, while cost management initiatives promise margin expansion—likely read positively by markets as demonstrating sustainable earnings growth potential.
 - 07:00:03 | Ruffer Investment Company Limited | Change of position | Transaction in Own Shares
+  - Ruffer Investment Company repurchased 500,000 of its own Redeemable Participating Preference Shares on 13 July 2026 at GBP 2.924355 per share, representing 0.13% of issued shares. The shares will be held in treasury. Post-transaction, 294,063,050 voting rights remain in issue, with 89,954,714 shares held in treasury.
+  - Retail take: Routine share buyback within existing authority; typically neutral or modestly supportive as it reduces share count and may support NAV per share.
 - 07:00:03 | RC365 Holding PLC | AGR | Agreement with PyWave Network Technology Limited
-- 07:00:03 | Victoria PLC | Disposal | Completion of Belgium property sale 
-- 07:00:03 | Orosur Mining Inc | Drilling/exploration | APTA Continues to Deliver 
-- 07:00:03 | British Land Co PLC | Trading statement | AGM Trading Update
-- 07:00:03 | Glanbia PLC | Change of position | Transaction in Own Shares
-- 07:00:03 | Rockwood Strategic PLC | Issue of equity | Issue of Equity and TVR
-- 07:00:03 | Sunrise Resources Plc | UPD | Corporate Strategy
+  - RC365's subsidiary RCPAY signed a 24-month payment services agreement with Canadian firm PyWave, enabling cross-border and local payment collection, virtual banking accounts with umbrella structures, and international remittance services. The deal supports RC3.0 app launch and targets high-growth African markets, with automatic 12-month renewals thereafter and revenue via service fees.
+  - Retail take: Positive signal: strategic infrastructure expansion enabling higher-margin services and geographic diversification into Africa, though execution risk and PyWave partnership quality remain unproven.
+- 07:00:03 | Pantheon International PLC | Change of position | Transaction in Own Shares
+  - Pantheon International PLC purchased 130,000 ordinary shares on 13 July 2026 at a weighted average price of 386.92 pence through JPM SI and the London Stock Exchange. The shares will be cancelled, reducing total voting rights to 395,931,893 shares. This represents a modest capital return to remaining shareholders.
+  - Retail take: Routine share buyback and cancellation; modest shareholder value accretion through reduced share count, but immaterial in scale for most investors.
 - 07:00:03 | Currys PLC | Change of position | Transaction in Own Shares
+  - Currys PLC repurchased 1.464 million ordinary shares between 7-13 July 2026 at prices ranging from 154.90p to 160.00p, averaging 157.36p, for cancellation under an approved buyback programme. Following cancellation, 1.093 billion shares remain in issue, reducing share count and increasing earnings per share mechanically.
+  - Retail take: Routine capital return; modest buyback execution within approved programme. Marginally accretive to EPS but signals no major cash deployment constraints or M&A urgency.
+- 07:00:03 | Sunrise Resources Plc | UPD | Corporate Strategy
+  - Sunrise Resources is refocusing strategy away from industrial minerals towards precious and base metals exploration in Nevada and Western Australia. The company holds high-quality projects including Clayton (silver-gold with 7.9m at 303 g/t Ag), Reese Ridge (zinc-lead), Newark (gold), and Bakers (2m at 14.36 g/t Au). Plans include share consolidation and appointing a mining-experienced director to strengthen the board.
+  - Retail take: Strategic pivot towards higher-growth metals exploration with supportive commodity prices (silver +67%, gold +25% YoY) likely reads positively, though execution risk and dilution concerns remain typical for junior explorers.
+- 07:00:03 | Rockwood Strategic PLC | Issue of equity | Issue of Equity and TVR
+  - Rockwood Strategic PLC issued 50,000 ordinary shares at 313.92 pence per share on 15 July 2026, raising approximately £156.96m. Post-issuance, total issued share capital stands at 60,643,760 ordinary shares with no treasury holdings. The shares were issued from the company's blocklisting facility for cash.
+  - Retail take: Routine equity issuance disclosure establishing updated voting rights denominator; no material news on use of proceeds or strategic rationale provided.
+- 07:00:03 | Glanbia PLC | Change of position | Transaction in Own Shares
+  - Glanbia purchased 25,441 ordinary shares on 13 July 2026 at €24.03 weighted average price on Euronext Dublin as part of its €50m buyback programme running to 30 September 2026. The shares will be cancelled, reducing outstanding shares to 238,975,966. This represents progress on the February 2026 announced capital return initiative.
+  - Retail take: Routine share buyback execution; signals management confidence in valuation and commitment to shareholder returns, though modest daily repurchase activity suggests measured approach.
+- 07:00:03 | British Land Co PLC | Trading statement | AGM Trading Update
+  - British Land reports strong Q1 leasing momentum with 567,000 sq ft completed 4.8% ahead of ERV and 8.7% ahead of passing rent; 1.1m sq ft under offer. The Life Science REIT integration completed 82,000 sq ft of deals. Capital recycling included £83m asset sales at 3.2% NIY and £223m under offer. FY27 Underlying EPS guidance of at least 30.5p maintained, with like-for-like net rental growth expected at top of 3-5% range.
+  - Retail take: Positive signal: strong leasing ahead of rents in tight campus/retail markets supports earnings guidance as CEO transitions, though modest operational update may limit share movement.
+- 07:00:03 | AEP Plantations PLC | Change of position | Transaction in Own Shares
+  - AEP Plantations purchased 58,823 shares on 13 July 2026 at 165.0-170.0 pence per share (VWAP 167.93p) under its buyback programme announced 6 July. Since programme launch, 246,278 shares have been repurchased and held in treasury. Post-purchase, 383.3 million voting shares remain in issue.
+  - Retail take: Routine buyback execution; modest capital allocation signal but no material impact on share count or valuation metrics disclosed.
 - 07:00:03 | Babcock International Group PLC | Change of position | Transaction in Own Shares
+  - Babcock International purchased 67,455 shares on 13 July 2026 at an average price of £10.0377, with a range of £9.9420-£10.1600. Since 1 July, the company has bought 654,657 shares for £6.6m. Treasury holdings now total 13.2m shares, with 492.4m shares in issue. Purchases executed across multiple venues via Jefferies International.
+  - Retail take: Routine share buyback continuation within established program; signals capital management confidence but immaterial to valuation or strategy given modest scale.
+- 07:00:02 | Fevertree Drinks PLC | Change of position | Transaction in Own Shares
+  - Fever-Tree Drinks purchased 231,005 ordinary shares between 6-10 July 2026 at prices ranging from 745.0p to 817.0p, spending approximately £18.1 million. The purchases occurred across London Stock Exchange and AIM venues through broker Investec Bank plc, authorized by shareholders at the June 2025 AGM. All shares will be cancelled, reducing share count and potentially increasing earnings per share.
+  - Retail take: Share buyback reduces outstanding shares, likely accretive to EPS; signals management confidence but offers no insight into operational performance or strategic direction.
+- 07:00:02 | Johnson Service Group PLC | Change of position | Transaction in Own Shares
+  - Johnson Service Group purchased 2,006,925 ordinary shares between 6-10 July 2026 at weighted average prices ranging from 147.4p to 169.5p per share, as part of an announced buyback programme. Total consideration approximately £3.4m. All purchased shares will be cancelled. Investec Bank plc executed the trades on the London Stock Exchange.
+  - Retail take: Routine capital management; share cancellation reduces share count but signals no special undervaluation view given price volatility (136p-172p range) across the period.
+- 07:00:02 | Keller Group PLC | Change of position | Transaction in Own Shares
+  - Keller Group purchased 13,488 ordinary shares on 6 July 2026 at a volume-weighted average price of 2681.3p per share through Investec, continuing its March 2026 buyback programme. Following settlement, the company holds 3,815,290 treasury shares with 73,099,735 shares in issue. Total consideration approximately £361.7m based on disclosed pricing.
+  - Retail take: Routine buyback execution; signals confidence in valuation and cash generation but is non-event absent broader strategic or earnings context.
+- 07:00:02 | McBride PLC | Change of position | Transaction in Own Shares
+  - McBride PLC repurchased 30,749 ordinary shares between 8-10 July 2026 at prices ranging from 158.4p to 160.0p, for cancellation under its existing buyback programme. The purchases will reduce issued ordinary shares to 173,818,349 post-cancellation. Total voting rights will be 173,818,349, with treasury shares representing 0.02% of voting rights.
+  - Retail take: Routine capital management activity signalling confidence; modest scale buyback unlikely to materially impact shareholder value or EPS accretion.
+- 07:00:02 | Sosandar PLC | Final results | Full Year Results and Trading Update 
+  - Sosandar PLC reported FY26 revenue of £42.3m (up 14% YoY) with gross margin improved to 64.0% from 62.1%, and adjusted PBT of £0.4m. Own website revenue surged 24% YoY. Q1 FY27 showed net revenue of £11.6m (up 22% YoY) with gross margin at 65.2%. Net cash stands at £8.9m after returning £2.3m to shareholders via buybacks. Store estate remains loss-making at £0.9m but maturing; no new store openings planned for FY27.
+  - Retail take: Positive momentum: profitable growth with margin expansion, strong direct-to-consumer performance, and robust cash generation despite store drag suggests successful strategic reset. Market likely reads as execution delivering on guidance with clear operating leverage ahead.
+- 07:00:02 | Alien Metals Limited | Drilling/exploration | Iron Mineralisation Confirmed at Pilbara Projects 
+  - Alien Metals (AIM: UFO) confirmed iron mineralisation at its Vivash and Brockman Pilbara projects through independent field reconnaissance. Vivash sits adjacent to Fortescue's Vivash Southwest resource (28Mt @ 58.8% Fe), while Brockman is positioned near BHP Deposit 20 and FMG's Farquhar East. Q3 2026 field programs planned to explore additional potential across the West Pilbara iron ore portfolio.
+  - Retail take: Early-stage exploration confirmation in an established mining region with major operators nearby offers upside optionality, but near-term value creation depends on Q3 drilling results and resource definition.
 - 07:00:02 | QinetiQ Group plc | Change of position | Transaction in Own Shares
 - 07:00:02 | Rockfire Resources PLC | Drilling/exploration | Molaoi Drilling Update
+  - Rockfire's HMO-018 drill hole at its 100%-owned Molaoi zinc deposit in Greece successfully infilled another 50m panel with strong results: 3.13m @ 6.0% Zn, 52.7g/t Ag, 18.2g/t Ge and 1.5% Pb. HMO-020 preliminary readings show peak zinc values to 37.7%. Drilling pauses mid-August for contractor vacation; new rig arrives late September. Feasibility study acceleration underway with geotechnical studies commencing this year.
+  - Retail take: Positive development—consistent, high-grade assays building toward Indicated Resource upgrade on a European critical minerals asset. Resource infill drilling on schedule supports feasibility study momentum and de-risking narrative.
 - 07:00:02 | Feedback PLC | Trading statement | Trading Update
+  - Feedback PLC reported flat FY26 revenue at £0.8m (vs £0.9m prior year) but beat expectations with EBITDA losses lower than forecast and cash balances of £2.7m, providing runway to mid-2027. The company awaits a potential national NHS England contract decision around year-end following successful Bleepa technology pilots at Queen Victoria Hospital, with recent integrations driving a tenfold increase in GP referrals.
+  - Retail take: Positive sentiment on pilot momentum and cash position, but revenue stagnation and contract decision timing risk remain material uncertainties for this early-stage AIM-listed healthcare tech company.
 - 07:00:02 | DP Poland PLC | Trading statement | H1 and Q2 2026 Trading Update
+  - DP Poland delivered H1 2026 group system sales of £34.8m (+17.5% YoY constant currency) and 2.7m orders (+11.5% YoY), driven by network expansion to 139 Domino's locations. Franchisee-owned stores grew to 53 (38% of estate) from 15% year-ago. However, like-for-like order growth moderated in Q2 to -2.3% in Poland following tough comparatives, though the company expects continued double-digit system sales growth in H2 2026.
+  - Retail take: Positive headline growth masks Q2 like-for-like order softness and slower Pizzeria 105 conversions, but margin expansion strategy and franchise transition progress likely appeal to long-term investors seeking scalable models.
 - 07:00:02 | Hercules PLC | CNT | Civil Projects Division Secures £6.1m of Contracts
-- 07:00:02 | Alien Metals Limited | Drilling/exploration | Iron Mineralisation Confirmed at Pilbara Projects 
-- 07:00:02 | Sosandar PLC | Final results | Full Year Results and Trading Update 
-- 07:00:02 | McBride PLC | Change of position | Transaction in Own Shares
-- 07:00:02 | Keller Group PLC | Change of position | Transaction in Own Shares
-- 07:00:02 | Johnson Service Group PLC | Change of position | Transaction in Own Shares
-- 07:00:02 | Fevertree Drinks PLC | Change of position | Transaction in Own Shares
+  - Hercules PLC's Civil Projects division secured £6.1m in new water sector contracts during Q2-Q3 FY2026, bringing nine-month awards to £15.7m. Contracts split between Thames Water (£4.5m) and Anglian Water (£1.6m) regions, part of the UK's £104bn AMP8 regulatory programme, with majority delivery expected in FY2026.
+  - Retail take: Positive signal of strong order intake and market position in resilient water infrastructure sector, though modest absolute value relative to peer activity.
 - 07:00:02 | Bank of Montreal | PFT | Publication of Final Terms
 - 07:00:02 | Hollywood Bowl Group plc | Change of position | Transaction in Own Shares
+  - Hollywood Bowl Group purchased 303,213 ordinary shares between 8-10 July 2026 at weighted average prices of 276.23p, 273.54p, and 280.69p respectively, for a total investment of approximately £838,000. All shares will be cancelled as part of the company's share buyback programme. Detailed transaction data showing individual trades across these three days is provided in the linked disclosure document.
+  - Retail take: Standard capital allocation: buyback reduces share count, potentially supporting EPS but signals management views stock as undervalued; neutral to modestly positive signal for long-term holders.
 - 07:00:00 | Pershing Square Holdings, Ltd. | Change of position | Transaction in Own Shares
-- 07:00:00 | MIGO Opportunities Trust plc | ACS | Annual Financial Report
+  - Pershing Square Holdings repurchased 37,675 shares on 13 July 2026 at an average price of $52.09 USD, split between 26,385 shares on LSE (PSH ticker) and 11,290 shares (PSHD ticker). Post-buyback, 173.9 million shares remain outstanding with 37 million held in treasury. NAV per share stood at $77.24 USD as of 7 July 2026.
+  - Retail take: Routine share buyback; signals management confidence in valuation but modest scale suggests non-event for markets without broader strategic implications.
 - 07:00:00 | SATO Oyj | Interim results | SATO Corporation Half-Year Report 1 January–30 June 2026: SATO’s steady development continued
 - 07:00:00 | TotalEnergies SE | Change of position | Transaction in Own Shares
+  - TotalEnergies repurchased 1.51 million shares between July 6-10, 2026, spending €102.99 million at an average price of €68.20 per share across multiple exchanges. Daily volumes ranged from 158,950 to 190,448 shares, with prices gradually rising from €66.87 to €68.50 per share over the five-day period.
+  - Retail take: Routine share buyback execution under existing authorization; neutral signal suggesting stable capital allocation but no material strategic implications for retail investors.
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
+  - NBPE repurchased 12,101 Class A shares on 13 July 2026 at £14.66-£14.70 per share via Jefferies, with all shares cancelled. Outstanding Class A shares now total 40,889,149, with an additional 3,150,408 held in treasury. The buyback was conducted under shareholder authority granted 11 June 2026.
+  - Retail take: Routine capital management action; share cancellation reduces share count but signals no major strategic shift or valuation concern for the closed-end fund.
 - 07:00:00 | Capita | MSCL | Capita to deliver training for Army Collective Training System contract as part of Omnia Training consortium
+  - Capita has secured a role in the Omnia Training consortium to deliver training services for the British Army's Collective Training System (ACTS). The 15-year contract is valued at £2 billion overall, with £54 million allocated to Capita over its lifetime. Capita will handle strategic training needs analysis, scheduling, management, and evaluation of training effectiveness.
+  - Retail take: Modest positive; demonstrates Capita's contract-winning capability in defence sector and provides long-term revenue visibility, though £54m over 15 years represents limited incremental growth.
 - 07:00:00 | BlackRock Frontiers Investment Trust Plc | Total voting rights | Total Voting Rights
-- 07:00:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
-- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
-- 07:00:00 | Anglian Water Services Financing Plc | Board appointment/change | Chair Succession
+  - BlackRock Frontiers Investment Trust plc reported 164,891,520 ordinary shares in issue as at 14 July 2026, each carrying one vote per share. The company holds 76,931,281 shares in treasury. This figure serves as the denominator for shareholders calculating notification thresholds under FCA Disclosure and Transparency Rules.
+  - Retail take: Routine regulatory disclosure of voting rights; no material implications for share price or investment thesis.
 - 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
+  - BlackRock American Income Trust plc disclosed 60,960,138 ordinary shares in issue as of 14 July 2026, each carrying one vote per share. An additional 34,401,167 ordinary shares are held in treasury. The figure of 60,960,138 serves as the denominator for shareholders calculating disclosure obligations under FCA Transparency Rules.
+  - Retail take: Routine regulatory disclosure of voting share capital; non-event with no material implications for shareholders or share price.
+- 07:00:00 | Sunbelt Rentals Holdings Inc. | MSCL | Sunbelt Rentals Holdings, Inc. files Current Report on Form 8-K
+  - Sunbelt Rentals Holdings Inc. (NYSE/LSE: SUNB) expanded its Board of Directors from nine to ten members effective August 1, 2026, appointing Ms. Ekta Singh-Bushell to the new seat and assigning her to the Audit Committee. The company filed this disclosure via Form 8-K with the SEC on July 13, 2026.
+  - Retail take: Routine governance disclosure; board expansion and committee appointment unlikely to materially impact investor sentiment or stock performance.
+- 07:00:00 | Sunbelt Rentals Holdings Inc. | Director/PDMR shareholding | Transactions by Directors and Persons Discharging Managerial Responsibilities
+  - Eight Sunbelt Rentals executives settled deferred stock units on 10 July 2026 at $76.53 per unit under the 2017 Deferred Bonus Plan, with no new shares issued. CEO Brendan Horgan settled 12,890 units; CFO Alex Pease 4,032 units; COO John Washburn sold 10,464 shares across multiple dates (8-10 July) at weighted average $73.11. Combined activity represents routine compensation settlement worth approximately $989,000.
+  - Retail take: Routine executive compensation settlement with one modest open-market sale by COO; no significant insider selling signal or market concern indicated.
+- 07:00:00 | TwentyFour Select Monthly Income Fund Limited | MSCL | Monthly Factsheet & Commentary June 2026
+  - TwentyFour Select Monthly Income Fund published June 2026 factsheet showing NAV of 84.51p per share (1.64% premium to market price of 85.90p), delivering 0.94% monthly return. Portfolio generates 8.46% mark-to-market yield from diversified credit securities (42% BBB-rated, 37.67% banks sector). Fund paid 0.50p-0.75p monthly dividends; YTD performance 2.88%, three-year annualised 14.41%.
+  - Retail take: Non-event routine disclosure. Solid income fund performance with modest premium valuation and consistent distributions unlikely to move needle for institutional-focused closed-end vehicle.
+- 07:00:00 | Sunbelt Rentals Holdings Inc. | Change of position | Share Repurchase Program - Weekly Report
+  - Sunbelt Rentals repurchased 43,000 shares during July 6-10, 2026, at weighted average prices ranging from $68.95 to $74.21 per share, under its $1.5 billion authorization. Treasury shares now total 4,329,501, with 409,634,584 shares outstanding. All purchases executed on NYSE.
+  - Retail take: Routine share buyback execution within authorized program. No market-moving signal; suggests capital deployment amid modest stock volatility across the week.
+- 07:00:00 | TwentyFour Income Fund Limited | MSCL | Monthly Fund Factsheet & Commentary - June 2026
+  - TwentyFour Income Fund (TFIF), a £996m FTSE 250 closed-ended investment company, published June 2026 monthly factsheet showing NAV of 107.37p per share with 10.12% mark-to-market yield. YTD performance was 2.20%, while one-year return reached 6.95%. Portfolio added BB CLO positions, a French SRT deal, and Australian RMBS holdings amid strong ABS market technicals and €92bn H1 supply.
+  - Retail take: Non-event routine monthly disclosure; fund performing within expectations with attractive yield positioning in buoyant securitised credit markets, likely supportive for income-focused investors.
+- 07:00:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
+  - BlackRock Energy and Resources Income Trust plc disclosed its total voting rights as at 14 July 2026. The company has 100,276,997 ordinary shares of £0.01 each in issue, excluding 35,309,197 treasury shares. This figure serves as the denominator for shareholders calculating disclosure obligations under FCA rules.
+  - Retail take: Routine regulatory disclosure of share capital structure; no material implications for investors or market sentiment.
+- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+  - BlackRock Greater Europe Investment Trust plc notified the market that as of 14 July 2026, it had 90,497,743 ordinary shares of £0.001 each in issue, excluding 27,431,195 treasury shares. This figure serves as the denominator for shareholders calculating disclosure thresholds under FCA Transparency Rules.
+  - Retail take: Routine regulatory disclosure; no market implications. Standard notification of voting share capital for threshold calculation purposes.
+- 07:00:00 | Anglian Water Services Financing Plc | Board appointment/change | Chair Succession
+  - Dr Ros Rivaz has stepped down as Chair of Anglian Water Group and Anglian Water Services Financing Plc, effective 14 July 2026, after a planned transition since 2023. Sir Ian Cheshire, former Kingfisher CEO and current Landsec Chair with extensive FTSE 100 governance experience, replaces her. The transition ensures continuity as the company manages £11bn investment programme and develops two new reservoirs amid regulatory reform.
+  - Retail take: Routine succession with experienced replacement; orderly transition and maintained strategy suggest operational stability, likely neutral to modestly positive market read.
+- 07:00:00 | MIGO Opportunities Trust plc | ACS | Annual Financial Report
+  - MIGO Opportunities Trust reported NAV total return of +20.6% and share price return of +21.9% for the year ended 30 April 2026, significantly outperforming its SONIA+2% benchmark (+6.1%). The trust completed a strategic portfolio transition to concentrate holdings around 10-15 core positions (from 50 holdings), reduced underlying equity exposure to 5%, and implemented a revised fee structure with performance incentives aligned to shareholders. NAV per share reached 413.1p with net assets of £70.1m; the discount to NAV tightened from 4.5% to 3.5%.
+  - Retail take: Strong absolute returns and successful strategy pivot toward concentrated activism in discounted investment trusts; alignment improvements and tighter discount suggest positive investor reception, though returns depend on continued M&A catalysts in a sector environment.
 - 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
 - 07:00:00 | Anglian Water (Osprey) Financing Plc | Board appointment/change | Chair Succession
+  - Dr Ros Rivaz has stepped down as Chair of Anglian Water Group and Anglian Water Services, effective 14 July 2026, replaced by Sir Ian Cheshire. Cheshire brings extensive FTSE 100 governance experience and currently chairs Landsec and Spire Healthcare. The transition supports continuity as Anglian Water progresses its £11bn investment programme, including two new reservoirs (Fens and Lincs), with no change to company strategy.
+  - Retail take: Positive signal: experienced governance leader appointed at critical juncture overseeing major infrastructure investment; planned succession suggests board stability and confidence in direction.
 - 07:00:00 | Aigrette Financing (Issuer) Plc | Board appointment/change | Chair Succession
-- 07:00:00 | TwentyFour Income Fund Limited | MSCL | Monthly Fund Factsheet & Commentary - June 2026
-- 07:00:00 | Sunbelt Rentals Holdings Inc. | Change of position | Share Repurchase Program - Weekly Report
-- 07:00:00 | TwentyFour Select Monthly Income Fund Limited | MSCL | Monthly Factsheet & Commentary June 2026
-- 07:00:00 | Sunbelt Rentals Holdings Inc. | Director/PDMR shareholding | Transactions by Directors and Persons Discharging Managerial Responsibilities
-- 07:00:00 | Sunbelt Rentals Holdings Inc. | MSCL | Sunbelt Rentals Holdings, Inc. files Current Report on Form 8-K
+  - Sir Ian Cheshire has replaced Dr Ros Rivaz as Chair of Anglian Water Group and Services effective 14 July 2026. Cheshire brings extensive FTSE 100 governance experience including prior chair roles at Landsec and Spire Healthcare. The transition supports continuity as Anglian Water progresses its £11bn investment programme and two major reservoir projects (Fens and Lincs) into construction phases.
+  - Retail take: Orderly succession with credible, experienced replacement should be read positively by investors; timing supports critical infrastructure delivery amid regulatory reform.
