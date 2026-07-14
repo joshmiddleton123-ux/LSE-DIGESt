@@ -3,251 +3,123 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LSE RNS Tape</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@110,700..900&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
+<title>LSE RNS Digest</title>
 <style>
-:root{
-  --paper:#F3F5F8; --card:#FFFFFF; --ink:#131A24; --muted:#5C6774;
-  --line:#DFE5EC; --cobalt:#1E4FD8; --cobalt-soft:#E4EBFB;
-  --up:#0B7A4B; --down:#C22F3B;
-  --mono:'IBM Plex Mono',ui-monospace,monospace;
-  --body:'Public Sans',system-ui,sans-serif;
-  --display:'Archivo',system-ui,sans-serif;
+body{font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;font-size:14px;color:#111;margin:24px auto;max-width:1100px;padding:0 16px;background:#fff}
+h1{font-size:20px;margin:0 0 4px}
+.meta{color:#666;font-size:13px;margin-bottom:16px}
+.controls{margin-bottom:14px}
+.controls input,.controls select{font:inherit;padding:6px 8px;border:1px solid #bbb;border-radius:3px;margin-right:8px}
+.controls input{width:320px;max-width:100%}
+table{border-collapse:collapse;width:100%}
+th{text-align:left;font-size:12px;color:#444;border-bottom:2px solid #333;padding:6px 8px;white-space:nowrap}
+td{border-bottom:1px solid #ddd;padding:7px 8px;vertical-align:top}
+td.time{white-space:nowrap;font-variant-numeric:tabular-nums;color:#555}
+td.co b{font-weight:600}
+td.co .tk{color:#666;font-size:12px}
+td.cat{font-size:12px;color:#555;white-space:nowrap}
+td.chg{white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums}
+.up{color:#0a7a3d}.down{color:#b3282d}
+a{color:#0645ad;text-decoration:none}
+a:hover{text-decoration:underline}
+.state{color:#666;padding:40px 0}
+.foot{color:#777;font-size:12px;margin-top:20px}
+@media (max-width:760px){
+  table,thead,tbody,tr,td,th{display:block}
+  thead{display:none}
+  tr{border-bottom:2px solid #ccc;padding:8px 0}
+  td{border:none;padding:2px 0}
+  td.time{color:#555;font-size:12px}
 }
-*{box-sizing:border-box;margin:0}
-html{background:var(--paper)}
-body{font-family:var(--body);color:var(--ink);font-size:15px;line-height:1.45}
-a{color:inherit}
-.wrap{max-width:1060px;margin:0 auto;padding:0 20px 80px}
-
-/* masthead */
-header{border-bottom:3px solid var(--ink);padding:26px 0 14px;display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap}
-.wordmark{font-family:var(--display);font-weight:900;font-stretch:110%;font-size:clamp(26px,4.6vw,40px);letter-spacing:-.01em;line-height:.95;text-transform:uppercase}
-.wordmark .tape{color:var(--cobalt)}
-.mast-meta{font-family:var(--mono);font-size:13px;color:var(--muted);text-align:right}
-.mast-meta strong{color:var(--ink);font-weight:500}
-
-/* hour histogram — click to filter */
-.hours{margin:22px 0 6px}
-.hours-label{font-family:var(--display);font-weight:700;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
-.bars{display:flex;align-items:flex-end;gap:6px;height:74px}
-.bar{flex:1;display:flex;flex-direction:column;justify-content:flex-end;background:none;border:none;padding:0;cursor:pointer;font:inherit}
-.bar .fill{background:var(--cobalt);opacity:.28;border-radius:2px 2px 0 0;min-height:2px;transition:opacity .12s}
-.bar:hover .fill{opacity:.55}
-.bar.on .fill{opacity:1}
-.bar .n{font-family:var(--mono);font-size:10px;color:var(--muted);text-align:center;padding-bottom:3px}
-.bar-x{display:flex;gap:6px;border-top:1px solid var(--line);margin-top:2px;padding-top:4px}
-.bar-x span{flex:1;text-align:center;font-family:var(--mono);font-size:10px;color:var(--muted)}
-
-/* controls */
-.controls{display:flex;gap:10px;margin:18px 0 22px;flex-wrap:wrap}
-.controls input,.controls select{font-family:var(--body);font-size:14px;padding:9px 12px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
-.controls input{flex:1;min-width:200px}
-.controls input:focus,.controls select:focus,.bar:focus-visible{outline:2px solid var(--cobalt);outline-offset:1px}
-.controls button{font-family:var(--body);font-size:14px;padding:9px 14px;border:1px solid var(--line);border-radius:6px;background:var(--card);cursor:pointer;color:var(--muted)}
-.controls button:hover{color:var(--ink)}
-.count-line{font-family:var(--mono);font-size:12px;color:var(--muted);margin:-10px 0 14px}
-
-/* tape */
-.hour-head{font-family:var(--display);font-weight:800;font-size:13px;letter-spacing:.06em;color:var(--cobalt);border-bottom:2px solid var(--cobalt);padding:22px 0 5px;display:flex;justify-content:space-between;align-items:baseline}
-.hour-head .hn{font-family:var(--mono);font-weight:400;font-size:11px;color:var(--muted)}
-.row{display:grid;grid-template-columns:76px 232px 1fr 1fr 86px;gap:14px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
-.row.no-takes{grid-template-columns:76px 232px 2fr 86px}
-.t{font-family:var(--mono);font-size:13px;color:var(--muted)}
-.co .name{font-weight:600;font-size:14px}
-.co .tick{font-family:var(--mono);font-size:11.5px;color:var(--cobalt);background:var(--cobalt-soft);padding:1px 5px;border-radius:3px;margin-left:6px;white-space:nowrap}
-.co .cat{display:block;font-size:11.5px;color:var(--muted);letter-spacing:.02em;margin-top:1px}
-.h a{text-decoration:none;font-size:14.5px}
-.h a:hover{text-decoration:underline;text-decoration-color:var(--cobalt)}
-.sum{font-size:13px;color:var(--muted);margin-top:3px;line-height:1.4}
-.take{font-size:13px;color:var(--ink);line-height:1.4;border-left:2px solid var(--cobalt);padding-left:10px}
-.take .lbl{display:block;font-family:var(--display);font-weight:700;font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--cobalt);margin-bottom:1px}
-.take.empty{border-left-color:var(--line);color:var(--muted)}
-.px{font-family:var(--mono);font-size:13px;text-align:right;white-space:nowrap}
-.px.up{color:var(--up)}.px.down{color:var(--down)}.px.flat{color:var(--muted)}
-
-/* states */
-.state{font-family:var(--mono);font-size:13px;color:var(--muted);padding:60px 0;text-align:center}
-.foot{font-size:12px;color:var(--muted);margin-top:28px;padding-top:14px;border-top:1px solid var(--line)}
-
-@media (max-width:720px){
-  .row,.row.no-takes{grid-template-columns:64px 1fr;grid-template-rows:auto;gap:2px 12px;padding:12px 0}
-  .co{grid-column:2}
-  .h{grid-column:2}
-  .take{grid-column:2;margin-top:4px}
-  .px{grid-column:1;grid-row:2;text-align:left;font-size:12px}
-  .mast-meta{text-align:left}
-}
-@media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <div class="wordmark">LSE&nbsp;RNS<br><span class="tape">Morning tape</span></div>
-    <div class="mast-meta" id="mastMeta">loading…</div>
-  </header>
-
-  <div class="hours" id="hours" hidden>
-    <div class="hours-label">Releases by hour — tap a bar to filter</div>
-    <div class="bars" id="bars"></div>
-    <div class="bar-x" id="barX"></div>
-  </div>
-
-  <div class="controls" id="controls" hidden>
-    <input id="q" type="search" placeholder="Search company, ticker, headline or summary" aria-label="Search announcements">
-    <select id="cat" aria-label="Filter by category"><option value="">All categories</option></select>
-    <button id="clear">Clear filters</button>
-  </div>
-  <div class="count-line" id="countLine"></div>
-
-  <div id="tape"><div class="state">Loading today's announcements…</div></div>
-  <p class="foot">Summaries and retail takes are AI-generated interpretation of public RNS announcements — a reading aid, not investment advice.</p>
+<h1>LSE RNS Digest</h1>
+<div class="meta" id="meta">Loading…</div>
+<div class="controls" id="controls" hidden>
+  <input id="q" type="search" placeholder="Search…" aria-label="Search">
+  <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+  <span id="count" style="color:#666;font-size:13px"></span>
 </div>
+<div id="out"><div class="state">Loading today's announcements…</div></div>
+<p class="foot">Summaries are automated and for information only — not investment advice.</p>
 
 <script>
-const S = {items:[], q:'', cat:'', hour:null};
+let items=[], q='', cat='';
 
 function parseCSV(text){
-  const rows=[]; let row=[], field='', inQ=false;
+  const rows=[]; let row=[], f='', inQ=false;
   for(let i=0;i<text.length;i++){
     const c=text[i];
-    if(inQ){
-      if(c==='"'){ if(text[i+1]==='"'){field+='"';i++;} else inQ=false; }
-      else field+=c;
-    } else {
+    if(inQ){ if(c==='"'){ if(text[i+1]==='"'){f+='"';i++;} else inQ=false; } else f+=c; }
+    else{
       if(c==='"') inQ=true;
-      else if(c===','){row.push(field);field='';}
-      else if(c==='\n'||c==='\r'){ if(c==='\r'&&text[i+1]==='\n')i++; row.push(field);field=''; if(row.length>1||row[0]!=='')rows.push(row); row=[]; }
-      else field+=c;
+      else if(c===','){row.push(f);f='';}
+      else if(c==='\n'||c==='\r'){ if(c==='\r'&&text[i+1]==='\n')i++; row.push(f);f=''; if(row.length>1||row[0]!=='')rows.push(row); row=[]; }
+      else f+=c;
     }
   }
-  if(field!==''||row.length){row.push(field);rows.push(row);}
-  const head=rows.shift();
-  return rows.map(r=>Object.fromEntries(head.map((h,i)=>[h,r[i]??''])));
+  if(f!==''||row.length){row.push(f);rows.push(row);}
+  const h=rows.shift();
+  return rows.map(r=>Object.fromEntries(h.map((k,i)=>[k,r[i]??''])));
 }
 
-function fmtPct(p){
-  if(p===''||p==null) return {txt:'—',cls:'flat'};
-  const n=parseFloat(p);
-  if(isNaN(n)) return {txt:'—',cls:'flat'};
-  if(n>0) return {txt:'+'+n.toFixed(1)+'%',cls:'up'};
-  if(n<0) return {txt:n.toFixed(1)+'%',cls:'down'};
-  return {txt:'0.0%',cls:'flat'};
-}
+function esc(s){const d=document.createElement('div');d.textContent=s||'';return d.innerHTML;}
 
-function articleUrl(it){
+function url(it){
   const slug=(it.headline||'x').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')||'x';
   return `https://www.londonstockexchange.com/news-article/${encodeURIComponent(it.ticker||'x')}/${slug}/${it.news_id}`;
 }
 
-function visible(){
-  return S.items.filter(it=>{
-    if(S.cat && it.catLabel!==S.cat) return false;
-    if(S.hour!==null && it.hour!==S.hour) return false;
-    if(S.q){
-      const q=S.q.toLowerCase();
-      if(!(it.company.toLowerCase().includes(q)||it.headline.toLowerCase().includes(q)||(it.ticker||'').toLowerCase().includes(q)||(it.summary||'').toLowerCase().includes(q)||(it.take||'').toLowerCase().includes(q))) return false;
-    }
+function render(){
+  const v=items.filter(it=>{
+    if(cat && it.category!==cat) return false;
+    if(q){const s=(it.company+' '+it.ticker+' '+it.headline+' '+it.summary+' '+it.retail_take).toLowerCase();
+      if(!s.includes(q)) return false;}
     return true;
   });
-}
-
-function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML;}
-
-function render(){
-  const v=visible();
-  const tape=document.getElementById('tape');
-  document.getElementById('countLine').textContent =
-    `${v.length} of ${S.items.length} announcements` + (S.hour!==null?` · hour ${String(S.hour).padStart(2,'0')}:00`:'') + (S.cat?` · ${S.cat}`:'') + (S.q?` · “${S.q}”`:'');
-  if(!v.length){tape.innerHTML='<div class="state">No announcements match. Clear the filters to see everything.</div>';return;}
-  let html='', lastHour=null;
+  document.getElementById('count').textContent=`${v.length} of ${items.length}`;
+  if(!v.length){document.getElementById('out').innerHTML='<div class="state">Nothing matches.</div>';return;}
+  let h='<table><thead><tr><th>Time</th><th>Company</th><th>Category</th><th>Headline / summary</th><th>Comment</th><th>Chg</th></tr></thead><tbody>';
   for(const it of v){
-    if(it.hour!==lastHour){
-      lastHour=it.hour;
-      const n=v.filter(x=>x.hour===it.hour).length;
-      html+=`<div class="hour-head">${String(it.hour).padStart(2,'0')}:00 <span class="hn">${n} release${n===1?'':'s'}</span></div>`;
-    }
-    const p=fmtPct(it.pct_change);
-    html+=`<div class="row${S.hasTakes?'':' no-takes'}">
-      <div class="t">${it.time}</div>
-      <div class="co"><span class="name">${esc(it.company)}</span>${it.ticker?`<span class="tick">${esc(it.ticker)}</span>`:''}<span class="cat">${esc(it.catLabel)}</span></div>
-      <div class="h"><a href="${articleUrl(it)}" target="_blank" rel="noopener">${esc(it.headline)}</a>${it.summary?`<div class="sum">${esc(it.summary)}</div>`:''}</div>
-      ${S.hasTakes?`<div class="take${it.take?'':' empty'}">${it.take?`<span class="lbl">Retail take</span>${esc(it.take)}`:''}</div>`:''}
-      <div class="px ${p.cls}">${p.txt}</div>
-    </div>`;
+    const n=parseFloat(it.pct_change);
+    const chg=isNaN(n)?'':`<span class="${n>0?'up':n<0?'down':''}">${n>0?'+':''}${n.toFixed(1)}%</span>`;
+    h+=`<tr>
+      <td class="time">${esc(it.time)}</td>
+      <td class="co"><b>${esc(it.company)}</b>${it.ticker?` <span class="tk">${esc(it.ticker)}</span>`:''}</td>
+      <td class="cat">${esc(it.category)}</td>
+      <td><a href="${url(it)}" target="_blank" rel="noopener">${esc(it.headline)}</a>${it.summary?`<br><span style="color:#444">${esc(it.summary)}</span>`:''}</td>
+      <td>${esc(it.retail_take)}</td>
+      <td class="chg">${chg}</td>
+    </tr>`;
   }
-  tape.innerHTML=html;
-  // histogram highlight
-  document.querySelectorAll('.bar').forEach(b=>b.classList.toggle('on', S.hour!==null && +b.dataset.h===S.hour));
-}
-
-function buildHistogram(){
-  const byHour={};
-  for(const it of S.items) byHour[it.hour]=(byHour[it.hour]||0)+1;
-  const hours=Object.keys(byHour).map(Number).sort((a,b)=>a-b);
-  if(!hours.length) return;
-  const lo=hours[0], hi=hours[hours.length-1], max=Math.max(...Object.values(byHour));
-  const bars=document.getElementById('bars'), barX=document.getElementById('barX');
-  bars.innerHTML=''; barX.innerHTML='';
-  for(let h=lo;h<=hi;h++){
-    const n=byHour[h]||0;
-    const b=document.createElement('button');
-    b.className='bar'; b.dataset.h=h;
-    b.setAttribute('aria-label',`${n} releases in the ${h}:00 hour`);
-    b.innerHTML=`<span class="n">${n||''}</span><span class="fill" style="height:${max?Math.round(n/max*54):0}px"></span>`;
-    b.onclick=()=>{S.hour=(S.hour===h?null:h);render();};
-    bars.appendChild(b);
-    const x=document.createElement('span'); x.textContent=String(h).padStart(2,'0'); barX.appendChild(x);
-  }
-  document.getElementById('hours').hidden=false;
+  document.getElementById('out').innerHTML=h+'</tbody></table>';
 }
 
 async function load(){
   let text;
   try{
-    const res=await fetch('digests/latest.csv?t='+Date.now());
-    if(!res.ok) throw new Error(res.status);
-    text=await res.text();
+    const r=await fetch('digests/latest.csv?t='+Date.now());
+    if(!r.ok) throw 0;
+    text=await r.text();
   }catch(e){
-    document.getElementById('tape').innerHTML='<div class="state">No digest published yet. Run the workflow once from the repo\u2019s Actions tab, then reload this page.</div>';
-    document.getElementById('mastMeta').textContent='no data';
+    document.getElementById('out').innerHTML='<div class="state">No digest published yet. Run the workflow from the Actions tab, then reload.</div>';
+    document.getElementById('meta').textContent='';
     return;
   }
-  const rows=parseCSV(text);
-  S.items=rows.map(r=>({
-    time:(r.time_uk||'').slice(11,19),
-    hour:parseInt((r.time_uk||'').slice(11,13),10),
-    company:r.company||r.headline||'Unknown',
-    ticker:r.ticker||'',
-    catLabel:r.category||r.category_code||'Other',
-    headline:r.headline||'',
-    pct_change:r.pct_change,
-    summary:r.summary||'',
-    take:r.retail_take||'',
-    news_id:r.news_id,
-    date:(r.time_uk||'').slice(0,10),
-  })).sort((a,b)=>a.time<b.time?1:-1);
-
-  S.hasTakes=S.items.some(i=>i.take);
-  const cats=[...new Set(S.items.map(i=>i.catLabel))].sort();
+  items=parseCSV(text).map(r=>({...r, time:(r.time_uk||'').slice(11,19)}))
+    .sort((a,b)=>a.time<b.time?1:-1);
+  const d=(items[0]&&items[0].time_uk||'').slice(0,10);
+  document.getElementById('meta').textContent=`${d} · ${items.length} announcements since 07:00 UK · latest ${items[0]?items[0].time:''} · refreshed hourly on weekdays`;
+  const cats=[...new Set(items.map(i=>i.category).filter(Boolean))].sort();
   const sel=document.getElementById('cat');
   for(const c of cats){const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o);}
-
-  const newest=S.items[0];
-  document.getElementById('mastMeta').innerHTML=
-    `<strong>${newest?newest.date:''}</strong> · from 07:00 UK<br>${S.items.length} announcements · latest ${newest?newest.time:'—'}`;
-
   document.getElementById('controls').hidden=false;
-  buildHistogram();
   render();
 }
 
-document.getElementById('q').addEventListener('input',e=>{S.q=e.target.value.trim();render();});
-document.getElementById('cat').addEventListener('change',e=>{S.cat=e.target.value;render();});
-document.getElementById('clear').addEventListener('click',()=>{S.q='';S.cat='';S.hour=null;document.getElementById('q').value='';document.getElementById('cat').value='';render();});
+document.getElementById('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
+document.getElementById('cat').addEventListener('change',e=>{cat=e.target.value;render();});
 load();
 </script>
 </body>
