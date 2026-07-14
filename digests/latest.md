@@ -1,7 +1,10 @@
 # LSE announcements — 2026-07-14
 
-253 announcements (07:00-latest). One line each plus AI summary where available.
+254 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 16:06:21 | Henderson Far East Income Limited | Issue of equity | Issue of Equity
+  - Henderson Far East Income Limited agreed on 14 July 2026 to alloc 950,000 ordinary shares at 259.5p per share, raising approximately £2.46m. The shares will be issued for cash on 15 July 2026, with total issued share capital increasing to 220,564,679 shares. The placement represents a modest capital raise for the investment company.
+  - Retail take: Routine equity issuance to raise capital; modest dilution to existing shareholders but typical for closed-end funds managing liquidity and investment capacity.
 - 16:05:00 | Prosus NV | Change of position | Transaction in Own Shares
 - 16:00:00 | Investec PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - Lourens Janse Van Rensburg exercised 39,332 SARs (strike ZAR 86.46) receiving 13,585 Investec Limited shares, then sold them at ZAR 132.0807 (total value ZAR 1.79m). Lesley-Anne Gatter exercised 15,733 SARs receiving 5,434 shares, sold at ZAR 132.0807 (total value ZAR 717,750). Van Rensburg additionally sold 10,717 shares from forfeitable award release at ZAR 131.67 (ZAR 1.41m). All transactions occurred 10 July 2026 on Johannesburg exchange with appropriate clearance.
@@ -14,10 +17,10 @@
 - 15:49:40 | Baillie Gifford UK Growth Trust PLC | Change of position | Cancellation of Treasury Shares
   - Baillie Gifford UK Growth Trust PLC cancelled 48,432,331 ordinary shares from treasury on 14 July 2026. The company now has 106,468,268 ordinary shares in issue (excluding treasury) and holds 6,016,585 shares in treasury, representing 5.3% of total share capital. The voting share count stands at 106,468,268 for disclosure threshold calculations.
   - Retail take: Routine administrative action to reduce share count and treasury holdings. Share cancellations typically support EPS accretion marginally, though impact likely modest given scale relative to issued shares.
+- 15:45:01 | National Grid North America Inc. | Price/dividend information | Publication of Final Terms
 - 15:45:01 | Coca-Cola Europacific Partners plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - Three persons discharging managerial responsibilities at Coca-Cola Europacific Partners acquired ordinary shares on 13 July 2026 through the Employee Share Purchase Plan: Juan de Rueda Gamboa (Chief Public Affairs, Communications and Sustainability Officer), Ana Callol (General Manager, Iberian Business Unit), and Jose Antonio Echeverria (General Manager, France and Northern Europe Business Unit). Each acquired 4.81097 shares at USD $106.56650 per share on Nasdaq, totalling approximately USD $512.69 per executive.
   - Retail take: Routine insider share purchase through employee scheme; modest transaction sizes indicate standard participation rather than significant conviction buying or portfolio building.
-- 15:45:01 | National Grid North America Inc. | Price/dividend information | Publication of Final Terms
 - 15:40:39 | JPMorgan Chase & Co | DOC | 8-K dated July 14, 2026 (2Q2026 presentation)  
   - JPMorgan Chase & Co. submitted a Current Report on Form 8-K dated July 14, 2026 containing investor presentation slides reviewing the bank's second quarter 2026 earnings results. The document was filed with Euronext Dublin and the UK FCA's National Storage Mechanism, with copies available on the SEC website and the company's investor relations portal. No specific financial metrics or earnings figures were disclosed in this regulatory notification.
   - Retail take: Routine disclosure of earnings presentation materials; market impact depends on Q2 earnings content itself rather than this filing, which is standard regulatory procedure.
@@ -25,15 +28,15 @@
 - 15:34:20 | AJ Bell PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - Mohamed Tagari (Chief Technology & Customer Services Officer), Elizabeth Carrington (HR Director), Karen Goodman (Chief Risk Officer), Kina Sinclair (General Counsel & Company Secretary), Charles Musson (Chief Product Officer), Ryan Hughes (Managing Director, AJ Bell Investments), and Nicholas Carrington (closely associated with Elizabeth Carrington) each purchased 25 ordinary shares at £5.975 per share on 13 July 2026 under the BAYE (Buy As You Earn) scheme on the London Stock Exchange.
   - Retail take: Coordinated share purchases by multiple senior executives through employee scheme suggest management confidence in company prospects, though routine disclosure with limited market significance.
+- 15:30:01 | Investec PLC | Miscellaneous | Share Scheme Purchases
+  - Investec's Share Incentive Plans acquired shares to satisfy participant obligations across both listed entities. Investec Limited purchased 1.49m shares at ZAR 131.51-131.67 and ZAR 88.57 per share (9-10 July); Investec plc acquired 517k shares at GBP 6.09-6.10 per share (8-10 July). Total value approximately ZAR 168.6m and GBP 3.15m. Transactions were undertaken with prior regulatory clearance.
+  - Retail take: Routine share scheme purchases to settle employee incentive plan obligations; demonstrates normal scheme administration. No material implications for equity holders or market price.
 - 15:30:01 | Quantum Data Energy PLC | Miscellaneous | Warrant Expiry and Cancellation of Block Listings
   - All remaining unexercised warrants from QDE's July 2025 equity fundraise expired on 11 July 2026. This comprises 758,836 Prepaid Warrants and 117.2m Cash Warrants. The company has applied to cancel the related block listings: 600,334 Prepaid Warrant shares and 215.325m Cash Warrant shares that were admitted but never issued. This has no impact on issued share capital, which remains 242.359m ordinary shares.
   - Retail take: Routine administrative closure following warrant expiry; no issued shares affected, so no dilution impact to existing shareholders. Likely a non-event for the market.
 - 15:30:01 | GSK PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - Multiple GSK PDMRs (persons with managerial responsibility) acquired ordinary shares through dividend reinvestment following the 9 July 2026 dividend payment. Transactions executed at £19.6297 per share on LSE, with notable acquisitions by David Redfern (5,803.725 shares), Regis Simard (2,990.691 shares), Tony Wood (2,273.327 shares), and Philip Thomson (2,405.345 shares). Additional notional share increases occurred in deferred bonus plans for Luke Miels (CEO), Julie Brown (CFO), and James Ford (General Counsel) at £19.5950, plus ADS holdings for Shobie Ramakrishnan.
   - Retail take: Routine regulatory disclosure showing senior management reinvesting dividends—a neutral, mechanical process with no strategic implications. Suggests confidence in company but reflects normal incentive plan mechanics rather than discretionary buying.
-- 15:30:01 | Investec PLC | Miscellaneous | Share Scheme Purchases
-  - Investec's Share Incentive Plans acquired shares to satisfy participant obligations across both listed entities. Investec Limited purchased 1.49m shares at ZAR 131.51-131.67 and ZAR 88.57 per share (9-10 July); Investec plc acquired 517k shares at GBP 6.09-6.10 per share (8-10 July). Total value approximately ZAR 168.6m and GBP 3.15m. Transactions were undertaken with prior regulatory clearance.
-  - Retail take: Routine share scheme purchases to settle employee incentive plan obligations; demonstrates normal scheme administration. No material implications for equity holders or market price.
 - 15:29:19 | Wizz Air Holdings PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - Employee Diarmuid O Conghaile, a person discharging managerial responsibilities at Wizz Air Holdings PLC, sold 10,232 ordinary shares on 14 July 2026 at 10.32 GBP per share on the London Stock Exchange, realising approximately 105,594 GBP. The transaction was disclosed in accordance with UK MAR Article 19(1) requirements for PDMR share dealings.
   - Retail take: Routine disclosure of insider share sale; minor transaction value relative to company scale; no material significance unless part of broader selling pattern by multiple insiders.
