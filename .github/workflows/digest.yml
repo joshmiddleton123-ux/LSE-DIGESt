@@ -1,13 +1,12 @@
-name: Morning LSE digest
+name: LSE digest
 
 on:
   schedule:
-    # RNS's main burst lands at 07:00 UK. Cron is UTC and the UK flips
-    # GMT/BST, so we schedule both candidate times and a guard step below
-    # lets only the one where London time is 07:xx proceed.
-    - cron: "20 6 * * 1-5"   # 07:20 London during BST (summer)
-    - cron: "20 7 * * 1-5"   # 07:20 London during GMT (winter)
-  workflow_dispatch: {}   # manual trigger — run any time of day, pulls 07:00 up to now for today
+    # Hourly through the UK trading day so the Pages site stays fresh.
+    # Cron is UTC; the guard below only lets runs proceed when London
+    # local time is between 07:00 and 18:59, which handles GMT/BST.
+    - cron: "20 6-18 * * 1-5"
+  workflow_dispatch: {}   # manual trigger — run any time, pulls 07:00 up to now for today
 
 permissions:
   contents: write
@@ -16,12 +15,12 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     steps:
-      - name: Only run at 07:20 London time
+      - name: Only run 07:00-18:59 London time
         if: github.event_name == 'schedule'
         run: |
           HOUR=$(TZ=Europe/London date +%H)
-          if [ "$HOUR" != "07" ]; then
-            echo "London hour is $HOUR, not 07 — skipping (this is the off-season cron)."
+          if [ "$HOUR" -lt 7 ] || [ "$HOUR" -gt 18 ]; then
+            echo "London hour is $HOUR — outside 07-18, skipping."
             echo "SKIP=1" >> $GITHUB_ENV
           fi
 
@@ -40,6 +39,7 @@ jobs:
           python3 lse_news_digest.py --since 07:00 \
             --out "digests/${DATE}-morning.md" --csv "digests/${DATE}-morning.csv"
           cp "digests/${DATE}-morning.md" digests/latest.md
+          cp "digests/${DATE}-morning.csv" digests/latest.csv
 
       - name: Commit digest
         if: env.SKIP != '1'
@@ -47,5 +47,5 @@ jobs:
           git config user.name "lse-digest-bot"
           git config user.email "actions@github.com"
           git add digests/
-          git diff --cached --quiet || git commit -m "Morning digest $(TZ=Europe/London date +%F)"
+          git diff --cached --quiet || git commit -m "Digest $(TZ=Europe/London date '+%F %H:%M')"
           git push

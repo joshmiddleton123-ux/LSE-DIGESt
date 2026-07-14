@@ -168,13 +168,14 @@ def main():
         with open(args.csv, "w", newline="") as f:
             w = csv.writer(f)
             w.writerow(["time_uk", "datetime_utc", "company", "ticker", "category_code", "category",
-                        "headline", "rns_number", "news_id", "last_price"])
+                        "headline", "rns_number", "news_id", "last_price", "pct_change"])
             for it in items:
                 w.writerow([
                     to_london(it["datetime"]).strftime("%Y-%m-%d %H:%M:%S"),
                     it["datetime"], it.get("companyname"), it.get("companycode"),
                     it.get("category"), CATEGORY.get(it.get("category") or "", ""),
                     it["title"], it.get("rnsnumber"), it["id"], it.get("lastprice"),
+                    it.get("percentualchange"),
                 ])
         print(f"Wrote {args.csv}")
 
