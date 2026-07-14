@@ -16,8 +16,13 @@ th{text-align:left;font-size:12px;color:#444;border-bottom:2px solid #333;paddin
 td{border-bottom:1px solid #ddd;padding:7px 8px;vertical-align:top}
 td.time{white-space:nowrap;font-variant-numeric:tabular-nums;color:#555}
 td.co b{font-weight:600}
-td.co .tk{color:#666;font-size:12px}
+td.co .bbg{display:inline-block;color:#333;background:#f0f0f0;border:1px solid #ccc;border-radius:3px;font-size:12px;padding:0 5px;margin-top:2px;cursor:pointer;white-space:nowrap}
+td.co .bbg:hover{background:#e4e4e4}
 td.cat{font-size:12px;color:#555;white-space:nowrap}
+td.sm{color:#333;font-size:13px}
+td.cm{font-size:13px}
+td.cm.pos{background:#e9f5ec}
+td.cm.neg{background:#fbebea}
 a{color:#0645ad;text-decoration:none}
 a:hover{text-decoration:underline}
 .state{color:#666;padding:40px 0}
@@ -64,6 +69,15 @@ function parseCSV(text){
 
 function esc(s){const d=document.createElement('div');d.textContent=s||'';return d.innerHTML;}
 
+function bbg(t){
+  if(!t) return '';
+  return '{'+t.replace(/\.$/,'/').toUpperCase()+' LN Equity}';
+}
+function copyBbg(el,t){
+  navigator.clipboard&&navigator.clipboard.writeText(t).then(()=>{
+    const o=el.textContent; el.textContent='copied'; setTimeout(()=>el.textContent=o,700);
+  });
+}
 function url(it){
   const slug=(it.headline||'x').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')||'x';
   return `https://www.londonstockexchange.com/news-article/${encodeURIComponent(it.ticker||'x')}/${slug}/${it.news_id}`;
@@ -72,20 +86,21 @@ function url(it){
 function render(){
   const v=items.filter(it=>{
     if(cat && it.category!==cat) return false;
-    if(q){const s=(it.company+' '+it.ticker+' '+it.headline+' '+it.summary+' '+it.retail_take).toLowerCase();
+    if(q){const s=(it.company+' '+it.ticker+' '+it.headline+' '+(it.brief||'')+' '+it.summary+' '+it.retail_take).toLowerCase();
       if(!s.includes(q)) return false;}
     return true;
   });
   document.getElementById('count').textContent=`${v.length} of ${items.length}`;
   if(!v.length){document.getElementById('out').innerHTML='<div class="state">Nothing matches.</div>';return;}
-  let h='<table><thead><tr><th>Time</th><th>Company</th><th>Category</th><th>Headline / summary</th><th>Comment</th></tr></thead><tbody>';
+  let h='<table><thead><tr><th>Time</th><th>Company</th><th>Category</th><th>Headline</th><th>Summary</th><th>Comment</th></tr></thead><tbody>';
   for(const it of v){
     h+=`<tr>
       <td class="time">${esc(it.time)}</td>
-      <td class="co"><b>${esc(it.company)}</b>${it.ticker?` <span class="tk">${esc(it.ticker)}</span>`:''}</td>
+      <td class="co"><b>${esc(it.company)}</b>${it.ticker?`<br><span class="bbg" title="Click to copy for Bloomberg chat" onclick="copyBbg(this,'${esc(bbg(it.ticker))}')">${esc(bbg(it.ticker))}</span>`:''}</td>
       <td class="cat">${esc(it.category)}</td>
-      <td><a href="${url(it)}" target="_blank" rel="noopener">${esc(it.headline)}</a>${it.summary?`<br><span style="color:#444">${esc(it.summary)}</span>`:''}</td>
-      <td>${esc(it.retail_take)}</td>
+      <td><a href="${url(it)}" target="_blank" rel="noopener">${esc(it.headline)}</a>${it.brief?`<br><span style="color:#444">${esc(it.brief)}</span>`:''}</td>
+      <td class="sm">${esc(it.summary)}</td>
+      <td class="cm ${it.sentiment==='positive'?'pos':it.sentiment==='negative'?'neg':''}">${esc(it.retail_take)}</td>
     </tr>`;
   }
   document.getElementById('out').innerHTML=h+'</tbody></table>';
