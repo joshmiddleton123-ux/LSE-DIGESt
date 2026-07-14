@@ -11,6 +11,10 @@ h1{font-size:20px;margin:0 0 4px}
 .controls{margin-bottom:14px}
 .controls input,.controls select{font:inherit;padding:6px 8px;border:1px solid #bbb;border-radius:3px;margin-right:8px}
 .controls input{width:320px;max-width:100%}
+.controls button{font:inherit;padding:6px 12px;border:1px solid #bbb;border-radius:3px;background:#f6f6f6;cursor:pointer;margin-right:8px}
+.controls button:disabled{color:#999;cursor:default}
+td.sel,th.sel{width:26px;text-align:center}
+td.sel input,th.sel input{cursor:pointer}
 table{border-collapse:collapse;width:100%}
 th{text-align:left;font-size:12px;color:#444;border-bottom:2px solid #333;padding:6px 8px;white-space:nowrap}
 td{border-bottom:1px solid #ddd;padding:7px 8px;vertical-align:top}
@@ -42,6 +46,7 @@ a:hover{text-decoration:underline}
 <div class="controls" id="controls" hidden>
   <input id="q" type="search" placeholder="Search…" aria-label="Search">
   <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+  <button id="copySel" disabled>Copy selected (0)</button>
   <span id="count" style="color:#666;font-size:13px"></span>
 </div>
 <div id="out"><div class="state">Loading today's announcements…</div></div>
@@ -49,6 +54,7 @@ a:hover{text-decoration:underline}
 
 <script>
 let items=[], q='', cat='';
+const selected=new Set();
 
 function parseCSV(text){
   const rows=[]; let row=[], f='', inQ=false;
@@ -92,9 +98,10 @@ function render(){
   });
   document.getElementById('count').textContent=`${v.length} of ${items.length}`;
   if(!v.length){document.getElementById('out').innerHTML='<div class="state">Nothing matches.</div>';return;}
-  let h='<table><thead><tr><th>Time</th><th>Company</th><th>Category</th><th>Headline</th><th>Summary</th><th>Comment</th></tr></thead><tbody>';
+  let h='<table><thead><tr><th class="sel"><input type="checkbox" id="selAll" title="Select all shown"></th><th>Time</th><th>Company</th><th>Category</th><th>Headline</th><th>Summary</th><th>Comment</th></tr></thead><tbody>';
   for(const it of v){
     h+=`<tr>
+      <td class="sel"><input type="checkbox" data-id="${esc(it.news_id)}" ${selected.has(it.news_id)?'checked':''}></td>
       <td class="time">${esc(it.time)}</td>
       <td class="co"><b>${esc(it.company)}</b>${it.ticker?`<br><span class="bbg" title="Click to copy for Bloomberg chat" onclick="copyBbg(this,'${esc(bbg(it.ticker))}')">${esc(bbg(it.ticker))}</span>`:''}</td>
       <td class="cat">${esc(it.category)}</td>
@@ -104,6 +111,19 @@ function render(){
     </tr>`;
   }
   document.getElementById('out').innerHTML=h+'</tbody></table>';
+  document.querySelectorAll('td.sel input').forEach(cb=>{
+    cb.addEventListener('change',()=>{ cb.checked?selected.add(cb.dataset.id):selected.delete(cb.dataset.id); syncSel(v); });
+  });
+  const all=document.getElementById('selAll');
+  if(all){ all.checked=v.length>0&&v.every(it=>selected.has(it.news_id));
+    all.onchange=()=>{ v.forEach(it=>all.checked?selected.add(it.news_id):selected.delete(it.news_id)); render(); }; }
+  syncSel(v);
+}
+
+function syncSel(v){
+  const btn=document.getElementById('copySel');
+  btn.disabled=selected.size===0;
+  btn.textContent=`Copy selected (${selected.size})`;
 }
 
 async function load(){
@@ -128,6 +148,15 @@ async function load(){
   render();
 }
 
+document.getElementById('copySel').addEventListener('click',()=>{
+  const lines=items.filter(it=>selected.has(it.news_id))
+    .map(it=>`${it.company}${it.ticker?' '+bbg(it.ticker):''} — ${it.headline}`);
+  if(!lines.length) return;
+  navigator.clipboard.writeText(lines.join('\n')).then(()=>{
+    const btn=document.getElementById('copySel'); const o=btn.textContent;
+    btn.textContent=`Copied ${lines.length}`; setTimeout(()=>{btn.textContent=o;},900);
+  });
+});
 document.getElementById('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
 document.getElementById('cat').addEventListener('change',e=>{cat=e.target.value;render();});
 load();
