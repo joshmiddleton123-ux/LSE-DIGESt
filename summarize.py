@@ -240,9 +240,9 @@ def main():
                     entry["links"] = links
                 except Exception as e:
                     entry["summary"] = f"[enrichment failed: {e}]"
-            else:
-                entry["summary"] = None  # not found on investegate (yet)
-            cache[iid] = entry
+                cache[iid] = entry
+            # not found on Investegate yet: leave uncached so the next
+            # hourly run retries it (republication can lag a little)
             if n % 10 == 0 or n == len(todo):
                 cache_path.write_text(json.dumps(cache))
                 print(f"  {n}/{len(todo)} summarised", end="\r")
