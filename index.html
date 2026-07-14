@@ -53,7 +53,8 @@ header{border-bottom:3px solid var(--ink);padding:26px 0 14px;display:flex;align
 /* tape */
 .hour-head{font-family:var(--display);font-weight:800;font-size:13px;letter-spacing:.06em;color:var(--cobalt);border-bottom:2px solid var(--cobalt);padding:22px 0 5px;display:flex;justify-content:space-between;align-items:baseline}
 .hour-head .hn{font-family:var(--mono);font-weight:400;font-size:11px;color:var(--muted)}
-.row{display:grid;grid-template-columns:76px 252px 1fr 86px;gap:14px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.row{display:grid;grid-template-columns:76px 232px 1fr 1fr 86px;gap:14px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.row.no-takes{grid-template-columns:76px 232px 2fr 86px}
 .t{font-family:var(--mono);font-size:13px;color:var(--muted)}
 .co .name{font-weight:600;font-size:14px}
 .co .tick{font-family:var(--mono);font-size:11.5px;color:var(--cobalt);background:var(--cobalt-soft);padding:1px 5px;border-radius:3px;margin-left:6px;white-space:nowrap}
@@ -61,16 +62,21 @@ header{border-bottom:3px solid var(--ink);padding:26px 0 14px;display:flex;align
 .h a{text-decoration:none;font-size:14.5px}
 .h a:hover{text-decoration:underline;text-decoration-color:var(--cobalt)}
 .sum{font-size:13px;color:var(--muted);margin-top:3px;line-height:1.4}
+.take{font-size:13px;color:var(--ink);line-height:1.4;border-left:2px solid var(--cobalt);padding-left:10px}
+.take .lbl{display:block;font-family:var(--display);font-weight:700;font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--cobalt);margin-bottom:1px}
+.take.empty{border-left-color:var(--line);color:var(--muted)}
 .px{font-family:var(--mono);font-size:13px;text-align:right;white-space:nowrap}
 .px.up{color:var(--up)}.px.down{color:var(--down)}.px.flat{color:var(--muted)}
 
 /* states */
 .state{font-family:var(--mono);font-size:13px;color:var(--muted);padding:60px 0;text-align:center}
+.foot{font-size:12px;color:var(--muted);margin-top:28px;padding-top:14px;border-top:1px solid var(--line)}
 
 @media (max-width:720px){
-  .row{grid-template-columns:64px 1fr;grid-template-rows:auto auto;gap:2px 12px;padding:12px 0}
+  .row,.row.no-takes{grid-template-columns:64px 1fr;grid-template-rows:auto;gap:2px 12px;padding:12px 0}
   .co{grid-column:2}
   .h{grid-column:2}
+  .take{grid-column:2;margin-top:4px}
   .px{grid-column:1;grid-row:2;text-align:left;font-size:12px}
   .mast-meta{text-align:left}
 }
@@ -98,6 +104,7 @@ header{border-bottom:3px solid var(--ink);padding:26px 0 14px;display:flex;align
   <div class="count-line" id="countLine"></div>
 
   <div id="tape"><div class="state">Loading today's announcements…</div></div>
+  <p class="foot">Summaries and retail takes are AI-generated interpretation of public RNS announcements — a reading aid, not investment advice.</p>
 </div>
 
 <script>
@@ -142,7 +149,7 @@ function visible(){
     if(S.hour!==null && it.hour!==S.hour) return false;
     if(S.q){
       const q=S.q.toLowerCase();
-      if(!(it.company.toLowerCase().includes(q)||it.headline.toLowerCase().includes(q)||(it.ticker||'').toLowerCase().includes(q)||(it.summary||'').toLowerCase().includes(q))) return false;
+      if(!(it.company.toLowerCase().includes(q)||it.headline.toLowerCase().includes(q)||(it.ticker||'').toLowerCase().includes(q)||(it.summary||'').toLowerCase().includes(q)||(it.take||'').toLowerCase().includes(q))) return false;
     }
     return true;
   });
@@ -164,10 +171,11 @@ function render(){
       html+=`<div class="hour-head">${String(it.hour).padStart(2,'0')}:00 <span class="hn">${n} release${n===1?'':'s'}</span></div>`;
     }
     const p=fmtPct(it.pct_change);
-    html+=`<div class="row">
+    html+=`<div class="row${S.hasTakes?'':' no-takes'}">
       <div class="t">${it.time}</div>
       <div class="co"><span class="name">${esc(it.company)}</span>${it.ticker?`<span class="tick">${esc(it.ticker)}</span>`:''}<span class="cat">${esc(it.catLabel)}</span></div>
       <div class="h"><a href="${articleUrl(it)}" target="_blank" rel="noopener">${esc(it.headline)}</a>${it.summary?`<div class="sum">${esc(it.summary)}</div>`:''}</div>
+      ${S.hasTakes?`<div class="take${it.take?'':' empty'}">${it.take?`<span class="lbl">Retail take</span>${esc(it.take)}`:''}</div>`:''}
       <div class="px ${p.cls}">${p.txt}</div>
     </div>`;
   }
@@ -218,10 +226,12 @@ async function load(){
     headline:r.headline||'',
     pct_change:r.pct_change,
     summary:r.summary||'',
+    take:r.retail_take||'',
     news_id:r.news_id,
     date:(r.time_uk||'').slice(0,10),
   })).sort((a,b)=>a.time<b.time?1:-1);
 
+  S.hasTakes=S.items.some(i=>i.take);
   const cats=[...new Set(S.items.map(i=>i.catLabel))].sort();
   const sel=document.getElementById('cat');
   for(const c of cats){const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o);}

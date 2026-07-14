@@ -168,15 +168,20 @@ def claude_summary(it, body, docs):
         f"Company: {it.get('companyname')}  Category: {CATEGORY.get(it.get('category') or '', it.get('category'))}\n"
         f"Headline: {it.get('title')}\n\n"
         f"ANNOUNCEMENT TEXT:\n{body}{doc_block}\n\n"
-        "Write ONE sentence (max 40 words) capturing the material substance: key figures, "
+        "Respond with ONLY a JSON object, no markdown fences, with exactly two keys:\n"
+        '  "summary": one sentence (max 40 words) capturing the material substance - key figures, '
         "amounts, names, percentages, dates, and any linked-document contents that matter. "
-        "No preamble, no 'the company announced', just the substance."
+        "No preamble, no 'the company announced', just the substance.\n"
+        '  "take": one sentence (max 30 words) on what this likely means for retail investors '
+        "and how the market is likely to read it - positive, negative or non-event, and why. "
+        "Plain observation, not advice. For pure boilerplate (voting rights, holdings forms) "
+        'say something like "Routine disclosure; no read-through."'
     )
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages",
         data=json.dumps({
             "model": MODEL,
-            "max_tokens": 150,
+            "max_tokens": 250,
             "messages": [{"role": "user", "content": prompt}],
         }).encode(),
         headers={"Content-Type": "application/json",
@@ -188,10 +193,17 @@ def claude_summary(it, body, docs):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 out = json.loads(r.read())
-            return " ".join(b.get("text", "") for b in out.get("content", [])).strip()
+            text = " ".join(b.get("text", "") for b in out.get("content", [])).strip()
+            text = re.sub(r"^```(json)?|```$", "", text.strip()).strip()
+            try:
+                d = json.loads(text)
+                return {"summary": str(d.get("summary", "")).strip(),
+                        "take": str(d.get("take", "")).strip()}
+            except Exception:
+                return {"summary": text[:300], "take": ""}
         except Exception as e:
             if attempt == 2:
-                return f"[summary failed: {e}]"
+                return {"summary": f"[summary failed: {e}]", "take": ""}
             time.sleep(3 * (attempt + 1))
 
 
@@ -236,7 +248,9 @@ def main():
                 try:
                     body, links = extract_article(url)
                     docs = [(l, fetch_document(l)) for l in links]
-                    entry["summary"] = claude_summary(it, body, docs)
+                    res = claude_summary(it, body, docs)
+                    entry["summary"] = res["summary"]
+                    entry["take"] = res["take"]
                     entry["links"] = links
                 except Exception as e:
                     entry["summary"] = f"[enrichment failed: {e}]"
@@ -257,15 +271,17 @@ def main():
                 "One line each plus AI summary where available.\n\n")
         for it in items:
             f.write(f"- {one_liner(it)}\n")
-            s = (cache.get(str(it["id"])) or {}).get("summary")
-            if s:
-                f.write(f"  - {s}\n")
+            c = cache.get(str(it["id"])) or {}
+            if c.get("summary"):
+                f.write(f"  - {c['summary']}\n")
+            if c.get("take"):
+                f.write(f"  - Retail take: {c['take']}\n")
 
     with open(args.csv, "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["time_uk", "datetime_utc", "company", "ticker", "category_code",
                     "category", "headline", "rns_number", "news_id", "last_price",
-                    "pct_change", "summary", "source_url"])
+                    "pct_change", "summary", "retail_take", "source_url"])
         for it in items:
             c = cache.get(str(it["id"])) or {}
             w.writerow([
@@ -273,7 +289,8 @@ def main():
                 it["datetime"], it.get("companyname"), it.get("companycode"),
                 it.get("category"), CATEGORY.get(it.get("category") or "", ""),
                 it["title"], it.get("rnsnumber"), it["id"], it.get("lastprice"),
-                it.get("percentualchange"), c.get("summary") or "", c.get("url") or "",
+                it.get("percentualchange"), c.get("summary") or "",
+                c.get("take") or "", c.get("url") or "",
             ])
     print(f"Wrote {args.out} and {args.csv}")
 
