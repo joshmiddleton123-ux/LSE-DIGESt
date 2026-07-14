@@ -1,0 +1,137 @@
+# LSE announcements — 2026-07-14
+
+133 announcements (07:00-latest). One line each: time | company | category | headline.
+
+- 08:18 | India Capital Growth Fund Limited | Change of position | Transaction in Own Shares and Total Voting Rights
+- 07:35 | Old Mutual Limited | Miscellaneous | Engagement with dissenting shareholders
+- 07:30 | Sunda Energy PLC | Strategy/company update | Exploration permit application in New Zealand
+- 07:07 | MicroSalt PLC | Holding(s) in company | Holding(s) in Company
+- 07:04 | MicroSalt PLC | Holding(s) in company | Holding(s) in Company
+- 07:04 | Cobra Resources PLC | Director/PDMR shareholding | Director Shareholding & Issue of Equity
+- 07:01 | BRCK Group PLC | Board appointment/change | Appointment of Non-Executive Director - Update
+- 07:00 | Irish Residential Properties REIT plc | Notice of results | Notice of Interim Results
+- 07:00 | Itaconix PLC | NRA | Customer Agreement Update
+- 07:00 | Helium One Global Ltd | Miscellaneous | First Helium Sold from Pinon Canyon Plant
+- 07:00 | Insig AI Plc | Miscellaneous | Equity Subscription, TVR and PDMR Dealings
+- 07:00 | Gateley (Holdings) PLC | Notice of results | Notice of Results
+- 07:00 | Marks Electrical Group plc | Notice of AGM | Notice of Annual General Meeting
+- 07:00 | AstraZeneca PLC | Miscellaneous | AstraZeneca licenses novel EGFR inhibitor
+- 07:00 | Angus Energy PLC | Board appointment/change | Appointment of Director 
+- 07:00 | Taylor Wimpey PLC | Board appointment/change | Directorate change
+- 07:00 | Atalaya Mining Copper, S.A. | Drilling/exploration | Q2 2026 Operations Update 
+- 07:00 | GreenX Metals Limited | Result of meeting | Results of Meeting 
+- 07:00 | Poolbeg Pharma PLC | Issue of equity | Placing to raise £3.5 million
+- 07:00 | Titon Holdings PLC | Holding(s) in company | Notification of Shareholdings
+- 07:00 | Celsius Resources Limited | Board appointment/change | Appointment of Non-Executive Chair
+- 07:00 | Lendinvest PLC | Miscellaneous | Delay in FY26 Audited Financial Statement
+- 07:00 | SysGroup PLC | Director/PDMR shareholding | Director Dealing
+- 07:00 | Physiomics PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+- 07:00 | Spire Healthcare Group PLC | Board appointment/change | Chair Succession
+- 07:00 | Genedrive PLC | Board appointment/change | Board Appointment
+- 07:00 | Potentially AI PLC | Holding(s) in company | Holding(s) in Company
+- 07:00 | Naked Wines PLC | Notice of results | Notice of Full Year Results
+- 07:00 | Mony Group PLC | RDN | Director Declaration
+- 07:00 | Tharisa PLC | Miscellaneous | Production Report Q3 2026 ended 30 June 2026
+- 07:00 | FRP Advisory Group PLC | Miscellaneous | Investor Presentation via Investor Meet Company
+- 07:00 | JPEL Private Equity Limited | Miscellaneous | Post-Close Statement and Board Update
+- 07:00 | ZCCM Invs.Hldgs PLC | APP | Appointment of Transaction Advisers
+- 07:00 | Big Yellow Group PLC | Miscellaneous | Notification of Q1 Statement
+- 07:00 | Wizz Air Holdings PLC | Notice of results | Notice of F27 First Quarter Results Date
+- 07:00 | Great Portland Estates PLC | Miscellaneous | GPE sets standard for materials reuse
+- 07:00 | Technology Minerals PLC | Circular | Posting of Circular
+- 07:00 | Audioboom Group PLC | Notice of results | Notice of Interim Results & Investor Presentation
+- 07:00 | Northern Bear Plc | Notice of results | Notice of Results and Investor Presentation
+- 07:00 | Coro Energy PLC | Holding(s) in company | Holding(s) in Company
+- 07:00 | Coinsilium Group Limited | MSCL | Coinsilium Group Limited: Predictive Labs Unveils Nijinn; Coinsilium Increases Strategic Investment and Accelerates Venture-Building Strategy
+- 07:00 | RM PLC | Interim results | RM plc: Interim Results
+- 07:00 | Sabre Insurance Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | Grafton Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | BP PLC | Trading statement | 2Q26 bp Trading Statement Part 1 of 1
+- 07:00 | InterContinental Hotels Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | Experian plc | Change of position | Transaction in Own Shares
+- 07:00 | Genus PLC | Trading statement | FY26 Trading Update – Ahead of expectations
+- 07:00 | Ashmore Group PLC | Trading statement | Trading Statement
+- 07:00 | Ampeak Energy Limited | Regulatory application/grant | Results of AGM
+- 07:00 | ECR Minerals PLC | Issue of equity | Issue of Equity and Grant of Options
+- 07:00 | BioPharma Credit PLC | Acquisition | UPDATE ON ARCHIMED ESPERION ACQUISITION
+- 07:00 | Robert Walters PLC | Trading statement | Q2 2026 Trading Update
+- 07:00 | Schroder British Opportunities Tst. | Final results | Final Results
+- 07:00 | Headlam Group PLC | Trading statement | Trading Update and Strategic Review
+- 07:00 | Shuka Minerals PLC | Drilling/exploration | Kabwe Drilling (“KBDD08”)
+- 07:00 | Celebrus Technologies PLC | Final results | Final Results for the year ended 31 March 2026
+- 07:00 | Water Services Regulation Authority | IRS | Ofwat confirms £30.5m package for South East Water
+- 07:00 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
+- 07:00 | Sealand Capital Galaxy Limited | Trading statement | AGM Trading Update 
+- 07:00 | Ironveld PLC | UPD | Operational Update, Off Take & Mineralogical Study
+- 07:00 | Guardian Metal Resources PLC | UPD | Non-Core Portfolio Exploration Results
+- 07:00 | Watches of Switzerland Group PLC | Final results | FY26 Results
+- 07:00 | Geo Exploration Limited | CRO | Change of Registered Office
+- 07:00 | Catenai PLC | UPD | Klarian CLN Update
+- 07:00 | Plus500 Limited | Change of position | Transaction in Own Shares
+- 07:00 | ACG Metals Limited | UPD | H1 2026 Operations Update
+- 07:00 | BRCK Group PLC | Final results | Final Results
+- 07:00 | Rank Group PLC | Trading statement | Full Year Trading Update
+- 07:00 | Boohoo Group Plc | AGM statement | Continued Positive Trading
+- 07:00 | Shearwater Group PLC | CNT | US$1.2m global financial services contract
+- 07:00 | IQE PLC | UPD | IQE plc: $14m AI & datacentre production order
+- 07:00 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
+- 07:00 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
+- 07:00 | Polar Capital Global Financials Tst | Interim results | Half-year Financial Report
+- 07:00 | Airtel Africa PLC | Change of position | Transaction in Own Shares
+- 07:00 | CelLBxHealth PLC | AGM statement | AGM Statement
+- 07:00 | GlobalData PLC | Change of position | Transaction in Own Shares
+- 07:00 | Gamma Communications PLC | Change of position | Transaction in Own Shares
+- 07:00 | Victoria PLC | Disposal | Completion of Belgium property sale 
+- 07:00 | AdvancedAdvT Limited | Change of position | Purchase of Own Shares
+- 07:00 | Orosur Mining Inc | Drilling/exploration | APTA Continues to Deliver 
+- 07:00 | HICL Infrastructure PLC | Change of position | Transaction in Own Shares
+- 07:00 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
+- 07:00 | International Workplace Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | GETECH Group plc | Trading statement | Trading Statement
+- 07:00 | Science Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | CT Healthcare Trust PLC | Change of position | Transaction in Own Shares
+- 07:00 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
+- 07:00 | IntegraFin Holdings plc | Trading statement | Q3 Trading Update
+- 07:00 | Ruffer Investment Company Limited | Change of position | Transaction in Own Shares
+- 07:00 | RC365 Holding PLC | AGR | Agreement with PyWave Network Technology Limited
+- 07:00 | Pantheon International PLC | Change of position | Transaction in Own Shares
+- 07:00 | Currys PLC | Change of position | Transaction in Own Shares
+- 07:00 | Sunrise Resources Plc | UPD | Corporate Strategy
+- 07:00 | Rockwood Strategic PLC | Issue of equity | Issue of Equity and TVR
+- 07:00 | Glanbia PLC | Change of position | Transaction in Own Shares
+- 07:00 | British Land Co PLC | Trading statement | AGM Trading Update
+- 07:00 | AEP Plantations PLC | Change of position | Transaction in Own Shares
+- 07:00 | Babcock International Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | Fevertree Drinks PLC | Change of position | Transaction in Own Shares
+- 07:00 | Johnson Service Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | Keller Group PLC | Change of position | Transaction in Own Shares
+- 07:00 | McBride PLC | Change of position | Transaction in Own Shares
+- 07:00 | Sosandar PLC | Final results | Full Year Results and Trading Update 
+- 07:00 | Alien Metals Limited | Drilling/exploration | Iron Mineralisation Confirmed at Pilbara Projects 
+- 07:00 | QinetiQ Group plc | Change of position | Transaction in Own Shares
+- 07:00 | Rockfire Resources PLC | Drilling/exploration | Molaoi Drilling Update
+- 07:00 | Feedback PLC | Trading statement | Trading Update
+- 07:00 | DP Poland PLC | Trading statement | H1 and Q2 2026 Trading Update
+- 07:00 | Hercules PLC | CNT | Civil Projects Division Secures £6.1m of Contracts
+- 07:00 | Bank of Montreal | PFT | Publication of Final Terms
+- 07:00 | Hollywood Bowl Group plc | Change of position | Transaction in Own Shares
+- 07:00 | Pershing Square Holdings, Ltd. | Change of position | Transaction in Own Shares
+- 07:00 | SATO Oyj | Interim results | SATO Corporation Half-Year Report 1 January–30 June 2026: SATO’s steady development continued
+- 07:00 | TotalEnergies SE | Change of position | Transaction in Own Shares
+- 07:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
+- 07:00 | Capita | MSCL | Capita to deliver training for Army Collective Training System contract as part of Omnia Training consortium
+- 07:00 | BlackRock Frontiers Investment Trust Plc | Total voting rights | Total Voting Rights
+- 07:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
+- 07:00 | Sunbelt Rentals Holdings Inc. | MSCL | Sunbelt Rentals Holdings, Inc. files Current Report on Form 8-K
+- 07:00 | Sunbelt Rentals Holdings Inc. | Director/PDMR shareholding | Transactions by Directors and Persons Discharging Managerial Responsibilities
+- 07:00 | TwentyFour Select Monthly Income Fund Limited | MSCL | Monthly Factsheet & Commentary June 2026
+- 07:00 | Sunbelt Rentals Holdings Inc. | Change of position | Share Repurchase Program - Weekly Report
+- 07:00 | TwentyFour Income Fund Limited | MSCL | Monthly Fund Factsheet & Commentary - June 2026
+- 07:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
+- 07:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+- 07:00 | Anglian Water Services Financing Plc | Board appointment/change | Chair Succession
+- 07:00 | MIGO Opportunities Trust plc | ACS | Annual Financial Report
+- 07:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
+- 07:00 | Anglian Water (Osprey) Financing Plc | Board appointment/change | Chair Succession
+- 07:00 | Aigrette Financing (Issuer) Plc | Board appointment/change | Chair Succession
