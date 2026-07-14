@@ -7,6 +7,10 @@ on:
     # local time is between 07:00 and 18:59, which handles GMT/BST.
     - cron: "*/5 6-18 * * 1-5"
   workflow_dispatch: {}   # manual trigger — run any time, pulls 07:00 up to now for today
+  push:
+    branches: [main]
+    paths-ignore:
+      - "digests/**"      # never re-trigger on the bot's own digest commits
 
 permissions:
   contents: write
