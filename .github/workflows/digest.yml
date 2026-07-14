@@ -32,11 +32,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Pull announcements from 07:00 onwards
+      - name: Install dependencies
         if: env.SKIP != '1'
+        run: pip install pypdf
+
+      - name: Pull, enrich and summarise announcements from 07:00 onwards
+        if: env.SKIP != '1'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           DATE=$(TZ=Europe/London date +%F)
-          python3 lse_news_digest.py --since 07:00 \
+          python3 summarize.py --since 07:00 \
             --out "digests/${DATE}-morning.md" --csv "digests/${DATE}-morning.csv"
           cp "digests/${DATE}-morning.md" digests/latest.md
           cp "digests/${DATE}-morning.csv" digests/latest.csv

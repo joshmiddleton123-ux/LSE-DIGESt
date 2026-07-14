@@ -17,6 +17,19 @@ servers. Nothing runs on your machine.
 - `digests/YYYY-MM-DD-morning.md` and `.csv` build up a permanent archive,
   one file per day, which you can later load into pandas for analysis.
 
+## AI summaries
+
+`summarize.py` goes further than the headline list: for every announcement it
+finds the full text on Investegate, follows up to two document links inside
+the note (annual reports and similar, PDF or web), and asks Claude for a
+one-sentence summary of the substance. Summaries are cached per announcement
+in `digests/.cache/`, so hourly runs only pay for new items.
+
+This needs an Anthropic API key stored as a repo secret named
+`ANTHROPIC_API_KEY` (Settings -> Secrets and variables -> Actions -> New
+repository secret). Without it the digest still works, headline-only.
+Expect roughly 1-3 GBP per trading day depending on volume.
+
 ## Setup (one time, ~2 minutes)
 
 1. Create a new GitHub repo (private is fine).
