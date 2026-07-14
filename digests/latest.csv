@@ -1,136 +1,140 @@
-time_uk,datetime_utc,company,ticker,category_code,category,headline,rns_number,news_id,last_price,pct_change
-2026-07-14 08:34:00,2026-07-14T07:34:00.000,Capita,CPI,HOL,Holding(s) in company,Holding(s) in Company,c88681a09d,17686937,232,-0.642
-2026-07-14 08:30:00,2026-07-14T07:30:00.000,Christie Group PLC,CTG,HOL,Holding(s) in company,Holding(s) in Company,2493M,17686934,134.5,0.749
-2026-07-14 08:18:59,2026-07-14T07:18:59.000,India Capital Growth Fund Limited,IGC,POS,Change of position,Transaction in Own Shares and Total Voting Rights,1536M,17686909,171,
-2026-07-14 07:35:00,2026-07-14T06:35:00.000,Old Mutual Limited,OMU,MSC,Miscellaneous,Engagement with dissenting shareholders,1665M,17686775,59.4,-1.329
-2026-07-14 07:30:00,2026-07-14T06:30:00.000,Sunda Energy PLC,SNDA,STR,Strategy/company update,Exploration permit application in New Zealand,2455M,17686773,1.075,0.0
-2026-07-14 07:07:25,2026-07-14T06:07:25.000,MicroSalt PLC,SALT,HOL,Holding(s) in company,Holding(s) in Company,2453M,17686265,23.75,-1.042
-2026-07-14 07:04:13,2026-07-14T06:04:13.000,MicroSalt PLC,SALT,HOL,Holding(s) in company,Holding(s) in Company,2451M,17686258,23.75,-1.042
-2026-07-14 07:04:03,2026-07-14T06:04:03.000,Cobra Resources PLC,COBR,DSH,Director/PDMR shareholding,Director Shareholding & Issue of Equity,2452M,17686257,4.1,2.5
-2026-07-14 07:01:01,2026-07-14T06:01:01.000,BRCK Group PLC,BRCK,BOA,Board appointment/change,Appointment of Non-Executive Director - Update,1680M,17686161,48.8,0.412
-2026-07-14 07:00:06,2026-07-14T06:00:06.000,Irish Residential Properties REIT plc,0QT8,NOR,Notice of results,Notice of Interim Results,2365092_en,17686140,1.086,-1.897
-2026-07-14 07:00:06,2026-07-14T06:00:06.000,Helium One Global Ltd,HE1,MSC,Miscellaneous,First Helium Sold from Pinon Canyon Plant,2447M,17686013,0.42,0.239
-2026-07-14 07:00:06,2026-07-14T06:00:06.000,AstraZeneca PLC,AZN,MSC,Miscellaneous,AstraZeneca licenses novel EGFR inhibitor,2446M,17686012,12480.0,-1.031
-2026-07-14 07:00:06,2026-07-14T06:00:06.000,Insig AI Plc,INSG,MSC,Miscellaneous,"Equity Subscription, TVR and PDMR Dealings",1672M,17686010,14,1.818
-2026-07-14 07:00:06,2026-07-14T06:00:06.000,Gateley (Holdings) PLC,GTLY,NOR,Notice of results,Notice of Results,1641M,17686007,56,0.901
-2026-07-14 07:00:06,2026-07-14T06:00:06.000,Marks Electrical Group plc,MRK,NOA,Notice of AGM,Notice of Annual General Meeting,1634M,17686006,45.5,0.0
-2026-07-14 07:00:06,2026-07-14T06:00:06.000,Itaconix PLC,ITX,NRA,,Customer Agreement Update,1558M,17686018,109.5,0.922
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,"Atalaya Mining Copper, S.A.",ATYM,DRL,Drilling/exploration,Q2 2026 Operations Update ,2450M,17685978,834,4.906
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,GreenX Metals Limited,GRX,ROM,Result of meeting,Results of Meeting ,2443M,17685977,46,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Poolbeg Pharma PLC,POLB,IOE,Issue of equity,Placing to raise £3.5 million,1757M,17685976,6.15,-12.143
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Taylor Wimpey PLC,TW.,BOA,Board appointment/change,Directorate change,1560M,17685979,79.08,-1.617
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Angus Energy PLC,ANGS,BOA,Board appointment/change,Appointment of Director ,1582M,17685981,0.175,-27.083
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Audioboom Group PLC,BOOM,NOR,Notice of results,Notice of Interim Results & Investor Presentation,1669M,17686009,472.5,1.395
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Celsius Resources Limited,CLA,BOA,Board appointment/change,Appointment of Non-Executive Chair,1628M,17685983,0.35,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Coro Energy PLC,CORO,HOL,Holding(s) in company,Holding(s) in Company,1664M,17685984,3.95,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,SysGroup PLC,SYS,DSH,Director/PDMR shareholding,Director Dealing,1673M,17685985,26.5,10.417
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Physiomics PLC,PYC,DSH,Director/PDMR shareholding,Director/PDMR Shareholding,1690M,17685988,0.55,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Spire Healthcare Group PLC,SPI,BOA,Board appointment/change,Chair Succession,1692M,17685989,215,-0.922
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Genedrive PLC,GDR,BOA,Board appointment/change,Board Appointment,1695M,17685991,1.125,-4.255
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Potentially AI PLC,AGI,HOL,Holding(s) in company,Holding(s) in Company,1697M,17685992,5.75,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Naked Wines PLC,WINE,NOR,Notice of results,Notice of Full Year Results,1299M,17685997,69,
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Mony Group PLC,MONY,RDN,,Director Declaration,1401M,17685998,200.4,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Tharisa PLC,THS,MSC,Miscellaneous,Production Report Q3 2026 ended 30 June 2026,1435M,17685999,114.5,-0.435
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,FRP Advisory Group PLC,FRP,MSC,Miscellaneous,Investor Presentation via Investor Meet Company,1451M,17686000,109.5,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,JPEL Private Equity Limited,JPEL,MSC,Miscellaneous,Post-Close Statement and Board Update,1499M,17686001,1.24,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,ZCCM Invs.Hldgs PLC,ZCC,APP,,Appointment of Transaction Advisers,1502M,17686002,,
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Big Yellow Group PLC,BYG,MSC,Miscellaneous,Notification of Q1 Statement,1535M,17686003,862,-1.486
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Wizz Air Holdings PLC,WIZZ,NOR,Notice of results,Notice of F27 First Quarter Results Date,1590M,17686004,1089,-3.114
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Great Portland Estates PLC,GPE,MSC,Miscellaneous,GPE sets standard for materials reuse,1630M,17686005,333.8,-1.243
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Technology Minerals PLC,TM1,CIR,Circular,Posting of Circular,1645M,17686008,0.0475,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Titon Holdings PLC,TON,HOL,Holding(s) in company,Notification of Shareholdings,1622M,17685982,80.0,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Coinsilium Group Limited,,MSCL,,Coinsilium Group Limited: Predictive Labs Unveils Nijinn; Coinsilium Increases Strategic Investment and Accelerates Venture-Building Strategy,2365154_en,17686138,,
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Lendinvest PLC,,MSC,Miscellaneous,Delay in FY26 Audited Financial Statement,1756M,17686014,,
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,Northern Bear Plc,NTBR,NOR,Notice of results,Notice of Results and Investor Presentation,1691M,17686011,100.5,0.0
-2026-07-14 07:00:05,2026-07-14T06:00:05.000,RM PLC,RM.,IR,Interim results,RM plc: Interim Results,2365168_en,17686147,88.6,-3.696
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,BP PLC,BP.,TST,Trading statement,2Q26 bp Trading Statement Part 1 of 1,1629M,17685951,518.3,2.634
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,InterContinental Hotels Group PLC,IHG,POS,Change of position,Transaction in Own Shares,1635M,17685952,159.2,-2.719
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Experian plc,EXPN,POS,Change of position,Transaction in Own Shares,1636M,17685953,2655,-0.599
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Genus PLC,GNS,TST,Trading statement,FY26 Trading Update – Ahead of expectations,1640M,17685954,2144,5.408
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Ashmore Group PLC,ASHM,TST,Trading statement,Trading Statement,1642M,17685955,211.8,-1.58
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Ampeak Energy Limited,AMP,RAG,Regulatory application/grant,Results of AGM,1643M,17685956,2.7,0.0
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,ECR Minerals PLC,ECR,IOE,Issue of equity,Issue of Equity and Grant of Options,1648M,17685957,0.2,0.0
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,BioPharma Credit PLC,BPCR,ACQ,Acquisition,UPDATE ON ARCHIMED ESPERION ACQUISITION,1662M,17685958,0.954,-0.832
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Robert Walters PLC,RWA,TST,Trading statement,Q2 2026 Trading Update,1666M,17685959,94,-10.476
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Schroder British Opportunities Tst.,SBO,FR,Final results,Final Results,1663M,17685960,69,0.0
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Headlam Group PLC,HEAD,TST,Trading statement,Trading Update and Strategic Review,1667M,17685961,15.7,-16.711
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Grafton Group PLC,GFTU,POS,Change of position,Transaction in Own Shares,1624M,17685950,897.1,0.279
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Sabre Insurance Group PLC,SBRE,POS,Change of position,Transaction in Own Shares,1621M,17685949,183.6,
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Water Services Regulation Authority,,IRS,,Ofwat confirms £30.5m package for South East Water,1604M,17685948,,
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Greencoat Renewables PLC,GRP,POS,Change of position,Transaction in Own Shares,1575M,17685946,0.759,
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Sealand Capital Galaxy Limited,SCGL,TST,Trading statement,AGM Trading Update ,1578M,17685947,0.25,0.806
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Ironveld PLC,IRON,UPD,,"Operational Update, Off Take & Mineralogical Study",1674M,17685964,0.0225,18.421
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Guardian Metal Resources PLC,GMET,UPD,,Non-Core Portfolio Exploration Results,1698M,17685974,172.5,0.291
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Watches of Switzerland Group PLC,WOSG,FR,Final results,FY26 Results,1694M,17685973,744.5,-0.667
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Geo Exploration Limited,GEO,CRO,,Change of Registered Office,1696M,17685972,0.11,0.0
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Catenai PLC,CTAI,UPD,,Klarian CLN Update,1688M,17685970,0.15,0.0
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Plus500 Limited,PLUS,POS,Change of position,Transaction in Own Shares,1682M,17685969,4218,0.429
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,ACG Metals Limited,ACG,UPD,,H1 2026 Operations Update,1683M,17685968,1900.0,
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Shuka Minerals PLC,SKA,DRL,Drilling/exploration,Kabwe Drilling (“KBDD08”),1668M,17685962,2.7,3.846
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Celebrus Technologies PLC,CLBS,FR,Final results,Final Results for the year ended 31 March 2026,1671M,17685963,88.5,0.568
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Boohoo Group Plc,DEBS,AGM,AGM statement,Continued Positive Trading,1751M,17685975,24.5,2.083
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Shearwater Group PLC,SWG,CNT,,US$1.2m global financial services contract,1677M,17685965,43.5,3.571
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,Rank Group PLC,RNK,TST,Trading statement,Full Year Trading Update,1681M,17685966,99.9,5.714
-2026-07-14 07:00:04,2026-07-14T06:00:04.000,BRCK Group PLC,BRCK,FR,Final results,Final Results,1679M,17685967,48.8,0.412
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,HarbourVest Global Priv. Equity Ltd,HVPE,POS,Change of position,Transaction in Own Shares,1527M,17685922,3360.0,-0.297
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Polar Capital Global Financials Tst,PCFT,IR,Interim results,Half-year Financial Report,1525M,17685921,243,0.0
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Victoria PLC,VCP,DIS,Disposal,Completion of Belgium property sale ,1509M,17685920,67,-2.19
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,CelLBxHealth PLC,CLBX,AGM,AGM statement,AGM Statement,1510M,17685919,1.525,10.909
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,GlobalData PLC,DATA,POS,Change of position,Transaction in Own Shares,1508M,17685917,73.7,-2.125
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Gamma Communications PLC,GAMA,POS,Change of position,Transaction in Own Shares,1507M,17685916,915,0.055
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Airtel Africa PLC,AAF,POS,Change of position,Transaction in Own Shares,1505M,17685915,337.4,-0.118
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Edinburgh Investment Trust PLC,EDIN,POS,Change of position,Transaction in Own Shares,1533M,17685923,810.0,-0.491
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Glanbia PLC,GLB,POS,Change of position,Transaction in Own Shares,1570M,17685942,24.6,
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,AdvancedAdvT Limited,ADVT,POS,Change of position,Purchase of Own Shares,1531M,17685925,157.5,0.0
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,AEP Plantations PLC,AEP,POS,Change of position,Transaction in Own Shares,1540M,17685926,169,1.198
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,HICL Infrastructure PLC,HICL,POS,Change of position,Transaction in Own Shares,1545M,17685927,133.4,-0.892
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,M. P. Evans Group PLC,MPE,POS,Change of position,Transaction in Own Shares,1539M,17685928,1570.0,-1.009
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Partners Group Private Equity Ltd,PEY,POS,Change of position,Transaction in Own Shares,1542M,17685929,7.36,0.822
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,International Workplace Group PLC,IWG,POS,Change of position,Transaction in Own Shares,1546M,17685930,190.3,-0.834
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,GETECH Group plc,GTC,TST,Trading statement,Trading Statement,1514M,17685931,1.95,0.0
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Science Group PLC,SAG,POS,Change of position,Transaction in Own Shares,1551M,17685932,585,
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,CT Healthcare Trust PLC,CTHT,POS,Change of position,Transaction in Own Shares,1555M,17685933,135,
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Renewables Infrastructure Grp (The),TRIG,POS,Change of position,Transaction in Own Shares,1554M,17685934,72,-0.139
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,IntegraFin Holdings plc,IHP,TST,Trading statement,Q3 Trading Update,1557M,17685935,365.5,-3.689
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Ruffer Investment Company Limited,RICA,POS,Change of position,Transaction in Own Shares,1559M,17685936,293,
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,RC365 Holding PLC,RCGH,AGR,,Agreement with PyWave Network Technology Limited,1561M,17685937,2.3,2.222
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Pantheon International PLC,PIN,POS,Change of position,Transaction in Own Shares,1564M,17685938,392.5,-0.254
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Currys PLC,CURY,POS,Change of position,Transaction in Own Shares,1562M,17685939,160.1,-0.621
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Sunrise Resources Plc,SRES,UPD,,Corporate Strategy,1566M,17685940,0.016,0.0
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Rockwood Strategic PLC,RKW,IOE,Issue of equity,Issue of Equity and TVR,1569M,17685941,313,
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,IQE PLC,IQE,UPD,,IQE plc: $14m AI & datacentre production order,1538M,17685924,41.05,3.924
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Orosur Mining Inc,OMI,DRL,Drilling/exploration,APTA Continues to Deliver ,1574M,17685944,17,1.493
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,British Land Co PLC,BLND,TST,Trading statement,AGM Trading Update,1573M,17685943,417.6,-1.136
-2026-07-14 07:00:03,2026-07-14T06:00:03.000,Babcock International Group PLC,BAB,POS,Change of position,Transaction in Own Shares,1568M,17685945,1000.0,-0.498
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Keller Group PLC,KLR,POS,Change of position,Transaction in Own Shares,0856M,17685907,3448,0.116
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,McBride PLC,MCB,POS,Change of position,Transaction in Own Shares,0874M,17685908,162.2,-0.246
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Sosandar PLC,SOS,FR,Final results,Full Year Results and Trading Update ,1329M,17685909,11.5,2.222
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Alien Metals Limited,UFO,DRL,Drilling/exploration,Iron Mineralisation Confirmed at Pilbara Projects ,1271M,17685910,0.095,0.0
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,QinetiQ Group plc,QQ.,POS,Change of position,Transaction in Own Shares,1477M,17685911,441.2,-1.474
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Rockfire Resources PLC,ROCK,DRL,Drilling/exploration,Molaoi Drilling Update,1438M,17685912,0.115,-7.258
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Feedback PLC,FDBK,TST,Trading statement,Trading Update,1494M,17685913,6.6,-2.222
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,DP Poland PLC,DPP,TST,Trading statement,H1 and Q2 2026 Trading Update,1498M,17685914,6.75,-3.571
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Hercules PLC,HERC,CNT,,Civil Projects Division Secures £6.1m of Contracts,1495M,17685918,30.5,7.018
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Johnson Service Group PLC,JSG,POS,Change of position,Transaction in Own Shares,0853M,17685906,143.3,0.0
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Fevertree Drinks PLC,FEVR,POS,Change of position,Transaction in Own Shares,0849M,17685905,769.5,-0.581
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Bank of Montreal,0UKH,PFT,,Publication of Final Terms,1639M,17685898,,
-2026-07-14 07:00:02,2026-07-14T06:00:02.000,Hollywood Bowl Group plc,BOWL,POS,Change of position,Transaction in Own Shares,0847M,17685904,284.5,-1.215
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,"Pershing Square Holdings, Ltd.",PSH,POS,Change of position,Transaction in Own Shares,0713762440,17686031,3856,-0.516
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,SATO Oyj,IRSH,IR,Interim results,SATO Corporation Half-Year Report 1 January–30 June 2026: SATO’s steady development continued,1212664-en,17686033,,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,TotalEnergies SE,TTE,POS,Change of position,Transaction in Own Shares,0713317672,17686036,70.25,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,NB Private Equity Partners Limited,NBPE,POS,Change of position,NBPE Announces Transaction in Own Shares,1212617-en,17686042,1462,-1.482
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,Anglian Water Services Financing Plc,71GA,BOA,Board appointment/change,Chair Succession,60713-8517,17686095,,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,Sunbelt Rentals Holdings Inc.,SUNB,MSCL,,"Sunbelt Rentals Holdings, Inc. files Current Report on Form 8-K",60713-8464,17686139,5488,-1.295
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,Sunbelt Rentals Holdings Inc.,SUNB,DSH,Director/PDMR shareholding,Transactions by Directors and Persons Discharging Managerial Responsibilities,60713-8531,17686136,5488,-1.295
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,TwentyFour Select Monthly Income Fund Limited,SMIF,MSCL,,Monthly Factsheet & Commentary June 2026,60713-8448,17686135,87,0.346
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,Sunbelt Rentals Holdings Inc.,SUNB,POS,Change of position,Share Repurchase Program - Weekly Report,60713-8530,17686132,5488,-1.295
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,Capita,CPI,MSCL,,Capita to deliver training for Army Collective Training System contract as part of Omnia Training consortium,ddb6beb690,17686053,232,-0.642
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Frontiers Investment Trust Plc,BRFI,TVR,Total voting rights,Total Voting Rights,60710-7958,17686088,190.5,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Energy and Resources Income Trust Plc,BERI,TVR,Total voting rights,Total Voting Rights,60710-7962,17686089,172.5,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Greater Europe Investment Trust Plc,BRGE,TVR,Total voting rights,Total Voting Rights,60710-7967,17686091,591,-1.005
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,MIGO Opportunities Trust plc,MIGO,ACS,,Annual Financial Report,60714-8556,17686158,408.5,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock American Income Trust Plc,BRAI,TVR,Total voting rights,Total Voting Rights,60710-7943,17686099,277,0.0
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Smaller Companies Trust Plc,BRSC,TVR,Total voting rights,Total Voting Rights,60710-7969,17686100,264,-0.938
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,Anglian Water (Osprey) Financing Plc,11JS,BOA,Board appointment/change,Chair Succession,60713-8518,17686101,92.46375,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,Aigrette Financing (Issuer) Plc,BB31,BOA,Board appointment/change,Chair Succession,60713-8519,17686106,,
-2026-07-14 07:00:00,2026-07-14T06:00:00.000,TwentyFour Income Fund Limited,TFIF,MSCL,,Monthly Fund Factsheet & Commentary - June 2026,60713-8450,17686131,109.2,-0.546
+time_uk,datetime_utc,company,ticker,category_code,category,headline,rns_number,news_id,last_price,pct_change,summary,source_url
+2026-07-14 09:00:01,2026-07-14T08:00:01.000,Brown Advisory US Smaller Cos. PLC,BASC,PFU,Portfolio update,Portfolio Update,1447M,17686974,1617.5,,,
+2026-07-14 09:00:01,2026-07-14T08:00:01.000,GCP Infrastructure Investments Ltd,GCP,POS,Change of position,Transaction in Own Shares,1547M,17686973,83.4,-0.239,,
+2026-07-14 09:00:01,2026-07-14T08:00:01.000,Thames Water Utilities Limited,AW14,MSC,Miscellaneous,Results of Twelfth Consent Requests,2585M,17686975,,,,
+2026-07-14 08:50:54,2026-07-14T07:50:54.000,Agronomics Limited,ANIC,DSH,Director/PDMR shareholding,Director/PDMR Shareholding,2588M,17686969,5.1,2,,
+2026-07-14 08:34:00,2026-07-14T07:34:00.000,Capita,CPI,HOL,Holding(s) in company,Holding(s) in Company,c88681a09d,17686937,230.5,-1.285,,
+2026-07-14 08:30:00,2026-07-14T07:30:00.000,Christie Group PLC,CTG,HOL,Holding(s) in company,Holding(s) in Company,2493M,17686934,134.5,0.749,,
+2026-07-14 08:18:59,2026-07-14T07:18:59.000,India Capital Growth Fund Limited,IGC,POS,Change of position,Transaction in Own Shares and Total Voting Rights,1536M,17686909,171,,,
+2026-07-14 07:35:00,2026-07-14T06:35:00.000,Old Mutual Limited,OMU,MSC,Miscellaneous,Engagement with dissenting shareholders,1665M,17686775,59.4,-1.329,,
+2026-07-14 07:30:00,2026-07-14T06:30:00.000,Sunda Energy PLC,SNDA,STR,Strategy/company update,Exploration permit application in New Zealand,2455M,17686773,1.075,0.0,,
+2026-07-14 07:07:25,2026-07-14T06:07:25.000,MicroSalt PLC,SALT,HOL,Holding(s) in company,Holding(s) in Company,2453M,17686265,23.75,-1.042,,
+2026-07-14 07:04:13,2026-07-14T06:04:13.000,MicroSalt PLC,SALT,HOL,Holding(s) in company,Holding(s) in Company,2451M,17686258,23.75,-1.042,,
+2026-07-14 07:04:03,2026-07-14T06:04:03.000,Cobra Resources PLC,COBR,DSH,Director/PDMR shareholding,Director Shareholding & Issue of Equity,2452M,17686257,4.1,2.5,,
+2026-07-14 07:01:01,2026-07-14T06:01:01.000,BRCK Group PLC,BRCK,BOA,Board appointment/change,Appointment of Non-Executive Director - Update,1680M,17686161,48.35,-0.514,,
+2026-07-14 07:00:06,2026-07-14T06:00:06.000,Helium One Global Ltd,HE1,MSC,Miscellaneous,First Helium Sold from Pinon Canyon Plant,2447M,17686013,0.42,0.239,,
+2026-07-14 07:00:06,2026-07-14T06:00:06.000,Insig AI Plc,INSG,MSC,Miscellaneous,"Equity Subscription, TVR and PDMR Dealings",1672M,17686010,14,1.818,,
+2026-07-14 07:00:06,2026-07-14T06:00:06.000,Gateley (Holdings) PLC,GTLY,NOR,Notice of results,Notice of Results,1641M,17686007,53.5,-3.604,,
+2026-07-14 07:00:06,2026-07-14T06:00:06.000,Marks Electrical Group plc,MRK,NOA,Notice of AGM,Notice of Annual General Meeting,1634M,17686006,45.5,0.0,,
+2026-07-14 07:00:06,2026-07-14T06:00:06.000,Itaconix PLC,ITX,NRA,,Customer Agreement Update,1558M,17686018,109.5,0.922,,
+2026-07-14 07:00:06,2026-07-14T06:00:06.000,Irish Residential Properties REIT plc,0QT8,NOR,Notice of results,Notice of Interim Results,2365092_en,17686140,1.086,-1.897,,
+2026-07-14 07:00:06,2026-07-14T06:00:06.000,AstraZeneca PLC,AZN,MSC,Miscellaneous,AstraZeneca licenses novel EGFR inhibitor,2446M,17686012,12452,-1.253,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Poolbeg Pharma PLC,POLB,IOE,Issue of equity,Placing to raise £3.5 million,1757M,17685976,6.15,-12.143,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Big Yellow Group PLC,BYG,MSC,Miscellaneous,Notification of Q1 Statement,1535M,17686003,859.5,-1.771,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,"Atalaya Mining Copper, S.A.",ATYM,DRL,Drilling/exploration,Q2 2026 Operations Update ,2450M,17685978,851.5,7.107,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Taylor Wimpey PLC,TW.,BOA,Board appointment/change,Directorate change,1560M,17685979,79,-1.717,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Angus Energy PLC,ANGS,BOA,Board appointment/change,Appointment of Director ,1582M,17685981,0.175,-27.083,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Titon Holdings PLC,TON,HOL,Holding(s) in company,Notification of Shareholdings,1622M,17685982,80.0,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Celsius Resources Limited,CLA,BOA,Board appointment/change,Appointment of Non-Executive Chair,1628M,17685983,0.35,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Coro Energy PLC,CORO,HOL,Holding(s) in company,Holding(s) in Company,1664M,17685984,3.95,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,SysGroup PLC,SYS,DSH,Director/PDMR shareholding,Director Dealing,1673M,17685985,26.5,10.417,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Physiomics PLC,PYC,DSH,Director/PDMR shareholding,Director/PDMR Shareholding,1690M,17685988,0.55,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Spire Healthcare Group PLC,SPI,BOA,Board appointment/change,Chair Succession,1692M,17685989,215.5,-0.691,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Genedrive PLC,GDR,BOA,Board appointment/change,Board Appointment,1695M,17685991,1.125,-4.255,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Potentially AI PLC,AGI,HOL,Holding(s) in company,Holding(s) in Company,1697M,17685992,5.75,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Naked Wines PLC,WINE,NOR,Notice of results,Notice of Full Year Results,1299M,17685997,69,,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Mony Group PLC,MONY,RDN,,Director Declaration,1401M,17685998,200.2,-0.1,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Tharisa PLC,THS,MSC,Miscellaneous,Production Report Q3 2026 ended 30 June 2026,1435M,17685999,114.5,-0.435,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,FRP Advisory Group PLC,FRP,MSC,Miscellaneous,Investor Presentation via Investor Meet Company,1451M,17686000,109.5,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,JPEL Private Equity Limited,JPEL,MSC,Miscellaneous,Post-Close Statement and Board Update,1499M,17686001,1.24,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,ZCCM Invs.Hldgs PLC,ZCC,APP,,Appointment of Transaction Advisers,1502M,17686002,,,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,GreenX Metals Limited,GRX,ROM,Result of meeting,Results of Meeting ,2443M,17685977,46,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Coinsilium Group Limited,,MSCL,,Coinsilium Group Limited: Predictive Labs Unveils Nijinn; Coinsilium Increases Strategic Investment and Accelerates Venture-Building Strategy,2365154_en,17686138,,,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Lendinvest PLC,,MSC,Miscellaneous,Delay in FY26 Audited Financial Statement,1756M,17686014,,,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Northern Bear Plc,NTBR,NOR,Notice of results,Notice of Results and Investor Presentation,1691M,17686011,100.5,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Audioboom Group PLC,BOOM,NOR,Notice of results,Notice of Interim Results & Investor Presentation,1669M,17686009,472.5,1.395,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Technology Minerals PLC,TM1,CIR,Circular,Posting of Circular,1645M,17686008,0.0475,0.0,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Great Portland Estates PLC,GPE,MSC,Miscellaneous,GPE sets standard for materials reuse,1630M,17686005,333,-1.479,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,Wizz Air Holdings PLC,WIZZ,NOR,Notice of results,Notice of F27 First Quarter Results Date,1590M,17686004,1090.0,-3.025,,
+2026-07-14 07:00:05,2026-07-14T06:00:05.000,RM PLC,RM.,IR,Interim results,RM plc: Interim Results,2365168_en,17686147,88.6,-3.696,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Ashmore Group PLC,ASHM,TST,Trading statement,Trading Statement,1642M,17685955,211.8,-1.58,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Ampeak Energy Limited,AMP,RAG,Regulatory application/grant,Results of AGM,1643M,17685956,2.7,0.0,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,ECR Minerals PLC,ECR,IOE,Issue of equity,Issue of Equity and Grant of Options,1648M,17685957,0.2,0.0,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Genus PLC,GNS,TST,Trading statement,FY26 Trading Update – Ahead of expectations,1640M,17685954,2112,3.835,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Experian plc,EXPN,POS,Change of position,Transaction in Own Shares,1636M,17685953,2634,-1.385,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,InterContinental Hotels Group PLC,IHG,POS,Change of position,Transaction in Own Shares,1635M,17685952,157.25,-3.911,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,BP PLC,BP.,TST,Trading statement,2Q26 bp Trading Statement Part 1 of 1,1629M,17685951,519.9,2.95,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Grafton Group PLC,GFTU,POS,Change of position,Transaction in Own Shares,1624M,17685950,893.8,-0.089,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Sabre Insurance Group PLC,SBRE,POS,Change of position,Transaction in Own Shares,1621M,17685949,183.6,,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Water Services Regulation Authority,,IRS,,Ofwat confirms £30.5m package for South East Water,1604M,17685948,,,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Greencoat Renewables PLC,GRP,POS,Change of position,Transaction in Own Shares,1575M,17685946,0.759,,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Sealand Capital Galaxy Limited,SCGL,TST,Trading statement,AGM Trading Update ,1578M,17685947,0.25,0.806,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Ironveld PLC,IRON,UPD,,"Operational Update, Off Take & Mineralogical Study",1674M,17685964,0.0245,28.947,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Guardian Metal Resources PLC,GMET,UPD,,Non-Core Portfolio Exploration Results,1698M,17685974,172.5,0.291,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Watches of Switzerland Group PLC,WOSG,FR,Final results,FY26 Results,1694M,17685973,753,0.467,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,BioPharma Credit PLC,BPCR,ACQ,Acquisition,UPDATE ON ARCHIMED ESPERION ACQUISITION,1662M,17685958,0.954,-0.832,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Robert Walters PLC,RWA,TST,Trading statement,Q2 2026 Trading Update,1666M,17685959,96,-8.571,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Schroder British Opportunities Tst.,SBO,FR,Final results,Final Results,1663M,17685960,69,0.0,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Headlam Group PLC,HEAD,TST,Trading statement,Trading Update and Strategic Review,1667M,17685961,15.7,-16.711,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Shuka Minerals PLC,SKA,DRL,Drilling/exploration,Kabwe Drilling (“KBDD08”),1668M,17685962,2.65,1.923,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Celebrus Technologies PLC,CLBS,FR,Final results,Final Results for the year ended 31 March 2026,1671M,17685963,88.5,0.568,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Boohoo Group Plc,DEBS,AGM,AGM statement,Continued Positive Trading,1751M,17685975,24.5,2.083,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Shearwater Group PLC,SWG,CNT,,US$1.2m global financial services contract,1677M,17685965,43.5,3.571,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Rank Group PLC,RNK,TST,Trading statement,Full Year Trading Update,1681M,17685966,99,4.762,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,BRCK Group PLC,BRCK,FR,Final results,Final Results,1679M,17685967,48.35,-0.514,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,ACG Metals Limited,ACG,UPD,,H1 2026 Operations Update,1683M,17685968,1900.0,,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Plus500 Limited,PLUS,POS,Change of position,Transaction in Own Shares,1682M,17685969,4224,0.571,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Catenai PLC,CTAI,UPD,,Klarian CLN Update,1688M,17685970,0.15,0.0,,
+2026-07-14 07:00:04,2026-07-14T06:00:04.000,Geo Exploration Limited,GEO,CRO,,Change of Registered Office,1696M,17685972,0.11,0.0,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,GlobalData PLC,DATA,POS,Change of position,Transaction in Own Shares,1508M,17685917,73.7,-2.125,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Gamma Communications PLC,GAMA,POS,Change of position,Transaction in Own Shares,1507M,17685916,915,0.055,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Airtel Africa PLC,AAF,POS,Change of position,Transaction in Own Shares,1505M,17685915,339.6,0.533,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,CelLBxHealth PLC,CLBX,AGM,AGM statement,AGM Statement,1510M,17685919,1.5,9.091,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Pantheon International PLC,PIN,POS,Change of position,Transaction in Own Shares,1564M,17685938,392.5,-0.254,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Polar Capital Global Financials Tst,PCFT,IR,Interim results,Half-year Financial Report,1525M,17685921,242,-0.412,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,HarbourVest Global Priv. Equity Ltd,HVPE,POS,Change of position,Transaction in Own Shares,1527M,17685922,3360.0,-0.297,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Edinburgh Investment Trust PLC,EDIN,POS,Change of position,Transaction in Own Shares,1533M,17685923,804,-1.229,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,IQE PLC,IQE,UPD,,IQE plc: $14m AI & datacentre production order,1538M,17685924,41.05,3.924,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,AdvancedAdvT Limited,ADVT,POS,Change of position,Purchase of Own Shares,1531M,17685925,157.5,0.0,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,AEP Plantations PLC,AEP,POS,Change of position,Transaction in Own Shares,1540M,17685926,168,0.599,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,HICL Infrastructure PLC,HICL,POS,Change of position,Transaction in Own Shares,1545M,17685927,133.2,-1.04,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,M. P. Evans Group PLC,MPE,POS,Change of position,Transaction in Own Shares,1539M,17685928,1578,-0.504,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Partners Group Private Equity Ltd,PEY,POS,Change of position,Transaction in Own Shares,1542M,17685929,7.3,0.0,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,International Workplace Group PLC,IWG,POS,Change of position,Transaction in Own Shares,1546M,17685930,190.4,-0.782,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,GETECH Group plc,GTC,TST,Trading statement,Trading Statement,1514M,17685931,1.95,0.0,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Science Group PLC,SAG,POS,Change of position,Transaction in Own Shares,1551M,17685932,585,,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,CT Healthcare Trust PLC,CTHT,POS,Change of position,Transaction in Own Shares,1555M,17685933,135,,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Renewables Infrastructure Grp (The),TRIG,POS,Change of position,Transaction in Own Shares,1554M,17685934,71.8,-0.416,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,IntegraFin Holdings plc,IHP,TST,Trading statement,Q3 Trading Update,1557M,17685935,366.5,-3.426,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Ruffer Investment Company Limited,RICA,POS,Change of position,Transaction in Own Shares,1559M,17685936,293,0.0,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,RC365 Holding PLC,RCGH,AGR,,Agreement with PyWave Network Technology Limited,1561M,17685937,2.3,2.222,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Victoria PLC,VCP,DIS,Disposal,Completion of Belgium property sale ,1509M,17685920,68.6,0.146,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Orosur Mining Inc,OMI,DRL,Drilling/exploration,APTA Continues to Deliver ,1574M,17685944,17,1.493,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,British Land Co PLC,BLND,TST,Trading statement,AGM Trading Update,1573M,17685943,415.6,-1.61,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Glanbia PLC,GLB,POS,Change of position,Transaction in Own Shares,1570M,17685942,24.6,,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Rockwood Strategic PLC,RKW,IOE,Issue of equity,Issue of Equity and TVR,1569M,17685941,313,,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Sunrise Resources Plc,SRES,UPD,,Corporate Strategy,1566M,17685940,0.016,0.0,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Currys PLC,CURY,POS,Change of position,Transaction in Own Shares,1562M,17685939,160.4,-0.435,,
+2026-07-14 07:00:03,2026-07-14T06:00:03.000,Babcock International Group PLC,BAB,POS,Change of position,Transaction in Own Shares,1568M,17685945,994.6,-1.035,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,QinetiQ Group plc,QQ.,POS,Change of position,Transaction in Own Shares,1477M,17685911,443.2,-1.027,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Rockfire Resources PLC,ROCK,DRL,Drilling/exploration,Molaoi Drilling Update,1438M,17685912,0.115,-7.258,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Feedback PLC,FDBK,TST,Trading statement,Trading Update,1494M,17685913,6.6,-2.222,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,DP Poland PLC,DPP,TST,Trading statement,H1 and Q2 2026 Trading Update,1498M,17685914,6.75,-3.571,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Hercules PLC,HERC,CNT,,Civil Projects Division Secures £6.1m of Contracts,1495M,17685918,30.0,5.263,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Alien Metals Limited,UFO,DRL,Drilling/exploration,Iron Mineralisation Confirmed at Pilbara Projects ,1271M,17685910,0.095,0.0,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Sosandar PLC,SOS,FR,Final results,Full Year Results and Trading Update ,1329M,17685909,12,6.667,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,McBride PLC,MCB,POS,Change of position,Transaction in Own Shares,0874M,17685908,162.2,-0.246,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Keller Group PLC,KLR,POS,Change of position,Transaction in Own Shares,0856M,17685907,3446,0.058,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Johnson Service Group PLC,JSG,POS,Change of position,Transaction in Own Shares,0853M,17685906,143.2,-0.07,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Fevertree Drinks PLC,FEVR,POS,Change of position,Transaction in Own Shares,0849M,17685905,766,-1.034,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Bank of Montreal,0UKH,PFT,,Publication of Final Terms,1639M,17685898,,,,
+2026-07-14 07:00:02,2026-07-14T06:00:02.000,Hollywood Bowl Group plc,BOWL,POS,Change of position,Transaction in Own Shares,0847M,17685904,284,-1.389,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,"Pershing Square Holdings, Ltd.",PSH,POS,Change of position,Transaction in Own Shares,0713762440,17686031,3838,-0.98,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,MIGO Opportunities Trust plc,MIGO,ACS,,Annual Financial Report,60714-8556,17686158,408.5,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,SATO Oyj,IRSH,IR,Interim results,SATO Corporation Half-Year Report 1 January–30 June 2026: SATO’s steady development continued,1212664-en,17686033,,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,TotalEnergies SE,TTE,POS,Change of position,Transaction in Own Shares,0713317672,17686036,70.25,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,NB Private Equity Partners Limited,NBPE,POS,Change of position,NBPE Announces Transaction in Own Shares,1212617-en,17686042,1462,-1.482,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,Capita,CPI,MSCL,,Capita to deliver training for Army Collective Training System contract as part of Omnia Training consortium,ddb6beb690,17686053,230.5,-1.285,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Frontiers Investment Trust Plc,BRFI,TVR,Total voting rights,Total Voting Rights,60710-7958,17686088,190.5,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Energy and Resources Income Trust Plc,BERI,TVR,Total voting rights,Total Voting Rights,60710-7962,17686089,172.5,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Greater Europe Investment Trust Plc,BRGE,TVR,Total voting rights,Total Voting Rights,60710-7967,17686091,591,-1.005,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,Anglian Water Services Financing Plc,71GA,BOA,Board appointment/change,Chair Succession,60713-8517,17686095,,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock American Income Trust Plc,BRAI,TVR,Total voting rights,Total Voting Rights,60710-7943,17686099,277,0.0,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,BlackRock Smaller Companies Trust Plc,BRSC,TVR,Total voting rights,Total Voting Rights,60710-7969,17686100,263,-1.313,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,Anglian Water (Osprey) Financing Plc,11JS,BOA,Board appointment/change,Chair Succession,60713-8518,17686101,92.46375,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,Aigrette Financing (Issuer) Plc,BB31,BOA,Board appointment/change,Chair Succession,60713-8519,17686106,,,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,TwentyFour Income Fund Limited,TFIF,MSCL,,Monthly Fund Factsheet & Commentary - June 2026,60713-8450,17686131,109.2,-0.546,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,Sunbelt Rentals Holdings Inc.,SUNB,POS,Change of position,Share Repurchase Program - Weekly Report,60713-8530,17686132,5468,-1.655,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,TwentyFour Select Monthly Income Fund Limited,SMIF,MSCL,,Monthly Factsheet & Commentary June 2026,60713-8448,17686135,87,0.346,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,Sunbelt Rentals Holdings Inc.,SUNB,DSH,Director/PDMR shareholding,Transactions by Directors and Persons Discharging Managerial Responsibilities,60713-8531,17686136,5468,-1.655,,
+2026-07-14 07:00:00,2026-07-14T06:00:00.000,Sunbelt Rentals Holdings Inc.,SUNB,MSCL,,"Sunbelt Rentals Holdings, Inc. files Current Report on Form 8-K",60713-8464,17686139,5468,-1.655,,
