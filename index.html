@@ -43,7 +43,7 @@ a:hover{text-decoration:underline}
 </style>
 </head>
 <body>
-<h1>LSE RNS Digest</h1>
+<h1>LSE RNS Digest <span style="font-size:13px;font-weight:400;color:#777">— Joshua Middleton</span></h1>
 <div class="meta" id="meta">Loading…</div>
 <div id="books" style="margin-bottom:10px" hidden></div>
 <div class="controls" id="controls" hidden>
@@ -55,7 +55,7 @@ a:hover{text-decoration:underline}
   <span id="count" style="color:#666;font-size:13px"></span>
 </div>
 <div id="out"><div class="state">Loading today's announcements…</div></div>
-<p class="foot">Summaries are automated and for information only — not investment advice.</p>
+<p class="foot">Summaries are automated and for information only — not investment advice. Maintained by Joshua Middleton.</p>
 
 <script>
 let items=[], q='', cat='', book='';
@@ -183,7 +183,7 @@ async function load(){
     .sort((a,b)=>a.time<b.time?1:-1);
   const d=(items[0]&&items[0].time_uk||'').slice(0,10);
   const now=new Date().toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
-  document.getElementById('meta').textContent=`${d} · ${items.length} announcements since 07:00 UK · latest ${items[0]?items[0].time:''} · page checked ${now} · new data published hourly on weekdays`;
+  document.getElementById('meta').textContent=`${d} · ${items.length} announcements since 07:00 UK · latest ${items[0]?items[0].time:''} · page checked ${now} · new data published every 5 minutes on weekdays`;
   const sel=document.getElementById('cat');
   const keep=sel.value;
   sel.innerHTML='<option value="">All categories</option>';
