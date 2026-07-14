@@ -18,8 +18,6 @@ td.time{white-space:nowrap;font-variant-numeric:tabular-nums;color:#555}
 td.co b{font-weight:600}
 td.co .tk{color:#666;font-size:12px}
 td.cat{font-size:12px;color:#555;white-space:nowrap}
-td.chg{white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums}
-.up{color:#0a7a3d}.down{color:#b3282d}
 a{color:#0645ad;text-decoration:none}
 a:hover{text-decoration:underline}
 .state{color:#666;padding:40px 0}
@@ -80,17 +78,14 @@ function render(){
   });
   document.getElementById('count').textContent=`${v.length} of ${items.length}`;
   if(!v.length){document.getElementById('out').innerHTML='<div class="state">Nothing matches.</div>';return;}
-  let h='<table><thead><tr><th>Time</th><th>Company</th><th>Category</th><th>Headline / summary</th><th>Comment</th><th>Chg</th></tr></thead><tbody>';
+  let h='<table><thead><tr><th>Time</th><th>Company</th><th>Category</th><th>Headline / summary</th><th>Comment</th></tr></thead><tbody>';
   for(const it of v){
-    const n=parseFloat(it.pct_change);
-    const chg=isNaN(n)?'':`<span class="${n>0?'up':n<0?'down':''}">${n>0?'+':''}${n.toFixed(1)}%</span>`;
     h+=`<tr>
       <td class="time">${esc(it.time)}</td>
       <td class="co"><b>${esc(it.company)}</b>${it.ticker?` <span class="tk">${esc(it.ticker)}</span>`:''}</td>
       <td class="cat">${esc(it.category)}</td>
       <td><a href="${url(it)}" target="_blank" rel="noopener">${esc(it.headline)}</a>${it.summary?`<br><span style="color:#444">${esc(it.summary)}</span>`:''}</td>
       <td>${esc(it.retail_take)}</td>
-      <td class="chg">${chg}</td>
     </tr>`;
   }
   document.getElementById('out').innerHTML=h+'</tbody></table>';

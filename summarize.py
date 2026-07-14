@@ -169,8 +169,8 @@ def claude_summary(it, body, docs):
         f"Headline: {it.get('title')}\n\n"
         f"ANNOUNCEMENT TEXT:\n{body}{doc_block}\n\n"
         "Respond with ONLY a JSON object, no markdown fences, with exactly two keys:\n"
-        '  "summary": one sentence (max 40 words) capturing the material substance - key figures, '
-        "amounts, names, percentages, dates, and any linked-document contents that matter. "
+        '  "summary": two to three sentences (60-90 words) covering the material substance - key figures, '
+        "amounts, names, percentages, dates, context, and any linked-document contents that matter. "
         "No preamble, no 'the company announced', just the substance.\n"
         '  "take": one sentence (max 30 words) on what this likely means for retail investors '
         "and how the market is likely to read it - positive, negative or non-event, and why. "
@@ -181,7 +181,7 @@ def claude_summary(it, body, docs):
         "https://api.anthropic.com/v1/messages",
         data=json.dumps({
             "model": MODEL,
-            "max_tokens": 250,
+            "max_tokens": 400,
             "messages": [{"role": "user", "content": prompt}],
         }).encode(),
         headers={"Content-Type": "application/json",
