@@ -49,6 +49,7 @@ a:hover{text-decoration:underline}
 <div class="controls" id="controls" hidden>
   <input id="q" type="search" placeholder="Search…" aria-label="Search">
   <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+  <button id="refresh" title="Fetch the latest digest">Refresh</button>
   <button id="copySel" disabled>Copy selected (0)</button>
   <span id="count" style="color:#666;font-size:13px"></span>
 </div>
@@ -180,10 +181,14 @@ async function load(){
   items=parseCSV(text).map(r=>({...r, time:(r.time_uk||'').slice(11,19)}))
     .sort((a,b)=>a.time<b.time?1:-1);
   const d=(items[0]&&items[0].time_uk||'').slice(0,10);
-  document.getElementById('meta').textContent=`${d} · ${items.length} announcements since 07:00 UK · latest ${items[0]?items[0].time:''} · refreshed hourly on weekdays`;
-  const cats=[...new Set(items.map(i=>i.category).filter(Boolean))].sort();
+  const now=new Date().toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+  document.getElementById('meta').textContent=`${d} · ${items.length} announcements since 07:00 UK · latest ${items[0]?items[0].time:''} · page checked ${now} · new data published hourly on weekdays`;
   const sel=document.getElementById('cat');
+  const keep=sel.value;
+  sel.innerHTML='<option value="">All categories</option>';
+  const cats=[...new Set(items.map(i=>i.category).filter(Boolean))].sort();
   for(const c of cats){const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o);}
+  if([...sel.options].some(o=>o.value===keep)) sel.value=keep; else cat='';
   document.getElementById('controls').hidden=false;
   render();
 }
@@ -203,6 +208,11 @@ document.getElementById('copySel').addEventListener('click',()=>{
   });
 });
 loadBooks();
+document.getElementById('refresh').addEventListener('click',async()=>{
+  const btn=document.getElementById('refresh');
+  btn.disabled=true; btn.textContent='Refreshing…';
+  try{ await load(); } finally { btn.disabled=false; btn.textContent='Refresh'; }
+});
 document.getElementById('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
 document.getElementById('cat').addEventListener('change',e=>{cat=e.target.value;render();});
 load();
