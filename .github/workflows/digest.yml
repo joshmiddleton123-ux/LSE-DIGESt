@@ -7,7 +7,7 @@ on:
     # lets only the one where London time is 07:xx proceed.
     - cron: "20 6 * * 1-5"   # 07:20 London during BST (summer)
     - cron: "20 7 * * 1-5"   # 07:20 London during GMT (winter)
-  workflow_dispatch: {}       # manual trigger any time (skips the guard)
+  workflow_dispatch: {}   # manual trigger — run any time of day, pulls 07:00 up to now for today
 
 permissions:
   contents: write
@@ -25,10 +25,10 @@ jobs:
             echo "SKIP=1" >> $GITHUB_ENV
           fi
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         if: env.SKIP != '1'
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         if: env.SKIP != '1'
         with:
           python-version: "3.12"

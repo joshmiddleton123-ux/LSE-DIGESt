@@ -143,7 +143,10 @@ def main():
     items, total = pull_all()
 
     if args.since:
-        items = [it for it in items if to_london(it["datetime"]).strftime("%H:%M") >= args.since]
+        today = datetime.now(LONDON).strftime("%Y-%m-%d")
+        items = [it for it in items
+                 if to_london(it["datetime"]).strftime("%Y-%m-%d") == today
+                 and to_london(it["datetime"]).strftime("%H:%M") >= args.since]
     if args.until:
         items = [it for it in items if to_london(it["datetime"]).strftime("%H:%M") <= args.until]
     if not items:
