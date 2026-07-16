@@ -57,3 +57,4 @@ line is: time | company | category | headline.
 - The script pulls "today" as the explorer defines it. If a run ever fails
   (site change, outage), trigger it manually the same day or the announcements
   roll out of the default view.
+
