@@ -5,6 +5,10 @@ retail-investor comment and sentiment for each — published to a web page that
 updates every 5 minutes through the trading day.
 
 **Full installation and operations guide: [SETUP.md](SETUP.md)**
+
+Copyright (c) 2026 Joshua Middleton. All rights reserved — see [LICENSE](LICENSE).
+Viewing the code and using the hosted page is permitted; copying, modifying,
+or redeploying it is not, without written permission.
 https://joshmiddleton123-ux.github.io/LSE-DIGESt/
 ## How it works
 
