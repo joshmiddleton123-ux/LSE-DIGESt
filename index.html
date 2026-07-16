@@ -69,7 +69,8 @@ a:hover{text-decoration:underline}
 
 <script>
 let items=[], q='', book='';
-const hiddenCats=new Set();
+const hiddenCats=new Set(JSON.parse(localStorage.getItem('hiddenCats')||'[]'));
+function saveCats(){try{localStorage.setItem('hiddenCats',JSON.stringify([...hiddenCats]));}catch(e){}}
 let books={}; // name -> Set of normalised tickers
 const selected=new Set();
 
@@ -160,12 +161,12 @@ function buildCatPanel(){
     const l=document.createElement('label');
     const cb=document.createElement('input');
     cb.type='checkbox'; cb.checked=!hiddenCats.has(c);
-    cb.addEventListener('change',()=>{cb.checked?hiddenCats.delete(c):hiddenCats.add(c);syncCatBtn(cats);render();});
+    cb.addEventListener('change',()=>{cb.checked?hiddenCats.delete(c):hiddenCats.add(c);saveCats();syncCatBtn(cats);render();});
     l.appendChild(cb); l.appendChild(document.createTextNode(' '+c));
     panel.appendChild(l);
   }
-  panel.querySelector('#catAll').onclick=()=>{hiddenCats.clear();buildCatPanel();syncCatBtn(cats);render();};
-  panel.querySelector('#catNone').onclick=()=>{cats.forEach(c=>hiddenCats.add(c));buildCatPanel();syncCatBtn(cats);render();};
+  panel.querySelector('#catAll').onclick=()=>{hiddenCats.clear();saveCats();buildCatPanel();syncCatBtn(cats);render();};
+  panel.querySelector('#catNone').onclick=()=>{cats.forEach(c=>hiddenCats.add(c));saveCats();buildCatPanel();syncCatBtn(cats);render();};
   syncCatBtn(cats);
 }
 function syncCatBtn(cats){
