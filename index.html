@@ -16,6 +16,10 @@ h1{font-size:20px;margin:0 0 4px}
 .controls button:disabled{color:#999;cursor:default}
 #books button{font:inherit;font-size:13px;padding:5px 11px;border:1px solid #bbb;border-radius:3px;background:#f6f6f6;cursor:pointer;margin:0 6px 6px 0}
 #books button.on{background:#333;color:#fff;border-color:#333}
+#catPanel{position:absolute;top:calc(100% + 4px);left:0;background:#fff;border:1px solid #bbb;border-radius:3px;box-shadow:0 2px 8px rgba(0,0,0,.12);padding:8px 10px;max-height:320px;overflow:auto;z-index:30;min-width:260px}
+#catPanel label{display:block;font-size:13px;padding:2px 0;white-space:nowrap;cursor:pointer}
+#catPanel .quick{font-size:12px;margin-bottom:6px;border-bottom:1px solid #eee;padding-bottom:6px}
+#catPanel .quick a{margin-right:10px;cursor:pointer}
 td.sel,th.sel{width:26px;text-align:center}
 td.sel input,th.sel input{cursor:pointer}
 table{border-collapse:collapse;width:100%}
@@ -50,7 +54,10 @@ a:hover{text-decoration:underline}
 <div id="books" style="margin-bottom:10px" hidden></div>
 <div class="controls" id="controls" hidden>
   <input id="q" type="search" placeholder="Search…" aria-label="Search">
-  <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+  <span style="position:relative;display:inline-block;margin-right:8px">
+    <button id="catBtn" type="button">Categories ▾</button>
+    <div id="catPanel" hidden></div>
+  </span>
   <button id="refresh" title="Fetch the latest digest">Refresh</button>
   <a href="https://github.com/joshmiddleton123-ux/LSE-DIGESt/actions/workflows/digest.yml" target="_blank" rel="noopener" style="font-size:13px;margin-right:8px" title="Opens GitHub - needs repo access. Use 'Run workflow' there, then Refresh here.">Run now ↗</a>
   <button id="copySel" disabled>Copy selected (0)</button>
@@ -61,7 +68,8 @@ a:hover{text-decoration:underline}
 <p class="foot">Summaries are automated and for information only — not investment advice. Maintained by Joshua Middleton.</p>
 
 <script>
-let items=[], q='', cat='', book='';
+let items=[], q='', book='';
+const hiddenCats=new Set();
 let books={}; // name -> Set of normalised tickers
 const selected=new Set();
 
@@ -109,7 +117,7 @@ function normTick(t){return (t||'').toUpperCase().replace(/[^A-Z0-9]/g,'');}
 function render(){
   const v=items.filter(it=>{
     if(book && !(books[book]&&books[book].has(normTick(it.ticker)))) return false;
-    if(cat && it.category!==cat) return false;
+    if(hiddenCats.has(it.category||'')) return false;
     if(q){const s=(it.company+' '+it.ticker+' '+it.headline+' '+(it.brief||'')+' '+it.summary+' '+it.retail_take).toLowerCase();
       if(!s.includes(q)) return false;}
     return true;
@@ -143,6 +151,35 @@ function syncSel(v){
   btn.disabled=selected.size===0;
   btn.textContent=`Copy selected (${selected.size})`;
 }
+
+function buildCatPanel(){
+  const cats=[...new Set(items.map(i=>i.category||''))].filter(Boolean).sort();
+  const panel=document.getElementById('catPanel');
+  panel.innerHTML='<div class="quick"><a id="catAll">All</a><a id="catNone">None</a></div>';
+  for(const c of cats){
+    const l=document.createElement('label');
+    const cb=document.createElement('input');
+    cb.type='checkbox'; cb.checked=!hiddenCats.has(c);
+    cb.addEventListener('change',()=>{cb.checked?hiddenCats.delete(c):hiddenCats.add(c);syncCatBtn(cats);render();});
+    l.appendChild(cb); l.appendChild(document.createTextNode(' '+c));
+    panel.appendChild(l);
+  }
+  panel.querySelector('#catAll').onclick=()=>{hiddenCats.clear();buildCatPanel();syncCatBtn(cats);render();};
+  panel.querySelector('#catNone').onclick=()=>{cats.forEach(c=>hiddenCats.add(c));buildCatPanel();syncCatBtn(cats);render();};
+  syncCatBtn(cats);
+}
+function syncCatBtn(cats){
+  const shown=cats.filter(c=>!hiddenCats.has(c)).length;
+  document.getElementById('catBtn').textContent=
+    shown===cats.length?'Categories ▾':`Categories (${shown}/${cats.length}) ▾`;
+}
+document.getElementById('catBtn').addEventListener('click',()=>{
+  const p=document.getElementById('catPanel'); p.hidden=!p.hidden;
+});
+document.addEventListener('click',e=>{
+  const p=document.getElementById('catPanel');
+  if(!p.hidden && !e.target.closest('#catPanel') && e.target.id!=='catBtn') p.hidden=true;
+});
 
 async function loadBooks(){
   try{
@@ -187,12 +224,7 @@ async function load(){
   const d=(items[0]&&items[0].time_uk||'').slice(0,10);
   const now=new Date().toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
   document.getElementById('meta').textContent=`${d} · ${items.length} announcements since 07:00 UK · latest ${items[0]?items[0].time:''} · page checked ${now} · new data published every 5 minutes on weekdays`;
-  const sel=document.getElementById('cat');
-  const keep=sel.value;
-  sel.innerHTML='<option value="">All categories</option>';
-  const cats=[...new Set(items.map(i=>i.category).filter(Boolean))].sort();
-  for(const c of cats){const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o);}
-  if([...sel.options].some(o=>o.value===keep)) sel.value=keep; else cat='';
+  buildCatPanel();
   document.getElementById('controls').hidden=false;
   render();
 }
@@ -220,7 +252,6 @@ document.getElementById('refresh').addEventListener('click',async()=>{
   try{ await load(); } finally { btn.disabled=false; btn.textContent='Refresh'; }
 });
 document.getElementById('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
-document.getElementById('cat').addEventListener('change',e=>{cat=e.target.value;render();});
 load();
 </script>
 </body>
