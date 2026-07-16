@@ -53,12 +53,69 @@ claude-sonnet-4-6` next to `ANTHROPIC_API_KEY` in the workflow.
 
 ## Part 3 — GitHub Pages (the web page)
 
-1. **Settings → Pages → Build and deployment**: Source "Deploy from a
-   branch", Branch `main`, folder `/ (root)`, Save.
-2. After a minute or two the site is live at
-   `https://<username>.github.io/<repo-name>/`.
-3. Optional: on the repo front page, click the gear next to "About" and tick
-   "Use your GitHub Pages website" so the link shows on the repo.
+The page is a single static file, `index.html`, served straight from the
+repo by GitHub Pages. To switch it on:
+
+1. The repo must be **public** (Settings → General → Danger Zone → Change
+   visibility) — Pages is paid-only on private repos.
+2. Go to **Settings → Pages** (left sidebar, near the bottom).
+3. Under **Build and deployment**:
+   - Source: **Deploy from a branch**
+   - Branch: **main**, folder: **/ (root)**
+   - **Save**
+4. Wait 1-2 minutes. The green box at the top of the same settings page
+   shows the live URL — always
+   `https://<username>.github.io/<repo-name>/` — with a "Visit site"
+   button. If the box hasn't appeared, refresh the settings page.
+5. Every later push to `main` redeploys automatically within a minute or
+   two; there is nothing to re-do. Deployment history is visible under the
+   repo's Actions tab as "pages build and deployment" runs.
+6. Optional but recommended: on the repo's front page, click the gear icon
+   next to **About** (right-hand column), tick **"Use your GitHub Pages
+   website"**, save — the live link then shows permanently at the top of
+   the repo.
+
+If the page loads but says "No digest published yet", the site works — it
+just has no data. Run the workflow once (Actions tab → Run workflow) and
+reload.
+
+### How the page works and what's customisable
+
+`index.html` is self-contained (no build step, no dependencies). On load it
+fetches `digests/latest.csv` for the data and `books.csv` for the filter
+buttons, then re-checks for new data every 60 seconds.
+
+Things people commonly want to change, all near the top of `index.html`:
+
+- **Title and attribution** — the `<h1>` line and the footer paragraph.
+- **Auto-refresh interval** — the `setInterval(..., 60000)` line
+  (milliseconds).
+- **Copy line format** — the block inside the `copySel` click handler
+  builds `- Company - Headline: one-liner. {TICK LN Equity}`; edit the
+  template string there.
+- **Bloomberg pill** — the `bbg()` function; it uppercases the ticker,
+  turns a trailing `.` into `/` (LSE `TW.` → Bloomberg `TW/`), and wraps in
+  `{... LN Equity}`.
+- **Sentiment shading colours** — the `td.cm.pos` / `td.cm.neg` CSS rules.
+
+Edits can be made directly on github.com (pencil icon on the file); each
+commit redeploys the page automatically.
+
+### Page controls, for whoever you send the link to
+
+- **Book buttons** (MM2 / MM3 / MM4 / View all) — show only names in that
+  book, driven by `books.csv`.
+- **Categories ▾** — tick-box panel choosing which announcement categories
+  are visible, with All / None shortcuts. New categories appearing during
+  the day default to visible.
+- **Search** — matches company, ticker, headline, summary and comment.
+- **Checkboxes + Copy selected** — tick rows (header checkbox = all shown)
+  and copy Bloomberg-ready lines; selections survive filtering.
+- **Refresh** — fetch the newest published data immediately (the page also
+  does this itself every minute).
+- **Run now ↗** — opens the workflow on GitHub to force a fresh pull;
+  needs repo access.
+- The control bar stays pinned to the top while scrolling.
 
 ## Part 4 — reliable 5-minute scheduling (cron-job.org)
 
