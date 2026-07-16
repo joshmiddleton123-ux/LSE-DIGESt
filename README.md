@@ -3,7 +3,7 @@
 Pulls every announcement from the LSE news explorer once a day and commits a
 one-line-per-announcement digest to this repo. Runs entirely on GitHub's
 servers. Nothing runs on your machine.
-
+https://joshmiddleton123-ux.github.io/LSE-DIGESt/
 ## How it works
 
 - `lse_news_digest.py` calls the LSE site's internal component API, pages
