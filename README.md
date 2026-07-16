@@ -1,8 +1,10 @@
-# LSE News Digest
+# LSE RNS Digest
 
-Pulls every announcement from the LSE news explorer once a day and commits a
-one-line-per-announcement digest to this repo. Runs entirely on GitHub's
-servers. Nothing runs on your machine.
+Every LSE RNS announcement from 07:00 UK onwards, with an AI summary, brief,
+retail-investor comment and sentiment for each — published to a web page that
+updates every 5 minutes through the trading day.
+
+**Full installation and operations guide: [SETUP.md](SETUP.md)**
 https://joshmiddleton123-ux.github.io/LSE-DIGESt/
 ## How it works
 
