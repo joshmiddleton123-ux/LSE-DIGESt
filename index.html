@@ -8,7 +8,8 @@
 body{font-family:system-ui,-apple-system,Segoe UI,Arial,sans-serif;font-size:14px;color:#111;margin:24px auto;max-width:1100px;padding:0 16px;background:#fff}
 h1{font-size:20px;margin:0 0 4px}
 .meta{color:#666;font-size:13px;margin-bottom:16px}
-.controls{margin-bottom:14px}
+#stickybar{position:sticky;top:0;background:#fff;z-index:20;padding:10px 0 4px;border-bottom:1px solid #ddd;margin-bottom:10px}
+.controls{margin-bottom:6px}
 .controls input,.controls select{font:inherit;padding:6px 8px;border:1px solid #bbb;border-radius:3px;margin-right:8px}
 .controls input{width:320px;max-width:100%}
 .controls button{font:inherit;padding:6px 12px;border:1px solid #bbb;border-radius:3px;background:#f6f6f6;cursor:pointer;margin-right:8px}
@@ -45,6 +46,7 @@ a:hover{text-decoration:underline}
 <body>
 <h1>LSE RNS Digest <span style="font-size:13px;font-weight:400;color:#777">— Joshua Middleton</span></h1>
 <div class="meta" id="meta">Loading…</div>
+<div id="stickybar">
 <div id="books" style="margin-bottom:10px" hidden></div>
 <div class="controls" id="controls" hidden>
   <input id="q" type="search" placeholder="Search…" aria-label="Search">
@@ -53,6 +55,7 @@ a:hover{text-decoration:underline}
   <a href="https://github.com/joshmiddleton123-ux/LSE-DIGESt/actions/workflows/digest.yml" target="_blank" rel="noopener" style="font-size:13px;margin-right:8px" title="Opens GitHub - needs repo access. Use 'Run workflow' there, then Refresh here.">Run now ↗</a>
   <button id="copySel" disabled>Copy selected (0)</button>
   <span id="count" style="color:#666;font-size:13px"></span>
+</div>
 </div>
 <div id="out"><div class="state">Loading today's announcements…</div></div>
 <p class="foot">Summaries are automated and for information only — not investment advice. Maintained by Joshua Middleton.</p>
