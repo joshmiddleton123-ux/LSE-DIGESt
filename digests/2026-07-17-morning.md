@@ -5,6 +5,8 @@
 - 08:00:00 | Geiger Counter Ltd | Miscellaneous | Investor Presentation via Investor Meet Company
   - [summary failed: HTTP Error 529: <none>]
 - 08:00:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
+  - The Goldman Sachs Group Inc disclosed a holding of 3.019434% in Bodycote PLC as of 14 July 2026, comprising 5,067,477 direct voting rights (2.97%) and 85,251 voting rights via financial instruments (0.05%). This represents a decrease from the previous notification of 3.090482%. The stake was notified on 16 July 2026 and held through multiple Goldman Sachs entities across five ownership chains, primarily via Goldman Sachs Asset Management.
+  - Retail take: Routine major holdings disclosure showing a minor reduction in an institutional investor's stake; no material implications for shareholders or near-term trading.
 - 07:38:51 | Bank of Sharjah P.J.S.C. | Interim results | Half-year Financial Report
 - 07:24:26 | Georgina Energy PLC | Director/PDMR shareholding | Share Awards
   - Georgina Energy PLC granted 9.25 million share awards to directors and officers on 14 July 2026, the first equity incentives since July 2024 IPO. CEO Anthony Hamilton and COO John Heugh each received 2.5m shares; CFO Mark Wallace 2.5m; Chairman Peter Bradley and NED Roy Pitchford 750k each; Company Secretary Silvertree Partners 250k. Awards form part of Long Term Incentive Programme per prospectus. New shares admit to LSE on 22 July 2026, enlarging capital to 222.76m shares.
