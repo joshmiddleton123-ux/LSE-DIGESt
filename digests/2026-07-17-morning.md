@@ -3,6 +3,8 @@
 144 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:36:25 | CK Infrastructure Holdings Limited | Miscellaneous | List of Directors and their Roles and Functions
+  - CK Infrastructure Holdings Limited disclosed its board structure comprising 5 executive directors, 5 independent non-executive directors, 3 alternate directors, and 3 non-executive directors. The board operates 5 committees: Audit, Remuneration, Nomination, Sustainability, and Executive. Key positions include LI Tzar Kuoi, Victor as Chairman; FOK Kin Ning, Canning and KAM Hing Lam as Deputy Chairmen; and Andrew John Hunter and KAM Hing Lam as Co-Managing Directors. Committee chairpersons and memberships are detailed across governance functions.
+  - Retail take: Routine governance disclosure with no material changes indicated; standard regulatory compliance filing with no strategic implications for investors.
 - 12:34:21 | CQS New City High Yield Fund Ltd | Director/PDMR shareholding | Director/PDMR Shareholding
   - Ian Cadby, a Director of CQS New City High Yield Fund Limited, purchased 26,000 ordinary shares on 17 July 2026 at £0.52179 per share on the London Stock Exchange, totalling approximately £13,567. This initial notification is made under UK Market Abuse Regulation Article 19(3) requirements for director transactions.
   - Retail take: Routine insider purchase disclosure; modest transaction size suggests limited signalling value about management confidence or fund prospects.
