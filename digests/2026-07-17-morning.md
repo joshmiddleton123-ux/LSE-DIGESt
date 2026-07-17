@@ -1,7 +1,8 @@
 # LSE announcements — 2026-07-17
 
-146 announcements (07:00-latest). One line each plus AI summary where available.
+147 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:50:13 | Ramsdens Holdings PLC | Holding(s) in company | Holding(s) in Company
 - 12:44:26 | Deutsche Bank AG, Frankfurt | STA | Post Stabilisation Notice
 - 12:40:40 | Vulcan Two Group PLC | Holding(s) in company | Holding(s) in Company
   - Gresham House Asset Management Limited notified on 17 July 2026 of a change in its voting rights position in Vulcan Two Group PLC. The holding decreased from 11.07% to 10.85% (2,960,000 voting rights) following a threshold crossing on 16 July 2026. The position resulted from an acquisition or disposal of voting rights and is now below the 11% notifiable threshold.
@@ -394,6 +395,12 @@
 - 07:00:00 | Young & Co's Brewery PLC | Change of position | Transaction in Own Shares
   - Young & Co's Brewery executed its announced share buyback programme during 13-16 July 2026 through Peel Hunt on the London Stock Exchange. The company purchased 7,649 Non-voting shares at a volume-weighted average price of 718.24p (range 716-748p) for cancellation, and 10,250 A shares at 920.76p average (range 910-931p) for treasury. Post-transaction, the company will have 22,569,749 Non-voting shares and 38,037,755 A shares in issue.
   - Retail take: Routine capital management activity consistent with announced buyback programme; modest transaction size suggests measured approach to share reduction, likely neutral market reception.
+- 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
+  - As of 17 July 2026, BlackRock Smaller Companies Trust plc has 244,753,950 ordinary shares of £0.05 each in issued capital, excluding 53,938,655 shares held in treasury. This figure serves as the denominator for shareholder calculations under FCA Disclosure Guidance and Transparency Rules (DTR 5.6.1) to determine if notification of interests is required.
+  - Retail take: Routine regulatory disclosure of voting rights denominator required under UK transparency rules; no material implications for investors or share price.
+- 07:00:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
+  - As at 17 July 2026, BlackRock Energy and Resources Income Trust plc had 100,151,197 issued ordinary shares of £0.01 each in circulation, excluding 35,434,997 shares held in treasury. Shareholders must use the 100.15m figure as the denominator for calculating disclosure thresholds under FCA Disclosure Guidance and Transparency Rules provision 5.6.1 when determining if they are required to notify changes in their shareholding interests.
+  - Retail take: Routine regulatory disclosure updating the share count denominator for disclosure calculations; administrative notification with no material implications for investors or market positioning.
 - 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
   - BlackRock American Income Trust plc disclosed that as of 17 July 2026, it had 61,260,138 issued ordinary shares in circulation, each carrying one vote per share. The company holds 34,101,167 shares in treasury. The 61,260,138 figure serves as the denominator for shareholders calculating whether they must notify their interests under FCA Disclosure Guidance and Transparency Rules provision 5.6.1.
   - Retail take: Routine regulatory disclosure of voting share denominator for transparency compliance; no material implications for share valuation or company fundamentals.
@@ -403,12 +410,6 @@
 - 07:00:00 | Foresight Group Holdings Limited | Change of position | Transaction in Own Shares
   - Foresight Group Holdings Limited bought back 214,238 ordinary shares between 10-16 July 2026 via Berenberg, with prices ranging from 445.50p to 475.00p. The volume-weighted average prices ranged from 451.98p to 471.64p across five trading days. Total treasury holdings now stand at 5,020,091 shares (non-voting), with 111,327,712 shares carrying voting rights out of 116,347,803 in issue. Cumulative buybacks under the current programme total 6,671,775 shares.
   - Retail take: Routine capital management disclosure showing consistent buyback execution. Share prices trending upward (472p+ on final day) may signal confidence, but buyback programmes are typically pre-authorised and non-event unless scale or pace changes materially.
-- 07:00:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
-  - As at 17 July 2026, BlackRock Energy and Resources Income Trust plc had 100,151,197 issued ordinary shares of £0.01 each in circulation, excluding 35,434,997 shares held in treasury. Shareholders must use the 100.15m figure as the denominator for calculating disclosure thresholds under FCA Disclosure Guidance and Transparency Rules provision 5.6.1 when determining if they are required to notify changes in their shareholding interests.
-  - Retail take: Routine regulatory disclosure updating the share count denominator for disclosure calculations; administrative notification with no material implications for investors or market positioning.
-- 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
-  - As of 17 July 2026, BlackRock Smaller Companies Trust plc has 244,753,950 ordinary shares of £0.05 each in issued capital, excluding 53,938,655 shares held in treasury. This figure serves as the denominator for shareholder calculations under FCA Disclosure Guidance and Transparency Rules (DTR 5.6.1) to determine if notification of interests is required.
-  - Retail take: Routine regulatory disclosure of voting rights denominator required under UK transparency rules; no material implications for investors or share price.
 - 07:00:00 | The Biotech Growth Trust PLC | Portfolio update | Eli Lilly to acquire BIOG portfolio company, AtaiBeckley Inc.
   - Eli Lilly announced acquisition of AtaiBeckley Inc., a clinical-stage biotech focused on psychiatric disorder treatments, for approximately $2.8 billion ($6.75 per share) in cash—a 26% premium to closing price on 15 July 2026. Additional contingent value rights of ~$1 billion based on development/regulatory milestones could bring total consideration to $3.8 billion ($9.25 per share), representing 73% premium. AtaiBeckley's lead program BPL-003 has Breakthrough Therapy Designation for treatment-resistant depression. BIOG's 1.1% holding will be reflected in NAV on 16 July. Transaction marks the latest in seven successful M&A exits this year.
   - Retail take: Validates BIOG's small/mid-cap biotech investment strategy and adds to strong year of portfolio realizations; modest 1.1% NAV impact but reinforces conviction narrative for long-term value creation through exits.
