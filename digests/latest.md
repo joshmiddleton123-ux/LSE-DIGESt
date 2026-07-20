@@ -1,7 +1,13 @@
 # LSE announcements — 2026-07-20
 
-238 announcements (07:00-latest). One line each plus AI summary where available.
+240 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:30:00 | Volex PLC | Price/dividend information | Publication of a Prospectus
+  - Volex plc is upgrading from AIM to the Official List and Main Market of the London Stock Exchange, effective 8:00 a.m. on 24 July 2026. AIM trading ceases the same day, with the last trading day on 23 July 2026. The ISIN (GB0009390070) and ticker (VLX) remain unchanged. No new shares are being issued in connection with the admission. The prospectus has been approved by the FCA.
+  - Retail take: Market upgrade typically viewed positively as enhancing liquidity and profile for a £12,500-employee global manufacturer with 23 facilities. No capital raise means minimal shareholder dilution risk.
+- 12:30:00 | Essentra plc | Notice of results | Notice of Half Year 2026 Results
+  - Essentra plc will publish half-year results for the six months ended 30 June 2026 on Tuesday 28 July 2026 at 7:00 am via the Regulatory News Service and company website. An in-person presentation for analysts and investors begins at 8:30 am at the Storey Club in London, with a live webcast also available. A webcast recording will be published the same day.
+  - Retail take: Routine earnings announcement notice scheduling results disclosure and investor presentation; no material information disclosed; typical procedure for listed companies.
 - 12:21:00 | Fidelity Special Values Plc | MSCL | Monthly Factsheet
   - Fidelity Special Values PLC has released its monthly factsheet as at 30 June 2026. The document is available on the company's website and has been submitted to the UK Listing Authority for inspection on the National Storage Mechanism, with availability expected within two business days. The trust, managed by Alex Wright and Jonathan Winton, employs a contrarian value-investing approach focusing on undervalued UK companies with recovery potential. Over the 12-month period to May 2026, the trust's share price returned 23.7% versus 21.6% for the FTSE All-Share Index.
   - Retail take: Routine disclosure of standard monthly reporting documentation. Investors can review current portfolio composition and performance metrics. No material new information or corporate actions disclosed.
