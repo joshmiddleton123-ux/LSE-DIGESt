@@ -4,6 +4,8 @@
 
 - 08:18:30 | Sydbank A/S | Change of position | Aktietilbagekøb i AL Sydbank A/S – transaktioner i uge 29
 - 08:18:30 | Sydbank A/S | Change of position | AL Sydbank A/S share buyback programme: transactions in week 29
+  - AL Sydbank executed its DKK 1.1bn share buyback programme announced 25 February 2026, commencing 2 March and due to complete 31 January 2027. In week 29 (13-17 July), the bank purchased 30,000 shares via Danske Bank at average price DKK 607.07, totalling DKK 18.2m. Cumulative programme spending stands at DKK 490.8m for 917,000 shares. The bank now holds 918,569 treasury shares representing 1.04% of capital.
+  - Retail take: Routine capital management execution within disclosed parameters; buyback on track at approximately 83% programme completion by mid-July with six months remaining. No material implications for investors.
 - 08:17:35 | Hargreave Hale AIM VCT 1 PLC | Dividend declaration | DRIS Issue Price
   - Hargreave Hale AIM VCT 1 PLC has set the reference price for its Dividend Re-investment Scheme (DRIS) at 31.69p per Ordinary Share, based on the last published ex-dividend NAV as of 17 July 2026. The interim dividend was announced on 17 June 2026. New shares issued under the DRIS will have a payment and allotment date of 31 July 2026, with admission and dealing expected around 7 August 2026.
   - Retail take: Routine administrative announcement establishing the reinvestment price for dividend holders; no material implications beyond mechanical execution of existing dividend policy.
