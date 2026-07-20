@@ -3,6 +3,8 @@
 189 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:33:55 | RM PLC | Holding(s) in company | RM plc: Holding(s) in Company
+  - Harwood Capital LLP and associated entities (Rockwood Strategic Plc and Oryx International Growth Fund Limited) increased their combined voting rights in RM plc to 20.518% as of 14 July 2026, comprising 20.125 million shares. The threshold was crossed following acquisitions, with notification made on 17 July 2026. Ultimate controllers Christopher Harwood and Bernard Mills hold stakes through three separate vehicles: 18.351% via Rockwood Strategic Plc, 1.147% via Harwood Capital LLP, and 1.020% via Oryx International Growth Fund.
+  - Retail take: Routine disclosure of a major shareholding increase by a known investor; likely non-event unless market interprets as strategic consolidation or change in ownership intentions.
 - 10:33:36 | Edinburgh Worldwide Inv Trust PLC | Holding(s) in company | Holding(s) in Company
   - Bank of America Corporation, through Merrill Lynch International, notified a major holding in Edinburgh Worldwide Investment Trust PLC (EWI) on 17 July 2026. The threshold was crossed on 16 July 2026 with total voting rights of 5.063915%, comprising 5.003128% direct shares (17.3m votes), 0.013220% from rights to recall, and 0.047567% from cash-settled swaps expiring 9 September 2027. Previous notification showed 5.003728%, indicating a marginal increase.
   - Retail take: Routine disclosure of major shareholding notification above 5% threshold. Likely non-event for markets as it represents a standard regulatory filing with no material strategic implication evident.
