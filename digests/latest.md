@@ -3,7 +3,11 @@
 270 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:30:31 | Atlas Metals Group PLC | Issue of equity | Issue of New Ordinary Shares & Total Voting Rights
+  - Atlas Metals Group PLC is issuing 2,640,000 new ordinary shares at an average price of 7.04 pence per share through its at-the-market facility with Axis Capital Markets. All proceeds will be used to repay the funding facility with YA II PN Ltd (Yorkville Advisors Global). Following admission to LSE on 21 July 2026, total issued share capital will be 46,529,001 shares, each carrying one vote.
+  - Retail take: Debt refinancing via equity dilution; modest share count increase (5.7%) at modest valuation, typical ATM mechanism, de-risks near-term refinancing but dilutes existing shareholders.
 - 14:30:12 | Elementis PLC | Change of position | Transaction in Own Shares
+  - Elementis repurchased 413,139 ordinary shares between 13-17 July 2026 via Rothschild & Co across multiple venues. Weighted average purchase price was 158.4 pence per share, with prices ranging from 155.2p to 161.8p. Following settlement and cancellation, total ordinary shares in issue will be 569,418,097, with 88,496 held in treasury. Total voting rights will be 569,329,601. Purchases were executed across LSE, Turquoise, Chi-X, and Bats venues in compliance with the share buyback programme announced 3 June 2026.
+  - Retail take: Standard share buyback execution at moderately elevated prices (158.4p), consistent with announced programme. No material surprise; routine capital management signalling confidence but not aggressive return of value.
 - 14:30:00 | Schroder Eur Real Est Inv Trust PLC | Dividend declaration | Dividend Currency Exchange Rate (Sterling)
   - Schroder European Real Estate Investment Trust plc has set the currency exchange rate for its second interim dividend of 1.48 euro cents per share at 0.8490, converting to 1.25652 pence per share for UK-registered shareholders who did not elect to receive payment in euros. The dividend will be paid on 14 August 2026 to shareholders on the register as of 17 July 2026. This represents a routine administrative notice confirming conversion mechanics.
   - Retail take: Routine disclosure of dividend conversion mechanics; no material implications for valuation or dividend policy. Non-event for market.
