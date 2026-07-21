@@ -1,7 +1,10 @@
 # LSE announcements — 2026-07-21
 
-138 announcements (07:00-latest). One line each plus AI summary where available.
+139 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:00:00 | Capital Gearing Trust P.l.c. | MSCL | Share Split and Total Voting Rights
+  - CGT's shareholder-approved share split subdivides 25p Ordinary Shares into 10 new 2.5p shares, effective 23 July 2026. Total issued shares post-split: 265.8m (109.4m Treasury-held). Voting rights: 156.4m. Last trading day in old shares: 22 July; new shares admit 8am 23 July. New ISIN GB00BT66KP92; ticker CGT unchanged. Figure applies as denominator for disclosure threshold calculations under FCA rules.
+  - Retail take: Routine mechanical adjustment following AGM approval; share split eases trading liquidity and retail accessibility with no fundamental business change or value impact.
 - 09:59:17 | Journeo PLC | Holding(s) in company | Holding(s) in Company
   - Octopus Investments Limited, controlled by Octopus Capital Limited, crossed the notification threshold on 17 July 2026 by acquiring additional voting rights in Journeo PLC (ISIN GB00BKP51V79). The holding increased to 721,864 voting rights representing 4.1% of total voting rights, up from 3.23% at the previous notification. All voting rights are held indirectly through the controlled undertaking structure.
   - Retail take: Routine regulatory disclosure of major shareholding change. Octopus's increased stake signals continued confidence in Journeo but requires monitoring for strategic intent at higher thresholds.
