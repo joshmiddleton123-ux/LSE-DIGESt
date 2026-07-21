@@ -2,6 +2,9 @@
 
 188 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:55:01 | Puma AIM VCT PLC | Offer update | Correction: Offer for Subscription - Update
+  - Puma AIM VCT PLC issued a correction to an RNS announcement released earlier on 21 July 2026. The previous statement incorrectly claimed the £10 million over-allotment facility had been exercised. The offer for subscription, launched 9 September 2025, has raised gross proceeds exceeding £3.5 million as of 20 July 2026. The offer will close to further applications at 5.00 pm on 21 August 2026, with final allotment expected 26 August 2026 and admission within two business days.
+  - Retail take: Correction is non-material in substance but clarifies the over-allotment remains unexercised, limiting the fundraising to £3.5 million of the £10 million base target. Modest uptake may signal lukewarm investor demand for the VCT.
 - 14:12:47 | Potentially AI PLC | Holding(s) in company | Holding(s) in Company
   - Spreadex LTD, an FCA-regulated spread betting and CFD trading provider, notified on 21 July 2026 of crossing a major shareholding threshold in Potentially AI PLC on 20 July 2026. The entity now holds 5.35% total voting rights, comprising 1.54% through direct share ownership (5.895m shares) and 3.81% through CFD/swap financial instruments (14.59m voting rights). Previous position was 4.93%, indicating a net increase from increased financial instrument holdings.
   - Retail take: Routine major holding notification. Spreadex's position is primarily through leveraged CFD instruments rather than direct equity ownership, suggesting trading activity rather than strategic investment intent.
@@ -41,9 +44,6 @@
 - 12:31:31 | Axis Bank Limited | Miscellaneous | Updates
   - Axis Bank Limited allotted 116,524 equity shares of Rs. 2 each on 21 July 2026 following employee stock option/RSU scheme exercises. Paid-up share capital increased from Rs. 6,221,933,342 (3,110,966,671 shares) to Rs. 6,222,166,390 (3,111,083,195 shares). The allotment represents routine employee compensation plan execution.
   - Retail take: Routine employee stock plan execution with minimal dilution; immaterial capital increase of ~0.0037% likely to have no meaningful market impact.
-- 12:22:23 | Puma AIM VCT PLC | Offer update | Offer for Subscription - Update
-  - Puma AIM VCT plc is closing its offer for subscription on 21 August 2026, with final allotment expected 26 August and admission within two business days. The offer, launched 9 September 2025, targeted £10 million with a £10 million over-allotment facility. As of 20 July 2026, the company had raised gross proceeds exceeding £3.5 million. Directors may bring forward the closing date by announcement.
-  - Retail take: Mixed signal: solid early demand supporting the VCT but subscription fell materially short of the £20 million target, suggesting moderate investor appetite for the strategy.
 - 12:17:30 | Paragon Banking Group PLC | Miscellaneous | Announcement of early redemption 
   - Paragon Banking Group PLC has exercised its callable redemption option under Condition 5(b) of the terms and conditions for its £150,000,000 4.375% Fixed Rate Reset Callable Subordinated Tier 2 Notes (ISIN: XS2312738599) due 2031. All outstanding notes will be redeemed on 5 August 2026 at principal amount plus accrued interest. The notes will be delisted from the FCA Official List and London Stock Exchange Main Market on or shortly after the redemption date.
   - Retail take: Early redemption of callable Tier 2 notes likely signals improved capital position or refinancing opportunity; routine capital management exercise with minimal market impact; holders receive full principal repayment.
