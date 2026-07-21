@@ -1,7 +1,8 @@
 # LSE announcements — 2026-07-21
 
-151 announcements (07:00-latest). One line each plus AI summary where available.
+152 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:10:11 | Whitbread PLC | RDN | Director Declaration
 - 11:02:22 | Jardine Matheson Hldgs Ltd | Change of position | Transaction in Own Shares
   - Jardine Matheson Holdings repurchased 12,000 ordinary shares on 21 July 2026 at prices ranging from US$64.00 to US$65.46 per share, with a weighted average purchase price of US$64.7246. The repurchased shares will be cancelled. Following this transaction, JMH's issued share capital consists of 294,049,976 ordinary shares with one vote per share.
   - Retail take: Routine buyback reducing share count; modest scale suggests capital management rather than material shareholder value signal; typical governance disclosure.
