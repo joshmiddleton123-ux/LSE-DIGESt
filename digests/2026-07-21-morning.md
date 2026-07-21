@@ -3,6 +3,8 @@
 158 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:34:17 | Maven Renovar VCT PLC | Change of position | Transaction in Own Shares
+  - Maven Renovar VCT PLC repurchased and cancelled 94,047 ordinary shares at 52.50 pence per share on 21 July 2026. Following this transaction, issued share capital stands at 127,782,370 ordinary shares of 5p each. The announcement provides the updated voting rights denominator for shareholder notification purposes under FCA Disclosure Guidance and Transparency Rules.
+  - Retail take: Routine share buyback reducing share count; typical capital management activity for VCT. No material implications for valuation or strategy signalled.
 - 11:33:10 | Leverage Shares PLC | Result of meeting | Results of Adjourned Meeting - -3x Short Apple ETP
 - 11:30:10 | Edinburgh Worldwide Inv Trust PLC | Holding(s) in company | Holding(s) in Company
   - Weiss Asset Management LP, through controlled entities Brookdale International Partners L.P. (4.57%) and Brookdale Global Opportunity Fund (7.52%), has crossed the 12.09% voting rights notification threshold in Edinburgh Worldwide Investment Trust PLC (EWI) as of 16 July 2026. The entire position is held via cash-settled contracts for difference (CFDs) rather than direct share ownership. The threshold crossing was notified to the issuer on 20 July 2026.
