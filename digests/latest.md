@@ -1,7 +1,8 @@
 # LSE announcements — 2026-07-24
 
-300 announcements (07:00-latest). One line each plus AI summary where available.
+301 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
 - 18:30:59 | Lowland Investment Co PLC | Change of position | Transaction in Own Shares
   - Lowland Investment Company PLC purchased 140,730 of its own ordinary shares at 178.836p per share on 24 July 2026, to be held in treasury. This was executed under authority granted at the January 2026 AGM to repurchase up to 14.99% of issued capital. Treasury holdings now total 50.8m shares (18.82% of issued capital). The company's voting rights reduce to 219.3m from the total issued share capital of 270.2m shares.
   - Retail take: Share buybacks typically signal management confidence in valuation; modest repurchase within authority limits. Market likely views as neutral or mildly positive, though immaterial given size relative to cap.
@@ -124,12 +125,12 @@
 - 17:07:45 | Scottish Oriental Smlr Co Tst PLC | Change of position | Transaction in Own Shares
   - Scottish Oriental Smaller Companies Trust PLC purchased 35,000 of its own ordinary shares (5p each) at £2.58 per share on 24 July 2026, to be held in Treasury. Following the transaction, total issued share capital stands at 157,068,315 shares, with 45,727,833 held in Treasury (non-voting) and 111,340,482 voting shares outstanding. The total voting rights figure serves as the denominator for disclosure threshold calculations under FCA rules.
   - Retail take: Routine share buyback; typical capital management activity for investment trusts seeking to enhance shareholder value and manage share premium. Non-event for markets.
-- 17:07:13 | Babcock International Group PLC | Holding(s) in company | Holding(s) in Company
-  - Boston Partners (formerly Robeco Investment Management) crossed the 3% voting rights threshold in Babcock International Group PLC, holding 14,798,922 voting rights (3.01%) as of 22 July 2026. The stake is held through controlled undertaking Boston Partners Global Investors, Inc., with ultimate controlling person ORIX Corporation. Notification was made to the issuer on 23 July 2026.
-  - Retail take: Routine regulatory disclosure of major holding. Represents investor positioning in the defence and aerospace contractor; no immediate strategic signal for retail investors.
 - 17:07:13 | Aberdeen New India Investment Trust | Change of position | Transaction in Own Shares
   - Aberdeen New India Investment Trust PLC purchased 10,000 ordinary 25p shares at 708.0 pence per share on 24 July 2026 for treasury. Post-transaction, issued shares (excluding treasury) stand at 42,897,559 with 16,172,581 shares held in treasury. Total issued shares including treasury reach 59,070,140. The voting share count remains 42,897,559.
   - Retail take: Routine share buyback; modest volume suggests ongoing capital management. No material market impact expected from this standard treasury operation.
+- 17:07:13 | Babcock International Group PLC | Holding(s) in company | Holding(s) in Company
+  - Boston Partners (formerly Robeco Investment Management) crossed the 3% voting rights threshold in Babcock International Group PLC, holding 14,798,922 voting rights (3.01%) as of 22 July 2026. The stake is held through controlled undertaking Boston Partners Global Investors, Inc., with ultimate controlling person ORIX Corporation. Notification was made to the issuer on 23 July 2026.
+  - Retail take: Routine regulatory disclosure of major holding. Represents investor positioning in the defence and aerospace contractor; no immediate strategic signal for retail investors.
 - 17:06:58 | Aberdeen Asia Focus plc | Change of position | Transaction in Own Shares
   - On 24 July 2026, Aberdeen Asia Focus plc purchased 60,000 ordinary shares at 428.0 pence per share in the market, to be held in treasury. Following the transaction, the company has 137.3m shares in issue (excluding treasury) and 82.0m treasury shares. The total voting share count is 137.3m ordinary shares.
   - Retail take: Routine share buyback; modest treasury accumulation. Market typically views buybacks neutrally unless part of broader capital management strategy or signalling management confidence.
@@ -289,15 +290,15 @@
 - 15:04:57 | TBC Bank Group PLC | Acquisition | Acquisition of Majority Stake in OLX Uzbekistan
   - TBC Bank Group has completed its acquisition of a majority stake in OLX Uzbekistan through a joint venture with Titan Investments, with TBC owning 50% + 1 share and Titan owning the remainder. OLX UZ is among Uzbekistan's top 10 most-visited websites with over 5 million monthly active users and 2 million active listings, reaching approximately 17% of the country's active internet users. TBC plans to integrate financial and payment services into the platform to drive cross-selling opportunities and customer engagement.
   - Retail take: Market likely views positively as strategic diversification into high-growth digital classifieds vertical with immediate customer base expansion and synergy potential for financial services integration.
+- 15:00:00 | GSK PLC | ADM | Admission to Trading
+  - GSK plc has admitted 70,759 ordinary shares of 31¼ pence each to trading on the London Stock Exchange Main Market under an existing block listing in connection with the GlaxoSmithKline plc Share Save Plan 2022. The shares are fully fungible with existing ordinary shares (ISIN: GB00BN7SWP63). This admission covers the period 29 May 2026 to 24 July 2026, bringing total admitted ordinary shares to 4,316,292,310.
+  - Retail take: Routine administrative disclosure relating to employee share plan vesting; immaterial in scale and expected market activity. No material implications for investors.
 - 15:00:00 | Ibstock PLC | Holding(s) in company | Holding(s) in Company
   - JPMorgan Chase & Co. crossed a notification threshold in Ibstock PLC on 22 July 2026, with the issuer notified on 24 July. The resulting position shows holdings below the minimum disclosure threshold across direct voting rights, indirect voting rights, and financial instruments. JPMorgan's stake is held through multiple controlled undertakings including J.P. Morgan Securities PLC, J.P. Morgan SE, and J.P. Morgan Securities LLC.
   - Retail take: Routine regulatory disclosure of a major holder position falling below reportable thresholds. No material implications for investors given positions are below minimum disclosure requirements.
 - 15:00:00 | Ninety One PLC | Holding(s) in company | Holding(s) in Company
   - Forty Two Point Two raised its shareholding in Ninety One plc to 32.0032% (212,048,101 voting rights) as of 22 July 2026, up from 31.1900% previously. Under the Dual Listed Companies structure with Ninety One Limited, the aggregate combined holding is 25.9935% on a joint electorate basis. The UK Takeover Panel confirmed voting rights are assessed on joint electorate basis for Rule 9.1 mandatory offer purposes. The stake increase was notified on 23 July 2026.
   - Retail take: Significant shareholder stake increase approaching potential mandatory offer threshold; warrants monitoring for regulatory implications and potential corporate action, though current combined position remains below 30% trigger.
-- 15:00:00 | GSK PLC | ADM | Admission to Trading
-  - GSK plc has admitted 70,759 ordinary shares of 31¼ pence each to trading on the London Stock Exchange Main Market under an existing block listing in connection with the GlaxoSmithKline plc Share Save Plan 2022. The shares are fully fungible with existing ordinary shares (ISIN: GB00BN7SWP63). This admission covers the period 29 May 2026 to 24 July 2026, bringing total admitted ordinary shares to 4,316,292,310.
-  - Retail take: Routine administrative disclosure relating to employee share plan vesting; immaterial in scale and expected market activity. No material implications for investors.
 - 14:56:57 | One Health Group PLC | Holding(s) in company | Holding(s) in Company
   - Octopus Investments Limited, controlled by Octopus Capital Limited, crossed a notification threshold on 23 July 2026 when its voting rights in One Health Group PLC (ISIN GB00BNNT0595) decreased to 12.97% from the previous 13.81%. The holding comprises 1,794,679 indirect voting rights with no direct holdings or financial instruments. The change was notified to the issuer on 24 July 2026.
   - Retail take: Routine disclosure of a major shareholder stake reduction below 13% threshold; suggests modest portfolio adjustment with no material implications for company operations or strategy.
@@ -490,10 +491,10 @@
 - 10:00:26 | Puma VCT 13 PLC | Offer update | Offer for Subscription - Update
   - Puma VCT 13 plc is closing its offer for subscription on 25 August 2026 after raising gross proceeds exceeding £53.5m as of 23 July 2026. The offer, launched 24 September 2025, targeted £50m with a £20m over-allotment facility, both fully exercised. Final allotment is expected 28 August 2026 with admission within two business days thereafter.
   - Retail take: Strong oversubscription signals investor confidence in the VCT's investment strategy, though the closing represents conclusion of fundraising activity rather than ongoing news.
-- 10:00:01 | Sky News | NRA | Financial Period 1 July 2024 - 30 June 2025
 - 10:00:01 | Marks and Spencer Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - M Lemming, a PDMR and Managing Director of International operations at Marks and Spencer, sold 82,997 ordinary 1p shares on 23 July 2026 at £3.78255 per share on the London Stock Exchange. The transaction generated approximately £314,000 in proceeds. This is an initial notification of the share disposal.
   - Retail take: Routine disclosure of insider share sale. Directors selling shares can signal confidence concerns, though single transactions lack significance without broader context of holdings or pattern.
+- 10:00:01 | Sky News | NRA | Financial Period 1 July 2024 - 30 June 2025
 - 10:00:01 | Harbour Energy PLC | Holding(s) in company | Holding(s) in Company
   - LET, LLC (formerly LLOG Holdings, LLC), controlled by The Trustees of the Gerald A. Boelte Trust, reduced its voting rights in Harbour Energy PLC from 7.24% to 6.94%, representing 109.7 million shares. The reduction occurred on 23 July 2026. A one-year lock-up period from the 22 December 2025 RNS announcement continues to apply. Harbour Energy shares are being distributed to other entities and employees/former employees of LET, LLC.
   - Retail take: Routine major holding notification reflecting share distribution to other entities and employee participants; below 5% disclosure threshold so minor market relevance; lock-up restrictions remain in place.
