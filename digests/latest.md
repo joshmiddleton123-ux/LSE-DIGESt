@@ -3,6 +3,8 @@
 210 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:34:00 | LMS Capital | COS | Company Secretary Change
+  - LMS Capital plc has appointed Lorraine Young as Company Secretary with effect from 24 July 2026, succeeding IQ EQ Secretaries (UK) Limited in the role. No further details regarding Young's background, experience, or circumstances of the change were disclosed in the announcement.
+  - Retail take: Routine administrative change; company secretary appointments are typically non-material corporate housekeeping and unlikely to move the share price absent context about predecessor departure.
 - 15:32:52 | Kainos Group plc | ACS | Annual Report 2026
   - Kainos Group plc (LSE: KNOS) has submitted its Annual Report 2026 to the National Storage Mechanism, with copies available at https://data.fca.org.uk/#/nsm/nationalstoragemechanism and www.kainos.com. Hard copies will be posted to shareholders on 13 August 2026. The announcement provides no financial results or material updates; it is a procedural disclosure confirming filing compliance. Kainos operates three divisions: Digital Services, Workday Services, and Workday Products, serving public sector, commercial, and healthcare customers.
   - Retail take: Routine regulatory filing with no forward guidance, earnings data, or material updates disclosed; market will await detailed report contents for any substantive read-through.
