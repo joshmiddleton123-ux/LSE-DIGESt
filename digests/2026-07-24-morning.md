@@ -3,7 +3,11 @@
 122 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:00:39 | India Capital Growth Fund Limited | Change of position | Transaction in Own Shares and Total Voting Rights
+  - On 23 July 2026, India Capital Growth Fund Limited purchased 50,000 ordinary shares of 1p each for treasury at 167p per share. Following this transaction, the company has 65,052,624 shares with voting rights in issue, 47,449,549 shares in treasury, and 112,502,173 total shares including treasury holdings. The fund manages £126.6m in total assets with an average annual return of 12.7% since inception.
+  - Retail take: Routine share buyback disclosure establishing voting denominator for shareholders; standard capital management activity with no material implications for shareholders.
 - 10:00:26 | Puma VCT 13 PLC | Offer update | Offer for Subscription - Update
+  - Puma VCT 13 plc is closing its offer for subscription on 25 August 2026 after raising gross proceeds exceeding £53.5m as of 23 July 2026. The offer, launched 24 September 2025, targeted £50m with a £20m over-allotment facility, both fully exercised. Final allotment is expected 28 August 2026 with admission within two business days thereafter.
+  - Retail take: Strong oversubscription signals investor confidence in the VCT's investment strategy, though the closing represents conclusion of fundraising activity rather than ongoing news.
 - 10:00:01 | Sky News | NRA | Financial Period 1 July 2024 - 30 June 2025
 - 10:00:01 | Marks and Spencer Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - M Lemming, a PDMR and Managing Director of International operations at Marks and Spencer, sold 82,997 ordinary 1p shares on 23 July 2026 at £3.78255 per share on the London Stock Exchange. The transaction generated approximately £314,000 in proceeds. This is an initial notification of the share disposal.
