@@ -1,7 +1,8 @@
 # LSE announcements — 2026-07-24
 
-109 announcements (07:00-latest). One line each plus AI summary where available.
+110 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 09:19:00 | ZIGUP plc | ACS | Annual Report and Accounts and Notice of AGM
 - 09:11:54 | Red Rock Resources plc | Miscellaneous | Signature of Contract
   - Red Rock Resources' 50-50 joint venture with Koto DRC SARL has secured final contract signature with DRC's Ministry of Rural Development for construction of wall panel manufacturing facilities and low-cost housing in Kinshasa. Lot 1 contract valued at $7,158,887 with initial payment now authorized. This milestone follows an 18-month process including tender award in 2026 and regulatory approvals. Company noted financial position remains stretched while awaiting asset disposals and further fundraising.
   - Retail take: Positive milestone removing execution risk on a long-pending DRC project, though company remains financially constrained and dependent on stakeholder support; likely viewed as development progress but not a near-term revenue driver.
