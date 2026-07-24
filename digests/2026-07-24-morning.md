@@ -2,12 +2,13 @@
 
 157 announcements (07:00-latest). One line each plus AI summary where available.
 
-- 12:15:00 | Oracle Power PLC | Regulatory application/grant | Result of AGM
-  - Oracle Power PLC held its Annual General Meeting on 24 July 2026, with all proposed resolutions receiving shareholder approval as outlined in the formal notice dated 24 June 2026. The AIM-listed international project developer is advancing multiple initiatives including a green hydrogen production facility in Pakistan's Jhimpir Wind Corridor, a 1GW solar park in Thar, a 1.3GW hybrid renewable power plant, and exploration projects in Western Australia covering gold, copper and silver resources. Recent activity includes geotechnical drilling updates and assay results showing up to 71g/t gold at the Northern Zone project.
-  - Retail take: Routine governance approval with no material new information disclosed. Shareholders confirmed backing for existing strategy; market likely to treat as non-event unless broader project updates emerge.
+- 12:25:17 | Xtrackers ETC PLC | PFT | Final Terms
 - 12:15:00 | Foresight Enterprise VCT Plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - Foresight Enterprise VCT plc allotted 3,963 ordinary shares to director Ian Harris on 24 July 2026 as part of the Company's Dividend Reinvestment Scheme (DRIS). This is a routine notification of director shareholding changes following dividend reinvestment, reflecting the director's participation in the scheme to reinvest dividends into additional shares.
   - Retail take: Routine disclosure indicating director confidence through dividend reinvestment; no material market implications or significant shareholding change signalled.
+- 12:15:00 | Oracle Power PLC | Regulatory application/grant | Result of AGM
+  - Oracle Power PLC held its Annual General Meeting on 24 July 2026, with all proposed resolutions receiving shareholder approval as outlined in the formal notice dated 24 June 2026. The AIM-listed international project developer is advancing multiple initiatives including a green hydrogen production facility in Pakistan's Jhimpir Wind Corridor, a 1GW solar park in Thar, a 1.3GW hybrid renewable power plant, and exploration projects in Western Australia covering gold, copper and silver resources. Recent activity includes geotechnical drilling updates and assay results showing up to 71g/t gold at the Northern Zone project.
+  - Retail take: Routine governance approval with no material new information disclosed. Shareholders confirmed backing for existing strategy; market likely to treat as non-event unless broader project updates emerge.
 - 12:14:02 | Origin Enterprises Plc | TRS | Re-issue of Treasury Shares
   - Origin Enterprises plc transferred 925 treasury shares on 24 July 2026 to satisfy exercises under its Savings Related Share Option Scheme. Treasury shares reduced from 12,075,047 to 12,074,122. Total ordinary shares in issue (excluding treasury shares) now stand at 107,667,409. This is a routine capital management transaction reflecting employee share scheme participation.
   - Retail take: Routine disclosure with minimal market impact; reflects standard employee equity participation with negligible dilution effect on existing shareholders.
@@ -55,9 +56,6 @@
   - Retail take: Routine disclosure of a major shareholder stake crossing below the 5% regulatory threshold; no strategic implications for the company or broader market implications.
 - 11:21:15 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: CMB Approval for Bond Issuance to Foreign Markets
 - 11:07:35 | Smith & Nephew Plc | Change of position | Transaction in Own Shares
-- 11:06:08 | Lowland Investment Co PLC | Board appointment/change | Appointment of New Non-Executive Director
-  - Cindy Rampersaud, a qualified accountant with extensive FTSE and governance experience, joins Lowland Investment Company's board as non-executive director from 1 October 2026. She will serve on multiple committees including Audit and Risk, and succeed Gaynor Coley as Audit and Risk Committee Chair upon Coley's retirement. Rampersaud currently sits on JPMorgan US Smaller Companies Investment Trust and the UK Health Security Agency, with previous senior roles at Hipgnosis Songs Fund and across sectors including Pearson, Capita and EMI.
-  - Retail take: Routine board succession announcement with strong credentials in audit and governance; signals stable institutional management but immaterial to investment performance.
 - 11:00:00 | Pacsco Ltd | UPD | Update on Company's Future Strategy
   - PACSCo's board confirms that Bank of Mozambique's acceptance of debt assignment notification is the sole outstanding item before formal classification as an AIM Rule 15 cash shell. The company is now actively pursuing reverse takeover transactions. Target acquisition criteria include: active business in any sector within well-governed jurisdictions, strong management team capable of running an AIM-listed entity, net cash flow generative operations, and growth potential that would benefit from capital markets access.
   - Retail take: Signals transformation from operating company to acquisition vehicle; investors should expect volatility pending deal announcement, though strategic optionality may appeal to some.
