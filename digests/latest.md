@@ -3,6 +3,8 @@
 237 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:30:06 | Bellway PLC | Change of position | Transaction in Own Shares
+  - Bellway purchased 43,740 ordinary shares from 20-24 July 2026 via Deutsche Bank at a volume-weighted average price of 1,939.78p, within the range of 1,893p-1,995p. These shares will be cancelled. Since the second tranche was announced on 2 April 2026, Bellway has repurchased 3,326,223 shares; across both tranches, 6,284,539 shares have been bought. Post-settlement, total issued shares will be 113,021,410.
+  - Retail take: Routine share buyback execution reducing share count to enhance EPS. Market typically treats buybacks neutrally absent special context; this shows capital deployment discipline but is non-material to valuation.
 - 11:29:04 | Union Jack Oil PLC | Miscellaneous | Requisitioned General Meeting, Posting of Circular
   - Shareholders holding 20,650,096 shares (14.09% voting rights) requisitioned a general meeting scheduled for 24 August 2026 at 11:00 a.m. in London. The board unanimously opposes all proposed resolutions, characterising the requisition as misguided, ill-timed and value-destructive, arguing requisitioners are opportunistically seeking board replacement just six days after Reabold Resources' all-share offer announcement to prevent shareholders realising a control premium. A reconvened AGM will follow at 12:00 p.m. the same day.
   - Retail take: Board-shareholder conflict during pending takeover signals governance tensions and potential value destruction. Market likely interprets this negatively as activist pressure threatens deal certainty and management stability.
