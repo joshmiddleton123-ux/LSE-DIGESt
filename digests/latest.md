@@ -3,9 +3,9 @@
 410 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | PR Newswire | TSM | End of Day
 - 18:29:54 | RIT Capital Partners PLC | Total voting rights | Total Voting Rights and Completion of Tender Offer
   - RIT Capital Partners PLC has cancelled 11,172,560 shares purchased via tender offer at £26.8515 per share on 24 July 2026. Following completion, issued share capital stands at 129,942,353 ordinary shares, with 5,072,512 held in treasury. Total voting rights are now 124,869,841 shares, the denominator for FCA Disclosure Guidance and Transparency Rule calculations regarding shareholder interest notifications.
   - Retail take: Share count reduction through tender offer represents capital return to remaining shareholders; routine completion announcement with technical voting rights disclosure for regulatory compliance purposes.
