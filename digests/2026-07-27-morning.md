@@ -3,6 +3,8 @@
 161 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 08:48:37 | Sydbank A/S | Change of position | AL Sydbank A/S share buyback programme: transactions in week 30
+  - AL Sydbank A/S executed 30,000 share buybacks during week 30 (20-24 July 2026) at volume-weighted average prices ranging from DKK 609.17 to DKK 618.64, spending DKK 18.4m. Since the programme's March 2026 launch, the bank has repurchased 947,000 shares for DKK 509.2m of the planned DKK 1.1bn allocation, representing 1.08% of share capital. Execution continues on schedule ahead of the 31 January 2027 completion deadline, conducted via Danske Bank on Copenhagen Stock Exchange (XCSE).
+  - Retail take: Routine regulatory disclosure of ongoing capital management; repurchases within expected parameters support share buyback signalling. No material market impact anticipated—standard programme progress.
 - 08:48:37 | Sydbank A/S | Change of position | Aktietilbagekøb i AL Sydbank A/S – transaktioner i uge 30
 - 08:34:03 | Huddled Group PLC | Holding(s) in company | Holding(s) in Company
   - Unicorn AIM VCT plc, managed by Unicorn Asset Management Limited, crossed a notification threshold on 23 July 2026 when its voting rights in Huddled Group PLC decreased to 3.59% (29,137,930 shares), down from a previous position of 5.60%. The change was notified to the FCA on 24 July 2026. This represents a material reduction in the shareholder's stake, falling below the 5% disclosure threshold.
