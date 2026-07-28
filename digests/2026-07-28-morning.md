@@ -3,9 +3,9 @@
 379 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:25:45 | Foresight Solar Fund Limited | Change of position | Transaction in Own Shares
   - Foresight Solar Fund Limited purchased 14,376 ordinary shares on 28 July 2026 through Jefferies at prices ranging from 71.20p to 72.10p per share, with a volume-weighted average price of 71.76p. The shares will be held in Treasury as part of the buyback programme announced in May 2023. Following settlement, issued share capital comprises 609,958,720 ordinary shares with 545,188,743 voting rights.
   - Retail take: Routine share buyback execution within existing programme; minor capital management activity with no material implications for investors or valuation.
@@ -40,12 +40,12 @@
 - 17:35:00 | BlackRock Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
   - BlackRock Smaller Companies Trust purchased 75,000 ordinary shares at an average price of 270.50 pence per share for treasury. Following settlement on 30 July 2026, issued share capital will be 244,078,950 shares excluding treasury holdings. Treasury shares represent 18.28% of total issued capital (298.7m shares including treasury). Treasury shares carry no voting rights and are excluded from FCA reporting thresholds.
   - Retail take: Routine share buyback to manage capital structure and reduce share count; typical for closed-end funds and generally non-event for equity story.
-- 17:34:14 | Brunner Investment Trust PLC | Change of position | Transaction in Own Shares
-  - Brunner Investment Trust PLC purchased 283,165 ordinary shares on 28 July 2026 at an average price of 1530p per share, with prices ranging from 1516p to 1520.51p. The shares are being held in treasury. Post-transaction, the company holds 43,247,727 treasury shares against 42,964,562 shares in issue (excluding treasury), with total voting rights of 86,212,289.
-  - Retail take: Share buyback demonstrates capital deployment and potential support for share price; typical treasury activity that may modestly support earnings per share going forward.
 - 17:34:14 | European Smaller Companies Tst PLC | Change of position | Transaction in Own Shares
   - The Company purchased 298,560 of its own ordinary shares on 28 July 2026 at 232.6012 pence per share under authority granted at the November 2025 AGM (up to 14.99% limit). Treasury holdings now total 69,124,490 shares (16.84% of issued capital). Voting rights total 341,250,555 following the purchase.
   - Retail take: Routine share buyback within approved limits; indicates management confidence in valuation but signals no major strategic developments or material catalyst.
+- 17:34:14 | Brunner Investment Trust PLC | Change of position | Transaction in Own Shares
+  - Brunner Investment Trust PLC purchased 283,165 ordinary shares on 28 July 2026 at an average price of 1530p per share, with prices ranging from 1516p to 1520.51p. The shares are being held in treasury. Post-transaction, the company holds 43,247,727 treasury shares against 42,964,562 shares in issue (excluding treasury), with total voting rights of 86,212,289.
+  - Retail take: Share buyback demonstrates capital deployment and potential support for share price; typical treasury activity that may modestly support earnings per share going forward.
 - 17:30:00 | Dialight PLC | Miscellaneous | Correction: EBT Shareholding Percentage
   - Dialight PLC issued a correction to its 27 July 2026 announcement regarding the Dialight Employee's Share Ownership Plan Trust. The Trust's actual holding is 148,703 ordinary shares representing 0.37% of voting rights, not the previously stated 0.42%. The Trust will proceed with planned share purchases for settlement of awards under employee schemes including the Restricted Share Plan, Annual Performance Bonus Plan, and Value Creation Plan.
   - Retail take: Routine administrative correction with minimal market impact; the 0.05% downward revision is immaterial and reflects standard EBT shareholding disclosure procedures.
