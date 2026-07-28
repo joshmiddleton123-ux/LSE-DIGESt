@@ -3,6 +3,8 @@
 245 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:13:00 | Aberforth Smaller Companies Trust Plc | Dividend declaration | Dividend Declaration
+  - Aberforth Smaller Companies Trust plc has declared an interim dividend of 15.30p per ordinary share for the year ending 31 December 2026. The dividend will be paid on 27 August 2026 to shareholders registered at close of business on 7 August 2026, with an ex-dividend date of 6 August 2026.
+  - Retail take: Routine dividend declaration; demonstrates the trust's continued income distribution capability, likely viewed neutrally as standard practice for this investment trust.
 - 13:08:45 | Hastoe Capital Plc | ACS | Annual Financial Report
   - Hastoe Capital's group surplus increased to £7.0m (2025: £4.6m) with a 44% operating margin through controlled costs and reduced maintenance spending. Social housing lettings turnover rose 6% to £39.0m driven by inflation-linked rent increases, while operating costs fell 4% to £21.9m. The Association maintains strong liquidity with £38m available resources and comfortable covenant headroom, with EBITDA interest cover at 193% against a 130% golden rule threshold and 120% covenant requirement.
   - Retail take: Solid operational performance with improving margins, cost control and robust financial position; demonstrates resilience in affordable housing sector with strong covenant headroom suggesting low financial distress risk.
