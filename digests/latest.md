@@ -3,6 +3,8 @@
 169 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:23:00 | BH Macro Limited | Change of position | Transaction in Own Shares
+  - BH Macro Limited purchased 10,212 of its US Dollar shares on 27 July 2026 via J.P. Morgan Securities plc at a weighted average price of 4.2596. The shares will be held in treasury. Post-transaction, total voting rights stand at 459,278,977. The company maintains 300,046,529 Sterling shares and 23,547,900 US Dollar shares in issue (excluding treasury holdings of 77,709,183 Sterling and 959,878 US Dollar shares).
+  - Retail take: Routine share buyback activity for treasury holding; typical capital management for closed-ended investment funds. No material market implications suggested.
 - 09:22:46 | Avingtrans PLC | Holding(s) in company | Holding(s) in Company
   - Octopus Investments Limited, controlled by Octopus Capital Limited, crossed the 3% notifiable threshold in Avingtrans PLC on 24 July 2026, acquiring 1,191,959 shares representing 3.23% of voting rights. The notification was filed 27 July 2026. No financial instruments or indirect holdings are involved; the stake is held entirely through direct share ownership.
   - Retail take: Routine regulatory disclosure of a threshold crossing by established investment entity. Standard holding notification with no material implications for share price or company direction.
