@@ -3,6 +3,8 @@
 257 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:20:22 | Verici Dx PLC | Regulatory application/grant | Result of AGM
+  - At its 27 July 2026 AGM, Verici Dx plc secured approval for all five resolutions. Resolution 1 received 863.0m votes in favour (84.57%), while resolutions 2-5 achieved 99.7-99.98% support. The company, which develops transplant diagnostics including its lead Tutivia™ kidney rejection test, operates from Cardiff and Franklin, Tennessee.
+  - Retail take: Routine AGM approval with no material governance concerns; strong majority backing on core resolution suggests stable shareholder base. Non-event for market movement.
 - 14:14:00 | Bodycote PLC | Dividend declaration | Dividend notification
   - Bodycote plc has issued a correction notice following its FY26 interim results announcement on 28 July 2026. The record date for the interim dividend has been corrected to 2 October 2026, previously announced incorrectly as 1 October 2026. The ex-dividend date remains 1 October 2026 and the payment date remains 5 November 2026. No other dividend details have changed.
   - Retail take: Administrative correction with no material impact on dividend amount, timing or investor entitlements; routine housekeeping that affects only record-keeping mechanics.
