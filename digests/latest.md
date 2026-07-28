@@ -3,6 +3,8 @@
 372 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:05:02 | Kodal Minerals PLC | Result of meeting | Result of General Meeting
+  - Kodal Minerals plc held a general meeting on 28 July 2026 where shareholders unanimously approved all proposed resolutions. These included receiving the audited annual report and accounts for the year ended 31 December 2025 (published 23 June 2026), re-appointing auditors, and an advisory vote on the Directors' remuneration report. The West African lithium producer's Bougouni Lithium Project Stage 1 DMS plant achieved first spodumene concentrate production in February 2025 and made its first shipment in December 2025.
+  - Retail take: Routine shareholder approval with no material surprises; demonstrates stakeholder confidence but represents standard corporate governance disclosure without operational or financial implications.
 - 18:02:42 | Ceiba Investments Limited | Board appointment/change | Directorate change
   - Ceiba Investments Limited (LSE: CBA), a Guernsey-incorporated closed-ended investment company focused on Cuban real estate and tourism assets since 1996, announces the immediate resignation of Non-Executive Director Crispin Latymer. The company is listed on the LSE Specialist Fund Segment and has €25m convertible bonds due March 2026. No replacement announcement or reason for departure was disclosed.
   - Retail take: Routine board change with minimal market impact; no explanation provided suggests either pre-planned transition or immaterial departure. Non-executive director loss carries limited operational consequence for specialist Cuba-focused fund.
