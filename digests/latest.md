@@ -3,6 +3,8 @@
 266 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:00:40 | Aberdeen City Council | DOC | 1st Quarter Results 
+  - Aberdeen City Council has announced the publication of its Quarter 1 Financial Performance report for the financial year ending 31 March 2027. The report will be reviewed at a Finance and Resources Committee meeting scheduled for 5 August 2026. The agenda and supporting documents are available through the council's online meeting portal, though the linked document provides only access to the meeting calendar rather than specific financial details or results.
+  - Retail take: Routine local authority disclosure of quarterly financial results; not market-relevant as Aberdeen City Council is a public sector body, not a listed company.
 - 15:00:00 | AB "Ignitis grupė" | MSCL | Ignitis Group has retained ‘BBB+' credit rating
   - Lithuanian energy company AB Ignitis grupė has maintained its 'BBB+' investment-grade credit rating from S&P Global Ratings with a stable outlook following the agency's annual review completed on 18 September 2025. The rating reaffirmation aligns with the Group's strategic commitment to maintain a solid investment-grade rating of 'BBB' or above through 2028. The stable outlook has been consistently maintained since at least August 2024.
   - Retail take: Routine confirmation with no material change; reaffirmation of existing rating suggests stable operational and financial performance, providing mild reassurance to debt investors but unlikely to move equity markets.
