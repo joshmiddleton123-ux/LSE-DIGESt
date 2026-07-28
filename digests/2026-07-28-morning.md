@@ -3,6 +3,8 @@
 165 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:15:21 | AOTI, Inc. | Holding(s) in company | Holding(s) in Company
+  - Wasatch Advisors LP, a US-based investment adviser, notified on 28 July 2026 that its holding in AOTI Inc (ISIN: US03690C1027) increased to 13.17% of shares outstanding (14,011,977 shares) as of 27 July 2026, crossing the notification threshold. The previous position stood at 12.23%. The increase resulted from an acquisition of shares, with no financial instruments held.
+  - Retail take: Routine disclosure indicating modest accumulation by an established US fund manager; typical institutional holding activity with no obvious strategic implications flagged.
 - 09:12:12 | Eco Animal Health Group PLC | Holding(s) in company | Holding(s) in Company
   - Soros Fund Management LLC, through its UK holding entities SFM UK Holdings Limited and SFM UK Management LLP, crossed a notification threshold on 24 July 2026 by reducing its voting rights in Eco Animal Health Group PLC from 10.70793% to 9.76835%, representing 6,618,999 shares. The disposal was notified to the issuer on 27 July 2026. No financial instruments are attached to the position.
   - Retail take: Routine disclosure of a major shareholding reduction. Slight decrease below 10% threshold suggests portfolio rebalancing rather than loss of confidence; unlikely to move markets materially.
