@@ -1,8 +1,10 @@
 # LSE announcements — 2026-07-29
 
-159 announcements (07:00-latest). One line each plus AI summary where available.
+160 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:58:39 | Trainline PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
