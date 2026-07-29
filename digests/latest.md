@@ -1,8 +1,11 @@
 # LSE announcements — 2026-07-29
 
-162 announcements (07:00-latest). One line each plus AI summary where available.
+163 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 09:27:13 | Diageo PLC | Notice of results | Notification of Full Year Results and CMD
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:23:00 | BH Macro Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:09:58 | RWS Holdings PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
@@ -37,67 +40,69 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:06:00 | Ibstock PLC | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:05:00 | Valterra Platinum Limited | Dividend declaration | Interim Ordinary Dividend Declaration
-  - Valterra Platinum's board approved a gross interim cash dividend of R15.1 billion (R57.00 per share) on 27 July 2026. The dividend comprises a base cash dividend of R32.50 per share (40% of headline earnings, per policy) and an additional cash dividend of R24.50 per share under capital allocation framework. Payment dates are 24 August 2026 (JSE) and 8 September 2026 (LSE). For South African shareholders, standard 20% withholding tax applies unless treaty relief obtained; UK-listed shareholders receive Pound Sterling equivalent of 256.10 pence per share.
-  - Retail take: Strong shareholder return signal reflecting robust earnings and disciplined capital allocation. Material dividend yield and additional distribution suggest confidence in operational cash generation and constrained reinvestment needs, likely reading positively for income-focused investors.
 - 07:05:00 | Valterra Platinum Limited | Interim results | Interim results and board committee change
   - H1 2026 revenue doubled to R81.8bn driven by 85% surge in dollar PGM basket prices to US$2,801/oz and 18% higher sales volumes (1.7m oz). Adjusted EBITDA surged 406% to R33.4bn with 50% mining margin. Headline EPS jumped to R82.02 from R4.73; company declared R15.1bn total dividend (R57/share, 70% payout ratio vs 40% policy). However, three fatalities occurred during the period, prompting safety interventions. All-in sustaining costs fell 21% to US$996/3E oz. Net cash position strengthened to R23.7bn. Full-year 2026 production guidance (3.0-3.4m oz) and unit cost guidance (R19,000-R20,000/oz) reaffirmed.
   - Retail take: Strong financial delivery on rising commodity prices and operational improvements, with exceptional shareholder returns, likely viewed positively; however, elevated fatality count introduces ESG concern that may temper sentiment despite robust safety metrics relative to peers.
+- 07:05:00 | Valterra Platinum Limited | Dividend declaration | Interim Ordinary Dividend Declaration
+  - Valterra Platinum's board approved a gross interim cash dividend of R15.1 billion (R57.00 per share) on 27 July 2026. The dividend comprises a base cash dividend of R32.50 per share (40% of headline earnings, per policy) and an additional cash dividend of R24.50 per share under capital allocation framework. Payment dates are 24 August 2026 (JSE) and 8 September 2026 (LSE). For South African shareholders, standard 20% withholding tax applies unless treaty relief obtained; UK-listed shareholders receive Pound Sterling equivalent of 256.10 pence per share.
+  - Retail take: Strong shareholder return signal reflecting robust earnings and disciplined capital allocation. Material dividend yield and additional distribution suggest confidence in operational cash generation and constrained reinvestment needs, likely reading positively for income-focused investors.
 - 07:00:12 | Standard Chartered PLC | Interim results | Half Year Report 2026
   - Standard Chartered PLC submitted its 2026 Half Year Report to the Financial Conduct Authority on 29 July 2026. The document is available for inspection at the FCA's National Storage Mechanism and on the company's investor website. Physical copies will be posted to shareholders on 19 August 2026. The announcement provides contact details for investor relations and media enquiries but does not disclose specific financial metrics or performance data in the RNS notice itself.
   - Retail take: Routine disclosure of interim results filing; substantive market impact depends on actual H1 2026 financial performance details contained in the full report, which is not summarised in this announcement.
 - 07:00:11 | Standard Chartered PLC | Interim results | SCPLC Half Year Results 2026 -  Part 2
   - Standard Chartered's H1 2026 risk review shows credit exposure increased $72.8bn to $939.4bn, driven by higher derivative instruments (+$16.4bn), FVOCI assets (+$27.9bn), and customer loans (+$12.5bn). Credit impairment charges totalled $446m (H1 2025: $336m), with $234m attributable to Middle East conflict overlays and elevated downside scenario weightings (60% vs 41% prior year). Stage 1 performing loans remained strong at 94% of portfolio; stage 3 coverage ratios improved in WRB and CIB.
   - Retail take: Non-event for retail investors. Technical regulatory filing with risk metrics and governance detail; credit quality remains solid but geopolitical headwinds and heightened uncertainty driving conservative provisioning.
-- 07:00:08 | Vaalco Energy Inc | Notice of results | Q2'26 Earnings Release and Conference Call
-  - Vaalco Energy (NYSE: EGY; LSE: EGY) will release second quarter 2026 earnings on Thursday, August 6, 2026 after NYSE close, followed by a conference call Friday, August 7 at 8:00 a.m. CT. The Houston-based independent energy company operates production, development and exploration assets across Gabon, Egypt, Côte d'Ivoire, and Equatorial Guinea. Call details: US toll-free (833) 685-0907; UK +44 20 3769 4533; webcast available at www.vaalco.com.
-  - Retail take: Routine earnings announcement scheduling; no material information disclosed. Market impact depends on Q2 results when released August 6, not on this notice itself.
+- 07:00:08 | Predator Oil & Gas Holdings PLC | Miscellaneous | Execution of Amendment rig contract to drill MOU-6
+  - Predator Oil & Gas has executed an amendment to its drilling contract with Intrepid Drilling Limited for Rig 101, extending operations from 1 August to 1 October 2026 at the MOU-6 well site in Morocco. The company plans a three-month drilling and testing programme across two continents, with MOU-6 as the first well followed by Snowcap-3 in Trinidad. CEO Paul Griffiths highlighted confidence in well planning based on 2021-2023 drilling data, with potential de-risking of gas and oil resources for near-term production pending regulatory approvals.
+  - Retail take: Operational execution catalyst signals Predator advancing exploration programmes after 15-month rebuild period; market likely positive on activity de-risking but should note regulatory approval requirement before production.
 - 07:00:08 | Ondo InsurTech PLC | Notice of results | Notice of Results and Investor Presentation
   - Ondo InsurTech PLC will publish full year results for the period ended 31 March 2026 on 30 July 2026. Executive Chairman Gregory Mark Wood CBE, CEO Craig Foster, and CFO Kevin Withington will present findings via Investor Meet Company on 31 July 2026 at 14:00 BST. The live presentation is open to existing and potential shareholders, with pre-event questions accepted until 30 July 09:00 BST.
   - Retail take: Routine regulatory announcement providing results timing and presentation logistics; no material updates disclosed; market reaction will depend on results substance rather than this notice.
 - 07:00:08 | Avon Technologies Plc | Miscellaneous | $20.1M ACH GEN II DELIVERY ORDER
-- 07:00:08 | Rio Tinto PLC | Miscellaneous | Rio Tinto 2026 Half Year Results Presentation
-  - Rio Tinto PLC released its 2026 half-year results on 29 July 2026 at 8:30am AEST (11:30pm BST on 28 July). The results presentation, slides, and webcast recording are available on the company's investor relations website. CEO Simon Trott and CFO Peter Cunningham hosted the webcast followed by a Q&A conference call, providing shareholders with financial performance updates and strategic insights.
-  - Retail take: Routine regulatory announcement of results release; substantive market impact depends on actual financial performance disclosed in the presentation and slides, not yet detailed in this notice.
-- 07:00:08 | Billington Holdings PLC | NRA | Billington Leadership Appointments
-  - Kevin Campbell moves from Managing Director of Billington Structures to Group Strategic and Special Projects Director, after 4.5 years driving operational improvements and growth. Dan Duffield, currently Sales Director at Billington Structures, succeeds Campbell as Managing Director, bringing nine years with the company and extensive operational and commercial experience since 2007. CEO Mark Smith praised both appointments as well-deserved, highlighting their strategic fit for supporting long-term Group development and transformation initiatives.
-  - Retail take: Internal promotion of proven talent signals management confidence and continuity; no material risk indicated. Likely read as routine positive governance by the market.
-- 07:00:08 | Crimson Tide PLC | NRA | New Contract Win with APCOA Parking
-  - Crimson Tide plc has secured a new three-year contract with APCOA Parking (UK) Limited, part of Europe's leading parking management group operating 1.8 million spaces across 13 countries. mpro5 will be deployed across car park auditing, hospital site patrols, and civil enforcement officer patrols. The win follows competitive selection against two rival platforms and expands an existing relationship already live in Ireland, demonstrating customer confidence and the platform's configurability across multiple operational workflows.
-  - Retail take: Positive signal: demonstrates mpro5 market traction, validates product-market fit with large multi-site operators, and shows ability to expand within existing customers—supporting management's growth strategy and adding contracted recurring revenue.
-- 07:00:08 | Nexteq PLC | NRA | Mass production PO for Pro-AV display solution
-  - Densitron has secured a mass production purchase order for an integrated Pro-AV display solution featuring Tactila® haptic technology from a new professional audio-visual customer. The order commences in H2 2026 with unit volumes increasing incrementally over four years. This win validates Nexteq's strategic shift from hardware-only displays to higher-value integrated system solutions and demonstrates Tactila® commercial traction across broadcast and professional applications.
-  - Retail take: Market likely reads positively as material contract win validating Tactila® investment and strategic pivot to systems; incremental four-year ramp suggests meaningful revenue runway, though unnamed customer and early-stage timing limit immediate impact quantification.
 - 07:00:08 | Breedon Group PLC | Board appointment/change | Appointment of Non-Executive Director
   - Louis Eperjesi, former CEO of Tyman plc and with senior roles at Kingspan, Baxi, Lafarge and Caradon, joins Breedon's board in early 2027. He will sit on Audit and Risk, Remuneration, Nomination, and Sustainability Committees. Eperjesi currently serves as non-executive at Howden Joinery, Ibstock, Trifast and Accsys Technologies, stepping down from Ibstock prior to joining Breedon. Chairman Amit Bhatia cited his international materials market experience and change management expertise.
   - Retail take: Appointment of an experienced non-executive with strong sector credentials and established board presence adds strategic depth; routine but positive governance signal for a FTSE 250 company.
-- 07:00:08 | Predator Oil & Gas Holdings PLC | Miscellaneous | Execution of Amendment rig contract to drill MOU-6
-  - Predator Oil & Gas has executed an amendment to its drilling contract with Intrepid Drilling Limited for Rig 101, extending operations from 1 August to 1 October 2026 at the MOU-6 well site in Morocco. The company plans a three-month drilling and testing programme across two continents, with MOU-6 as the first well followed by Snowcap-3 in Trinidad. CEO Paul Griffiths highlighted confidence in well planning based on 2021-2023 drilling data, with potential de-risking of gas and oil resources for near-term production pending regulatory approvals.
-  - Retail take: Operational execution catalyst signals Predator advancing exploration programmes after 15-month rebuild period; market likely positive on activity de-risking but should note regulatory approval requirement before production.
-- 07:00:07 | Premier African Minerals Limited | Miscellaneous | Funding 
-  - Premier African Minerals completed a subscription raising approximately £550,000 before expenses through issuing 4 billion new ordinary shares at 0.01375 pence per share. Proceeds will support operational continuity at the Zulu Lithium and Tantalum Project in Zimbabwe, including mining and stockpiling activities, while the company negotiates an extension of the Long Stop Date with Canmax Technologies. Total issued share capital post-issuance will be 50.1 billion shares. Admission to AIM expected around 3 August 2026.
-  - Retail take: Heavy dilution (4bn new shares) to fund operational burn suggests weak balance sheet and project funding challenges. Market likely views this negatively absent concrete Canmax deal progress or production milestones.
-- 07:00:07 | Mobius Investment Trust PLC | DOC | Monthly Factsheet as at 30 June 2026
-  - Mobius Investment Trust plc (MMIT), listed on LSE since October 2018 and managed by MCP Emerging Markets LLP, has published its monthly factsheet as at 30 June 2026. The trust operates an unconstrained, long-only emerging markets strategy focusing on small and mid-cap companies, maintaining a concentrated portfolio of 25-30 holdings. The manager employs active ownership with bespoke ESG+C engagement strategies to drive value creation across portfolio companies.
-  - Retail take: Routine monthly disclosure providing investors with regular fund performance and portfolio data; no material news or strategic changes signalled in announcement itself.
-- 07:00:07 | Europa Oil & Gas (Holdings) PLC | Miscellaneous | Exercise of Options and Total Voting Rights
-  - Europa Oil & Gas (Holdings) plc will issue 600,000 ordinary shares (1 pence each) following employee option exercises under its 2011 EMI Scheme. The shares will be admitted to AIM trading on 4 August 2026. Post-admission, total ordinary shares in issue will be 1,316,739,215, which shareholders should use as the denominator for FCA Disclosure and Transparency Rules calculations.
-  - Retail take: Routine disclosure for employee share scheme exercise; modest dilution immaterial to capital structure; no operational or strategic implications signalled.
-- 07:00:07 | Hamak Strategy Limited | Miscellaneous | Maiden Independent 43-101 Resource at Akoko
-  - Hamak Strategy (LSE: HAMA) reported its first independent NI 43-101 mineral resource estimate for the Akoko Oxide Gold Project in southwest Ghana: 210,430oz at 0.76g/t Au (3.9m tonnes Measured & Indicated at 0.83g/t; 5.2m tonnes Inferred at 0.71g/t). Over 124,000oz represents shallow oxide material within 50m of surface at 0.81g/t Au with metallurgical recoveries of 85-94%. The company has optioned 100% acquisition at US$15/oz (US$9/oz cash plus share consideration). Hamak will proceed to independent PEA targeting 20,000+ oz annual production via simple open-pit heap-leach operation. Resource remains open at depth and along strike; only 35% of 15km geochemical anomaly drilled.
-  - Retail take: Market likely reads positively: maiden resource validates exploration thesis, attractive acquisition terms at US$15/oz imply good value entry, and near-term production potential via shallow oxide mining. However, this is exploration-stage with significant execution risk ahead; high-risk venture combined with company's Bitcoin treasury exposure.
+- 07:00:08 | Nexteq PLC | NRA | Mass production PO for Pro-AV display solution
+  - Densitron has secured a mass production purchase order for an integrated Pro-AV display solution featuring Tactila® haptic technology from a new professional audio-visual customer. The order commences in H2 2026 with unit volumes increasing incrementally over four years. This win validates Nexteq's strategic shift from hardware-only displays to higher-value integrated system solutions and demonstrates Tactila® commercial traction across broadcast and professional applications.
+  - Retail take: Market likely reads positively as material contract win validating Tactila® investment and strategic pivot to systems; incremental four-year ramp suggests meaningful revenue runway, though unnamed customer and early-stage timing limit immediate impact quantification.
+- 07:00:08 | Crimson Tide PLC | NRA | New Contract Win with APCOA Parking
+  - Crimson Tide plc has secured a new three-year contract with APCOA Parking (UK) Limited, part of Europe's leading parking management group operating 1.8 million spaces across 13 countries. mpro5 will be deployed across car park auditing, hospital site patrols, and civil enforcement officer patrols. The win follows competitive selection against two rival platforms and expands an existing relationship already live in Ireland, demonstrating customer confidence and the platform's configurability across multiple operational workflows.
+  - Retail take: Positive signal: demonstrates mpro5 market traction, validates product-market fit with large multi-site operators, and shows ability to expand within existing customers—supporting management's growth strategy and adding contracted recurring revenue.
+- 07:00:08 | Billington Holdings PLC | NRA | Billington Leadership Appointments
+  - Kevin Campbell moves from Managing Director of Billington Structures to Group Strategic and Special Projects Director, after 4.5 years driving operational improvements and growth. Dan Duffield, currently Sales Director at Billington Structures, succeeds Campbell as Managing Director, bringing nine years with the company and extensive operational and commercial experience since 2007. CEO Mark Smith praised both appointments as well-deserved, highlighting their strategic fit for supporting long-term Group development and transformation initiatives.
+  - Retail take: Internal promotion of proven talent signals management confidence and continuity; no material risk indicated. Likely read as routine positive governance by the market.
+- 07:00:08 | Rio Tinto PLC | Miscellaneous | Rio Tinto 2026 Half Year Results Presentation
+  - Rio Tinto PLC released its 2026 half-year results on 29 July 2026 at 8:30am AEST (11:30pm BST on 28 July). The results presentation, slides, and webcast recording are available on the company's investor relations website. CEO Simon Trott and CFO Peter Cunningham hosted the webcast followed by a Q&A conference call, providing shareholders with financial performance updates and strategic insights.
+  - Retail take: Routine regulatory announcement of results release; substantive market impact depends on actual financial performance disclosed in the presentation and slides, not yet detailed in this notice.
+- 07:00:08 | Vaalco Energy Inc | Notice of results | Q2'26 Earnings Release and Conference Call
+  - Vaalco Energy (NYSE: EGY; LSE: EGY) will release second quarter 2026 earnings on Thursday, August 6, 2026 after NYSE close, followed by a conference call Friday, August 7 at 8:00 a.m. CT. The Houston-based independent energy company operates production, development and exploration assets across Gabon, Egypt, Côte d'Ivoire, and Equatorial Guinea. Call details: US toll-free (833) 685-0907; UK +44 20 3769 4533; webcast available at www.vaalco.com.
+  - Retail take: Routine earnings announcement scheduling; no material information disclosed. Market impact depends on Q2 results when released August 6, not on this notice itself.
 - 07:00:07 | Accesso Technology Group PLC | APP | Appointment of Joint Corporate Broker
   - Accesso Technology Group PLC (AIM: ACSO) has appointed Shore Capital Stockbrokers Limited as joint corporate broker, working alongside Deutsche Numis, which continues as nominated adviser and existing corporate broker. The leisure and entertainment technology solutions provider serves over 1,100 clients across 31 countries. The appointment expands the company's corporate advisory and broking resources.
   - Retail take: Routine capital markets housekeeping; appointment of additional broker support is standard practice and typically signals preparation for corporate activity or liquidity expansion, though not material in itself.
-- 07:00:07 | Plus500 Limited | RDN | Notification under UK Listing Rule 6.4.9R(2)
-  - Tami Gottlieb, an Independent Non-Executive Director at Plus500, has been appointed as an External Director of Almadev Real Estate Inc., a Canadian company listed on the Tel-Aviv Stock Exchange, effective 27 July 2026. The appointment is disclosed under UK Listing Rule 6.4.9R(2) requirements for director related-party positions.
-  - Retail take: Routine regulatory disclosure of a director's external appointment; immaterial to Plus500's operations and financial position; likely market neutral as no conflicts apparent.
+- 07:00:07 | Hamak Strategy Limited | Miscellaneous | Maiden Independent 43-101 Resource at Akoko
+  - Hamak Strategy (LSE: HAMA) reported its first independent NI 43-101 mineral resource estimate for the Akoko Oxide Gold Project in southwest Ghana: 210,430oz at 0.76g/t Au (3.9m tonnes Measured & Indicated at 0.83g/t; 5.2m tonnes Inferred at 0.71g/t). Over 124,000oz represents shallow oxide material within 50m of surface at 0.81g/t Au with metallurgical recoveries of 85-94%. The company has optioned 100% acquisition at US$15/oz (US$9/oz cash plus share consideration). Hamak will proceed to independent PEA targeting 20,000+ oz annual production via simple open-pit heap-leach operation. Resource remains open at depth and along strike; only 35% of 15km geochemical anomaly drilled.
+  - Retail take: Market likely reads positively: maiden resource validates exploration thesis, attractive acquisition terms at US$15/oz imply good value entry, and near-term production potential via shallow oxide mining. However, this is exploration-stage with significant execution risk ahead; high-risk venture combined with company's Bitcoin treasury exposure.
 - 07:00:07 | Thor Energy PLC | Miscellaneous | Quarterly Activities and Cash Flow Report Q2 2026
   - Thor Energy ended Q2 2026 with A$2.815m cash, down A$499k from Q1, after spending A$66k on exploration. The HY-Range Project Phase-2 geochemistry survey recorded natural hydrogen concentrations of up to 3% (30,000ppm), approximately 60,000 times background levels, validating three priority exploration areas. Thor awarded Velseis a 464 line-kilometre 2D seismic survey contract (Q3-Q4 2026), fully funded from existing reserves following non-core asset divestments. Additionally, Thor expects to receive the first of three annual deferred payments of A$1.3125m on 1 September 2026 from the FRAM JV sale to Tivan Limited.
   - Retail take: Positive signal: encouraging hydrogen geochemistry results and funded seismic programme de-risk the exploration thesis, with near-term cash inflow reducing funding concerns and extending runway to approximately 5.6 quarters of operations.
-- 07:00:06 | SRT Marine Systems PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - Oliver Plunkett, Non-Executive Director and CEO of Ocean Infinity (SRT's 14.63% shareholder), purchased 190,456 ordinary shares on 27 July 2026 at 77.9575 pence each via LSE. Following the transaction, Plunkett holds 785,456 shares directly (0.29% of issued capital) and maintains indirect beneficial interest via Ocean Infinity in 39,943,422 shares (14.63%). The purchase signals continued confidence from a connected party in maritime surveillance and fisheries monitoring technology provider.
-  - Retail take: Director purchase at current market price suggests confidence in company fundamentals; however, as routine PDMR disclosure with no material change in Ocean Infinity's controlling stake, likely treated as non-event by markets.
+- 07:00:07 | Europa Oil & Gas (Holdings) PLC | Miscellaneous | Exercise of Options and Total Voting Rights
+  - Europa Oil & Gas (Holdings) plc will issue 600,000 ordinary shares (1 pence each) following employee option exercises under its 2011 EMI Scheme. The shares will be admitted to AIM trading on 4 August 2026. Post-admission, total ordinary shares in issue will be 1,316,739,215, which shareholders should use as the denominator for FCA Disclosure and Transparency Rules calculations.
+  - Retail take: Routine disclosure for employee share scheme exercise; modest dilution immaterial to capital structure; no operational or strategic implications signalled.
+- 07:00:07 | Plus500 Limited | RDN | Notification under UK Listing Rule 6.4.9R(2)
+  - Tami Gottlieb, an Independent Non-Executive Director at Plus500, has been appointed as an External Director of Almadev Real Estate Inc., a Canadian company listed on the Tel-Aviv Stock Exchange, effective 27 July 2026. The appointment is disclosed under UK Listing Rule 6.4.9R(2) requirements for director related-party positions.
+  - Retail take: Routine regulatory disclosure of a director's external appointment; immaterial to Plus500's operations and financial position; likely market neutral as no conflicts apparent.
+- 07:00:07 | Mobius Investment Trust PLC | DOC | Monthly Factsheet as at 30 June 2026
+  - Mobius Investment Trust plc (MMIT), listed on LSE since October 2018 and managed by MCP Emerging Markets LLP, has published its monthly factsheet as at 30 June 2026. The trust operates an unconstrained, long-only emerging markets strategy focusing on small and mid-cap companies, maintaining a concentrated portfolio of 25-30 holdings. The manager employs active ownership with bespoke ESG+C engagement strategies to drive value creation across portfolio companies.
+  - Retail take: Routine monthly disclosure providing investors with regular fund performance and portfolio data; no material news or strategic changes signalled in announcement itself.
+- 07:00:07 | Premier African Minerals Limited | Miscellaneous | Funding 
+  - Premier African Minerals completed a subscription raising approximately £550,000 before expenses through issuing 4 billion new ordinary shares at 0.01375 pence per share. Proceeds will support operational continuity at the Zulu Lithium and Tantalum Project in Zimbabwe, including mining and stockpiling activities, while the company negotiates an extension of the Long Stop Date with Canmax Technologies. Total issued share capital post-issuance will be 50.1 billion shares. Admission to AIM expected around 3 August 2026.
+  - Retail take: Heavy dilution (4bn new shares) to fund operational burn suggests weak balance sheet and project funding challenges. Market likely views this negatively absent concrete Canmax deal progress or production milestones.
+- 07:00:06 | Phoenix Spree Deutschland Limited | Portfolio update | Portfolio Valuation and Business Update
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:06 | Conygar Investment Company PLC(The) | Holding(s) in company | Holding(s) in Company
+  - Whiterow Properties Ltd, a company registered in Elgin, Scotland, has notified the FCA of crossing the 5% major shareholding threshold in The Conygar Investment Company PLC on 28 July 2026. The entity now holds 3,386,000 voting rights representing 5.678% of the company. The ultimate beneficial owners identified are Alexander W Adam (0.521%) and James G Adam (0.042%), with Whiterow Properties Ltd holding 5.114% of voting rights.
+  - Retail take: Routine major holdings disclosure triggering regulatory notification requirements. No material substance disclosed regarding intentions or strategic implications for investors.
 - 07:00:06 | RTW Biotech Opportunities Ltd | Portfolio update | Yarrow Bioscience merges with VYNE Therapeutics
 - 07:00:06 | RentGuarantor Holdings PLC | Board appointment/change | Proposed Board Changes
   - RentGuarantor proposes appointing Ben Thompson (40+ years financial services experience, former ULS Technology CEO), Maya Klein Wassink (corporate finance and capital markets adviser with 25+ years property development experience), and Simon Jackson (35+ year chartered accountant, former CEO of WH Ireland and Brooks Macdonald) as independent Non-Executive Directors. Amanda Bower, current Business Compliance Manager, is proposed as Executive Director/Chief People and Risk Officer, and David Cliff transitions from Non-Executive to Executive Director of Research and Innovation. Appointments subject to regulatory due diligence, completion expected this quarter.
@@ -114,25 +119,23 @@
 - 07:00:06 | Telecom Plus PLC | ADM | Admission to Trading
   - Telecom Plus PLC has admitted 18,315 ordinary shares of 5 pence each to trading on the London Stock Exchange Main Market, covering the period 26 May to 25 July 2026. The shares were issued under existing block listing admissions relating to The Telecom Plus PLC Employee Share Option Plan and Omnibus Plan. Total ordinary shares in issue now stand at 78,110,364, with the newly admitted shares fully fungible with existing shares.
   - Retail take: Routine disclosure of employee share scheme awards; typical for companies with established option plans. No material impact signalled.
-- 07:00:06 | Oriole Resources PLC | Board appointment/change | Non-Executive Director and Corporate Appointments
-  - Dr Mike Armitage, with 40 years' mining industry experience including 30 years at SRK Consulting, joins as Non-Executive Director from 1 August 2026 to support development of Cameroon projects (Mbe: 1.66Moz gold resource; Bibemi: 460koz resource). Rod Venables appointed Company Secretary for corporate governance support. Zeus Capital appointed broker, replacing previous adviser, bringing natural resources sector expertise and planned research coverage.
-  - Retail take: Board strengthening with credible technical expertise ahead of Cameroon project development phase signals management confidence in transition from exploration to production; broker appointment suggests increased investor relations focus.
+- 07:00:06 | SRT Marine Systems PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - Oliver Plunkett, Non-Executive Director and CEO of Ocean Infinity (SRT's 14.63% shareholder), purchased 190,456 ordinary shares on 27 July 2026 at 77.9575 pence each via LSE. Following the transaction, Plunkett holds 785,456 shares directly (0.29% of issued capital) and maintains indirect beneficial interest via Ocean Infinity in 39,943,422 shares (14.63%). The purchase signals continued confidence from a connected party in maritime surveillance and fisheries monitoring technology provider.
+  - Retail take: Director purchase at current market price suggests confidence in company fundamentals; however, as routine PDMR disclosure with no material change in Ocean Infinity's controlling stake, likely treated as non-event by markets.
 - 07:00:06 | Digitalbox PLC | Holding(s) in company | Holding(s) in Company
   - Cecil Hetherington, through Ardenlee Capital Limited, acquired voting rights in Digitalbox PLC (ISIN GB00BJK9H642) crossing a regulatory threshold on 28 July 2026. The holding increased to 24,934,571 shares representing 21.14% of voting rights, up from 7.08% previously. The notification was filed same-day in Belfast.
   - Retail take: Significant stake accumulation by a single shareholder signals potential strategic interest or influence shift; market will assess intent and whether further disclosure follows.
-- 07:00:06 | Conygar Investment Company PLC(The) | Holding(s) in company | Holding(s) in Company
-  - Whiterow Properties Ltd, a company registered in Elgin, Scotland, has notified the FCA of crossing the 5% major shareholding threshold in The Conygar Investment Company PLC on 28 July 2026. The entity now holds 3,386,000 voting rights representing 5.678% of the company. The ultimate beneficial owners identified are Alexander W Adam (0.521%) and James G Adam (0.042%), with Whiterow Properties Ltd holding 5.114% of voting rights.
-  - Retail take: Routine major holdings disclosure triggering regulatory notification requirements. No material substance disclosed regarding intentions or strategic implications for investors.
-- 07:00:06 | Phoenix Spree Deutschland Limited | Portfolio update | Portfolio Valuation and Business Update
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Standard Chartered PLC | Interim results | SCPLC Half Year Results 2026 – Part 1 
+- 07:00:06 | Oriole Resources PLC | Board appointment/change | Non-Executive Director and Corporate Appointments
+  - Dr Mike Armitage, with 40 years' mining industry experience including 30 years at SRK Consulting, joins as Non-Executive Director from 1 August 2026 to support development of Cameroon projects (Mbe: 1.66Moz gold resource; Bibemi: 460koz resource). Rod Venables appointed Company Secretary for corporate governance support. Zeus Capital appointed broker, replacing previous adviser, bringing natural resources sector expertise and planned research coverage.
+  - Retail take: Board strengthening with credible technical expertise ahead of Cameroon project development phase signals management confidence in transition from exploration to production; broker appointment suggests increased investor relations focus.
+- 07:00:05 | KRM22 PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | AIQ Limited | Issue of debt | Issue of Convertible Loan Notes
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Civil Aviation Authority | IRS | CAA DECISION ON EARLY HEATHROW EXPANSION COSTS
 - 07:00:05 | AIQ Limited | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | KRM22 PLC | Trading statement | Trading Update
+- 07:00:05 | Franchise Brands PLC | Interim results | Interim Results 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Tracsis PLC | Acquisition | Proposed acquisition of Mistral Data Limited
   - [summary failed: HTTP Error 400: Bad Request]
@@ -140,7 +143,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Total Graphite PLC | UPD | Commencement of Downstream Development Programme
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Franchise Brands PLC | Interim results | Interim Results 
+- 07:00:05 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | TotalEnergies SE | ADM | Admission of securities to the official list 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -148,17 +151,17 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | European Green Transition PLC | Trading statement | H1 2026 Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Jadestone Energy PLC | Trading statement | H1 2026 Trading Statement
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Science Group PLC | TRS | Treasury Shares Issued
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | Hemogenyx Pharmaceuticals PLC | UPD | Collaboration and Company Update 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Conduit Holdings Limited | Interim results | Interim results for the six months ended 30/06/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Cobra Resources PLC | Drilling/exploration | Wudinna Rare Earth Project Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
+- 07:00:05 | Standard Chartered PLC | Interim results | SCPLC Half Year Results 2026 – Part 1 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Hemogenyx Pharmaceuticals PLC | UPD | Collaboration and Company Update 
+- 07:00:05 | Jadestone Energy PLC | Trading statement | H1 2026 Trading Statement
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | AO World plc | Change of position | Transaction in Own Shares
 - 07:00:04 | Permanent TSB Group Holdings PLC | Interim results | Commentary on 2026 Half-year Report
@@ -175,15 +178,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | LPA Group PLC | CNT | New Contract Award
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Reckitt Benckiser Group PLC | Interim results | Results for the Six Months Ended 30 June 2026
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Altitude Group PLC | FUR | Rescheduling of Full Year Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Reckitt Benckiser Group PLC | Interim results | Results for the Six Months Ended 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | NewRiver REIT PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Glencore PLC | Interim results | Half-Year Production Report 2026
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | SDI Group PLC | Final results | Final Results
+- 07:00:03 | Weir Group PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | InterContinental Hotels Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -199,7 +200,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Aberdeen Group PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Weir Group PLC | Interim results | Half-year Financial Report
+- 07:00:03 | Glencore PLC | Interim results | Half-Year Production Report 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | OFGEM | IRS | CRACKDOWN ON UNVIABLE DATA CENTRES DEMANDING POWER
 - 07:00:03 | B.P. Marsh & Partners PLC | Change of position | Transaction in Own Shares and Total Voting Rights
@@ -215,13 +216,15 @@
 - 07:00:03 | Hena Holdings Ltd. | Offer update | Offer Unconditional
 - 07:00:03 | Abingdon Health PLC | Trading statement | Trading update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Babcock International Group PLC | Change of position | Transaction in Own Shares
+- 07:00:03 | SDI Group PLC | Final results | Final Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Babcock International Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | M&C Saatchi PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Sage Group PLC (The) | Trading statement | Trading update for nine months ended 30 June 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Brown Advisory US Smaller Cos. PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Tesco PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -254,9 +257,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Celebrus Technologies PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Sage Group PLC (The) | Trading statement | Trading update for nine months ended 30 June 2026
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Brown Advisory US Smaller Cos. PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Alternative Income REIT PLC | RSP | Response to Glenstone 21 Day Acceptance Update
   - [summary failed: HTTP Error 400: Bad Request]
@@ -266,19 +267,19 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Chapel Down Group PLC | Trading statement | H1 2026 Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Ilika plc | Final results | Full Year Results
+- 07:00:02 | Gem Resources PLC | Issue of equity | Conversion of Loan Notes & Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Bradda Head Lithium Ltd | UPD | Drill Rig Secured For Whistlejacket Programme
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | International Workplace Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Gem Resources PLC | Issue of equity | Conversion of Loan Notes & Issue of Equity
+- 07:00:02 | M&C Saatchi PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Gamma Communications PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Ilika plc | Final results | Full Year Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Paragon Banking Group PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Newmark Security PLC | Disposal | Disposal of Safetell Limited
+- 07:00:01 | Gamma Communications PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | International Personal Finance Plc | Interim results | Half-year Report
   - International Personal Finance reported H1-26 pre-exceptional profit before tax of £47.4m (down 5% YoY from £49.9m), reflecting continued investment in growth. Customer numbers increased 5.4% to 1.743m, customer lending grew 18.5%, and closing net receivables rose 17.4% to £1,169.9m. Impairment rate widened to 10.0% from 8.3%, driven by stronger lending growth in new channels. The company maintains £107m headroom on facilities and 48% equity-to-receivables ratio. Recommended acquisition by IPF Parent Holdings (Bidco) expected to complete 4 August 2026 subject to Court sanction on 31 July; special dividend of 15p per share declared, conditional on completion.
@@ -303,21 +304,20 @@
 - 07:00:01 | Greatland Resources Limited | UPD | June 2026 Quarterly Activities Report 
   - Greatland produced 328,987oz gold at A$2,179/oz AISC in FY26, exceeding 260-310koz guidance. June quarter yielded 79,100oz at A$2,312/oz with 86.8% recovery rates. Cash position strengthened to A$1,289m (debt-free) with A$302m operating cash flow. FY27 guidance: 260-300koz at A$2,900-3,330/oz AISC. Company commencing Havieron pre-production capex (A$365-435m) and Telfer growth investment (A$315-335m), with first Havieron gold expected FY29.
   - Retail take: Strong operational beat and balance sheet support long-term growth story, but FY27 production decline and elevated AISC guidance signal near-term headwinds from heavy capex and lower ore grades.
-- 07:00:01 | Amigo Resources PLC | Drilling/exploration | Musensi Hill Rare Earth Elements Project, Tanzania
-  - Amigo's geological team completed systematic mapping and sampling at the Musensi Hill rare earth elements project in Tanzania. Initial XRF screening identified encouraging geochemical indicators including potassium oxide (9-11.7%), calcium oxide (up to 15.1%), strontium (up to 7,000 ppm), and phosphorus pentoxide (up to 7.29%). Results support a multi-phase alkaline-carbonatite interpretation. The company emphasises the screening did not include full REE analysis and cannot determine grade or economic potential. Next phases include complete REE analysis, mineralogy, petrography, and definition of drill targets.
-  - Retail take: Early-stage exploration results are geologically encouraging but commercially non-committal; no mineral resource defined and much work remains before determining economic viability, likely a modest positive for sentiment.
-- 07:00:01 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
-- 07:00:01 | Rio Tinto PLC | Interim results | Rio Tinto 2026 half year results
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Diaceutics PLC | Trading statement | 75% ARR Growth Drives Revenue & Profit Visibility
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Venture Life Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Fisher (James) & Sons plc | Trading statement | Half Year Trading Update and Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | LMS Capital | Interim results | Half-year Financial Report
-  - LMS Capital's NAV declined £2.4m to £26.6m (33.0p per share) at 30 June 2026 from £29.0m (35.9p) at year-end 2025. The decrease reflects a £1.6m capital return in February, £0.2m portfolio losses, offset by £0.2m FX gains from sterling weakness. Cash fell to £2.6m from £6.8m due to capital returns, Dacian loan funding, and Castle View debt repayment. Key holdings: Dacian (energy, £10.8m), Castle View retirement living (£9.4m), and Opus venture fund (£3.0m). Board expects clarity on main asset liquidity by end-2026/early 2027.
-  - Retail take: Modest NAV decline reflects continued capital returns and portfolio challenges; limited near-term catalysts visible, though Board expects strategic clarity within six months, unlikely to move shares meaningfully absent material realisation progress.
+- 07:00:01 | Amigo Resources PLC | Drilling/exploration | Musensi Hill Rare Earth Elements Project, Tanzania
+  - Amigo's geological team completed systematic mapping and sampling at the Musensi Hill rare earth elements project in Tanzania. Initial XRF screening identified encouraging geochemical indicators including potassium oxide (9-11.7%), calcium oxide (up to 15.1%), strontium (up to 7,000 ppm), and phosphorus pentoxide (up to 7.29%). Results support a multi-phase alkaline-carbonatite interpretation. The company emphasises the screening did not include full REE analysis and cannot determine grade or economic potential. Next phases include complete REE analysis, mineralogy, petrography, and definition of drill targets.
+  - Retail take: Early-stage exploration results are geologically encouraging but commercially non-committal; no mineral resource defined and much work remains before determining economic viability, likely a modest positive for sentiment.
+- 07:00:01 | Newmark Security PLC | Disposal | Disposal of Safetell Limited
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
+- 07:00:01 | Rio Tinto PLC | Interim results | Rio Tinto 2026 half year results
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
@@ -328,25 +328,28 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | FirstGroup PLC | Disposal | Disposal
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | LMS Capital | Interim results | Half-year Financial Report
+  - LMS Capital's NAV declined £2.4m to £26.6m (33.0p per share) at 30 June 2026 from £29.0m (35.9p) at year-end 2025. The decrease reflects a £1.6m capital return in February, £0.2m portfolio losses, offset by £0.2m FX gains from sterling weakness. Cash fell to £2.6m from £6.8m due to capital returns, Dacian loan funding, and Castle View debt repayment. Key holdings: Dacian (energy, £10.8m), Castle View retirement living (£9.4m), and Opus venture fund (£3.0m). Board expects clarity on main asset liquidity by end-2026/early 2027.
+  - Retail take: Modest NAV decline reflects continued capital returns and portfolio challenges; limited near-term catalysts visible, though Board expects strategic clarity within six months, unlikely to move shares meaningfully absent material realisation progress.
 - 07:00:00 | Cindrigo Holdings | MSCL | Lease Exchange Strengthens Financial, Strategic and Operational Position of Finnish Biomass Business
 - 07:00:00 | UBS AG | Interim results | UBS reports 2Q26 net profit of USD 2.8bn and USD 5.8bn for 1H26 with robust momentum across businesses; Group invested assets at USD 7.3trn (Ad hoc announcement pursuant to Article 53 of the SIX Exchange Regulation Listing Rules)
-- 07:00:00 | Conroy Gold & Natural Resources Plc | Issue of equity | Fundraising to Raise up to £0.8m
+- 07:00:00 | AB "Ignitis grupė" | MSCL | Ignitis Group to present 6M 2026 results on 12 August
+  - Lithuanian energy company AB Ignitis grupė will release its first-half 2026 financial results on Wednesday, 12 August 2026, followed by an earnings call at 1:00 pm Vilnius time (11:00 am London). Investors can register online or dial in by phone to participate. Presentation slides and the interim report will be available on the company's investor relations website ahead of and following the announcement.
+  - Retail take: Routine earnings announcement; provides scheduled visibility on company performance. No material news disclosed; administrative notice only.
+- 07:00:00 | FirstGroup PLC | Disposal | Disposal
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | PayPoint PLC | QRF | 1st Quarter Results
-  - PayPoint's Q1 FY27 net revenue fell 6.4% to £39.5m from £42.2m, driven by Network Services (down 6.5% to £21.6m) and Love2shop (down 9.8% to £7.0m), offset partly by Digital Payments & Open Banking growth of 4.1% to £3.2m. CEO Nick Wiles highlighted successful business reorganisation embedding with improved retailer engagement, positive momentum in new business wins (Scottish Power, housing clients), and Love2shop's July campaign delivering 103% growth in cards sold. Management expects greater performance weighting to H2 and remains confident in meeting FY27 market expectations; a Capital Markets Day is scheduled for 29 September 2026.
-  - Retail take: Mixed signals: revenue decline against tough comparatives and challenging consumer backdrop offsets by operational improvements and new business traction; market likely cautious until H2 execution demonstrates recovery trajectory.
 - 07:00:00 | Pershing Square Holdings, Ltd. | Change of position | Transaction in Own Shares
   - Pershing Square Holdings repurchased 32,646 public shares on 28 July 2026 through agent Jefferies at an average price of $50.36 USD. The buyback comprised 22,370 shares on LSE (PSH ticker) at 3,787 pence average and 10,276 shares (PSHD ticker) at $50.28 average. NAV per share was $76.01 USD as of 21 July. Post-buyback, PSH has 173.55 million shares outstanding with 37.41 million held in treasury.
   - Retail take: Routine share buyback execution at modest scale; buyback pricing below NAV ($50.36 vs $76.01) suggests potential shareholder value accretion, though announcement provides no strategic context or forward guidance.
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - Neuberger Private Equity Partners Limited repurchased 16,728 Class A shares on 28 July 2026 at prices between £14.48 and £14.60 per share under shareholder authority granted in June 2026. All bought-back shares will be cancelled, reducing outstanding Class A shares to 40,362,573. The company retains 3,150,408 Class A shares in treasury.
   - Retail take: Routine share buyback execution by closed-end investment company; capital management activity with no material strategic implications for investors.
-- 07:00:00 | AB "Ignitis grupė" | MSCL | Ignitis Group to present 6M 2026 results on 12 August
-  - Lithuanian energy company AB Ignitis grupė will release its first-half 2026 financial results on Wednesday, 12 August 2026, followed by an earnings call at 1:00 pm Vilnius time (11:00 am London). Investors can register online or dial in by phone to participate. Presentation slides and the interim report will be available on the company's investor relations website ahead of and following the announcement.
-  - Retail take: Routine earnings announcement; provides scheduled visibility on company performance. No material news disclosed; administrative notice only.
+- 07:00:00 | PayPoint PLC | QRF | 1st Quarter Results
+  - PayPoint's Q1 FY27 net revenue fell 6.4% to £39.5m from £42.2m, driven by Network Services (down 6.5% to £21.6m) and Love2shop (down 9.8% to £7.0m), offset partly by Digital Payments & Open Banking growth of 4.1% to £3.2m. CEO Nick Wiles highlighted successful business reorganisation embedding with improved retailer engagement, positive momentum in new business wins (Scottish Power, housing clients), and Love2shop's July campaign delivering 103% growth in cards sold. Management expects greater performance weighting to H2 and remains confident in meeting FY27 market expectations; a Capital Markets Day is scheduled for 29 September 2026.
+  - Retail take: Mixed signals: revenue decline against tough comparatives and challenging consumer backdrop offsets by operational improvements and new business traction; market likely cautious until H2 execution demonstrates recovery trajectory.
 - 07:00:00 | Acuity RM Group Plc | AGM statement | Annual General Meeting Statement
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Lancashire Holdings Limited | Interim results | Lancashire Holdings - H1 2026 Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Conroy Gold & Natural Resources Plc | Issue of equity | Fundraising to Raise up to £0.8m
   - [summary failed: HTTP Error 400: Bad Request]
