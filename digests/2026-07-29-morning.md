@@ -3,6 +3,7 @@
 259 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:18:00 | Acuity RM Group Plc | Regulatory application/grant | Result of Annual General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:15:52 | International Personal Finance Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:15:47 | Wetherspoon (JD) PLC | Total voting rights | Total Voting Rights
