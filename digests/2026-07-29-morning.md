@@ -1,7 +1,9 @@
 # LSE announcements — 2026-07-29
 
-198 announcements (07:00-latest). One line each plus AI summary where available.
+199 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:03:40 | Motorpoint Group plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:03:07 | Leverage Shares PLC | Miscellaneous | Intraday Rebalance - 3x Long SK Hynix ETP 
 - 12:00:00 | URU Metals Limited | UPD | Appointment of Geological Modelling Consultants 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -34,9 +36,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:01:00 | iFOREX Financial Trading Hldgs Ltd | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Tate & Lyle PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | iFOREX Financial Trading Hldgs Ltd | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | Tate & Lyle PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:55:33 | SSE PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -76,9 +78,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:09:58 | RWS Holdings PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:58:39 | Trainline PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -267,7 +269,7 @@
 - 07:00:03 | Hena Holdings Ltd. | Offer update | Offer Unconditional
 - 07:00:03 | Mobius Investment Trust PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Kerry Group PLC | Interim results | Kerry Group Interim Management Report 2026
+- 07:00:03 | Allergy Therapeutics PLC | Trading statement | Trading update for the year ended 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Rathbones Group PLC | Interim results | Interim Results 2026
   - [summary failed: HTTP Error 400: Bad Request]
@@ -284,9 +286,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Plus500 Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Allergy Therapeutics PLC | Trading statement | Trading update for the year ended 30 June 2026
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
+- 07:00:03 | Kerry Group PLC | Interim results | Kerry Group Interim Management Report 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Tesco PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -298,9 +298,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Patria Private Equity Trust PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Chapel Down Group PLC | Trading statement | H1 2026 Trading Update
+- 07:00:02 | Ilika plc | Final results | Full Year Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Coventry Building Society | Interim results | Half-year Financial Report
 - 07:00:02 | Pantheon International PLC | Change of position | Transaction in Own Shares
@@ -333,9 +335,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Bradda Head Lithium Ltd | UPD | Drill Rig Secured For Whistlejacket Programme
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Ilika plc | Final results | Full Year Results
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Patria Private Equity Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Alternative Income REIT PLC | RSP | Response to Glenstone 21 Day Acceptance Update
   - [summary failed: HTTP Error 400: Bad Request]
@@ -343,9 +343,10 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Shaftesbury Capital PLC | Interim results | Half-year Report
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Chapel Down Group PLC | Trading statement | H1 2026 Trading Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Gem Resources PLC | Issue of equity | Conversion of Loan Notes & Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Rolls-Royce Holdings plc | Change of position | Transaction in Own Shares
 - 07:00:01 | Imaging Biometrics Limited | Interim results | Half Yearly Report to 30 June 2026
   - Imaging Biometrics returned to profit in H1 2026 with £73,852 net income versus £89,652 loss prior year. Revenue grew 6% to £416,270; gross profit £414,536. Administrative expenses fell 32% to £325,860, driving operating profit of £88,678. IB Clinic neuro-oncology platform advancing clinical adoption; EAF151 Phase II data presented at ASCO showed superior automated imaging biomarker performance. GaM paediatric cancer programme positioned for partnership; FDA designations in place but development early-stage with 30 September 2029 PRV deadline.
   - Retail take: Profitable inflection on cost discipline and clinical validation likely reads positively; however, profitability modest and GaM upside heavily caveated and contingent on unproven partnership and regulatory approval by tight deadline.
@@ -368,8 +369,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Venture Life Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Diaceutics PLC | Trading statement | 75% ARR Growth Drives Revenue & Profit Visibility
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Rolls-Royce Holdings plc | Change of position | Transaction in Own Shares
 - 07:00:01 | Rockfire Resources PLC | Drilling/exploration | Molaoi Drilling Update
   - Hole HMO-019 at Rockfire's 100%-owned Molaoi zinc deposit in Greece returned six mineralised intersections including 0.10m @ 27.8% Zn and 84.1g/t Ge (one of the highest recent germanium values), plus 3.30m @ 18.9% Zn at 261m depth. Results extend mineralisation 50m deeper than previous hole HMO-018, with stronger grades suggesting potential grade increase at depth. Drilling continues upgrading the Inferred Resource to Indicated status; results from HMO-020 awaited. New drilling rig expected September/October; feasibility study advancing with comminution and ore-sorting tests planned.
   - Retail take: Positive momentum on exploration upside at a critical minerals asset; deeper, higher-grade intersections support near-term resource upgrade path and long-term feasibility study progression, likely supporting sentiment.
@@ -384,11 +384,11 @@
   - Greatland produced 328,987oz gold at A$2,179/oz AISC in FY26, exceeding 260-310koz guidance. June quarter yielded 79,100oz at A$2,312/oz with 86.8% recovery rates. Cash position strengthened to A$1,289m (debt-free) with A$302m operating cash flow. FY27 guidance: 260-300koz at A$2,900-3,330/oz AISC. Company commencing Havieron pre-production capex (A$365-435m) and Telfer growth investment (A$315-335m), with first Havieron gold expected FY29.
   - Retail take: Strong operational beat and balance sheet support long-term growth story, but FY27 production decline and elevated AISC guidance signal near-term headwinds from heavy capex and lower ore grades.
 - 07:00:01 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
+- 07:00:01 | Diaceutics PLC | Trading statement | 75% ARR Growth Drives Revenue & Profit Visibility
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Rio Tinto PLC | Interim results | Rio Tinto 2026 half year results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Cindrigo Holdings | MSCL | Lease Exchange Strengthens Financial, Strategic and Operational Position of Finnish Biomass Business
-- 07:00:00 | Acuity RM Group Plc | AGM statement | Annual General Meeting Statement
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - Neuberger Private Equity Partners Limited repurchased 16,728 Class A shares on 28 July 2026 at prices between £14.48 and £14.60 per share under shareholder authority granted in June 2026. All bought-back shares will be cancelled, reducing outstanding Class A shares to 40,362,573. The company retains 3,150,408 Class A shares in treasury.
   - Retail take: Routine share buyback execution by closed-end investment company; capital management activity with no material strategic implications for investors.
@@ -420,4 +420,6 @@
 - 07:00:00 | FirstGroup PLC | Disposal | Disposal
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Conroy Gold & Natural Resources Plc | Issue of equity | Fundraising to Raise up to £0.8m
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Acuity RM Group Plc | AGM statement | Annual General Meeting Statement
   - [summary failed: HTTP Error 400: Bad Request]
