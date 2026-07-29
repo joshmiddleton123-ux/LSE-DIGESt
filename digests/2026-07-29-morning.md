@@ -3,6 +3,7 @@
 241 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:30:10 | Vodafone Group Plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:30:00 | Digitalbox PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:15:00 | Greencoat Renewables PLC | Miscellaneous | Net Asset Value and Dividend Announcement 
