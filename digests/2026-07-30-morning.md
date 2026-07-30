@@ -1,7 +1,9 @@
 # LSE announcements — 2026-07-30
 
-147 announcements (07:00-latest). One line each plus AI summary where available.
+148 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 08:20:58 | Oriole Resources PLC | NRA | Zeus Capital Research Report
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:06:35 | African Pioneer PLC | AGR | Financing and Mine Development Agreement  
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:45:00 | British American Tobacco PLC | Miscellaneous | Share Buyback Programme
