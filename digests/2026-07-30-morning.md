@@ -3,6 +3,7 @@
 222 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:00:24 | Jardine Matheson Hldgs Ltd | Interim results | PT Astra 2026 First Half Financial Statements 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | Mindflair PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | Mindflair PLC | Holding(s) in company | Holding(s) in Company
