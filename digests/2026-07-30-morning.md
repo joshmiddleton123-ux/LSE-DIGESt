@@ -1,10 +1,12 @@
 # LSE announcements — 2026-07-30
 
-211 announcements (07:00-latest). One line each plus AI summary where available.
+212 announcements (07:00-latest). One line each plus AI summary where available.
 
-- 11:33:02 | SSE PLC | Dividend declaration | Scrip Dividend Scheme 
+- 11:34:11 | Moyle Interconnector (Financing)PLC | ACS | Moyle Interconnector Annual Report March 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:33:02 | Pristine Capital PLC | NAR | Change of accounting reference date
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:33:02 | SSE PLC | Dividend declaration | Scrip Dividend Scheme 
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:25:05 | Molten Ventures Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
