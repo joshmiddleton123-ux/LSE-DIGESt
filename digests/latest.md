@@ -3,6 +3,7 @@
 160 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:13:02 | Pets At Home Group Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:10:53 | Unite Group PLC (The) | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:01:39 | Boku Inc | Change of position | Transaction in Own Shares
