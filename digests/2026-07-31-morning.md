@@ -2,6 +2,7 @@
 
 212 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:25:14 | The Beauty Tech Group PLC | Miscellaneous | Confirmation of Capital Reduction
 - 11:19:00 | PCI-PAL PLC | Director/PDMR shareholding | Director Share Purchase
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:13:33 | Games Workshop Group PLC | ADM |  Admission of Further Securities to Trading
@@ -11,9 +12,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:10 | Imperial Brands PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Accent Capital PLC | ACS | Annual Financial Results 2025/26
-  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Ceres Power Holdings plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | Accent Capital PLC | ACS | Annual Financial Results 2025/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Rolls-Royce Holdings plc | Director/PDMR shareholding | Director/PDMR Shareholding
 - 10:59:54 | Inchcape PLC | Total voting rights | Total Voting Rights
@@ -33,8 +34,6 @@
 - 10:30:07 | Smith & Nephew Plc | Change of position | Transaction in Own Shares
 - 10:29:27 | Secured Fixed Income PLC | ACS | SFI - Annual Financial Report
 - 10:29:18 | Crest Nicholson Holdings PLC | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 10:16:07 | Calculus VCT PLC | ACS | Annual Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:14:14 | Prudential PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
