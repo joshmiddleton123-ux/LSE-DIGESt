@@ -3,6 +3,7 @@
 511 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:40:12 | Mahindra & Mahindra Limited | DOC | Result of AGM 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
 - 18:33:20 | Mahindra & Mahindra Limited | DOC | 1st Quarter Results 
   - [summary failed: HTTP Error 400: Bad Request]

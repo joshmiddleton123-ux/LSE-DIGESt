@@ -1,5 +1,5 @@
 time_uk,datetime_utc,company,ticker,category_code,category,headline,rns_number,news_id,last_price,pct_change,brief,summary,retail_take,sentiment,source_url
-2026-07-31 18:40:12,2026-07-31T17:40:12.000,Mahindra & Mahindra Limited,MHID,DOC,,Result of AGM ,8627O,17717470,35.05,1.594202898550725,,,,,
+2026-07-31 18:40:12,2026-07-31T17:40:12.000,Mahindra & Mahindra Limited,MHID,DOC,,Result of AGM ,8627O,17717470,35.05,1.594202898550725,,[summary failed: HTTP Error 400: Bad Request],,neutral,https://www.investegate.co.uk/announcement/rns/mahindra-mahindra-limited--mhid/result-of-agm-/9699484
 2026-07-31 18:35:00,2026-07-31T17:35:00.000,"GlobeNewswire, Inc.",,TSM,,End of Day Message,1255365-en,17717469,,,,,,,
 2026-07-31 18:33:20,2026-07-31T17:33:20.000,Mahindra & Mahindra Limited,MHID,DOC,,1st Quarter Results ,8625O,17717468,35.05,1.594202898550725,,[summary failed: HTTP Error 400: Bad Request],,neutral,https://www.investegate.co.uk/announcement/rns/mahindra-mahindra-limited--mhid/1st-quarter-results-/9699482
 2026-07-31 18:30:00,2026-07-31T17:30:00.000,MFN,,TSM,,End of Day Message,ed14ef5523,17717466,,,,,,,
