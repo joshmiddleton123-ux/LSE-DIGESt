@@ -3,8 +3,11 @@
 182 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:48:01 | Aberdeen Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:47:33 | Trainline PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:46:31 | Bellway PLC | ADM | Admission to Trading
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:40:20 | ICFG Limited | Dividend declaration | Update on Subsidiary Dividend Distribution
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:01 | Primary Health Properties PLC | Interim results | Interim Results - Replacement
