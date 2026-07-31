@@ -1,7 +1,8 @@
 # LSE announcements — 2026-07-31
 
-176 announcements (07:00-latest). One line each plus AI summary where available.
+177 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 09:15:11 | Unite Group PLC (The) | Total voting rights | Total Voting Rights
 - 09:07:00 | BH Macro Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:05:05 | Lendinvest PLC | Director/PDMR shareholding | Director/PDMR Shareholding
@@ -9,7 +10,7 @@
 - 09:01:51 | LendInvest Secured Income II | Miscellaneous | Portfolio Analysis of Loan LIV4
 - 09:01:18 | Tortilla Mexican Grill PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | BPHA Finance PLC | ACS | bpha Annual Financial Report 2026
+- 09:00:00 | Close Brothers Group PLC | Board appointment/change | Appointment of Chair/Senior Independent Director 
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -18,7 +19,7 @@
 - 09:00:00 | Synairgen Limited | NRA | Corporate Update
 - 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | Close Brothers Group PLC | Board appointment/change | Appointment of Chair/Senior Independent Director 
+- 09:00:00 | BPHA Finance PLC | ACS | bpha Annual Financial Report 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:58:31 | LendInvest Secured Income II | Miscellaneous | Portfolio Analysis of Loan LIV3
 - 08:55:52 | Glanbia PLC | Total voting rights | Total Voting Rights
@@ -160,8 +161,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | GSTechnologies Ltd | Final results | Results for the year ended 31 March 2026
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Oakley Capital Investments Limited | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | TruFin PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Intertek Group PLC | Interim results | Half-year Financial Report
@@ -172,7 +171,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Narf Industries PLC | Final results | Final Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Gresham House Renewable EnergyVCT1 | ACS | Annual Financial Report
+- 07:00:03 | Oakley Capital Investments Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | CAP-XX Limited | Result of issue | Result of Placing and Subscription 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -211,6 +210,8 @@
 - 07:00:03 | Total Graphite PLC | Final results | Final Results for year ended 31 March 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Nativo Resources Plc | Result of issue | Retail Offer Close
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Gresham House Renewable EnergyVCT1 | ACS | Annual Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Gamma Communications PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
