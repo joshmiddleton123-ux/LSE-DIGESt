@@ -1,7 +1,8 @@
 # LSE announcements — 2026-07-31
 
-159 announcements (07:00-latest). One line each plus AI summary where available.
+160 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 08:14:00 | Thwaites (Daniel) Plc | Total voting rights | Total Voting Rights
 - 08:05:48 | Maruwa Co Ld | Final results | Annual Financial Report 
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | HSBC Bank plc | STA | Post Stabilisation Notice
