@@ -7,6 +7,7 @@
 - 13:00:00 | H-Power PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Pacific Global Holdings Plc | Final results | Final Results for the year to 31 January 2026
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:57:26 | Victrex PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:49:27 | Lloyds Banking Group PLC | PSP | Publication of a Supplementary Prospectus
