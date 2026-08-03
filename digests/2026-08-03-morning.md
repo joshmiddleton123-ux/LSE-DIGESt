@@ -1,8 +1,10 @@
 # LSE announcements — 2026-08-03
 
-412 announcements (07:00-latest). One line each plus AI summary where available.
+413 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:45:01 | Tesco PLC | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:44:00 | TwentyFour Income Fund Limited | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:43:10 | AIQ Limited | Issue of debt | Issue of Convertible Loan Note
   - [summary failed: HTTP Error 400: Bad Request]
@@ -10,17 +12,17 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:42:11 | Deltic Energy PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:42:00 | Temple Bar Investment Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:42:00 | Xtrackers (IE) plc | MSCL | Important notice to Shareholders of Xtrackers (IE) plc
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:42:00 | Temple Bar Investment Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:41:00 | Artemis UK Future Leaders Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:40:10 | Restore PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:40:00 | BH Macro Limited | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:40:00 | Next 15 Group plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:40:00 | BH Macro Limited | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:36:47 | Patria Pvt Eq Trust. | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
@@ -40,9 +42,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:50 | Aurora UK Alpha PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:30:00 | Bunzl PLC | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:00 | Bridgepoint Group | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:30:00 | Bunzl PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:00 | Bunzl PLC | ADM | Admission to Trading
   - [summary failed: HTTP Error 400: Bad Request]
