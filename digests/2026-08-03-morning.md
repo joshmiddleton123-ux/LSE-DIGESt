@@ -3,6 +3,7 @@
 758 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:04:00 | Capita | Board appointment/change | Directorate change
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:00:29 | Nativo Resources Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:00:00 | Metlen Energy & Metals PLC | Holding(s) in company | Holding(s) in Company - Correction
