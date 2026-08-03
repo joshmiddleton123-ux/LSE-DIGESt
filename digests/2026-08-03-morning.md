@@ -3,6 +3,7 @@
 500 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:35:20 | Tracsis PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:34:50 | Aberdeen Investment Trusts | Miscellaneous | Gearing disclosure
 - 12:26:48 | BT Finance PLC | Price/dividend information | Publication of a Prospectus
 - 12:24:35 | Allianz Technology Trust PLC | Total voting rights | Total Voting Rights
@@ -25,9 +26,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:02:21 | Shield Therapeutics PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:01 | Berkeley Group Holdings (The) PLC | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:01 | EPE Special Opportunities Limited | CRO | Change of Registered Office
 - 12:00:01 | Centrica PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | Barclays PLC | Total voting rights | Total Voting Rights
@@ -36,13 +34,16 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | Ninety One PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:01 | Barclays PLC | ADM | Admission to Trading
+- 12:00:01 | EPE Special Opportunities Limited | CRO | Change of Registered Office
+- 12:00:01 | Berkeley Group Holdings (The) PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | Vodafone Group Plc | Disposal | Sale of shareholding in VodafoneZiggo completes
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | Computacenter PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | CT UK Capital and Income Investment | Board appointment/change | Directorate change
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:00:01 | Barclays PLC | ADM | Admission to Trading
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | M&G PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
