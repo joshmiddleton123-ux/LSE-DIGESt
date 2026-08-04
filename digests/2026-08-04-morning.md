@@ -3,9 +3,9 @@
 459 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:15:00 | Legal & General Group Plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:09:42 | Ondo InsurTech PLC | Director/PDMR shareholding | Share Incentive Plan Purchase
@@ -16,8 +16,8 @@
 - 18:04:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement
 - 18:03:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement
 - 18:01:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement
-- 18:00:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement
 - 18:00:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC
+- 18:00:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement
 - 17:59:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC
 - 17:59:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement
 - 17:57:00 | Xtrackers (IE) plc | Dividend declaration | Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement
