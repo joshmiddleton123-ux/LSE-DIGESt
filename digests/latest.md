@@ -3,6 +3,7 @@
 123 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:25:10 | SThree plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:22:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:20:21 | RSA Insurance Group Limited | Interim results | Half-year Financial Report
