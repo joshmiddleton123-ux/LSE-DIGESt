@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-05
 
-212 announcements (07:00-latest). One line each plus AI summary where available.
+213 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:20:29 | Bloomsbury Publishing PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:17:00 | Ferro-Alloy Resources Limited | NRA | Investor Q&A via Investor Meet Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:12:30 | HSBC Bank plc | PSP | Publication of a Supplementary Prospectus
