@@ -3,6 +3,7 @@
 207 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:04:05 | Halfords Group PLC | Holding(s) in company | Halfords Group PLC: Holding in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:21 | iShares Physical Metals Plc | PFT | Publication of Final Terms
 - 12:00:09 | iShares Physical Metals Plc | PFT | Publication of Final Terms
 - 12:00:00 | Beacon Energy PLC | Regulatory application/grant | Result of AGM and Director Dealings
