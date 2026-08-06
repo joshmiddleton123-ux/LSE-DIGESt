@@ -3,6 +3,7 @@
 214 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:00:21 | Scancell Holdings Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Glencore PLC | Miscellaneous | Additional Distribution Timetable 
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Hammerson PLC | Holding(s) in company | Holding(s) in Company
