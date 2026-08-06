@@ -3,6 +3,7 @@
 260 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:49:00 | Worldwide Healthcare Trust PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:45:09 | Ibstock PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:43:39 | Schroder Real Estate Inv Trst Ld | NRA | Results analysis from Kepler Trust Intelligence
