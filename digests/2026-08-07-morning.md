@@ -1,6 +1,6 @@
 # LSE announcements — 2026-08-07
 
-284 announcements (07:00-latest). One line each plus AI summary where available.
+285 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
 - 18:30:44 | Lloyds Banking Group PLC | Change of position | Transaction in Own Shares
@@ -36,6 +36,8 @@
 - 17:51:00 | Finsbury Growth & Income Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:43:45 | DCC Energy PLC | Holding(s) in company | Holding in Company TR-1
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:43:00 | BlackRock Income and Growth Investment Trust Plc | RDN | Director Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:42:57 | DCC Energy PLC | Holding(s) in company | Holding in Company TR-1
   - [summary failed: HTTP Error 400: Bad Request]
