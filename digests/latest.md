@@ -3,6 +3,7 @@
 155 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:33:00 | Yorkshire Water Services Finance Ltd | Board appointment/change | Appointment of a new Chair
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:32:00 | Yorkshire Water Services Ltd | Board appointment/change | Appointment of a new Chair
 - 12:27:40 | Ridgeview Partners LLC | Offer update | Update on Letter of Intent
 - 12:27:00 | Software Circle PLC | Notice of AGM | AGM Notice & proposed Share Premium Cancellation
