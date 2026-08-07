@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-07
 
-199 announcements (07:00-latest). One line each plus AI summary where available.
+200 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:35:20 | Ashoka India Equity Investment Tst | Miscellaneous | Voluntary Redemption of Ordinary Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:31:34 | Wellnex Life Limited | NOG | Posting of EGM Notice and Explanatory Memorandum
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:29:05 | CQS Natural Resources Grwth&Inc PLC | Issue of equity | Sale of Shares from Treasury
@@ -14,10 +16,10 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:05:00 | Petra Diamonds Limited | MSCL | Update on Finsch Business Rescue Process
   - [summary failed: HTTP Error 400: Bad Request]
+- 15:00:00 | Nokia Corporation | MSCL | Changes in Nokia Corporation's own shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Nokia Corporation | MSCL | Muutokset Nokia Oyj:n omien osakkeiden omistuksessa
 - 15:00:00 | Man Group plc | Board appointment/change | Directorate change
-  - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | Nokia Corporation | MSCL | Changes in Nokia Corporation's own shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:59:57 | Spirax Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
