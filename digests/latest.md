@@ -3,6 +3,7 @@
 203 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:44:00 | ZIGUP plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:41:59 | Inter-American Development Bank | Issue of debt | Issue of Debt
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:41:23 | capAI PLC | Miscellaneous | Clarification Re: Admission of Ordinary Shares
