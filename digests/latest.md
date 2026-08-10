@@ -3,6 +3,7 @@
 152 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:50:03 | Airea PLC | Director/PDMR shareholding | Director/PDMR Dealing
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:47:06 | Senior PLC | Holding(s) in company | Holding(s) in Company
 - 09:46:21 | Imperial Brands PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
