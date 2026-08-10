@@ -3,6 +3,7 @@
 299 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:10:12 | Gym Group PLC (The) | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:08:39 | Devolver Digital, Inc. | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:07:32 | Royal Bank of Canada | Price/dividend information | Publication of a Prospectus
