@@ -3,6 +3,7 @@
 359 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 17:29:46 | Fuller, Smith & Turner PLC | Director/PDMR shareholding | Fuller, Smith & Turner PLC: Director/PDMR Shareholdings
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:28:00 | abrdn Property Income Trust Limited | Regulatory application/grant | Result of Annual General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:25:27 | Beazley PLC | Change of position | Transaction in Own Shares (Beazley plc EBT)
