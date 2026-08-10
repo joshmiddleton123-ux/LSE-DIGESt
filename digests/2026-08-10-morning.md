@@ -3,6 +3,7 @@
 190 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:20:03 | Shell plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:19:05 | London BTC Company Limited | Notice of AGM | Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:18:05 | Amundi Physical Metals plc | PFT | Amundi Physical Metals plc: UK Final Terms
