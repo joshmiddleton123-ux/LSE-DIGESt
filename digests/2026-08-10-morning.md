@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-10
 
-178 announcements (07:00-latest). One line each plus AI summary where available.
+179 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:40:34 | Nippon Active Value Fund PLC | Miscellaneous | Compliance with Market Abuse Regulation
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:39:24 | XPS Pensions Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:39:20 | FIH Group PLC | NOG | Notice of GM
@@ -56,9 +58,9 @@
 - 09:43:56 | RM PLC | Holding(s) in company | RM plc: Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:41:43 | Vida Group Holdings PLC | DOC | Publication of Interim Results
-- 09:30:00 | Ryanair Holdings PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:00 | Manx Financial Group PLC | Miscellaneous | Issue of Scrip Dividend and Bonus Issue Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:30:00 | Ryanair Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:19:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -68,9 +70,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:02:20 | Higher Education Securitised 1 PLC | DOC | LSE doc re Investor Report
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | Metlen Energy & Metals PLC | Change of position | Transaction in own shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Harena Rare Earths PLC | NRA | White House Critical Minerals Announcement
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | Metlen Energy & Metals PLC | Change of position | Transaction in own shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:54:36 | Greatland Resources Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
