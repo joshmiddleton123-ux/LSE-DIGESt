@@ -3,6 +3,7 @@
 145 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:19:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:13:58 | Sovereign Housing Capital Plc | Trading statement | 1st Quarter Results  2026/27
 - 09:12:26 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: CMB Approval for Bond Issuance to Foreign Markets
 - 09:04:37 | JTC PLC | Holding(s) in company | Holding(s) in Company
