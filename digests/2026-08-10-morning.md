@@ -3,6 +3,7 @@
 236 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:04:00 | Capita | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | London Stock Exchange Group PLC | PFT | Publication of Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:57:09 | Alpha Growth PLC | NRA | Alpha Subsidiary Jeometri Launches PCC Insurer
