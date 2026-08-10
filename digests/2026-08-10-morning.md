@@ -5,6 +5,7 @@
 - 16:35:01 | Barclays PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:34:00 | Invesco Global Equity Income Trust | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:33:54 | Scottish Mortgage Inv Tst PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:31:47 | Workspace Group PLC | ADM | Admission of Further Securities to Trading
