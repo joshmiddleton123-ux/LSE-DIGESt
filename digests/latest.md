@@ -3,6 +3,7 @@
 304 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:20:08 | Norcros PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:19:17 | Henderson Far East Income Limited | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:18:06 | CQS Natural Resources Grwth&Inc PLC | Issue of equity | Sale of Shares from Treasury
@@ -23,7 +24,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:01 | Fletcher King PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | Intermediate Capital Group PLC | Total voting rights | Total Voting Rights and Transaction in Own Shares
+- 16:00:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Societatea Energetica Electrica SA | Trading statement | H12026 Preliminary Key Operational Indicators
   - [summary failed: HTTP Error 400: Bad Request]
@@ -31,7 +32,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | International Cons Airlines Group | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
+- 16:00:00 | Intermediate Capital Group PLC | Total voting rights | Total Voting Rights and Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:59:32 | Polar Capital Global Health Tst PLC | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
