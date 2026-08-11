@@ -3,6 +3,7 @@
 272 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:03:00 | Temple Bar Investment Trust Plc | MSCL | Monthly Fact Sheet as at 31 July 2026
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:01:00 | Domino's Pizza Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:38 | Polar Capital Global Health Tst PLC | Issue of equity | Issue of Equity
