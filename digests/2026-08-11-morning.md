@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-11
 
-205 announcements (07:00-latest). One line each plus AI summary where available.
+206 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:45:27 | Secure Property Dev & Inv PLC | UPD | Company Update 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:39 | Orbit Capital PLC | PSP | Publication of a Supplementary Prospectus
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:16:43 | iShares Digital Assets AG | PFT | Final Terms 11/08/2026
