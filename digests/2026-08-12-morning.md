@@ -3,6 +3,7 @@
 118 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:00:12 | Tungsten West PLC | Holding(s) in company | TR-1: Notification of major holdings
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | National Grid Electricity Trans.PLC | ADM | Admission to Trading of Transferable Securities
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Legal & General Group Plc | Board appointment/change | Directorate change
