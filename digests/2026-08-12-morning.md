@@ -40,9 +40,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | International Workplace Group PLC | Director/PDMR shareholding | Director/PDMR Transaction
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Aura Energy Limited | Board appointment/change | Management Change 
+- 07:00:04 | NatWest Group plc | DOC | H1 2026 Pillar 3 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Norman Broadbent PLC | NRA | Managing Director of Consumer Markets Appointment
+- 07:00:04 | IQE PLC | Notice of results | IQE plc: Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Mila Resources PLC | Miscellaneous | Mila moves to 100% Ownership in Queensland
   - [summary failed: HTTP Error 400: Bad Request]
@@ -73,12 +73,9 @@
 - 07:00:04 | Thor Explorations Ltd | NRA | Investor Webinar to Discuss Q2 and H1 2026 Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | DX (Group) | NRA | DX expands its dangerous goods capability
-- 07:00:04 | NatWest Group plc | DOC | H1 2026 Pillar 3 
+- 07:00:04 | Aura Energy Limited | Board appointment/change | Management Change 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | IQE PLC | Notice of results | IQE plc: Notice of Results
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | AO World plc | Change of position | Transaction in Own Shares
-- 07:00:03 | Alien Metals Limited | Drilling/exploration | GreenTech Begins Munni Munni Heritage Survey
+- 07:00:04 | Norman Broadbent PLC | NRA | Managing Director of Consumer Markets Appointment
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Helix Exploration PLC | Issue of equity | Exercise of Warrants
   - [summary failed: HTTP Error 400: Bad Request]
@@ -113,11 +110,12 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Seeing Machines Limited | CNT | Advanced Robotics Development Contract 
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | AO World plc | Change of position | Transaction in Own Shares
 - 07:00:03 | Balfour Beatty PLC | Interim results | BALFOUR BEATTY 2026 HALF YEAR RESULTS
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | JSC National Atomic Co. Kazatomprom | Result of meeting | Voting results of the EGM
+- 07:00:03 | Alien Metals Limited | Drilling/exploration | GreenTech Begins Munni Munni Heritage Survey
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Commonwealth Bank of Australia | DOC | 2026 Full Year Basel III Pillar 3 Disclosure
+- 07:00:03 | JSC National Atomic Co. Kazatomprom | Result of meeting | Voting results of the EGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Commonwealth Bank of Australia | DOC | Appendix 4G 2026 Corporate Governance Statement
   - [summary failed: HTTP Error 400: Bad Request]
@@ -147,7 +145,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | India Capital Growth Fund Limited | Change of position | Transaction in Own Shares and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Babcock International Group PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Commonwealth Bank of Australia | DOC | 2026 Full Year Basel III Pillar 3 Disclosure
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Commonwealth Bank of Australia | DOC | 2026 Full Year Results ASX Announcement
   - [summary failed: HTTP Error 400: Bad Request]
@@ -161,7 +159,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Grafton Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Babcock International Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -183,7 +181,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Beowulf Mining PLC | UPD | Update on £4.3 million Financing 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | ASB Bank Limited | ACS | ASB Disclosure Statement - year ended 30 June 2026
+- 07:00:02 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | NIBC Bank N.V. | Interim results | NIBC PRESS RELEASE Half Year Results 2026
   - [summary failed: HTTP Error 400: Bad Request]
@@ -195,15 +193,17 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | ASB Bank Limited | ACS | ASB Disclosure Statement - year ended 30 June 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Pershing Square Holdings, Ltd. | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | AB "Ignitis grupė" | MSCL | First six months 2026 interim report: sustained strategic progress and consistent financial performance. Full-year 2026 guidance for Adjusted EBITDA and Investments reiterated
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+- 07:00:00 | AB "Ignitis grupė" | MSCL | First six months 2026 interim report: sustained strategic progress and consistent financial performance. Full-year 2026 guidance for Adjusted EBITDA and Investments reiterated
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Pershing Square Holdings, Ltd. | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
