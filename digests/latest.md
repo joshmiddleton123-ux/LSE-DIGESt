@@ -3,6 +3,7 @@
 221 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:33:00 | TwentyFour Income Fund Limited | Notice of AGM | Notice of Annual General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | Antofagasta PLC | Board appointment/change | DIRECTOR CHANGE AND CHANGES TO BOARD COMMITTEES 
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:26:48 | Hargreave Hale AIM VCT 1 PLC | Change of position | Transaction in Own Shares
