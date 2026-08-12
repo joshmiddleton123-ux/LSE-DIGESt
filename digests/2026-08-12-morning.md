@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-12
 
-107 announcements (07:00-latest). One line each plus AI summary where available.
+108 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 08:40:18 | Unicorn AIM VCT PLC | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:28:06 | AEP Plantations PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:50:00 | AB "Ignitis grupė" | MSCL | Notice of convening the Extraordinary General Meeting of Shareholders of AB “Ignitis grupė”
@@ -21,10 +23,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:56 | 80 Mile PLC | Drilling/exploration | Jameson – Drilling Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Mendell Helium PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Iofina PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Schroder Eur Real Est Inv Trust PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Riverstone Energy Limited | Portfolio update | Portfolio Update
@@ -33,12 +31,16 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Kooth PLC | TRS | Transfer of Treasury Shares & Exercise of Options 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Commonwealth Bank of Australia | ADM | Admission to Trading XS3469169588
+- 07:00:04 | Iofina PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | RTW Biotech Opportunities Ltd | Portfolio update | Avere Therapeutics to merge with NextCure Inc.
+- 07:00:04 | International Workplace Group PLC | Director/PDMR shareholding | Director/PDMR Transaction
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Commonwealth Bank of Australia | PFT | Publication of Final Terms XS3469169588
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | International Workplace Group PLC | Director/PDMR shareholding | Director/PDMR Transaction
+- 07:00:04 | Commonwealth Bank of Australia | ADM | Admission to Trading XS3469169588
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Mendell Helium PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | NatWest Group plc | DOC | H1 2026 Pillar 3 
   - [summary failed: HTTP Error 400: Bad Request]
