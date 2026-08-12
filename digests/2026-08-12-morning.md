@@ -3,6 +3,7 @@
 182 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:50:09 | Public Policy Holding Company, Inc. | DOC | Filing of Form 10-Q
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:48:00 | Develop North PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:46:38 | Arada Sukuk Limited | Miscellaneous | Launch of Consent Soliciation
@@ -191,7 +192,8 @@
 - 07:00:04 | DX (Group) | NRA | DX expands its dangerous goods capability
 - 07:00:04 | Thor Explorations Ltd | NRA | Investor Webinar to Discuss Q2 and H1 2026 Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Utmost Group PLC | NRA | Utmost Group plc: HY 2026 Trading Update
+- 07:00:04 | Judges Scientific PLC | Miscellaneous | Notice of Investor Presentation 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Residential Secure Income PLC | Miscellaneous | Retirement Disposal Distribution Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Eco Buildings Group PLC | Miscellaneous | Conversion of Loan Notes & Issue of Equity
@@ -212,10 +214,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Biotech Growth Trust PLC (The) | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Judges Scientific PLC | Miscellaneous | Notice of Investor Presentation 
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Redcentric PLC | Change of position | Transaction in Own Shares 
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Utmost Group PLC | NRA | Utmost Group plc: HY 2026 Trading Update
 - 07:00:03 | CT Healthcare Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Helix Exploration PLC | Issue of equity | Exercise of Warrants
@@ -228,6 +227,8 @@
 - 07:00:03 | Alien Metals Limited | Drilling/exploration | GreenTech Begins Munni Munni Heritage Survey
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Seeing Machines Limited | CNT | Advanced Robotics Development Contract 
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Redcentric PLC | Change of position | Transaction in Own Shares 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Eco Animal Health Group PLC | AGR | Exclusive in-licensing agreement with Vaxinano
   - [summary failed: HTTP Error 400: Bad Request]
