@@ -4,6 +4,7 @@
 
 - 12:31:21 | iShares Physical Metals Plc | PFT | Final Terms
 - 12:31:04 | Unicorn AIM VCT PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:00 | Coca-Cola Europacific Partners plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:29:56 | iShares Physical Metals Plc | PFT | Final Terms
