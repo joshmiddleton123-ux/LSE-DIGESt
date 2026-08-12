@@ -3,6 +3,7 @@
 187 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:15:30 | Plexus Holdings Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:09:55 | Marechale Capital PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Investec PLC | Miscellaneous | INPR Repurchase Programme
@@ -48,10 +49,10 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Northern 3 VCT PLC | AGR | Amendment to Investment Management Agreement
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:00 | Northern Venture Trust PLC | AGR | Amendment to Investment Advisory Agreement
+- 12:00:00 | Northern 2 VCT PLC | AGR | Amendment to Investment Management Agreement
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Octave Intelligence plc | Interim results | Octave Announces Second Quarter 2026 Financial Results
-- 12:00:00 | Northern 2 VCT PLC | AGR | Amendment to Investment Management Agreement
+- 12:00:00 | Northern Venture Trust PLC | AGR | Amendment to Investment Advisory Agreement
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:57:43 | AdvancedAdvT Limited | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
