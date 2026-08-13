@@ -5,6 +5,7 @@
 - 11:23:20 | Avation PLC | NRA | SIDOTI MICRO-CAP VIRTUAL INVESTOR CONFERENCE 
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:23:00 | Fidelity Special Values Plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:11:43 | RC365 Holding PLC | Notice of AGM | Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:10:39 | iShares Physical Metals Plc | PFT | Final Terms
