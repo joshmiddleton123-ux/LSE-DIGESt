@@ -3,6 +3,7 @@
 246 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:14:00 | Worldwide Healthcare Trust PLC | MSCL | Monthly Fact Sheet as at 31 July 2026
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:10:10 | Kuwait Projects Company Sukuk Ltd | DOC | H1 2026 Financial Statements 
 - 14:03:12 | Kuwait Projects Co SPC Limited | DOC | H1 2026 Financial Statements 
   - [summary failed: HTTP Error 400: Bad Request]
