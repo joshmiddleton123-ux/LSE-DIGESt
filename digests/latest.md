@@ -3,6 +3,7 @@
 167 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:30:10 | CT Global Managed Portfolio Trust | NRA | Investor Presentation
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:00 | Rentokil Initial PLC | Board appointment/change | Organisational Changes & Leadership Appointments
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:28:38 | CT Global Managed Portfolio - CMPI | NRA | Investor Presentation
