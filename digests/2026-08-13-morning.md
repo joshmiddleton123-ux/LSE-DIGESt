@@ -5,6 +5,7 @@
 - 16:00:27 | Johnson Matthey PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:08 | Senior PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Sirius Real Estate Limited | Director/PDMR shareholding | Dealing in Securities 
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:52:39 | GRIT Investment Trust PLC | Miscellaneous | Termination of potential Reverse Takeover
