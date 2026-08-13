@@ -3,6 +3,7 @@
 184 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:30:21 | Boku Inc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:13:46 | Smith & Nephew Plc | Change of position | Transaction in Own Shares
 - 10:08:23 | LANDSBANKINN HF. | MSCL | Landsbankinn hf.: Offering of covered bonds
 - 10:05:01 | Sunda Energy PLC | Strategy/company update | Grant of Petroleum Mining Permit to Matahio NZ
