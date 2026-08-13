@@ -3,9 +3,9 @@
 341 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:20:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:44:49 | Associated British Foods PLC | Change of position | Transaction in Own Shares
@@ -24,9 +24,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:19:46 | Bankers Investment Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:19:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:19:00 | BlackRock Energy and Resources Income Trust Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:19:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:16:03 | Forterra plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -62,9 +62,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:00:45 | M&G Credit Income Investment Trust plc | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:00:00 | Chenavari Toro Income Fund Limited | Dividend declaration | Scrip Dividend Election Price 
 - 17:00:00 | CyanConnode Holdings PLC | Offer update | Update on Irrevocable Undertakings 
   - [summary failed: HTTP Error 400: Bad Request]
+- 17:00:00 | Chenavari Toro Income Fund Limited | Dividend declaration | Scrip Dividend Election Price 
 - 16:58:50 | Alliance Witan PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:57:26 | F&C Investment Trust PLC | Change of position | Transaction in Own Shares
@@ -204,9 +204,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:05:53 | Frasers Group PLC | Acquisition | Frasers Group Acquisition of Harvey Nichols
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | Hammerson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:00:00 | Hammerson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Softeon | NRA | IFS Softeon Announces Go-Live with BF Global Group
 - 12:53:17 | Fermi Inc. | NRA | Fermi Announces Second Quarter 2026 Results
