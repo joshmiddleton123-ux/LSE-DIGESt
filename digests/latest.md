@@ -1,7 +1,8 @@
 # LSE announcements — 2026-08-13
 
-248 announcements (07:00-latest). One line each plus AI summary where available.
+249 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:40:20 | Valterra Platinum Limited | Miscellaneous | Interest payment on the VAL001, VAL002 and VAL003 
 - 14:30:20 | PIMCO Fixed Income Source ETFs PLC | Dividend declaration | Dividend Declaration
 - 14:30:00 | Irish Continental Group PLC | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
