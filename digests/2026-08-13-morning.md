@@ -6,6 +6,7 @@
 - 13:00:00 | Hammerson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:53:17 | Fermi Inc. | NRA | Fermi Announces Second Quarter 2026 Results
 - 12:46:00 | Xtract Resources plc | UPD | Amghas Antimony Mine Update
   - [summary failed: HTTP Error 400: Bad Request]
