@@ -3,6 +3,7 @@
 253 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:03:00 | FirstGroup PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:49:43 | Aurora UK Alpha PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:49:00 | BlackRock Energy and Resources Income Trust Plc | Director/PDMR shareholding | Director/PDMR Shareholding
