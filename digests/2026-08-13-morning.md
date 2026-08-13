@@ -5,6 +5,7 @@
 - 14:49:43 | Aurora UK Alpha PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:49:00 | BlackRock Energy and Resources Income Trust Plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:45:30 | Eco Buildings Group PLC | Regulatory application/grant | Result of AGM & Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:40:20 | Valterra Platinum Limited | Miscellaneous | Interest payment on the VAL001, VAL002 and VAL003 
