@@ -3,6 +3,7 @@
 118 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:24:00 | Artemis UK Future Leaders Plc | Director/PDMR shareholding | Purchase of shares by the portfolio manager
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:05:56 | Advanced Medical Solutions Grp PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:01:00 | Metlen Energy & Metals PLC | Director/PDMR shareholding | PDMR/PCA transaction notification 
