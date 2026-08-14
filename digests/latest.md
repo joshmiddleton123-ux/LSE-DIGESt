@@ -1,7 +1,11 @@
 # LSE announcements — 2026-08-14
 
-172 announcements (07:00-latest). One line each plus AI summary where available.
+173 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:30:00 | Jubilee Metals Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:27:14 | Xtrackers ETC PLC | PFT | Final Terms - Replacement
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:19:29 | Braemar PLC | Director/PDMR shareholding | Grant of Share Incentives to PDMR  
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:18:31 | Xtrackers ETC PLC | PFT | Final Terms Replacement
@@ -21,24 +25,24 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:31:00 | Neo Energy Metals PLC | ADM | Admission of Shares and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:30:01 | Neo Energy Metals PLC | Board appointment/change | Directorate Change
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:01 | Supermarket Income REIT PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:01 | IG Group Holdings plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:30:00 | Nokia Corporation | MSCL | Nokia Corporation - Managers' transactions (Heard)
+- 13:30:01 | Neo Energy Metals PLC | Board appointment/change | Directorate Change
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Heard)
-- 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Fisk)
-- 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Sahgal)
 - 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Hanrahan)
+- 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Sahgal)
+- 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Fisk)
+- 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Heard)
 - 13:30:00 | Nokia Corporation | MSCL | Nokia Oyj - Johtohenkilöiden liiketoimet (Prosi)
-- 13:30:00 | Nokia Corporation | MSCL | Nokia Corporation - Managers' transactions (Prosi)
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:00 | Nokia Corporation | MSCL | Nokia Corporation - Managers' transactions (Fisk)
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:00 | Nokia Corporation | MSCL | Nokia Corporation - Managers' transactions (Sahgal)
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:30:00 | Nokia Corporation | MSCL | Nokia Corporation - Managers' transactions (Prosi)
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:30:00 | Nokia Corporation | MSCL | Nokia Corporation - Managers' transactions (Heard)
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:00 | Nokia Corporation | MSCL | Nokia Corporation - Managers' transactions (Hanrahan)
   - [summary failed: HTTP Error 400: Bad Request]
@@ -91,8 +95,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:45:47 | Xtrackers ETC PLC | PFT | Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:45:04 | Xtrackers ETC PLC | PFT | Final Terms
-  - [summary failed: HTTP Error 400: Bad Request]
 - 11:37:37 | Advanced Medical Solutions Grp PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:37:30 | Dianomi PLC | Holding(s) in company | Holding(s) in Company
@@ -106,9 +108,9 @@
 - 11:01:00 | Metlen Energy & Metals PLC | Director/PDMR shareholding | PDMR/PCA transaction notification 
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:03 | Motability Operations Group PLC | Price/dividend information | Publication of Offering Circular
-- 11:00:01 | Metlen Energy & Metals PLC | Holding(s) in company | TR-1: Standard notification of major holdings
-  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:01 | Sirius Real Estate Limited | Dividend declaration | Results of Dividend Reinvestment Plan
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:01 | Metlen Energy & Metals PLC | Holding(s) in company | TR-1: Standard notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:59:03 | Calculus VCT PLC | PSP | Publication of a Supplementary Prospectus
   - [summary failed: HTTP Error 400: Bad Request]
@@ -156,11 +158,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:05:00 | Hiscox Ltd | SYR | Syndicates 33 and 6104 – results and estimates
   - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | Brown Advisory US Smaller Cos. PLC | Portfolio update | Portfolio Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Metlen Energy & Metals PLC | Change of position | Transaction in Own Shares - Replacement
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | Brown Advisory US Smaller Cos. PLC | Portfolio update | Portfolio Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:59:28 | Big Yellow Group PLC | Holding(s) in company | Notification of Major Holdings
 - 08:46:57 | Shell plc | Change of position | Transaction in Own Shares
@@ -180,9 +182,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Irish Residential Properties REIT plc | Interim results | Half Yearly Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Touchstone Exploration Inc. | Interim results | SECOND QUARTER 2026 RESULTS AND OPERATIONAL UPDATE
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Oxy Capital - Sgoic, S.A | NRA | ICG: Shareholder opposition to bid by management
 - 07:00:03 | Trekor Metals Limited | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Acceler8 Ventures PLC | ADM | Admission to ESCC & Adviser Appointment
@@ -216,13 +215,14 @@
 - 07:00:03 | Central Asia Metals PLC | Miscellaneous | Availability of the Scheme Booklet and Circular 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | RTW Biotech Opportunities Ltd | Miscellaneous | Monthly Valuation Update and Factsheet
+- 07:00:03 | Touchstone Exploration Inc. | Interim results | SECOND QUARTER 2026 RESULTS AND OPERATIONAL UPDATE
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Liontrust Asset Management PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Harvest Minerals Limited | Notice of AGM | Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Oxy Capital - Sgoic, S.A | NRA | ICG: Shareholder opposition to bid by management
 - 07:00:03 | Georgia Capital PLC | Miscellaneous | Commencement of US$ 50 million buyback programme
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | SThree plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Babcock International Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -250,15 +250,16 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Science Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Grafton Group PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | SThree plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Cohort PLC | CNT | Contract Win 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | GFH Bank B.S.C | DOC | Half-year Financial Report 
 - 07:00:02 | Aterian PLC | Contract | CLN Conversion
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | AEP Plantations PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Grafton Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Aviva PLC | Interim results | Aviva plc Half Year Results Announcement 2026
 - 07:00:02 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
@@ -291,8 +292,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Aviva PLC | Interim results | Aviva plc Half Year Results Announcement 2026
-- 07:00:00 | Young & Co's Brewery PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | AEP Plantations PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Pershing Square Holdings, Ltd. | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -305,6 +305,8 @@
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Afarak Group PLC | Interim results | AFARAK GROUP: INTERIM REPORT H1 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Young & Co's Brewery PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Afarak Group PLC | Interim results | AFARAK GROUP: PUOLIVUOSIKATSAUS H1 2026
 - 07:00:00 | Irish Continental Group PLC | Holding(s) in company | Holding(s) in Company
