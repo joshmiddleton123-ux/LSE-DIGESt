@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-14
 
-115 announcements (07:00-latest). One line each plus AI summary where available.
+116 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:01:00 | Metlen Energy & Metals PLC | Director/PDMR shareholding | PDMR/PCA transaction notification 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:03 | Motability Operations Group PLC | Price/dividend information | Publication of Offering Circular
 - 11:00:01 | Metlen Energy & Metals PLC | Holding(s) in company | TR-1: Standard notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
@@ -16,9 +18,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:31:00 | BlackRock Energy and Resources Income Trust Plc | Portfolio update | Portfolio Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:30:01 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:01 | Reckitt Benckiser Group PLC | RTE | Result of Tender Offer
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:30:01 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:25:59 | BRCK Group PLC | Holding(s) in company | Notification of Major Holdings 
   - [summary failed: HTTP Error 400: Bad Request]
