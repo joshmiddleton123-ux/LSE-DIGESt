@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-14
 
-136 announcements (07:00-latest). One line each plus AI summary where available.
+137 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:15:22 | Proven Growth & Income VCT PLC | Director/PDMR shareholding | ProVen Growth and Income VCT plc: Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:12:54 | Proven Growth & Income VCT PLC | Issue of equity | ProVen Growth and Income VCT plc: Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:12:23 | PZ CUSSONS PLC | ACS | Annual Financial Report
@@ -115,8 +117,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Irish Residential Properties REIT plc | Interim results | Half Yearly Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | ActiveOps PLC | Director/PDMR shareholding | Grant of Contingent Share Award
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Schroder UK Mid Cap Fund PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Norman Broadbent PLC | Director/PDMR shareholding | Grant of new options 
@@ -135,7 +135,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Filtronic PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Mpac Group PLC | Notice of results | Notice of Results and Investor Presentation
+- 07:00:03 | ActiveOps PLC | Director/PDMR shareholding | Grant of Contingent Share Award
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Iomart Group PLC | Board appointment/change | CFO Appointment
   - [summary failed: HTTP Error 400: Bad Request]
@@ -155,9 +155,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Schroder Asian Total Retn InvCo PLC | Miscellaneous | Compliance with Market Abuse Regulation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Georgia Capital PLC | Miscellaneous | Commencement of US$ 50 million buyback programme
+- 07:00:03 | Mpac Group PLC | Notice of results | Notice of Results and Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | VinaCapital Vietnam Opportunity Fd. | Change of position | Transaction in Own Shares
+- 07:00:03 | Georgia Capital PLC | Miscellaneous | Commencement of US$ 50 million buyback programme
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Beowulf Mining PLC | Drilling/exploration | Infill drilling programme completed at Kallak
   - [summary failed: HTTP Error 400: Bad Request]
@@ -169,7 +169,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Barings Emerging EMEA Opportunities | Change of position | Transaction in Own Shares
+- 07:00:02 | VinaCapital Vietnam Opportunity Fd. | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Angling Direct PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -184,9 +184,11 @@
 - 07:00:02 | GFH Bank B.S.C | DOC | Half-year Financial Report 
 - 07:00:02 | Aterian PLC | Contract | CLN Conversion
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | India Capital Growth Fund Limited | Change of position | Transaction in Own Shares and Total Voting Rights
+- 07:00:02 | Barings Emerging EMEA Opportunities | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Kelso Group Holdings PLC | Strategy/company update | Statement re: TheWorks.co.uk plc
+- 07:00:02 | GB Group PLC | Trading statement | Americas Identity trading update
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Ruffer Investment Company Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Science Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -218,22 +220,20 @@
 - 07:00:02 | FirstCash Holdings, Inc. | Offer update | Confirmation of Post-offer Intentions 
 - 07:00:02 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | GB Group PLC | Trading statement | Americas Identity trading update
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Ruffer Investment Company Limited | Change of position | Transaction in Own Shares
+- 07:00:02 | India Capital Growth Fund Limited | Change of position | Transaction in Own Shares and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Aviva PLC | Interim results | Aviva plc Half Year Results Announcement 2026
 - 07:00:02 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Arrow Exploration Corp. | Acquisition | Arrow Announces Alberta Property Acquisition
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Kelso Group Holdings PLC | Strategy/company update | Statement re: TheWorks.co.uk plc
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Irish Continental Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | TwentyFour Income Fund Limited | Strategy/company update | Monthly Factsheet & Commentary - July 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | TwentyFour Select Monthly Income Fund Limited | Strategy/company update | Monthly Factsheet & Commentary - July 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Young & Co's Brewery PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -251,4 +251,6 @@
 - 07:00:00 | Afarak Group PLC | Interim results | AFARAK GROUP: INTERIM REPORT H1 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | TwentyFour Select Monthly Income Fund Limited | Strategy/company update | Monthly Factsheet & Commentary - July 2026
   - [summary failed: HTTP Error 400: Bad Request]
