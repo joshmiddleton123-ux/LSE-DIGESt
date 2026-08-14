@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-14
 
-110 announcements (07:00-latest). One line each plus AI summary where available.
+111 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:48:27 | Oxford Biomedica PLC | ADM | Admission to Trading 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:42:25 | United Utilities Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
 - 10:34:57 | Schroders PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -46,9 +48,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | Brown Advisory US Smaller Cos. PLC | Portfolio update | Portfolio Update
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Metlen Energy & Metals PLC | Change of position | Transaction in Own Shares - Replacement
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | Brown Advisory US Smaller Cos. PLC | Portfolio update | Portfolio Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:59:28 | Big Yellow Group PLC | Holding(s) in company | Notification of Major Holdings
 - 08:46:57 | Shell plc | Change of position | Transaction in Own Shares
@@ -68,13 +70,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Irish Residential Properties REIT plc | Interim results | Half Yearly Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Liontrust Asset Management PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Touchstone Exploration Inc. | Interim results | SECOND QUARTER 2026 RESULTS AND OPERATIONAL UPDATE
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Trekor Metals Limited | Director/PDMR shareholding | Director/PDMR Shareholding
+- 07:00:03 | Liontrust Asset Management PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Georgia Capital PLC | Miscellaneous | Commencement of US$ 50 million buyback programme
+- 07:00:03 | Harvest Minerals Limited | Notice of AGM | Notice of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Acceler8 Ventures PLC | ADM | Admission to ESCC & Adviser Appointment
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Iomart Group PLC | Board appointment/change | CFO Appointment
   - [summary failed: HTTP Error 400: Bad Request]
@@ -106,12 +108,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | RTW Biotech Opportunities Ltd | Miscellaneous | Monthly Valuation Update and Factsheet
 - 07:00:03 | Oxy Capital - Sgoic, S.A | NRA | ICG: Shareholder opposition to bid by management
-- 07:00:03 | Harvest Minerals Limited | Notice of AGM | Notice of AGM
+- 07:00:03 | Trekor Metals Limited | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Acceler8 Ventures PLC | ADM | Admission to ESCC & Adviser Appointment
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | GFH Bank B.S.C | DOC | Half-year Financial Report 
-- 07:00:02 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
+- 07:00:03 | Georgia Capital PLC | Miscellaneous | Commencement of US$ 50 million buyback programme
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Cohort PLC | CNT | Contract Win 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -147,13 +146,14 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | AEP Plantations PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | GFH Bank B.S.C | DOC | Half-year Financial Report 
 - 07:00:02 | Aterian PLC | Contract | CLN Conversion
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
-- 07:00:02 | Pantheon International PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
 - 07:00:02 | Aviva PLC | Interim results | Aviva plc Half Year Results Announcement 2026
-- 07:00:02 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback 
+- 07:00:02 | Pantheon International PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -180,11 +180,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Arrow Exploration Corp. | Acquisition | Arrow Announces Alberta Property Acquisition
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Young & Co's Brewery PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Afarak Group PLC | Interim results | AFARAK GROUP: PUOLIVUOSIKATSAUS H1 2026
-- 07:00:00 | Irish Continental Group PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Diversified Energy PLC | MSCL | Diversified Energy Response to Media Speculation
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | TwentyFour Income Fund Limited | Strategy/company update | Monthly Factsheet & Commentary - July 2026
@@ -196,6 +196,8 @@
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Afarak Group PLC | Interim results | AFARAK GROUP: INTERIM REPORT H1 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Irish Continental Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Pershing Square Holdings, Ltd. | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
