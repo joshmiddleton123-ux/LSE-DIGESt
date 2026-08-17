@@ -1,7 +1,8 @@
 # LSE announcements — 2026-08-17
 
-267 announcements (07:00-latest). One line each plus AI summary where available.
+268 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:45:27 | AJ Bell PLC | Change of position | Transaction in Own Shares
 - 14:38:32 | Maven Renovar VCT PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:33:10 | Pharos Energy PLC | Miscellaneous | Adjournment of Shareholder Meetings
@@ -34,9 +35,9 @@
 - 13:03:28 | Hikma Pharmaceuticals Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:34 | iShares Physical Metals Plc | PFT | Final Terms
-- 13:00:00 | HSBC Holdings PLC | Issue of debt | Issuance of senior unsecured notes  
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | SEGRO PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:00:00 | HSBC Holdings PLC | Issue of debt | Issuance of senior unsecured notes  
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:58:38 | iShares Physical Metals Plc | PFT | Final Terms
 - 12:57:09 | iShares Physical Metals Plc | PFT | Final Terms
@@ -270,8 +271,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:09 | Seeing Machines Limited | NRA | Seeing Machines launches Physical AI platform
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Hydrogen Utopia International PLC | Strategy/company update | HUI secures UK Licence for SAF 
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Kelso Group Holdings PLC | RSP | TheWorks.co.uk plc - Full Response from Kelso
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Nostrum Oil & Gas PLC | AGR | AGREEMENT TO SELL KAZAKHSTAN OPERATIONS
@@ -289,7 +288,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Burford Capital Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Develop North PLC | Board appointment/change | Directorate change
+- 07:00:08 | Hydrogen Utopia International PLC | Strategy/company update | HUI secures UK Licence for SAF 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Andrada Mining Limited | UPD | Financial Close & Execution of Strategic Funding 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -314,6 +313,8 @@
 - 07:00:08 | Zotefoams PLC | Director/PDMR shareholding | Notification of Transactions of Directors/PDMRs
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Anpario PLC | Board appointment/change | Death of Non-Executive Director
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:08 | Develop North PLC | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Gattaca PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
