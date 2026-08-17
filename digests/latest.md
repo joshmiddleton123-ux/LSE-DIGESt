@@ -3,6 +3,7 @@
 372 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:01:48 | Caledonian Holdings PLC | Issue of equity | Update on Admission of Fundraising Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:53:17 | Cloudcoco Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:50:06 | Molten Ventures Plc | Holding(s) in company | Holding(s) in Company
@@ -113,18 +114,18 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:40:10 | PZ CUSSONS PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:33:00 | Invesco Bond Income Plus | Issue of equity | Issue of Equity
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:33:00 | Mid Wynd International Investment Trust Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:33:00 | Invesco Bond Income Plus | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:32:37 | Polar Capital Global Health Tst PLC | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:31:04 | LANDSBANKINN HF. | MSCL | Landsbankinn hf.: Covered bond offering results
-- 16:30:01 | AB Dynamics PLC | Holding(s) in company | Holding(s) in Company
+- 16:30:01 | MITIE Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:01 | Vistry Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:30:01 | MITIE Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+- 16:30:01 | AB Dynamics PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:01 | St. James's Place PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -155,9 +156,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | International Cons Airlines Group | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | London Stock Exchange Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Anglo American PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:00:00 | London Stock Exchange Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:57:08 | Great Portland Estates PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
