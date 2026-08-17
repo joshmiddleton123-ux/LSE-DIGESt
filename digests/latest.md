@@ -1,8 +1,11 @@
 # LSE announcements — 2026-08-17
 
-202 announcements (07:00-latest). One line each plus AI summary where available.
+203 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:53:06 | RELX PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:52:00 | Rightmove Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:49:07 | North Atlantic Smlr Co Inv Tst PLC | Change of position | Transaction in Own Shares and TVR
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:43:32 | Forterra plc | Change of position | Transaction in Own Shares
