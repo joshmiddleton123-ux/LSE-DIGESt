@@ -1,6 +1,6 @@
 # LSE announcements — 2026-08-18
 
-160 announcements (07:00-latest). One line each plus AI summary where available.
+158 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:32:37 | Distil PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -104,8 +104,6 @@
 - 09:10:28 | Supreme PLC | Notice of AGM | Posting of Annual Report & Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:06:30 | Mobico Group PLC | Disposal | Proposed Sale of UK Bus 
-  - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:01 | IG Group Holdings plc | CRO | Change of Registered Office
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:01 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -230,8 +228,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Kingfisher PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Plus500 Limited | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Science Group PLC | Change of position | Transaction in Own Shares
@@ -248,7 +244,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | JSC Halyk Bank | Interim results | Half-year Financial Report
+- 07:00:02 | Plus500 Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Bendigo and Adelaide Bank Limited | ACS | BEN Regulatory matters and unaudited FY26 results 
 - 07:00:01 | BHP Group Limited | PGR | BHP 2026 Economic Contribution Report Extract
