@@ -3,8 +3,10 @@
 211 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:46:16 | Sydbank A/S | Strategy/company update | Early redemption of Senior Non-Preferred bond
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:46:16 | Sydbank A/S | Strategy/company update | Førtidsindfrielse af Senior Non-Preferred obligation
 - 15:45:00 | Pan African Resources Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:42:39 | Billington Holdings PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:41:27 | Norcros PLC | Holding(s) in company | Holding(s) in Company
