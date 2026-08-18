@@ -51,8 +51,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Filtronic PLC | Notice of AGM | Publication of Annual Report and Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Aberdeen New India Investment Trust | Miscellaneous | Investor presentation - 11am, 9 September 2026
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | RHI Magnesita N.V. | Board appointment/change | Board Changes – CEO Succession
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Foresight Solar Fund Limited | NRA | Portfolio enhancement programme
@@ -60,6 +58,8 @@
 - 07:00:04 | Seraphim Space Investment Trust PLC | Portfolio update | C Share Portfolio Investment in Hubble
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Frasers Group PLC | Notice of AGM | Notice of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Aberdeen New India Investment Trust | Miscellaneous | Investor presentation - 11am, 9 September 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Sabien Technology Group PLC | UPD | Strategic Update
   - [summary failed: HTTP Error 400: Bad Request]
@@ -77,9 +77,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Georgina Energy PLC | UPD | Hussar EP513 Water Well Completed
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Aberdeen Asian Income Fund Limited | Interim results | Half-year Financial Report
+- 07:00:02 | AEP Plantations PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Gamma Communications PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Gaming Realms PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -112,9 +112,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Grafton Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | AEP Plantations PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Gamma Communications PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Aberdeen Asian Income Fund Limited | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Kainos Group plc | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
@@ -128,16 +126,16 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Frasers Group PLC | Offer update | Results of Offer for HUGO BOSS
+- 07:00:02 | M. P. Evans Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Johnson Service Group PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Frasers Group PLC | Offer update | Results of Offer for HUGO BOSS
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Keller Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Harbour Energy PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | QinetiQ Group plc | Change of position | Transaction in Own Shares
-- 07:00:01 | Air China Ld | NOG | NOTICE OF BOARD MEETING
+- 07:00:01 | Johnson Service Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Fevertree Drinks PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -163,6 +161,8 @@
 - 07:00:01 | Time Out Group plc | Trading statement | FY26 TRADING UPDATE AND RELATED PARTY TRANSACTION
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Airtel Africa PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Air China Ld | NOG | NOTICE OF BOARD MEETING
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
