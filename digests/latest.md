@@ -141,9 +141,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:05:34 | Frasers Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | Pearson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Capricorn Energy PLC | Result of meeting | Results of Court Meeting and General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:00:00 | Pearson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Aviva PLC | Director/PDMR shareholding | Director/PDMR Shareholding
 - 15:58:00 | HSBC Bank plc | MSCL | Early Repurchase(s)
@@ -164,13 +164,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | GSK PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:30:00 | Coca-Cola HBC AG | Director/PDMR shareholding | Director/PDMR Shareholding
+- 15:30:00 | Taylor Maritime Limited | Holding(s) in company | Holding(s) in Company
+- 15:30:00 | Mendell Helium PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | Shaires Holdings Ltd | Miscellaneous | Extension of WRAP Retail Offer
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:30:00 | Mendell Helium PLC | Holding(s) in company | Holding(s) in Company
+- 15:30:00 | Coca-Cola HBC AG | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:30:00 | Taylor Maritime Limited | Holding(s) in company | Holding(s) in Company
 - 15:22:07 | Avingtrans PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:21:16 | Net Zero Infrastructure PLC | Result of meeting | Results of General Meeting
@@ -179,11 +179,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:01 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | Albion Enterprise VCT PLC | Price/dividend information | Publication of Prospectus
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Crown Place VCT PLC | Price/dividend information | Publication of Prospectus
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Albion Technology & General VCT PLC | Price/dividend information | Publication of Prospectus
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:00:00 | Albion Enterprise VCT PLC | Price/dividend information | Publication of Prospectus
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:54:28 | Origin Enterprises Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
