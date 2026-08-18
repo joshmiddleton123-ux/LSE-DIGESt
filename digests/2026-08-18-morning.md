@@ -4,6 +4,7 @@
 
 - 09:35:06 | WisdomTree Hedged Metal Secs Ltd | Price/dividend information | Publication of a Prospectus
 - 09:35:00 | BH Macro Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:34:10 | The Magnum Ice Cream Company N.V. | MSCL | Share Purchase - Long Term Incentive Plans
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:33:49 | Supreme PLC | Holding(s) in company | Holding(s) in Company
