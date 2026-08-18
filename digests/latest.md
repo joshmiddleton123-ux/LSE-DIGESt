@@ -3,6 +3,7 @@
 134 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:05:21 | Syncona Limited | Regulatory application/grant | Result of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | General Assembly (GA) | NRA | SMBs Attract Talent with AI Upskilling
 - 10:51:02 | Hon Hai Precision Industry Co Ld | Strategy/company update | FII to Hold 2026 H1 Performance Conference
   - [summary failed: HTTP Error 400: Bad Request]
