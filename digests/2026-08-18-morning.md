@@ -3,6 +3,7 @@
 128 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:33:44 | Shell plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:33:08 | Irish Continental Group PLC | Strategy/company update | Independent Board Response to Shareholder Letter and Bluefin Bidco "No Increase" Statement
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:31:28 | Hidong Estate PLC | Miscellaneous | Interim Management Statement
