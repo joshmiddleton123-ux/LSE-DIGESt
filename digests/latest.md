@@ -7,6 +7,7 @@
 - 14:00:00 | InterContinental Hotels Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Pacific Assets Trust plc | MSCL | Monthly Fact Sheet as at 31 July 2026
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:57:51 | Pageant Investments Limited | NRA | Statement on Proposed Acquisition
 - 13:55:05 | Sabre Insurance Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
