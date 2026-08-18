@@ -38,11 +38,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:32:08 | Harworth Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:30:00 | Mendell Helium PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | Shaires Holdings Ltd | Miscellaneous | Extension of WRAP Retail Offer
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | Coca-Cola HBC AG | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:30:00 | Mendell Helium PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | GSK PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -55,9 +55,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:01 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | Albion Enterprise VCT PLC | Price/dividend information | Publication of Prospectus
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Crown Place VCT PLC | Price/dividend information | Publication of Prospectus
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:00:00 | Albion Enterprise VCT PLC | Price/dividend information | Publication of Prospectus
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Albion Technology & General VCT PLC | Price/dividend information | Publication of Prospectus
   - [summary failed: HTTP Error 400: Bad Request]
@@ -89,9 +89,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:10 | Axis Bank Limited | Miscellaneous | Updates
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | InterContinental Hotels Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Pacific Assets Trust plc | MSCL | Monthly Fact Sheet as at 31 July 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | InterContinental Hotels Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:57:51 | Pageant Investments Limited | NRA | Statement on Proposed Acquisition
 - 13:55:05 | Sabre Insurance Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
