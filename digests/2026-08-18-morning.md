@@ -2,6 +2,8 @@
 
 152 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:02:29 | Gana Media Group PLC  | Miscellaneous | Replacement:  Issue of Equity, Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Vast Resources PLC | Result of meeting | Results of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:57:35 | Synairgen Limited | NRA | Publication of 2025 Annual Report and Accounts
@@ -50,8 +52,6 @@
 - 10:24:33 | Murray International Trust PLC | DOC | Doc re. Half Yearly Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:23:28 | Smith & Nephew Plc | Director/PDMR shareholding | Director/PDMR Shareholding
-- 10:22:41 | Gana Media Group PLC  | Issue of equity | Issue of Equity and Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:04:04 | Ferro-Alloy Resources Limited | NRA | Release of Investor Q&A via Investor Meet Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:02:37 | Travis Perkins PLC | Holding(s) in company | TR1 Notification of Major Holdings
