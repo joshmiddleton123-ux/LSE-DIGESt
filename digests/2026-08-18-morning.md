@@ -1,7 +1,10 @@
 # LSE announcements — 2026-08-18
 
-97 announcements (07:00-latest). One line each plus AI summary where available.
+99 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 08:45:35 | Axis Bank Limited | Miscellaneous | Updates  
+  - [summary failed: HTTP Error 400: Bad Request]
+- 08:44:35 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: CMB Approval for Bond Issuance to Foreign Markets
 - 08:42:15 | Avation PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:42:14 | Touchstar PLC | Director/PDMR shareholding | Director/PDMR Shareholding
@@ -20,19 +23,15 @@
 - 07:08:07 | Türkiye Varlık Fonu | ACS | Annual Financial Report 
 - 07:01:01 | Synectics PLC | Board appointment/change | Board Changes 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Fragrant Prosperity Holdings Ltd | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | CT Healthcare Trust PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Neo Energy Metals PLC | REA | New Beisa Transaction Update
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Synectics PLC | Interim results | Interim results for the 6 months ended 31 May 2026
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Cirata PLC | Holding(s) in company | Holding(s) in Company
+- 07:00:04 | Neo Energy Metals PLC | REA | New Beisa Transaction Update
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | CT Healthcare Trust PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Fragrant Prosperity Holdings Ltd | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Diageo PLC | Board appointment/change | Diageo announces appointment to Board of Directors
   - [summary failed: HTTP Error 400: Bad Request]
@@ -40,7 +39,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Tekcapital plc | NRA | Investor Presentation - Vesari, Inc.
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Huddled Group PLC | Miscellaneous | Launch of Proprietary Live Commerce Software & JV
+- 07:00:04 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Cirata PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Target Healthcare REIT PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -68,7 +69,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | HgCapital Trust PLC | Miscellaneous | Hg announces an investment in Nourish
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Shuka Minerals PLC | Drilling/exploration | Kabwe Drilling (“KBDD10”)
+- 07:00:04 | Huddled Group PLC | Miscellaneous | Launch of Proprietary Live Commerce Software & JV
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | IMI PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -79,6 +80,8 @@
 - 07:00:03 | Made Tech Group PLC | CNT | Made Tech secures largest contract in its history
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Currys PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Shuka Minerals PLC | Drilling/exploration | Kabwe Drilling (“KBDD10”)
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Sabien Technology Group PLC | UPD | Strategic Update
   - [summary failed: HTTP Error 400: Bad Request]
