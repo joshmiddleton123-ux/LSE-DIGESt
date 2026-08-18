@@ -3,6 +3,7 @@
 169 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:31:00 | FirstGroup PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:58 | Caffyns PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:28:00 | UK Debt Management Office | Issue of debt | Issue of Debt
