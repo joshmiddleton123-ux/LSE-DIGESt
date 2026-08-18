@@ -3,6 +3,7 @@
 223 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:30:00 | Invesco Bond Income Plus | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:29:13 | CQS New City High Yield Fund Ltd | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:14:25 | M&G Credit Income Investment Trust plc | MSCL | Compliance with Market Abuse Regulation
@@ -12,9 +13,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:05:34 | Frasers Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | Aviva PLC | Director/PDMR shareholding | Director/PDMR Shareholding
 - 16:00:00 | Capricorn Energy PLC | Result of meeting | Results of Court Meeting and General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
+- 16:00:00 | Aviva PLC | Director/PDMR shareholding | Director/PDMR Shareholding
 - 16:00:00 | Pearson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:58:00 | HSBC Bank plc | MSCL | Early Repurchase(s)
@@ -22,9 +23,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:51:07 | Diageo PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
+- 15:46:16 | Sydbank A/S | Strategy/company update | Førtidsindfrielse af Senior Non-Preferred obligation
 - 15:46:16 | Sydbank A/S | Strategy/company update | Early redemption of Senior Non-Preferred bond
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:46:16 | Sydbank A/S | Strategy/company update | Førtidsindfrielse af Senior Non-Preferred obligation
 - 15:45:00 | Pan African Resources Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:42:39 | Billington Holdings PLC | Holding(s) in company | Holding(s) in Company
@@ -35,13 +36,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:32:08 | Harworth Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:30:00 | Coca-Cola HBC AG | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | GSK PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | Mendell Helium PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | Shaires Holdings Ltd | Miscellaneous | Extension of WRAP Retail Offer
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:30:00 | Coca-Cola HBC AG | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | Taylor Maritime Limited | Holding(s) in company | Holding(s) in Company
 - 15:22:07 | Avingtrans PLC | Holding(s) in company | Holding(s) in Company
