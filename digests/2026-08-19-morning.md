@@ -3,6 +3,7 @@
 239 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 17:11:00 | Fidelity China Special Situations Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:10:14 | Aberdeen New India Investment Trust | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:08:11 | Polar Capital Global Financials Tst | DOC | Factsheet
