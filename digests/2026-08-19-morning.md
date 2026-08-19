@@ -3,6 +3,7 @@
 152 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:00:51 | Mkango Resources Limited | Issue of equity | EXERCISE OF WARRANTS AND CORRECTION OF TVR
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:57:04 | Gresham House Energy Storage Fund | Holding(s) in company | Holding(s) in Company
 - 11:55:52 | Costain Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
