@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-19
 
-127 announcements (07:00-latest). One line each plus AI summary where available.
+128 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:14:54 | ActiveOps PLC | Director/PDMR shareholding | Director/PDMR Dealing
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:06:06 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: CMB Approval for Bond Issuance to Foreign Markets
 - 10:05:01 | Haleon PLC | TEN | Cash Tender Offer - Pricing, Expiration and Result
   - [summary failed: HTTP Error 400: Bad Request]
