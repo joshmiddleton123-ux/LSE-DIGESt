@@ -1,7 +1,8 @@
 # LSE announcements — 2026-08-19
 
-175 announcements (07:00-latest). One line each plus AI summary where available.
+176 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:35:27 | Net Zero Infrastructure PLC | Result of issue | Fundraising Successfully Completed
 - 14:29:00 | Deutsche Bank AG | MSCL | Value Per Security
 - 14:21:00 | Deutsche Bank AG | MSCL | Issuance of Securities
 - 14:20:03 | Pinewood Technologies Group PLC | Offer | REPLACEMENT - RECOMMENDED ACQUISITION OF PINEWOOD 
