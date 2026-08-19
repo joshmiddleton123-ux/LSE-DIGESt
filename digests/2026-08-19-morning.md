@@ -1,6 +1,6 @@
 # LSE announcements — 2026-08-19
 
-109 announcements (07:00-latest). One line each plus AI summary where available.
+110 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 08:40:33 | Mizuho International plc | STA | Pre Stabilisation Notice
 - 08:35:43 | Vida Group Holdings PLC | Price/dividend information | Publication of a Prospectus
@@ -30,12 +30,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:59 | Empire Metals Limited | UPD | MRE Upgrade at Pitfield Titanium Project
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:01:01 | RTW Biotech Opportunities Ltd | AGR | BioMarin to acquire Alesta Therapeutics
 - 07:01:01 | Riverstone Energy Limited | Interim results | Interim Report for the six months to 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:01 | RTW Biotech Opportunities Ltd | AGR | BioMarin to acquire Alesta Therapeutics
 - 07:00:26 | Vast Resources PLC | Miscellaneous | Completion of RTO & Re-Admission to Trading on AIM
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | WisdomTree Foreign Exchange Limited | DOC | Half-year Financial Report
 - 07:00:04 | Worsley Investors Limited | Notice of AGM | Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Digital 9 Infrastructure PLC | DOC | Interim Results 6 month period ended 30 June 2026
@@ -43,6 +42,7 @@
 - 07:00:04 | DX (Group) | NRA | DX expands international delivery service
 - 07:00:04 | Tekcapital plc | NRA | Vesari Secures Twelfth Patent Application
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | WisdomTree Foreign Exchange Limited | DOC | Half-year Financial Report
 - 07:00:04 | Gold Bullion Securities Ltd | DOC | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | WisdomTree Hedged Commodity Secs Ld | DOC | Half-year Financial Report
@@ -71,9 +71,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Nanoco Group PLC | Trading statement | Full Year Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Nuformix PLC | UPD | NXP002 Development Update
+- 07:00:03 | Gresham House Renewable EnergyVCT2 | Strategy/company update | Dividend Delay and Adjournment of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Touchstone Exploration Inc. | Director/PDMR shareholding | ANNUAL LONG-TERM INCENTIVE GRANT
+- 07:00:03 | Hilton Food Group PLC | Board appointment/change | Directorate change
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Plus500 Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | JPMorgan American IT PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
@@ -105,15 +107,15 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Raspberry Pi Holdings PLC | Holding(s) in company | Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Hilton Food Group PLC | Board appointment/change | Directorate change
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Plus500 Limited | Change of position | Transaction in Own Shares
+- 07:00:03 | Nuformix PLC | UPD | NXP002 Development Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Tap Global Group PLC | Miscellaneous | OTCID Application Submitted
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | tinyBuild, Inc. | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | EKF Diagnostics Holdings PLC | Director/PDMR shareholding | Share Buyback
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Touchstone Exploration Inc. | Director/PDMR shareholding | ANNUAL LONG-TERM INCENTIVE GRANT
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | RTW Biotech Opportunities Ltd | APP | Change of Corporate Broker
 - 07:00:02 | Rolls-Royce Holdings plc | Change of position | Transaction in Own Shares
