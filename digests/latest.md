@@ -3,6 +3,7 @@
 121 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:34:51 | Shell plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:31:39 | Kazmunaygas Nat.Comp. JSC. | TEN | Tender Offer
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:29:47 | DFS Furniture plc | Holding(s) in company | Holding(s) in Company
