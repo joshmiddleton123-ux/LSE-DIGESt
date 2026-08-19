@@ -3,6 +3,7 @@
 156 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:35:00 | PHSC plc | Notice of AGM | Posting of 2026 Annual Report and Notice of Annual General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:28:41 | Latham(James) PLC | Regulatory application/grant | Results of Annual General Meeting 
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:15:00 | FWT SHS 1P | MSCL | Intention to Fundraise
@@ -35,9 +36,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:04:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Quilter PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | AstraZeneca PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | Quilter PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Ajax Resources PLC | NRA | Publication of Research
 - 10:54:46 | Ocado Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
