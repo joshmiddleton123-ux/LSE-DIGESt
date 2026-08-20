@@ -3,6 +3,7 @@
 159 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:05:18 | Puma AIM VCT PLC | PSP | Issue of Supplementary Prospectus
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:02:09 | Boston Mayflower Finance PLC | ACS | LHP Annual Financial Report 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:53:10 | Schroder Real Estate Inv Trst Ld | Strategy/company update | Fund Manager Appointment
