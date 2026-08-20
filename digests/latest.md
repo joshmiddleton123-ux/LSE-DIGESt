@@ -1,12 +1,12 @@
 # LSE announcements — 2026-08-20
 
-171 announcements (07:00-latest). One line each plus AI summary where available.
+172 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:00:52 | JTC PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Sintana Energy Inc | UPD | Portfolio Update – Strategic Investment
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Ninety One PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Sintana Energy Inc | UPD | Portfolio Update – Strategic Investment
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:37:06 | ICG Enterprise Trust PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -105,6 +105,8 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:20:00 | BH Macro Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 09:19:40 | Safestore Holdings plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:18:46 | Halfords Group PLC | Holding(s) in company | Halfords Group PLC: Holding in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:18:32 | Santander UK Plc | PFT | Final Terms
@@ -134,9 +136,9 @@
 - 08:24:10 | Northern Electric PLC | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:22:26 | Deutsche Bank AG, Frankfurt | STA | Pre Stabilisation Notice - Swisscom PNC5.5 EUR
-- 08:00:00 | Diaceutics PLC | NRA | Diaceutics and PCC launch NGS Concordance Study 
-  - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | Investec PLC | Board appointment/change | Notification of future  Board change
+  - [summary failed: HTTP Error 400: Bad Request]
+- 08:00:00 | Diaceutics PLC | NRA | Diaceutics and PCC launch NGS Concordance Study 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:37:24 | Banco Santander S.A. | FUR | Webster Acquisition & Capital Increase
   - [summary failed: HTTP Error 400: Bad Request]
