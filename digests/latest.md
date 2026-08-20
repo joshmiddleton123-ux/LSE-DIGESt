@@ -5,6 +5,7 @@
 - 09:30:00 | LondonMetric Property PLC | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:29:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:20:00 | BH Macro Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:19:40 | Safestore Holdings plc | Director/PDMR shareholding | Director/PDMR Shareholding
