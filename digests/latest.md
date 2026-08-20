@@ -2,15 +2,16 @@
 
 221 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 16:35:23 | Fisher (James) & Sons plc | Holding(s) in company | Holding(s) in Company
 - 16:30:00 | abrdn European Logistics Income plc | Dividend declaration | 1st Interim Dividend and Wind Down Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:00 | Coca-Cola Europacific Partners plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:00 | Schroder UK Mid Cap Fund PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:30:00 | Buccaneer Energy PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:00 | Vistry Group PLC | Miscellaneous | Block Listing Interim Review
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:30:00 | Buccaneer Energy PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:29:39 | Kropz PLC | Miscellaneous | Drawdown on Bridge Loan Facilities
   - [summary failed: HTTP Error 400: Bad Request]
@@ -30,17 +31,15 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:15:05 | Gore Street Energy Storage Fund PLC | Disposal | Sale of Kilmannock and Mucklagh Assets 
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:15:00 | Nationwide Building Society | ADM | Notification Admission to trading of Covered Bonds
+- 16:15:00 | British American Tobacco PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:15:00 | Octopus AIM VCT 2 plc | Change of position | Purchase of Own Securities and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:15:00 | British American Tobacco PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+- 16:15:00 | Nationwide Building Society | ADM | Notification Admission to trading of Covered Bonds
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:13:28 | Theracryf PLC | Issue of equity | Proposed Placing & Subscription to raise £1.05m 
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:10:31 | JPMorgan European Grwth & Inc PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 16:07:49 | Baillie Gifford European Growth Tst | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:07:47 | Card Factory PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
