@@ -3,6 +3,7 @@
 237 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:09:00 | BlackRock Latin American Investment Trust Plc | Strategy/company update | Mandatory Close Period - Compliance with MAR
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:02:00 | BlackRock Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:01:00 | BlackRock Greater Europe Investment Trust Plc | Change of position | Transaction in Own Shares
