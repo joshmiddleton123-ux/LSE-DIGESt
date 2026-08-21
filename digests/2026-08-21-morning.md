@@ -5,6 +5,7 @@
 - 11:00:18 | 
 Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
 - 11:00:14 | Gamma Communications PLC | RSP | Response to press speculation
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | ConvaTec Group PLC | TRS | Percentage of shares held in treasury
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:59:06 | Hon Hai Precision Industry Co Ld | Strategy/company update | Subsidiary obtaining Shares
