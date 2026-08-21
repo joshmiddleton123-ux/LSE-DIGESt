@@ -3,6 +3,7 @@
 148 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:30:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:25:36 | Informa PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:21:52 | Pennon Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
