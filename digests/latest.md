@@ -3,9 +3,9 @@
 241 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:09:00 | BlackRock Latin American Investment Trust Plc | Strategy/company update | Mandatory Close Period - Compliance with MAR
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:02:00 | BlackRock Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
@@ -123,9 +123,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:39:18 | Odyssean Investment Trust PLC | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:39:00 | Invesco Global Equity Income Trust | MSCL | Monthly Factsheet
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:39:00 | Invesco Bond Income Plus | MSCL | Monthly Factsheet
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:39:00 | Invesco Global Equity Income Trust | MSCL | Monthly Factsheet
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:38:00 | Invesco Asia Dragon Trust | MSCL | Monthly Factsheet
   - [summary failed: HTTP Error 400: Bad Request]
