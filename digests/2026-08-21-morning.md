@@ -3,6 +3,7 @@
 109 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:32:00 | BH Macro Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:04 | Ming Yang Smart Energy Group Ltd | Acquisition | Progress of Asset Acquisition 
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:00 | easyJet | Holding(s) in company | Holding(s) in Company
