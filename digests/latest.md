@@ -6,6 +6,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:04:29 | Samsung Electronics Co. Ld | Miscellaneous | Charitable Contribution
 - 10:04:20 | Shell plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:38 | Samsung Electronics Co. Ld | Miscellaneous | Decision on Share Repurchase
 - 10:00:00 | Herald Investment Trust PLC | DOC | Monthly Factsheet  
   - [summary failed: HTTP Error 400: Bad Request]
