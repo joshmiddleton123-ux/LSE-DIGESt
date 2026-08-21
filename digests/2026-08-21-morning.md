@@ -1,6 +1,6 @@
 # LSE announcements — 2026-08-21
 
-112 announcements (07:00-latest). One line each plus AI summary where available.
+111 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:49:50 | Boku Inc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -71,8 +71,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Spire Healthcare Group PLC | Notice of results | Change to Interim Results announcement date
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Public Policy Holding Company, Inc. | Director/PDMR shareholding | Vesting of RSUs and TVR
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Helios Underwriting Plc | Miscellaneous | Update on Share Buyback Programme
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | JSC National Atomic Co. Kazatomprom | NOG | Notice of the EGM of Kazatomprom
@@ -121,7 +119,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | iFOREX Financial Trading Hldgs Ltd | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Genedrive PLC | Board appointment/change | Board Appointments
+- 07:00:02 | Tekcapital plc | Portfolio update | Portfolio Company Update - Guident Corp
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | ITM Power PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -129,11 +127,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Commonwealth Bank of Australia | PFT | Publication of Final Terms XS3476612877
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Genedrive PLC | Board appointment/change | Board Appointments
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Knights Group Holdings PLC | Acquisition | Acquisition of Moore Barlow LLP
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Tekcapital plc | Portfolio update | Portfolio Company Update - Guident Corp
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | VinaCapital Vietnam Opportunity Fd. | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Oakley Capital Investments Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -143,18 +139,21 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Amigo Resources PLC | Strategy/company update | Memorandum of Understanding
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Winking Studios Limited | Change of position | Transaction in Own Shares
+- 07:00:01 | ASB Bank Limited | ADM | EMTN Issue: GBP100m Notes due September 2027
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | SThree plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Australia & New Zealand Banking Grp | PFT | Publication of Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | ASB Bank Limited | ADM | EMTN Issue: GBP100m Notes due September 2027
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Dialight PLC | FUR | Employee Benefit Trust Share Purchase 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
-- 07:00:01 | GlobalData PLC | Change of position | Transaction in Own Shares
+- 07:00:01 | Winking Studios Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | VinaCapital Vietnam Opportunity Fd. | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | IMI PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Gamma Communications PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -188,17 +187,16 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | IMI PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Gamma Communications PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
 - 07:00:01 | Chrysalis Investments Limited | UPD | Management Arrangements Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | RIT Capital Partners PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | ASB Bank Limited | ADM | EMTN Issue: GBP150m Notes due August 2027
+- 07:00:01 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Metals Exploration PLC | MSCL | La India Development Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
@@ -212,7 +210,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Metals Exploration PLC | MSCL | La India Development Update
+- 07:00:00 | ASB Bank Limited | ADM | EMTN Issue: GBP150m Notes due August 2027
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
