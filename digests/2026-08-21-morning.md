@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-21
 
-170 announcements (07:00-latest). One line each plus AI summary where available.
+171 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:28:54 | Caffyns PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:24:35 | Ibstock PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:08:25 | Johnson Service Group PLC | Holding(s) in company | Holding(s) in Company
@@ -132,9 +134,9 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Rockfire Resources PLC | Issue of equity | Fundraising Update 
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:45:00 | Ashoka WhiteOak Emerging Markets Trust Plc | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:45:00 | Foresight Group Holdings Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:45:00 | Ashoka WhiteOak Emerging Markets Trust Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:37:28 | Samsung Electronics Co. Ld | Miscellaneous | Matters related to public disclosure obligation
 - 09:36:43 | KRM22 PLC | Director/PDMR shareholding | Director/PDMR Shareholding
@@ -159,9 +161,9 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
 - 08:11:42 | Australia & New Zealand Banking Grp | PFT | Publication of Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:06:01 | Fidelity Exchange Traded Products | DOC | Semi Financial Report as of 30.06.2026 
+- 08:00:00 | Clarion Funding plc | Board appointment/change | Board Member Announcement
 - 08:00:00 | Syncona Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 08:00:00 | Clarion Funding plc | Board appointment/change | Board Member Announcement
 - 07:36:31 | GAIL (India) Limited | Board appointment/change | Appointment of Independent Director
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:15:00 | Tekcapital plc | NRA | Portfolio Company Update -Innovative Eyewear Inc
@@ -171,8 +173,6 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
 - 07:01:01 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Spire Healthcare Group PLC | Notice of results | Change to Interim Results announcement date
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Optima Health PLC | Notice of AGM | Notice of AGM and posting of Annual Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Helios Underwriting Plc | Miscellaneous | Update on Share Buyback Programme
   - [summary failed: HTTP Error 400: Bad Request]
@@ -194,9 +194,9 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Trafalgar Minerals PLC | Miscellaneous | CLN Conversion and Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Springfield Properties PLC | Miscellaneous | Share Buyback, Rule 9 Waiver and Notice of GM
+- 07:00:03 | Optima Health PLC | Notice of AGM | Notice of AGM and posting of Annual Report
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Commonwealth Bank of Australia | PFT | Publication of Final Terms XS3476612877
+- 07:00:03 | Springfield Properties PLC | Miscellaneous | Share Buyback, Rule 9 Waiver and Notice of GM
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Knights Group Holdings PLC | Acquisition | Acquisition of Moore Barlow LLP
   - [summary failed: HTTP Error 400: Bad Request]
@@ -226,18 +226,18 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | iFOREX Financial Trading Hldgs Ltd | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Tekcapital plc | Portfolio update | Portfolio Company Update - Guident Corp
+- 07:00:02 | Genedrive PLC | Board appointment/change | Board Appointments
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | ITM Power PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Commonwealth Bank of Australia | ADM | Admission to Trading XS3476612877
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Genedrive PLC | Board appointment/change | Board Appointments
+- 07:00:02 | Commonwealth Bank of Australia | PFT | Publication of Final Terms XS3476612877
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | VinaCapital Vietnam Opportunity Fd. | Change of position | Transaction in Own Shares
+- 07:00:02 | Tekcapital plc | Portfolio update | Portfolio Company Update - Guident Corp
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
-- 07:00:01 | Gamma Communications PLC | Change of position | Transaction in Own Shares
+- 07:00:01 | VinaCapital Vietnam Opportunity Fd. | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Oakley Capital Investments Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -257,9 +257,11 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Dialight PLC | FUR | Employee Benefit Trust Share Purchase 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
+- 07:00:01 | Gamma Communications PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Chrysalis Investments Limited | UPD | Management Arrangements Update
+- 07:00:01 | RIT Capital Partners PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Redcentric PLC | Change of position | Transaction in Own Shares 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -293,11 +295,11 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | RIT Capital Partners PLC | Change of position | Transaction in Own Shares
+- 07:00:01 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Redcentric PLC | Change of position | Transaction in Own Shares 
+- 07:00:01 | Chrysalis Investments Limited | UPD | Management Arrangements Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
+- 07:00:00 | ASB Bank Limited | ADM | EMTN Issue: GBP150m Notes due August 2027
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
@@ -311,9 +313,9 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Avation PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Metals Exploration PLC | MSCL | La India Development Update
+- 07:00:00 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | ASB Bank Limited | ADM | EMTN Issue: GBP150m Notes due August 2027
+- 07:00:00 | Metals Exploration PLC | MSCL | La India Development Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
