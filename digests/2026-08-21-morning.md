@@ -2,6 +2,8 @@
 
 226 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 17:35:26 | Serco Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:30:00 | MITIE Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:21:35 | Galantas Gold Corporation | Notice of AGM | Notice of AGM
@@ -342,8 +344,6 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Genedrive PLC | Board appointment/change | Board Appointments
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Golden Prospect Precious Metals Ltd | Interim results | Interim Report and Financial Statements
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Real Estate Investors PLC | Trading statement | Trading Update & Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Oakley Capital Investments Limited | Change of position | Transaction in Own Shares
@@ -357,7 +357,7 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Redcentric PLC | Change of position | Transaction in Own Shares 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
+- 07:00:01 | Golden Prospect Precious Metals Ltd | Interim results | Interim Report and Financial Statements
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Amigo Resources PLC | Strategy/company update | Memorandum of Understanding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -411,8 +411,6 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Avation PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
@@ -424,4 +422,6 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | Preliminary figures for FY25/26
 - 07:00:00 | Irish Continental Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Metals Exploration PLC | MSCL | La India Development Update
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
