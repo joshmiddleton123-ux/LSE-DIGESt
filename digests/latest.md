@@ -1,7 +1,8 @@
 # LSE announcements — 2026-08-24
 
-214 announcements (07:00-latest). One line each plus AI summary where available.
+215 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:13:35 | Gledhow Investments plc | MSCL | Gledhow Investments plc: Confirmation of Director Appointments, CLN Update and Options Package
 - 12:06:54 | Trainline PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | National Grid North America Inc. | Price/dividend information | Publication of a Prospectus
