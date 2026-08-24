@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-24
 
-274 announcements (07:00-latest). One line each plus AI summary where available.
+275 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:10:34 | Angling Direct PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:03:25 | Hikma Pharmaceuticals Plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:01:57 | Aberdeen Asian Income Fund Limited | Miscellaneous | Gearing disclosure
