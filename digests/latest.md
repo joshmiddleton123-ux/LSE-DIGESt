@@ -1,7 +1,8 @@
 # LSE announcements — 2026-08-24
 
-283 announcements (07:00-latest). One line each plus AI summary where available.
+284 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:45:24 | Thames Water Utilities Limited | Miscellaneous | 13th Consent Requests and STID Proposal
 - 15:45:00 | Volvere PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:40:57 | Societe Generale SA | STA | Stabilisation Notice-  PKO BANK POLSKI SA
