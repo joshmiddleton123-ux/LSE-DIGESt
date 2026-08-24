@@ -1,7 +1,8 @@
 # LSE announcements — 2026-08-24
 
-301 announcements (07:00-latest). One line each plus AI summary where available.
+302 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 16:23:57 | Nomura Financial Products Europe | STA | SEB (NFPE) EUR1Bn 20.08.26 PreStabilisation Notice
 - 16:19:23 | Odyssean Investment Trust PLC | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:16:00 | BlackRock World Mining Trust Plc | Holding(s) in company | Holding(s) in Company
@@ -16,14 +17,14 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | International Cons Airlines Group | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 16:00:00 | London Stock Exchange Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:00:00 | Rockfire Resources PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Intermediate Capital Group PLC | Total voting rights | Total Voting Rights and Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | TP ICAP Finance PLC | Price/dividend information | Publication of Base Prospectus
 - 16:00:00 | BioPharma Credit PLC | Miscellaneous | Net Asset Value(s) and Monthly Factsheet
-- 16:00:00 | Rockfire Resources PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | London Stock Exchange Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:55:43 | Thames Water Utilities Finance PLC | Miscellaneous | 13th Consent Requests and STID Proposal
 - 15:54:54 | EnergyPathways PLC | Issue of equity | Issue of Fee Shares
   - [summary failed: HTTP Error 400: Bad Request]
