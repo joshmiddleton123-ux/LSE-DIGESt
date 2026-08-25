@@ -3,6 +3,7 @@
 160 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:32:35 | Amundi Physical Metals plc | PFT | Amundi Physical Metals plc: Final Terms
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:29:10 | Mobius Investment Trust PLC | DOC | Monthly Factsheet as at 31 July 2026 
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:16:44 | Digitalbox PLC | Holding(s) in company | Holding(s) in Company
