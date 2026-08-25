@@ -2,7 +2,7 @@
 
 165 announcements (07:00-latest). One line each plus AI summary where available.
 
-- 12:58:44 | Gooch & Housego PLC | Change of position | Transaction in Own Shares
+- 13:03:20 | Gooch & Housego PLC | Holding(s) in company | Holding(s) in Company - Replacement 
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:57:35 | BHP Group Limited | Director/PDMR shareholding | PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
