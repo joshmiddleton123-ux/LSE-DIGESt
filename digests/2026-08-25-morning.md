@@ -1,8 +1,9 @@
 # LSE announcements — 2026-08-25
 
-97 announcements (07:00-latest). One line each plus AI summary where available.
+98 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 08:25:12 | Trainline PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:18:47 | Glenstone REIT PLC | OFB | Information for Retail Investors with AIRE Shares
 - 08:00:01 | Glenstone REIT PLC | OFB | Acceptance Level Update
 - 07:55:24 | South32 Limited | UPD | 61% Increase in Sierra Gorda Ore Reserve Estimate
@@ -37,9 +38,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | InterContinental Hotels Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | AstraZeneca PLC | Issue of debt | AstraZeneca prices a €2.55 billion bond offering
+- 07:00:03 | Windar Photonics PLC | Issue of equity | Retail Offer to raise up to £200k 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Geo Exploration Limited | Miscellaneous | Capital Access Window – Trading Halt
+- 07:00:03 | Avation PLC | Notice of results | FINANCIAL YEAR 2026 RESULTS TIMETABLE 
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | M&C Saatchi PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Smarter Web Company PLC (The) | UPD | Employee Update 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -71,9 +74,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Oxford Nanopore Technologies plc | Board appointment/change | Appointment of CDPO 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Avation PLC | Notice of results | FINANCIAL YEAR 2026 RESULTS TIMETABLE 
+- 07:00:03 | AstraZeneca PLC | Issue of debt | AstraZeneca prices a €2.55 billion bond offering
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | M&C Saatchi PLC | Change of position | Transaction in Own Shares
+- 07:00:03 | Geo Exploration Limited | Miscellaneous | Capital Access Window – Trading Halt
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Sunrise Resources Plc | NRA | Gold Target in Premier Nevada Gold Belt
   - [summary failed: HTTP Error 400: Bad Request]
