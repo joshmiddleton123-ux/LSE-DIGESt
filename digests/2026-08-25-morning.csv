@@ -70,7 +70,7 @@ time_uk,datetime_utc,company,ticker,category_code,category,headline,rns_number,n
 2026-08-25 07:00:01,2026-08-25T06:00:01.000,VinaCapital Vietnam Opportunity Fd.,VOF,POS,Change of position,Transaction in Own Shares,9433R,17754046,439.5,,,,,,
 2026-08-25 07:00:01,2026-08-25T06:00:01.000,Caledonia Investments PLC,CLDN,POS,Change of position,Transaction in Own Shares,9438R,17754047,386.5,,,,,,
 2026-08-25 07:00:01,2026-08-25T06:00:01.000,Barings Emerging EMEA Opportunities,BEMO,POS,Change of position,Transaction in Own Shares,9439R,17754048,882.5,,,,,,
-2026-08-25 07:00:01,2026-08-25T06:00:01.000,Redcentric PLC,RCN,POS,Change of position,Transaction in Own Shares ,9442R,17754049,,,,,,,
+2026-08-25 07:00:01,2026-08-25T06:00:01.000,Redcentric PLC,RCN,POS,Change of position,Transaction in Own Shares ,9442R,17754049,105,,,,,,
 2026-08-25 07:00:01,2026-08-25T06:00:01.000,Science Group PLC,SAG,POS,Change of position,Transaction in Own Shares,9444R,17754050,578,,,,,,
 2026-08-25 07:00:01,2026-08-25T06:00:01.000,Venture Life Group PLC,VLG,POS,Change of position,Transaction in Own Shares,9451R,17754052,66,,,,,,
 2026-08-25 07:00:01,2026-08-25T06:00:01.000,Currys PLC,CURY,POS,Change of position,Transaction in Own Shares,9492R,17754053,147.5,,,,,,
