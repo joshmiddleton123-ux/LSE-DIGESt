@@ -3,9 +3,9 @@
 266 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:07:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:58:32 | Blackfinch Spring VCT PLC | DOC | Half-yearly Financial Report 
@@ -27,8 +27,8 @@
 - 17:28:17 | Bank of Montreal | Miscellaneous | BMO Q3 2026 CFO Certifications
 - 17:28:15 | Bank of Montreal | Miscellaneous | BMO Q3 2026 Earnings Coverage Ratio
 - 17:27:51 | Bank of Montreal | DOC | BMO Announces NCIB on Common Shares 
-- 17:26:31 | Bank of Montreal | Miscellaneous | BMO Q3 2026 CEO Certifications
 - 17:26:31 | Bank of Montreal | QRT | BMO Q3 2026 Financial Statements
+- 17:26:31 | Bank of Montreal | Miscellaneous | BMO Q3 2026 CEO Certifications
 - 17:25:28 | Bank of Montreal | Dividend declaration | BMO Q4 2026 Dividend Declaration 
 - 17:25:05 | Bank of Montreal | QRT | BMO Q3 2026 Management’s Discussion and Analysis
 - 17:25:00 | Capital Gearing Trust P.l.c. | Issue of equity | Sale of Shares from Treasury
