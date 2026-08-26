@@ -267,13 +267,11 @@
 - 07:00:01 | AO World plc | Change of position | Transaction in Own Shares
 - 07:00:01 | International Workplace Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Arkadian Strategic Metals PLC | UPD | Clogau Gold Mine Operations and Exploration Update
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Grafton Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | IMI PLC | Change of position | Transaction in Own Shares
+- 07:00:01 | TPXimpact Holdings PLC | CNT | Contract Wins and Uplifts Totalling £24m
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
+- 07:00:01 | Arkadian Strategic Metals PLC | UPD | Clogau Gold Mine Operations and Exploration Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Pantheon International PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -281,13 +279,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | S & U PLC | Trading statement | Trading Statement and Notice of Results 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | TPXimpact Holdings PLC | CNT | Contract Wins and Uplifts Totalling £24m
+- 07:00:01 | IMI PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Faron Pharmaceuticals | Interim results | Faron Pharmaceuticals Ltd: Half-year financial results 1 January – 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Metals Exploration PLC | MSCL | Exercise of Options and Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Cornish Metals | MSCL | Q2 ACTIVITIES UPDATE
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -296,4 +294,6 @@
 - 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | 4basebio Plc | MSCL | 4basebio Enters into Strategic Collaboration and Marketing Agreement with Genezen to Advance Synthetic, Cell-Free DNA Platforms for Next-Generation Viral Vector Manufacturing
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Cornish Metals | MSCL | Q2 ACTIVITIES UPDATE
   - [summary failed: HTTP Error 400: Bad Request]
