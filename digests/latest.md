@@ -3,6 +3,7 @@
 127 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:10:12 | Unite Group PLC (The) | DOC | EMTN Programme-Supplementary Admission Particulars
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:06:48 | United Utilities Group PLC | PFT | Publication of Final Terms
 - 10:00:01 | BioPharma Credit PLC | Notice of results | Notice of Half Year Results
 - 10:00:01 | Ceres Power Holdings plc | NRA | Ceres spins out RFC Power
@@ -166,11 +167,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Hydrogen Utopia International PLC | Strategy/company update | Engagement of J. Surma to Support SAF Development
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Sundae Bar AI PLC | Issue of equity | Placing and TVR
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Brave Bison Group PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | GlobalData PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Sundae Bar AI PLC | Issue of equity | Placing and TVR
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Iconic Labs PLC | Contract | Conversion of Notes and Allotment of Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -190,6 +189,8 @@
 - 07:00:01 | Jardine Matheson Hldgs Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | AO World plc | Change of position | Transaction in Own Shares
 - 07:00:01 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
@@ -228,7 +229,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Mendell Helium PLC | Contract | Exercise of Convertible Loan Notes
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Metals Exploration PLC | MSCL | Exercise of Options and Total Voting Rights
+- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Faron Pharmaceuticals | Interim results | Faron Pharmaceuticals Ltd: Half-year financial results 1 January – 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Cornish Metals | MSCL | Q2 ACTIVITIES UPDATE
   - [summary failed: HTTP Error 400: Bad Request]
@@ -236,9 +239,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Faron Pharmaceuticals | Interim results | Faron Pharmaceuticals Ltd: Half-year financial results 1 January – 30 June 2026
+- 07:00:00 | Metals Exploration PLC | MSCL | Exercise of Options and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
