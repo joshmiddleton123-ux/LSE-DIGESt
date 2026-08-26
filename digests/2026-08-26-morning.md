@@ -2,6 +2,7 @@
 
 107 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 09:23:16 | Leverage Shares PLC | ADM | Replacement - Admission to Trading of New Series
 - 09:09:45 | J.P. Morgan SE | STA | Stabilisation Notice
 - 09:09:44 | J.P. Morgan Securities PLC. | STA | Stabilisation Notice
 - 09:00:01 | Hammerson PLC | Dividend declaration | Dividend Currency Conversion Announcement
@@ -23,14 +24,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:17:07 | Tritax Big Box REIT plc | ADM | Admission to Trading
   - [summary failed: HTTP Error 400: Bad Request]
-- 08:13:34 | Leverage Shares PLC | ADM | Admission to Trading of New Series Notification
 - 07:21:01 | Commonwealth Bank of Australia | PFT | Publication of Final Terms XS3482660399
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:00 | Pantheon International PLC | UPD | Monthly Performance Update 
+- 07:01:00 | Science Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:00 | AEW UK REIT PLC | UPD | Shareholder Update 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:00 | Science Group PLC | Change of position | Transaction in Own Shares
+- 07:01:00 | Pantheon International PLC | UPD | Monthly Performance Update 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Hot Rocks Investments plc | MSCL | Suncrest Gold - positive updates
   - [summary failed: HTTP Error 400: Bad Request]
