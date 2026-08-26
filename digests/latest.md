@@ -3,6 +3,7 @@
 157 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:18:28 | Proven Growth & Income VCT PLC | ADM | ProVen Growth and Income VCT plc: Admission of Further Securities to Trading (DRIS)
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:17:08 | Xtrackers ETC PLC | PFT | Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:16:51 | Xtrackers ETC PLC | PFT | Final Terms
