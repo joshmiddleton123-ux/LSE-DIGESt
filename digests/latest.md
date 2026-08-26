@@ -3,6 +3,7 @@
 130 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:30:25 | CK Infrastructure Holdings Limited | Interim results | 2026 Interim Report
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:17:43 | Ming Yang Smart Energy Group Ltd | Miscellaneous | Issuance of 2026 Green Sci-Tech Bonds (Tranche 3)
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:16:26 | Bank of Nova Scotia | PSP | Publication of a Supplementary Prospectus
