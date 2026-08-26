@@ -3,6 +3,7 @@
 195 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:59:00 | Fidelity Special Values Plc | MSCL | Monthly Factsheet
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:57:00 | Fidelity European Trust Plc | MSCL | Monthly Factsheet
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:56:06 | Natwest Markets PLC | PFT | Publication of Final Terms
