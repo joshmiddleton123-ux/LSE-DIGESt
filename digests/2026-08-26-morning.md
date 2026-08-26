@@ -1,7 +1,45 @@
 # LSE announcements — 2026-08-26
 
-213 announcements (07:00-latest). One line each plus AI summary where available.
+233 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 16:40:00 | Mid Wynd International Investment Trust Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:37:50 | Henderson Far East Income Limited | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:37:34 | Light Science Tech. Holdings PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:36:24 | Triple Point Venture VCT PLC | Change of position | Transaction in Own Shares
+- 16:36:17 | Hargreave Hale AIM VCT 1 PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:33:50 | Living REIT PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:33:13 | STS Global Income & Growth Trust | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:32:00 | BlackRock American Income Trust Plc | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:31:54 | Cropper(James) PLC | Director/PDMR shareholding | New Employee Benefit Trust and PDMR Dealing
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:30:52 | Odyssean Investment Trust PLC | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:30:00 | Invesco Bond Income Plus | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:30:00 | Vistry Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:30:00 | Invesco Global Equity Income Trust | Issue of equity | Issue of Equity
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:26:41 | SSE PLC | Dividend declaration | Scrip Alternative 
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:25:00 | Scandinavian Tobacco Group A/S | Interim results | STG A/S – Interim consolidated financial statements
+- 16:20:32 | Glenveagh Properties plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:15:00 | LondonMetric Property PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:12:26 | Maven Income & Growth VCT 4 PLC | Interim results | Half-year Financial Report
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:09:00 | Temple Bar Investment Trust Plc | Issue of equity | Sale of Shares from Treasury
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:08:04 | Bloomsbury Publishing PLC | Director/PDMR shareholding | Director/PDMR Shareholdings
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Hunting PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:57:11 | CT UK Capital and Income Investment | Change of position | Transaction in Own Shares
