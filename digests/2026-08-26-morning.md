@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-26
 
-195 announcements (07:00-latest). One line each plus AI summary where available.
+196 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:10:25 | Pollen Street Group Limited | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:59:00 | Fidelity Special Values Plc | MSCL | Monthly Factsheet
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:57:00 | Fidelity European Trust Plc | MSCL | Monthly Factsheet
@@ -255,9 +257,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Mila Resources PLC | Drilling/exploration | Upgraded JORC Resource at Kathleen Valley 
+- 07:00:02 | Applied Nutrition PLC | Trading statement | FY26 Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Science Group PLC | TRS | Treasury Shares Issued 
+- 07:00:02 | Chesnara PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Goodweather Holdings Limited | Offer update | Offer Document and Investor Presentation 
 - 07:00:02 | Redcentric PLC | Change of position | Transaction in Own Shares 
@@ -272,7 +274,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Plus500 Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Chesnara PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+- 07:00:02 | Mila Resources PLC | Drilling/exploration | Upgraded JORC Resource at Kathleen Valley 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Brave Bison Group PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
@@ -290,15 +292,15 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Winking Studios Limited | Board appointment/change | Board Change
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Applied Nutrition PLC | Trading statement | FY26 Trading Update
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
+- 07:00:02 | Science Group PLC | TRS | Treasury Shares Issued 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Jardine Matheson Hldgs Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Commonwealth Bank of Australia | DOC | Agreement reached to settle class action
+- 07:00:01 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | TPXimpact Holdings PLC | CNT | Contract Wins and Uplifts Totalling £24m
+- 07:00:01 | Grafton Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Kendrick Resources PLC | UPD | Metallurgical Test Work on Teufelskuppe Project
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Rolls-Royce Holdings plc | Change of position | Transaction in Own Shares
 - 07:00:01 | Pollen Street Group Limited | Change of position | Transaction in Own Shares
@@ -331,9 +333,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Caledonia Investments PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Grafton Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Kendrick Resources PLC | UPD | Metallurgical Test Work on Teufelskuppe Project
+- 07:00:01 | Commonwealth Bank of Australia | DOC | Agreement reached to settle class action
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | AO World plc | Change of position | Transaction in Own Shares
 - 07:00:01 | International Workplace Group PLC | Change of position | Transaction in Own Shares
@@ -350,6 +350,8 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | KRM22 PLC | CNT | New Customer Contract 
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | TPXimpact Holdings PLC | CNT | Contract Wins and Uplifts Totalling £24m
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Faron Pharmaceuticals | Interim results | Faron Pharmaceuticals Ltd: Half-year financial results 1 January – 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | Metals Exploration PLC | MSCL | Exercise of Options and Total Voting Rights
@@ -358,9 +360,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | 4basebio Plc | MSCL | 4basebio Enters into Strategic Collaboration and Marketing Agreement with Genezen to Advance Synthetic, Cell-Free DNA Platforms for Next-Generation Viral Vector Manufacturing
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
