@@ -129,9 +129,9 @@
 - 10:00:01 | Ceres Power Holdings plc | NRA | Ceres spins out RFC Power
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:01 | BioPharma Credit PLC | Notice of results | Notice of Half Year Results
-- 10:00:01 | Costain Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:01 | Physiomics PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:01 | Costain Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | easyJet | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -153,9 +153,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:01 | Rockfire Resources PLC | Director/PDMR shareholding | Grant of Options
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:30:01 | Churchill China PLC | Board appointment/change | CEO Succession 
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:01 | Sirius Real Estate Limited | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:30:01 | Churchill China PLC | Board appointment/change | CEO Succession 
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:00 | VanEck ETFs N.V. | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
@@ -193,8 +193,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Hot Rocks Investments plc | MSCL | Suncrest Gold - positive updates
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Pri0r1ty Intelligence Group PLC | Board appointment/change | Appointment of Interim CFO
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Frontier Developments PLC | Miscellaneous | Block Listing Return
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | H-Power PLC | Miscellaneous | LC30: Attestation of Conformity for the CE Mark
@@ -204,7 +202,7 @@
 - 07:00:03 | Malin Corporation PLC | DOC | 2026 Interim Report 
 - 07:00:03 | Corero Network Security PLC | Notice of results | Notice of Results & Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | M. P. Evans Group PLC | Notice of results | Notice of Interim Results
+- 07:00:03 | Pri0r1ty Intelligence Group PLC | Board appointment/change | Appointment of Interim CFO
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Commonwealth Bank of Australia | ADM | Admission to Trading XS3482660399 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -233,7 +231,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Kakuzi Ld | Miscellaneous | Profit Warning Announcement
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Gatwick Funding Limited | DOC | Half year results publication – Gatwick Airport 
+- 07:00:03 | M. P. Evans Group PLC | Notice of results | Notice of Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | TT Electronics PLC | Miscellaneous | Notice of Results & Investor Presentation via IMC
   - [summary failed: HTTP Error 400: Bad Request]
@@ -242,7 +240,7 @@
 - 07:00:03 | Gatwick Airport Finance PLC | DOC | Half-year Financial Report 
 - 07:00:03 | Rockhopper Exploration plc | Miscellaneous | Sea Lion Reserves Evaluation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Applied Nutrition PLC | Trading statement | FY26 Trading Update
+- 07:00:03 | Gatwick Funding Limited | DOC | Half year results publication – Gatwick Airport 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Empresaria Group PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
@@ -291,6 +289,8 @@
 - 07:00:02 | Kakuzi Ld | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Winking Studios Limited | Board appointment/change | Board Change
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Applied Nutrition PLC | Trading statement | FY26 Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
