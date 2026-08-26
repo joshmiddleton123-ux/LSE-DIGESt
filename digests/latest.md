@@ -3,6 +3,7 @@
 151 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:00:42 | Cadence Minerals PLC | Result of meeting | Result of GM 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:58:00 | Invesco Global Equity Income Trust | MSCL | Block listing application
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:57:20 | iShares Physical Metals Plc | PFT | Final Terms
