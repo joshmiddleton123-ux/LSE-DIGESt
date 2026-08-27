@@ -3,6 +3,7 @@
 194 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:02:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:56:23 | MobilityOne Limited | UPD | Update on Proposed Joint Venture with Super Apps
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:47:23 | Fuel Ventures VCT PLC | PSP | Publication of a Supplementary Prospectus
