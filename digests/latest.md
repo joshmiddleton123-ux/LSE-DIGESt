@@ -3,6 +3,7 @@
 229 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:00:40 | Nichols PLC | Miscellaneous | Exercise of Options, Director/PDMR Dealing & TVR
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:12 | Taylor Wimpey PLC | Holding(s) in company | Holding(s) in Company
 - 16:00:00 | Shield Therapeutics PLC | Miscellaneous | Shield assumes full control of ACCRUFeR® in the US
   - [summary failed: HTTP Error 400: Bad Request]
