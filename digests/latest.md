@@ -3,6 +3,7 @@
 202 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:50:04 | Caledonia Investments PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:49:01 | Polar Capital Global Financials Tst | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:42:31 | Polar Capital Global Financials Tst | Holding(s) in company | Holding(s) in Company
