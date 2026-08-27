@@ -4,9 +4,10 @@
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
 - 18:34:25 | Halfords Group PLC | Holding(s) in company | Halfords Group PLC: Holding in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:22:14 | Galantas Gold Corporation | Issue of equity | Exercise of Warrants
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:15:00 | Legal & General Group Plc | Holding(s) in company | Holding(s) in Company
@@ -31,9 +32,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:15:17 | HgCapital Trust PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:15:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:15:00 | Rights and Issues Inv. Trust PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:15:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:13:41 | Morgan Stanley B.V. | Miscellaneous | ISM_MSBV_EARLY REDEMPTION_27-08-2026
 - 17:13:32 | Schroder AsiaPacific Fund PLC | Change of position | Transaction in Own Shares
