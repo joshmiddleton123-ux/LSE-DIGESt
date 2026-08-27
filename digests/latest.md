@@ -1,8 +1,10 @@
 # LSE announcements — 2026-08-27
 
-112 announcements (07:00-latest). One line each plus AI summary where available.
+113 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 08:30:06 | Mirae Asset ETF ICAV | Dividend declaration | Dividend Declaration GlobalX ETF ICAV-IE000SAXJ1M1
+- 08:30:00 | Keller Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:29:25 | Mirae Asset ETF ICAV | Dividend declaration | Dividend Declaration GlobalX ETF ICAV-IE0002L5QB31
 - 08:29:19 | Mirae Asset ETF ICAV | Dividend declaration | Dividend Declaration GlobalX ETF ICAV-IE00BM8R0J59
 - 08:15:56 | Shoe Zone PLC | Change of position | Transaction in Own Shares
@@ -34,8 +36,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | hVIVO plc | Miscellaneous | hVIVO acquires CRS Berlin
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | AstraZeneca PLC | Miscellaneous | Tezspire CROSSING trial met primary endpoints
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | AOTI, Inc. | NRA | Proposed Topical Oxygen Therapy LCD Progress 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | EDX Medical Group PLC | NRA | Scottish Prostate Cancer Initiative update
@@ -44,18 +44,18 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Crimson Tide PLC | NRA | Contract Extensions with Public Sector Customers
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | PureGym Limited | NRA | PureGym 2026 Half Year Results
+- 07:00:05 | Prudential PLC | Dividend declaration | Dividend Declaration
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Thruvision Group PLC | NRA | Canadian Government Contract Award
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | System1 Group PLC | NRA | System1 launches Test Your Ad Screen
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Prudential PLC | Dividend declaration | Dividend Declaration
+- 07:00:05 | AstraZeneca PLC | Miscellaneous | Tezspire CROSSING trial met primary endpoints
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Billington Holdings PLC | Board appointment/change | Directorate Change
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | PureGym Limited | NRA | PureGym 2026 Half Year Results
 - 07:00:04 | Oxford BioDynamics PLC | Board appointment/change | Board Appointment
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | ConvaTec Group PLC | Board appointment/change | Non-Executive Director appointment
+- 07:00:04 | Billington Holdings PLC | Board appointment/change | Directorate Change
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Rockhopper Exploration plc | Issue of equity | Proposed Capital Raising
   - [summary failed: HTTP Error 400: Bad Request]
@@ -75,9 +75,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | South32 Limited | PGR | Payments to Governments Report 2026 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Boot(Henry) PLC | Board appointment/change | Board Changes
+- 07:00:04 | ConvaTec Group PLC | Board appointment/change | Non-Executive Director appointment
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Windar Photonics PLC | Miscellaneous | Result of Retail Offer & Total Voting Rights
+- 07:00:04 | Oakley Capital Investments Limited | Notice of results | Notice of Results and Investor Presentation
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Tracsis PLC | Director/PDMR shareholding | Award of Options 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Plus500 Limited | Director/PDMR shareholding | Director/PDMR Dealing and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
@@ -111,9 +113,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Guardian Metal Resources PLC | Miscellaneous | Pilot Mountain Technical Report Summary
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Oakley Capital Investments Limited | Notice of results | Notice of Results and Investor Presentation
+- 07:00:04 | Boot(Henry) PLC | Board appointment/change | Board Changes
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Tracsis PLC | Director/PDMR shareholding | Award of Options 
+- 07:00:04 | Windar Photonics PLC | Miscellaneous | Result of Retail Offer & Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
