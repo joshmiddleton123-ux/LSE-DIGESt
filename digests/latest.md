@@ -1,7 +1,8 @@
 # LSE announcements — 2026-08-27
 
-140 announcements (07:00-latest). One line each plus AI summary where available.
+141 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:50:25 | China Pacific Insurance Grp Co. Ltd | Interim results | 2026 Interim Report
 - 10:30:00 | Zoo Digital Group PLC | NRA | Publication of Quarterly Investor Newsletter 
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:23:47 | Aeorema Communications Plc | Change of position | Transaction in Own Shares and Total Voting Rights
