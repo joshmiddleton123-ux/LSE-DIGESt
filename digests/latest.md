@@ -3,6 +3,7 @@
 270 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 17:30:00 | Defence Holdings Plc | Notice of AGM | Notice of Annual General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:29:07 | Schroder Income Growth Fund PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:28:00 | BlackRock Greater Europe Investment Trust Plc | Change of position | Transaction in Own Shares
