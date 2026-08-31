@@ -1,7 +1,9 @@
 # LSE announcements — 2026-08-31
 
-7 announcements (07:00-latest). One line each plus AI summary where available.
+8 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:00:00 | AB "Ignitis grupė" | MSCL | Ignitis Group receives Baa1 credit rating from Moody's
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:55:05 | Amundi Physical Metals plc | PFT | Amundi Physical Metals plc: UK Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:31:46 | Amundi Physical Metals plc | PFT | Amundi Physical Metals plc: Final Terms
