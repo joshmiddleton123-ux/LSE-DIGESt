@@ -3,15 +3,16 @@
 771 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:40:18 | OSB GROUP PLC | ADM | OSB GROUP PLC - Admission to Trading
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
-- 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | MFN | TSM | End of Day Message
+- 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
 - 18:20:00 | Volution Group plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 18:15:01 | Legal & General Group Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 18:15:01 | Legal & General Group Plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 18:15:01 | Legal & General Group Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:15:01 | Legal & General Group Plc | ADM | Admission to Trading
   - [summary failed: HTTP Error 400: Bad Request]
