@@ -103,9 +103,9 @@
 - 13:10:15 | Deutsche Bank AG, Frankfurt | STA | Post Stabilisation Notice - BNG GBP Jul 2031
 - 13:05:00 | British American Tobacco PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:02:41 | Staffline Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:02:41 | HSBC Bank plc | ADM | Admission to Trading
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:02:41 | Staffline Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:02 | Bunzl PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
