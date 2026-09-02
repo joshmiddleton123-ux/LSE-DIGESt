@@ -3,6 +3,7 @@
 247 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:34:05 | Norman Broadbent PLC | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:32:01 | Wetherspoon (JD) PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:28:21 | QIB Sukuk Ltd | DOC | Consent Solicitation - Notice 
