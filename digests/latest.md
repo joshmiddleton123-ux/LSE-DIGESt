@@ -3,6 +3,7 @@
 194 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:49:05 | Shell plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:46:37 | Ming Yang Smart Energy Group Ltd | Miscellaneous | Shareholder Non-Trade Transfer & Equity Change
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:35:23 | iShares Digital Assets AG | PFT | Final Terms ishares Digital asset 2/09/2026
