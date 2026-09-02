@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-02
 
-190 announcements (07:00-latest). One line each plus AI summary where available.
+192 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:35:23 | iShares Digital Assets AG | PFT | Final Terms ishares Digital asset 2/09/2026
+- 12:35:13 | Eastern Power Networks PLC | ADM | Admission to Trading
 - 12:35:00 | Howden Joinery Group PLC | Director/PDMR shareholding | SIP PDMR Notification
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:00 | Pathos Communications PLC | Notice of results | Notice of Interim Results & Investor Presentation 
@@ -18,9 +20,9 @@
 - 12:00:24 | Bloomsbury Publishing PLC | Director/PDMR shareholding | Director/PDMR Shareholdings
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:22 | iShares Physical Metals Plc | PFT | Final Terms
-- 12:00:00 | B&M European Value Retail PLC | Notice of results | Timing of FY27 Interim Results
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Iomart Group PLC | Notice of AGM | Annual Report and Notice of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:00:00 | B&M European Value Retail PLC | Notice of results | Timing of FY27 Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:59:07 | iShares Physical Metals Plc | PFT | Final Terms
 - 11:59:02 | Inter-American Development Bank | Issue of debt | Issue of Debt
