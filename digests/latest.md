@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-02
 
-139 announcements (07:00-latest). One line each plus AI summary where available.
+140 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 09:40:30 | Wilmington PLC | Notice of results | Notice of year-end results
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:39:50 | 3i Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:28:56 | Uniphar PLC | Holding(s) in company | Holding(s) in Company
