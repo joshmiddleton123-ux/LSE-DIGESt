@@ -3,6 +3,7 @@
 217 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:15:15 | Puma VCT 13 PLC | ADM | Admission of Further Securities to Trading  
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:09:48 | Baillie Gifford UK Growth Trust PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:09:01 | Software Circle PLC | Regulatory application/grant | Result of AGM and Board Appointment
@@ -160,9 +161,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:57 | Windar Photonics PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:01 | Estithmar Sukuk Limited LLC | DOC | Launch of Exchange Offer and Consent Solicitation 
 - 09:00:01 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:01 | Estithmar Sukuk Limited LLC | DOC | Launch of Exchange Offer and Consent Solicitation 
 - 08:59:52 | Aster Treasury PLC | Notice of AGM | Annual Financial Report and AGM Notice 
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:59:41 | Alkemy Capital Investments PLC | Contract | Loan Conversion
@@ -220,27 +221,25 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Schroder Oriental Income Fund Ltd | APP | Appointment of Corporate Broker 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Wheaton Precious Metals Corp. | Miscellaneous | Notice of Investor Day Webcast
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Redx Pharma Limited | NRA | Appointment of Chief Medical Officer 
 - 07:00:07 | DX (Group) | NRA | Expansion of Executive Leadership Team
 - 07:00:07 | Sunrise Resources Plc | NRA | Royalty Portfolio Provides Multiple Value Routes
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Forgent PLC | NRA | Launch of updated website
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | OptiBiotix Health PLC | NRA | H&B launches FORMI™ Product containing SlimBiome®
+- 07:00:07 | Sutton Harbour Group PLC | Circular | Publication of Circular and General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Ten Technologies Group PLC | NRA | Ten Launches HSBC UK Premier Digital Platform
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Molten Ventures PLC | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Sutton Harbour Group PLC | Circular | Publication of Circular and General Meeting
+- 07:00:07 | Wheaton Precious Metals Corp. | Miscellaneous | Notice of Investor Day Webcast
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Personal Group Holdings PLC | Notice of results | Notice of Results and Presentations
+- 07:00:07 | OptiBiotix Health PLC | NRA | H&B launches FORMI™ Product containing SlimBiome®
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Eagle Eye Solutions Group PLC | Notice of results | Notice of Full Year Results Presentations
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Custodian Property Income REIT plc | QRF | Custodian Property Income REIT plc: Active asset management and diversified portfolio continue to drive rental growth, underpinning fully covered dividend
+- 07:00:06 | Personal Group Holdings PLC | Notice of results | Notice of Results and Presentations
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Bezant Resources PLC | Miscellaneous | Financing of Accelerated Purchase Arrangement
   - [summary failed: HTTP Error 400: Bad Request]
@@ -254,17 +253,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Journeo PLC | Miscellaneous | Notice of Interim Results & Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Cairn Homes plc | Interim results | Cairn Homes Plc: 2026 Interim Results
+- 07:00:06 | Custodian Property Income REIT plc | QRF | Custodian Property Income REIT plc: Active asset management and diversified portfolio continue to drive rental growth, underpinning fully covered dividend
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Pennpetro Energy PLC | APP | Change of Auditor 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Sure Ventures PLC | Notice of AGM | AGM Notification 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Plus500 Limited | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | BP PLC | Board appointment/change | Ian Tyler appointed bp Chair
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | InterContinental Hotels Group PLC | Change of position | Transaction in Own Shares
+- 07:00:06 | Cairn Homes plc | Interim results | Cairn Homes Plc: 2026 Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Prudential PLC | Change of position | Update on share buyback programme
   - [summary failed: HTTP Error 400: Bad Request]
@@ -297,6 +292,12 @@
 - 07:00:04 | Audioboom Group PLC | Director/PDMR shareholding | Award of RSUs and Grant of Options
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Supreme PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | BP PLC | Board appointment/change | Ian Tyler appointed bp Chair
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Plus500 Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | InterContinental Hotels Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | VinaCapital Vietnam Opportunity Fd. | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
