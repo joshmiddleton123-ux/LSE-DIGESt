@@ -3,6 +3,7 @@
 176 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:05:09 | Banco Santander S.A. | Change of position | Buyback programme: transactions 27Aug-2Sept
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:02:03 | Smiths News PLC | Holding(s) in company | Block Listing Interim Review
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:01:18 | Shell plc | Change of position | Transaction in Own Shares
