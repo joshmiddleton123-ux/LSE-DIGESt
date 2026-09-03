@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-03
 
-316 announcements (07:00-latest). One line each plus AI summary where available.
+317 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 18:30:00 | PR Newswire | TSM | End of Day
 - 18:23:26 | F&C Investment Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:10:30 | Canadian General Investments Ld | Portfolio update | Portfolio Update
@@ -14,9 +15,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:41:26 | Polar Capital Technology Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:37:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:37:00 | BlackRock Greater Europe Investment Trust Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:37:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:36:32 | LANDSBANKINN HF. | MSCL | Landsbankinn hf.:  Moody’s assigns initial rating to Landsbankinn
 - 17:30:57 | Brunner Investment Trust PLC | Change of position | Transaction in Own Shares
@@ -126,9 +127,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:51:51 | Greencore Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:45:00 | AB "Ignitis grupė" | MSCL | Ignitis Group updates Euro Medium Term Note Programme
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:45:00 | Bytes Technology Group PLC | Board appointment/change | Directorate change
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:45:00 | AB "Ignitis grupė" | MSCL | Ignitis Group updates Euro Medium Term Note Programme
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:35:11 | Marks and Spencer Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -178,17 +179,17 @@
 - 14:25:23 | Commerzbank Aktiengesellschaft | MSCL | Commerzbank has decided to implement a share buyback programme with a volume of up to €1.2 billion
 - 14:13:37 | Future PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:09:36 | Senior PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:09:36 | Tatton Asset Management PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
+- 14:09:36 | Senior PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:02:00 | Eurocell plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Scancell Holdings Plc | NRA | Scancell to Present at the H.C. Wainwright Sept 26
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | EDX Medical Group PLC | Notice of AGM | Posting of Notice of AGM and Annual Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Eurocell plc | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Scancell Holdings Plc | NRA | Scancell to Present at the H.C. Wainwright Sept 26
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:41:17 | Ridgeview Partners LLC | Offer update | Update on Letter of Intent
 - 13:39:30 | Home Group Ld | Trading statement | Trading Statement 
@@ -198,15 +199,15 @@
 - 13:31:18 | European Smaller Companies Tst PLC | DOC | Compliance with Market Abuse Regulation
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:26 | Franklin Templeton ICAV | Dividend declaration | Dividend Declaration - Dates
+- 13:17:25 | Sydbank A/S | Director/PDMR shareholding | Ledende medarbejdere og nærtståendes transaktioner med aktier i AL Sydbank
 - 13:17:25 | Sydbank A/S | Director/PDMR shareholding | Transactions with shares in AL Sydbank by managers and closely associated persons
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:17:25 | Sydbank A/S | Director/PDMR shareholding | Ledende medarbejdere og nærtståendes transaktioner med aktier i AL Sydbank
 - 13:15:00 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
 - 13:15:00 | British American Tobacco PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | Schroder Eur Real Est Inv Trust PLC | Result of meeting | Result of General Meeting
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Hammerson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:00:00 | Schroder Eur Real Est Inv Trust PLC | Result of meeting | Result of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:53:26 | Central Asia Metals PLC | Holding(s) in company | TR-1: Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
