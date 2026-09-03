@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-03
 
-225 announcements (07:00-latest). One line each plus AI summary where available.
+226 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:35:23 | Intertek Group PLC | Holding(s) in company | Holding(s) in Company
 - 14:30:40 | JD Sports Fashion PLC | Holding(s) in company | Holding(s) in Company
 - 14:30:01 | BP PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
