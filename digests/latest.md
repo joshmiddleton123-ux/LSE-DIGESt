@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-03
 
-314 announcements (07:00-latest). One line each plus AI summary where available.
+315 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 18:10:30 | Canadian General Investments Ld | Portfolio update | Portfolio Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:00:00 | Switch Metals PLC | Notice of AGM | Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:53:43 | Central Asia Metals PLC | Holding(s) in company | TR-1: Notification of major holdings 
@@ -10,9 +12,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:41:26 | Polar Capital Technology Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:37:00 | BlackRock Greater Europe Investment Trust Plc | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:37:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:37:00 | BlackRock Greater Europe Investment Trust Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:36:32 | LANDSBANKINN HF. | MSCL | Landsbankinn hf.:  Moody’s assigns initial rating to Landsbankinn
 - 17:30:57 | Brunner Investment Trust PLC | Change of position | Transaction in Own Shares
