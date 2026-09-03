@@ -3,6 +3,7 @@
 262 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:20:28 | Helix Exploration PLC | UPD | Rudyard Operational Updates  
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:06:00 | UK Debt Management Office | Issue of debt | Issue of Debt
 - 16:05:11 | Morgan Stanley B.V. | Miscellaneous | ISM - MSBV - RETIREMENT - 03-09-2026
   - [summary failed: HTTP Error 400: Bad Request]
