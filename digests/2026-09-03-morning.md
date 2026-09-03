@@ -80,9 +80,9 @@
 - 13:15:00 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
 - 13:15:00 | British American Tobacco PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | Schroder Eur Real Est Inv Trust PLC | Result of meeting | Result of General Meeting
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Hammerson PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:00:00 | Schroder Eur Real Est Inv Trust PLC | Result of meeting | Result of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:53:26 | Central Asia Metals PLC | Holding(s) in company | TR-1: Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
@@ -186,9 +186,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:40:45 | Concurrent Technologies PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:30:00 | Mindflair PLC | Miscellaneous | New investment in AI B2B partnerships business
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:00 | easyJet | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:30:00 | Mindflair PLC | Miscellaneous | New investment in AI B2B partnerships business
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:27:31 | R8 Capital Investments PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -246,9 +246,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Jadestone Energy PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | B90 Holdings PLC | Notice of results | Notice of Interim Results
+- 07:00:05 | Jadestone Energy PLC | Miscellaneous | Change of Substantial Shareholder
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Breedon Group PLC | NRA | MPs Back British Cement
+- 07:00:05 | Bango PLC | Notice of results | Notice of Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | PetroTal Corp. | Director/PDMR shareholding | Director Dealing 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -281,9 +281,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | INVESCO Asia Dragon Trust PLC | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Jadestone Energy PLC | Miscellaneous | Change of Substantial Shareholder
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Bango PLC | Notice of results | Notice of Interim Results
+- 07:00:05 | B90 Holdings PLC | Notice of results | Notice of Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Genedrive PLC | NRA | ShareSoc Investor Presentation Reminder
   - [summary failed: HTTP Error 400: Bad Request]
@@ -292,19 +290,19 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Poolbeg Pharma PLC | NRA | Key Conference Participation in September 2026
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Seraphim Space Investment Trust PLC | NRA | SpaceTech Sector Newsletter - August 2026
+- 07:00:05 | Cairn Homes plc | Change of position | Cairn Homes Plc: Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Cobra Resources PLC | NRA | Cobra Presenting at AU's Largest Copper Conference
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Sealand Capital Galaxy Limited | NRA | LAUNCH OF AI-POWERED CONTENT CREATION PLATFORM
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Cairn Homes plc | Change of position | Cairn Homes Plc: Transaction in Own Shares
+- 07:00:05 | Breedon Group PLC | NRA | MPs Back British Cement
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Renalytix PLC | Result of issue | Result of Fundraise
+- 07:00:05 | Seraphim Space Investment Trust PLC | NRA | SpaceTech Sector Newsletter - August 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Tungsten West PLC | Final results | Financial Results for the Year Ended 31 March 2026
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Panthera Resources PLC | Issue of equity | Issue of Equity
+- 07:00:04 | Renalytix PLC | Result of issue | Result of Fundraise
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Everyman Media Group PLC | Interim results | Interim Results 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -333,6 +331,8 @@
 - 07:00:04 | Panthera Resources PLC | Final results | Annual Financial Report 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | IQE PLC | AGR | IQE plc: Quintessent QDL purchase agreement
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Panthera Resources PLC | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | JPMorgan Emerging Mkts Div Inc PLC | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
