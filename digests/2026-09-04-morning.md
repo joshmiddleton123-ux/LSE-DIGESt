@@ -1,12 +1,14 @@
 # LSE announcements — 2026-09-04
 
-108 announcements (07:00-latest). One line each plus AI summary where available.
+109 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:30:27 | DSW Capital PLC | Director/PDMR shareholding | Grant of options under Performance Share Plan 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:22:27 | iShares V PLC | Price/dividend information | Publication of a Prospectus ishares V  04.09.2026
 - 10:19:53 | iShares IV PLC | Price/dividend information | Prospectus Update iShares IV plc - 04/09/2026 
-- 10:15:00 | Northern 3 VCT PLC | Issue of equity | Issue of equity and voting rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:15:00 | Northern Venture Trust PLC | Issue of equity | Issue of equity and voting rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:15:00 | Northern 3 VCT PLC | Issue of equity | Issue of equity and voting rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:15:00 | Northern 2 VCT PLC | Issue of equity | Issue of equity and voting rights
   - [summary failed: HTTP Error 400: Bad Request]
