@@ -1,6 +1,6 @@
 # LSE announcements — 2026-09-04
 
-172 announcements (07:00-latest). One line each plus AI summary where available.
+173 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:30:23 | R8 Capital Investments PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -38,6 +38,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:00 | Artemis UK Future Leaders Plc | Director/PDMR shareholding | Purchase of Shares by the Portfolio Manager
   - [summary failed: HTTP Error 400: Bad Request]
+- 13:15:00 | Union Jack Oil PLC | Offer update | Statement regarding Reabold offer 
 - 13:03:13 | Latham(James) PLC | Director/PDMR shareholding | PDMR Dealings 
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Thungela Resources Limited | Miscellaneous | CONFIRMATION OF TREASURY SHARES HELD
@@ -48,9 +49,9 @@
 - 12:46:40 | iShares Physical Metals Plc | PFT | Final Terms
 - 12:46:09 | iShares VI PLC | Price/dividend information | Prospectus update - iShares VI plc - 03.09.2026
 - 12:45:37 | iShares Physical Metals Plc | PFT | Final Terms
-- 12:45:01 | Baronsmead Second Venture Trust PLC | UPD | Update on Offer for Subscription 
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:45:01 | Baronsmead Venture Trust PLC | UPD | Update on Offer for Subscription   
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:45:01 | Baronsmead Second Venture Trust PLC | UPD | Update on Offer for Subscription 
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:45:00 | OSB GROUP PLC | Holding(s) in company | OSB GROUP PLC - Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
