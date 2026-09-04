@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-04
 
-131 announcements (07:00-latest). One line each plus AI summary where available.
+132 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:10:35 | R8 Capital Investments PLC | Holding(s) in company | Holding(s) in Company
 - 12:01:00 | Futura Medical PLC | NOG | Posting of Circular and Notice of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Oxford Nanopore Technologies plc | Director/PDMR shareholding | Director/PDMR Shareholding
@@ -191,17 +192,17 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Ondine Biomedical Inc. | Holding(s) in company | Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Solid State PLC | Director/PDMR shareholding | PDMR Dealings, Treasury Transfer & TVR
+- 07:00:02 | Acceler8 Ventures PLC | ADM | Equity Subscription and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Baker Steel Resources Trust Ltd | Portfolio update | Investment Update and 31 August 2026 NAV
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Reabold Resources PLC | Offer update | Day 35 Acceptance Level Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Acceler8 Ventures PLC | ADM | Equity Subscription and Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Caledonia Investments PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | Solid State PLC | Director/PDMR shareholding | PDMR Dealings, Treasury Transfer & TVR
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | River UK Micro Cap Ltd | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:01 | Caledonia Investments PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Gaming Realms PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -221,7 +222,6 @@
 - 07:00:01 | Quantum Data Energy PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | HSBC Bank plc | MSCL | Early Repurchase(s)
-- 07:00:00 | HSBC Bank plc | MSCL | Early Repurchase(s)
 - 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
@@ -239,5 +239,6 @@
 - 07:00:00 | HSBC Bank plc | MSCL | Early Repurchase(s)
 - 07:00:00 | Pan African Resources Plc | Strategy/company update | CDI Monthly Movement
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | HSBC Bank plc | MSCL | Early Repurchase(s)
 - 07:00:00 | ICG Enterprise Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
