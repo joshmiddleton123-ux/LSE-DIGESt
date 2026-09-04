@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-04
 
-130 announcements (07:00-latest). One line each plus AI summary where available.
+131 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:01:00 | Futura Medical PLC | NOG | Posting of Circular and Notice of General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Oxford Nanopore Technologies plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:54:10 | Medpal AI PLC | Strategy/company update | Completion of eMARx Acquisition-Issue of Equity
@@ -45,9 +47,9 @@
 - 10:19:53 | iShares IV PLC | Price/dividend information | Prospectus Update iShares IV plc - 04/09/2026 
 - 10:15:00 | Northern 2 VCT PLC | Issue of equity | Issue of equity and voting rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:15:00 | Northern 3 VCT PLC | Issue of equity | Issue of equity and voting rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:15:00 | Northern Venture Trust PLC | Issue of equity | Issue of equity and voting rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:15:00 | Northern 3 VCT PLC | Issue of equity | Issue of equity and voting rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:11:49 | Shell plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
