@@ -3,6 +3,7 @@
 111 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:40:11 | Central Asia Metals PLC | Miscellaneous | Authorisation granted to allot New CAML Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:34:33 | Amundi Physical Metals plc | PFT | Amundi Physical Metals plc: Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:27 | DSW Capital PLC | Director/PDMR shareholding | Grant of options under Performance Share Plan 
