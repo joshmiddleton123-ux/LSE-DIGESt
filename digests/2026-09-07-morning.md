@@ -3,6 +3,7 @@
 193 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:38:00 | Rightmove Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:34:21 | Telecom Plus PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:31:11 | Canadian Imperial Bank of Commerce | ADM | Admission to Trading (XS3435398352, SPUK 128)
