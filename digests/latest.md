@@ -5,6 +5,7 @@
 - 13:19:22 | SAGA PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:18:00 | BlackRock World Mining Trust Plc | Interim results | Half-year Financial Report
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:08:17 | India Capital Growth Fund Limited | Miscellaneous | Investor Presentation via Investor Meet Company 
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:07:47 | Howden Joinery Group PLC | Change of position | Transaction in Own Shares
