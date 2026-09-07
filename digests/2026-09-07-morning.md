@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-07
 
-297 announcements (07:00-latest). One line each plus AI summary where available.
+298 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:50:36 | Focus Xplore PLC | Miscellaneous | Potential Acquisition & Exploration Update
 - 14:45:00 | Eden Research plc | Notice of AGM | Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:43:43 | Pebble Group PLC (The) | Holding(s) in company | Holding(s) in Company
