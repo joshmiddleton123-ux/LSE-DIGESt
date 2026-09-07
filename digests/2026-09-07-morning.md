@@ -124,9 +124,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:27 | Galantas Gold Corporation | Issue of equity | Exercise of Warrants
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:30:01 | Jupiter Fund Management PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:01 | MITIE Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:30:01 | Jupiter Fund Management PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:01 | St. James's Place PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -280,9 +280,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:15:01 | British Smaller Companies VCT2 Plc | ADM | Admission of Further Securities to Trading
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:10:00 | Mila Resources PLC | Result of issue | Oversubscribed Placing of £1.5m
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:10:00 | Trainline PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:10:00 | Mila Resources PLC | Result of issue | Oversubscribed Placing of £1.5m
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:06:55 | Air Astana JSC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
