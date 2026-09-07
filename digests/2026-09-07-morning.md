@@ -156,17 +156,17 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:24:05 | Hellenic Telecomms Organization S A | Change of position | Purchase of own shares 
   - [summary failed: HTTP Error 400: Bad Request]
-- 08:00:00 | Great Southern Copper PLC | Notice of AGM | Notice of Annual General Meeting 
-  - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | Volex PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | 3i Group PLC | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 08:00:00 | Hammerson PLC | PFT | Publication of Final Terms 
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | Barr(A.G.) PLC | Notice of results | Notice of Interim Results 
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | easyJet | RDN | Director Declaration
   - [summary failed: HTTP Error 400: Bad Request]
-- 08:00:00 | Hammerson PLC | PFT | Publication of Final Terms 
+- 08:00:00 | Great Southern Copper PLC | Notice of AGM | Notice of Annual General Meeting 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:57:53 | ING Bank N.V. London Branch | STA | Pre-stabilization Notice - ING Bank N.V. 
 - 07:38:20 | Jyske Bank A/S | Change of position | Aktietilbagekøb: Transaktioner i uge 36 2026
