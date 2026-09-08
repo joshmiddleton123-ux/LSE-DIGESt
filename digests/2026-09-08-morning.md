@@ -9,6 +9,7 @@
 - 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:57:06 | South32 Limited | Miscellaneous | Notification of Securities
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:47:53 | South32 Limited | Change of position | Daily Buy-Back Notification 
