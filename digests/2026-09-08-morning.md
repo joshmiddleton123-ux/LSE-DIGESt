@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-08
 
-176 announcements (07:00-latest). One line each plus AI summary where available.
+177 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:45:20 | Smith & Nephew Plc | Issue of debt | Cash tender offer for 2030 bonds up to $250m
 - 12:38:04 | Maven Renovar VCT PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:33:06 | Croda International PLC | Holding(s) in company | Holding(s) in Company
@@ -83,13 +84,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:06:04 | Compre Group Holdings Limited | Circular | Interim Financial Report - 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | World Chess PLC | NRA | Investor Presentation via Investor Meet Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | Stonewater Funding PLC | Board appointment/change | Appointment of new interim CFO
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | World Chess PLC | NRA | Investor Presentation via Investor Meet Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | Stonewater Funding PLC | Board appointment/change | Appointment of new interim CFO
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:57:06 | South32 Limited | Miscellaneous | Notification of Securities
   - [summary failed: HTTP Error 400: Bad Request]
@@ -116,8 +117,6 @@
 - 07:01:00 | Gaming Realms PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
-- 07:00:05 | Checkit PLC | Miscellaneous | Update on Formal Sale Process
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Genflow Biosciences PLC | Miscellaneous | Primary Endpoint in SLAB Clinical Trial Met
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Aminex PLC | Notice of AGM | Notice of AGM
@@ -136,7 +135,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | 80 Mile PLC | Miscellaneous | R2.4 Proposed Merger with Greenland Energy Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Ferrexpo PLC | Miscellaneous | US$15 Million Loan Facility from Fevamotinico
+- 07:00:05 | Checkit PLC | Miscellaneous | Update on Formal Sale Process
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Kooth PLC | Notice of results | Notice of Half Year Results
   - [summary failed: HTTP Error 400: Bad Request]
@@ -163,6 +162,8 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Partners Group Private Equity Ltd | NOG | Publication of Circular and Notice of EGM
 - 07:00:05 | Guardian Metal Resources PLC | NRA | Admission to FTSE AIM 50 Index
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | Ferrexpo PLC | Miscellaneous | US$15 Million Loan Facility from Fevamotinico
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Molten Ventures Plc | MSCL | Transfer of shares from treasury to the EBT and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
