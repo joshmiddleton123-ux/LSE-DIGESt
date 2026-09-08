@@ -3,9 +3,9 @@
 328 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:18:04 | Red Rock Resources plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:01:32 | IG Design Group PLC | Holding(s) in company | Holding(s) in Company
@@ -94,11 +94,11 @@
 - 17:03:44 | Aurora UK Alpha PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:00:01 | Rolls-Royce Holdings plc | Director/PDMR shareholding | Director/PDMR Shareholding
-- 17:00:00 | International Workplace Group PLC | Total voting rights | Total Voting Rights: Month End Disclosure
-  - [summary failed: HTTP Error 400: Bad Request]
+- 17:00:00 | EPE Special Opportunities Limited | Regulatory application/grant | Result of AGM
 - 17:00:00 | Renalytix PLC | Notice of AGM | Posting of Circular and Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:00:00 | EPE Special Opportunities Limited | Regulatory application/grant | Result of AGM
+- 17:00:00 | International Workplace Group PLC | Total voting rights | Total Voting Rights: Month End Disclosure
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:57:16 | Baillie Gifford Shin Nippon PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:57:09 | Scottish Mortgage Inv Tst PLC | Change of position | Transaction in Own Shares
@@ -169,10 +169,10 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:45:46 | Natixis | DOC | Half-year Financial Report  
 - 15:45:08 | Morgan Stanley Europe SE | Miscellaneous | ISM - MSESE - CA-VALLOUREC - 08-09-2026 
-- 15:30:00 | Baronsmead Second Venture Trust PLC | DOC | Quarterly Factsheet to 30 June 2026 
+- 15:30:00 | Baronsmead Venture Trust PLC | DOC | Quarterly Factsheet to 30 June 2026 
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:00 | National Grid PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-- 15:30:00 | Baronsmead Venture Trust PLC | DOC | Quarterly Factsheet to 30 June 2026 
+- 15:30:00 | Baronsmead Second Venture Trust PLC | DOC | Quarterly Factsheet to 30 June 2026 
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:24:57 | Synairgen Limited | NRA | Result of GM - Members' Voluntary Liquidation
 - 15:24:07 | Montanaro European Smaller C.TstPLC | Regulatory application/grant | Result of Annual General Meeting
@@ -215,9 +215,9 @@
 - 14:20:01 | Oxford Biomedica PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:15:53 | Invesco Markets PLC | Dividend declaration | Dividend Declaration - Q3 Dist Rates
-- 14:11:27 | CQS Natural Resources Grwth&Inc PLC | Result of meeting | Result of General Meeting
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:11:27 | Trainline PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:11:27 | CQS Natural Resources Grwth&Inc PLC | Result of meeting | Result of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:05:51 | Cambridge Nutritional Sciences PLC | Notice of AGM | Notice of AGM & Annual Report to 31 March 2026
   - [summary failed: HTTP Error 400: Bad Request]
@@ -274,9 +274,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:33:06 | Croda International PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:30:00 | Barr(A.G.) PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:00 | Manolete Partners PLC | Regulatory application/grant | Result of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:30:00 | Barr(A.G.) PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:00 | Helios Underwriting Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
