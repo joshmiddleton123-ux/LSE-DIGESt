@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-09
 
-151 announcements (07:00-latest). One line each plus AI summary where available.
+152 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:10:00 | The Magnum Ice Cream Company N.V. | MSCL | Share Purchase - Long Term Incentive Plans
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:08:26 | Anpario PLC | Miscellaneous | Investor Presentation via Investor Meet Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:04:44 | Hill & Smith PLC | RDN | Director Declaration
