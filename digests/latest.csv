@@ -1,8 +1,8 @@
 time_uk,datetime_utc,company,ticker,category_code,category,headline,rns_number,news_id,last_price,pct_change,brief,summary,retail_take,sentiment,source_url
 2026-09-09 18:35:00,2026-09-09T17:35:00.000,"GlobeNewswire, Inc.",,TSM,,End of Day Message,1261752-en,17779410,,,,,,,
+2026-09-09 18:30:00,2026-09-09T17:30:00.000,MFN,,TSM,,End of Day Message,d7f8d84528,17779409,,,,,,,
 2026-09-09 18:30:00,2026-09-09T17:30:00.000,PR Newswire,,TSM,,End of Day,60909-8247,17779408,,,,,,,
 2026-09-09 18:30:00,2026-09-09T17:30:00.000,Business Wire,,TSM,,End of Day Message,0904604137,17779407,,,,,,,
-2026-09-09 18:30:00,2026-09-09T17:30:00.000,MFN,,TSM,,End of Day Message,d7f8d84528,17779409,,,,,,,
 2026-09-09 18:28:59,2026-09-09T17:28:59.000,Goodweather Holdings Limited,,STR,Strategy/company update,Statement re Harworth’s response to Bidco's offer,1329U,17779405,,,,,,,
 2026-09-09 18:00:00,2026-09-09T17:00:00.000,PureTech Health PLC,PRTC,NRA,,PRTC's SPTX: New Positive Phase 1 GlyphAllo Data,1273U,17779403,120.8,-0.4942339373970346,,[summary failed: HTTP Error 400: Bad Request],,neutral,https://www.investegate.co.uk/announcement/rns/puretech-health--prtc/prtc-s-sptx-new-positive-phase-1-glyphallo-data/9764173
 2026-09-09 17:50:03,2026-09-09T16:50:03.000,Molten Ventures Plc,GROW,HOL,Holding(s) in company,Holding(s) in Company,2396834_en,17779402,679,-0.7309941520467836,,[summary failed: HTTP Error 400: Bad Request],,neutral,https://www.investegate.co.uk/announcement/eqs/molten-ventures--grow/holding-s-in-company/9764172
