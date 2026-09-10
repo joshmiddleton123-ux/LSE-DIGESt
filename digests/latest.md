@@ -3,6 +3,7 @@
 252 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:40:06 | Whitbread PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:37:06 | Marshalls PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:36:04 | Springfield Properties PLC | Result of meeting | Result of General Meeting
