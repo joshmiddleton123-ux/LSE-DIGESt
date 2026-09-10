@@ -1,14 +1,16 @@
 # LSE announcements — 2026-09-10
 
-209 announcements (07:00-latest). One line each plus AI summary where available.
+210 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:19:00 | TwentyFour Income Fund Limited | Regulatory application/grant | Results of Annual General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:18:29 | Baltic Classifieds Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:07:07 | Unite Group PLC (The) | UPD | Notification of Reservations Update 
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:00:00 | HSBC Holdings PLC | Board appointment/change | Group CFO Succession
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Anchor Hanover Group | Board appointment/change | Directorate change
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:00 | HSBC Holdings PLC | Board appointment/change | Group CFO Succession
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Geo Exploration Limited | Issue of equity | Capital Raise and Retail Offer
   - [summary failed: HTTP Error 400: Bad Request]
