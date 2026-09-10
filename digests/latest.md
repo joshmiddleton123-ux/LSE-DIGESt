@@ -1,8 +1,11 @@
 # LSE announcements — 2026-09-10
 
-236 announcements (07:00-latest). One line each plus AI summary where available.
+237 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:45:30 | Senior PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:45:18 | Value and Indexed Prop Inc Tst PLC | Dividend declaration | Dividend Declaration
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:40:02 | Advanced Medical Solutions Grp PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:39:00 | UK Debt Management Office | Issue of debt | Issue of Debt
