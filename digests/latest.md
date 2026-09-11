@@ -3,6 +3,7 @@
 220 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:48:44 | Hargreave Hale AIM VCT 1 PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:45:00 | HSBC Holdings PLC | Issue of debt | Issuance of senior unsecured notes
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:39:00 | Deutsche Bank AG | MSCL | Buy-Back of Securities
