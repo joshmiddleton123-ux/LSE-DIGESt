@@ -9,9 +9,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:30:17 | Pennpetro Energy PLC | NRA | Notice of shareholder call
   - [summary failed: HTTP Error 400: Bad Request]
-- 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | Business Wire | TSM | End of Day Message
+- 18:30:00 | PR Newswire | TSM | End of Day
 - 18:28:56 | Sherborne Investors (Guernsey)C Ltd | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:24:12 | Lloyds Banking Group PLC | Change of position | Transaction in Own Shares
