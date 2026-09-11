@@ -3,6 +3,7 @@
 338 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:15:33 | Pinewood Technologies Group PLC | Holding(s) in company | Standard form for notification of major holdings
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:14:22 | Babcock International Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:14:20 | Serco Group PLC | Change of position | Transaction in Own Shares
@@ -42,9 +43,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:17:00 | TotalEnergies SE | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:15:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:15:00 | Aberforth Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:15:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:13:50 | Henderson Smaller Cos Inv Tst PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -70,9 +71,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:05:40 | Aberdeen New India Investment Trust | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:05:27 | PayPoint PLC | Director/PDMR shareholding | PayPoint plc : Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:05:27 | Checkit PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:05:27 | PayPoint PLC | Director/PDMR shareholding | PayPoint plc : Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:02:49 | Baillie Gifford UK Growth Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
