@@ -33,6 +33,7 @@
 - 16:04:06 | JPMorgan American IT PLC | Portfolio update | Ten Largest Investments 
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:03:00 | Keller Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Platform HG Financing PLC | DOC | Publication of Programme Admission Particulars
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Takeover Panel | POT | Union Jack Oil - Day 60
