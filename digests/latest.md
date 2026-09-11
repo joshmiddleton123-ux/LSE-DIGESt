@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-11
 
-154 announcements (07:00-latest). One line each plus AI summary where available.
+155 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:30:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:30:00 | ProCook Group PLC | Regulatory application/grant | Result of Annual General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:20:54 | One Health Group PLC | Regulatory application/grant | Result of AGM
@@ -36,9 +38,9 @@
 - 10:06:26 | BNP Paribas Primary New Issues | STA | BNP Paribas Primary New Issues: STAB Notice - NO STAB - Derichebourg
 - 10:03:46 | Baillie Gifford US Growth Trust PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:00:00 | Renishaw PLC | Notice of results | Notice of Results
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Domino's Pizza Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:00 | Renishaw PLC | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:52:31 | CC Japan Income & Growth Trust PLC | DOC | Monthly Factsheet as at 31 August 2026 
   - [summary failed: HTTP Error 400: Bad Request]
