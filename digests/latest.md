@@ -12,9 +12,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:19:40 | Forterra plc | Total voting rights | Total Voting Rights and Capital
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Ninety One PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Anglo American PLC | Dividend declaration | Dividend Declaration: Sterling and Euro Rates
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Ninety One PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Investec PLC | Miscellaneous | INL and PLC Share Incentives Plan 2021
   - [summary failed: HTTP Error 400: Bad Request]
@@ -45,13 +45,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:15:00 | British American Tobacco PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | Firering Strategic Minerals PLC | Regulatory application/grant | Result of AGM
+- 13:00:00 | Premier African Minerals Limited | UPD | Shareholder Update 
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Volex PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | HSBC Holdings PLC | Dividend declaration | Second Interim Dividend for 2026 - Exchange Rate
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | Premier African Minerals Limited | UPD | Shareholder Update 
+- 13:00:00 | Firering Strategic Minerals PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:59:30 | Invesco Markets II PLC | Miscellaneous | Notice to Shareholders
 - 12:53:29 | Polar Capital Global Financials Tst | Holding(s) in company | Holding(s) in Company
@@ -96,9 +96,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:01:09 | Forterra plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:01 | Ninety One PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | RC365 Holding PLC | Board appointment/change | Appointment of Executive Director and CFO
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:00:01 | Ninety One PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:58:40 | Poolbeg Pharma PLC | Holding(s) in company | Notification of Major Holdings
   - [summary failed: HTTP Error 400: Bad Request]
