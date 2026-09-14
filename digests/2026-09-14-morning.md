@@ -3,9 +3,9 @@
 435 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:29:17 | Brave Bison Group PLC | Miscellaneous | Clarification
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:15:55 | Tracsis PLC | Holding(s) in company | Holding(s) in Company

@@ -1,8 +1,8 @@
 time_uk,datetime_utc,company,ticker,category_code,category,headline,rns_number,news_id,last_price,pct_change,brief,summary,retail_take,sentiment,source_url
 2026-09-14 18:35:00,2026-09-14T17:35:00.000,"GlobeNewswire, Inc.",,TSM,,End of Day Message,1262485-en,17786359,,,,,,,
+2026-09-14 18:30:00,2026-09-14T17:30:00.000,MFN,,TSM,,End of Day Message,24fbe70eb7,17786358,,,,,,,
 2026-09-14 18:30:00,2026-09-14T17:30:00.000,PR Newswire,,TSM,,End of Day,60914-0196,17786357,,,,,,,
 2026-09-14 18:30:00,2026-09-14T17:30:00.000,Business Wire,,TSM,,End of Day Message,0911688433,17786356,,,,,,,
-2026-09-14 18:30:00,2026-09-14T17:30:00.000,MFN,,TSM,,End of Day Message,24fbe70eb7,17786358,,,,,,,
 2026-09-14 18:29:17,2026-09-14T17:29:17.000,Brave Bison Group PLC,BBSN,MSC,Miscellaneous,Clarification,7113U,17786354,80.5,-6.395348837209302,,[summary failed: HTTP Error 400: Bad Request],,neutral,https://www.investegate.co.uk/announcement/rns/brave-bison-group--bbsn/clarification/9771408
 2026-09-14 18:15:55,2026-09-14T17:15:55.000,Tracsis PLC,TRCS,HOL,Holding(s) in company,Holding(s) in Company,7110U,17786333,365,0.0,,[summary failed: HTTP Error 400: Bad Request],,neutral,https://www.investegate.co.uk/announcement/rns/tracsis--trcs/holding-s-in-company/9771387
 2026-09-14 18:00:00,2026-09-14T17:00:00.000,Pembroke VCT PLC,PEMB,PDI,Price/dividend information,Publication of a Prospectus,7097U,17786310,93.5,0.0,,[summary failed: HTTP Error 400: Bad Request],,neutral,https://www.investegate.co.uk/announcement/rns/pembroke-vct-b--pemb/publication-of-a-prospectus/9771364
