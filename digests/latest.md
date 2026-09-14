@@ -1,8 +1,8 @@
 # LSE announcements — 2026-09-14
 
-188 announcements (07:00-latest). One line each plus AI summary where available.
+189 announcements (07:00-latest). One line each plus AI summary where available.
 
-- 09:00:01 | Shaires Holdings Ltd | Holding(s) in company | TR-1: Notification of major holdings
+- 09:00:50 | South32 Limited | Miscellaneous | Hermosa Site Visit
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:01 | Shaires Holdings Ltd | Holding(s) in company | TR-1: Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
@@ -17,6 +17,8 @@
 - 09:00:01 | Shaires Holdings Ltd | Holding(s) in company | TR-1: Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:01 | Brown Advisory US Smaller Cos. PLC | Portfolio update | Portfolio Update
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:01 | Shaires Holdings Ltd | Holding(s) in company | TR-1: Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:01 | Shaires Holdings Ltd | Holding(s) in company | TR-1: Notification of major holdings
   - [summary failed: HTTP Error 400: Bad Request]
@@ -42,38 +44,38 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:38:08 | Cobra Resources PLC | Miscellaneous | Wudinna Rare Earth Purification Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:30:00 | NCC Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:30:00 | Secure Trust Bank PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:30:00 | NCC Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:23:37 | Trustpilot Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:15:00 | Barclays PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:12:35 | Ringkjøbing Landbobank A/S | Change of position | Share buyback programme – week 37
-- 07:10:01 | GlobalData PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:10:01 | Balfour Beatty PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:10:01 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:05:00 | Power Probe PLC | Miscellaneous | Investor Presentation via Investor Meet Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:02:00 | RTW Biotech Opportunities Ltd | Change of position | Transaction in Own Shares
-- 07:01:01 | RTW Biotech Opportunities Ltd | UPD | Monthly Valuation Update and Factsheet 
-- 07:01:01 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:01 | Big Technologies PLC | UPD | Litigation Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:11 | Legal & General Group Plc | Miscellaneous | Commencement of Share Buyback
+- 07:01:01 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:11 | Quantum Data Energy PLC | Miscellaneous | Hindlip Enters Commercial Operations
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:11 | Theracryf PLC | Notice of results | Notice of Results and Investor Presentation
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:11 | Eco Buildings Group PLC | Miscellaneous | First Apartment Block completion expected Q4 2026
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:01:01 | RTW Biotech Opportunities Ltd | UPD | Monthly Valuation Update and Factsheet 
 - 07:00:11 | Goldplat plc | Dividend declaration | Special Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:11 | Cirata PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:11 | Eco Buildings Group PLC | Miscellaneous | First Apartment Block completion expected Q4 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:11 | Quantum Data Energy PLC | Miscellaneous | Hindlip Enters Commercial Operations
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:11 | Legal & General Group Plc | Miscellaneous | Commencement of Share Buyback
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:11 | Theracryf PLC | Notice of results | Notice of Results and Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:11 | AstraZeneca PLC | Miscellaneous | Update on SERENA-4 Phase III trial
   - [summary failed: HTTP Error 400: Bad Request]
