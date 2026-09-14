@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-14
 
-351 announcements (07:00-latest). One line each plus AI summary where available.
+353 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 16:05:21 | Merchants Trust PLC | GEO | Top 10 and Geographical Holdings
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:01:06 | Brunner Investment Trust PLC | GEO | Top 10 and Geographical Holdings
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:01 | Oxford Nanopore Technologies plc | Director/PDMR shareholding | Share Incentive Plan - Director/PDMR Shareholding
@@ -42,9 +44,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:31:47 | Focus Xplore PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:30:01 | ITV PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:30:01 | Shuka Minerals PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:30:01 | ITV PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:24:27 | Georgia Capital PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -112,13 +114,15 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:23:28 | Technology Minerals PLC | CAN | Replacement-Rebrand, Name & TIDM Change,GM Notice 
   - [summary failed: HTTP Error 400: Bad Request]
+- 13:15:00 | British American Tobacco PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:00:00 | HSBC Holdings PLC | Dividend declaration | Second Interim Dividend for 2026 - Exchange Rate
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Volex PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Firering Strategic Minerals PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Premier African Minerals Limited | UPD | Shareholder Update 
-  - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | HSBC Holdings PLC | Dividend declaration | Second Interim Dividend for 2026 - Exchange Rate
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:59:30 | Invesco Markets II PLC | Miscellaneous | Notice to Shareholders
 - 12:53:29 | Polar Capital Global Financials Tst | Holding(s) in company | Holding(s) in Company
