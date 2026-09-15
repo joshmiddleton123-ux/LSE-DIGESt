@@ -3,9 +3,9 @@
 383 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:25:06 | Cohort PLC | Director/PDMR shareholding | Director/PDMR Shareholding (Replacement)
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:21:04 | Pennpetro Energy PLC | Miscellaneous | Confirmation of Reverse Takeover Target
