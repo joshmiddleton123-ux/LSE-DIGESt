@@ -3,6 +3,7 @@
 190 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:15:03 | XP Factory PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:15:00 | easyJet | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:10:35 | Intertek Group PLC | Holding(s) in company | Holding(s) in Company
