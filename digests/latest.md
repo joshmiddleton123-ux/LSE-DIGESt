@@ -3,6 +3,7 @@
 204 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:00:44 | First Abu Dhabi Bank P.J.S.C. | PFT | FAB EMTN Series 200 - USD500m FXD due 2031
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Coca-Cola Europacific Partners plc | Board appointment/change | Directorate Change
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:55:08 | Mercantile Investment Trust(The)PLC | Dividend declaration | Dividend Declaration
