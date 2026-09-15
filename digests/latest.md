@@ -3,6 +3,7 @@
 277 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:50:09 | IG Design Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:49:32 | Knights Group Holdings PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:46:54 | Boohoo Group Plc | Disposal | Disposal of Nasty Gal for $16m
