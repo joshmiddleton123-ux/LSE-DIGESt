@@ -16,9 +16,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:30:01 | Critical Metals PLC | Holding(s) in company | Change in Significant Shareholding 
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:30:00 | Playtech PLC | Issue of debt | Successful pricing of €350 million bond offering
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:30:00 | Fidelity China Special Situations Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:30:00 | Playtech PLC | Issue of debt | Successful pricing of €350 million bond offering
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:29:59 | Albion Enterprise VCT PLC | Regulatory application/grant | Results of AGM
   - [summary failed: HTTP Error 400: Bad Request]
@@ -26,9 +26,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:22:00 | Montanaro European Smaller C.TstPLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:20:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:20:00 | BlackRock Greater Europe Investment Trust Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:20:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:17:00 | Fidelity European Trust Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
