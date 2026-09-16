@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-16
 
-143 announcements (07:00-latest). One line each plus AI summary where available.
+144 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 08:50:35 | Greggs PLC | Notice of results | Notice of Trading Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:35:04 | Senior PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:22:07 | Rotork PLC | Holding(s) in company | Holding(s) in Company
@@ -16,13 +18,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:04:00 | Seed Capital Solutions PLC | NOG | Notice of Additional GM
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:01 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:01 | Proteome Sciences PLC | Board appointment/change | Appointment of Non-Executive Director
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:01 | Prudential PLC | Holding(s) in company | Holding(s) in Company
+- 07:01:01 | HarbourVest Global Priv. Equity Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Quadrise PLC | Miscellaneous | Valkor update
+- 07:01:01 | Prudential PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Helix Exploration PLC | Miscellaneous | Rudyard – Ollie #1 Well Spud
   - [summary failed: HTTP Error 400: Bad Request]
@@ -30,15 +30,17 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Oxford Nanopore Technologies plc | Miscellaneous | Preliminary injunction against MGI Tech GmbH
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Aterian PLC | Miscellaneous | Eastinco Fundraise to Trial Tungsten Trading
+- 07:00:05 | Target Healthcare REIT PLC | Notice of results | Notice of Full Year Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | AdvancedAdvT Limited | Miscellaneous | Share Buyback Programme Renewal and Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Rockhopper Exploration plc | Miscellaneous | Results of Open Offer and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | Quadrise PLC | Miscellaneous | Valkor update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | On the Beach Group PLC | Notice of results | Notice of Pre-Close Trading Update & Final Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Target Healthcare REIT PLC | Notice of results | Notice of Full Year Results
+- 07:00:05 | Aterian PLC | Miscellaneous | Eastinco Fundraise to Trial Tungsten Trading
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Valeura Energy Inc. | NRA | “Suraphi” Exploration Discovery
 - 07:00:05 | Empire Metals Limited | NRA | Partnership with CMCI CRC
