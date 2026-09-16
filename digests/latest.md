@@ -3,6 +3,7 @@
 193 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:00:00 | Moonpig Group Plc | Regulatory application/grant | Result of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:58:28 | Gear4music (Holdings) PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:49:22 | BTG Consulting PLC | Regulatory application/grant | Result of AGM
