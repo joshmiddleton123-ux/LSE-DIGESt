@@ -3,6 +3,7 @@
 156 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:15:06 | Elementis PLC | Board appointment/change | Appointment of Senior Independent Director
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:14:45 | Ibstock PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:13:00 | BlackRock Smaller Companies Trust Plc | Director/PDMR shareholding | Director/PDMR Shareholding
