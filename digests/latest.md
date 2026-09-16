@@ -5,6 +5,7 @@
 - 16:04:38 | Forterra plc | Miscellaneous | Employee Benefit Trust Share Purchase
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:02:00 | Manchester & London Investment Trust Plc | Director/PDMR shareholding | Director/PDMR Shareholding clarification - cessation of PCA status
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:01:52 | Elementis PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:22 | Cropper(James) PLC | Holding(s) in company | Holding(s) in Company
