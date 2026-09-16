@@ -3,6 +3,7 @@
 188 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:30:21 | VPC Specialty Lending Invest. PLC | Portfolio update | Portfolio Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:27:52 | C&C Group Plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:25:21 | Toronto-Dominion Bank | PFT | Toronto-Dominion Bank - Publication of Final Terms
