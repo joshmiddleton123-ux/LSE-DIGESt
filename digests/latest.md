@@ -3,8 +3,11 @@
 252 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:19:49 | Polar Capital Global Financials Tst | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:18:12 | British Land Co PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:16:53 | Henderson High Income Trust PLC | DOC | Half-year Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:11:38 | CT Healthcare Trust PLC | Miscellaneous | Completion of Quarterly Tender Offer
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Anglo American PLC | Director/PDMR shareholding | Director/PDMR Shareholding
