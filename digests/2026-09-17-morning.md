@@ -2,6 +2,8 @@
 
 351 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 17:58:56 | Mercantile Investment Trust(The)PLC | Change of position | Transaction in Own Shares - Clarification Notice
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:49:21 | Cerillion PLC | Director/PDMR shareholding | PDMR Shareholding 
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:49:19 | EQT Fund Management S.à r.l. | Offer update | Correction to Lender Presentation
@@ -16,8 +18,6 @@
 - 17:28:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:27:18 | Bow Street Group PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 17:27:09 | Mercantile Investment Trust(The)PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:24:25 | JPMorgan European Discovery Trust | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
