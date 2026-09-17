@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-17
 
-195 announcements (07:00-latest). One line each plus AI summary where available.
+196 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:50:16 | Windar Photonics PLC | Result of issue | Result of Retail Offer and Total Voting Rights 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:45:17 | Genus PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:45:00 | Ten Technologies Group PLC | Holding(s) in company | Holding(s) in Company
@@ -25,11 +27,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:01:42 | River UK Micro Cap Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:00:00 | Kingfisher PLC | Miscellaneous | Outcome of Audit Tender
-  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:00 | Aviva PLC | Director/PDMR shareholding | Director/PDMR Shareholding
 - 10:00:00 | Rio Tinto PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:00:00 | Aviva PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+- 10:00:00 | Kingfisher PLC | Miscellaneous | Outcome of Audit Tender
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Volvere PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:58:47 | McBride PLC | Director/PDMR shareholding | Sale of Shares
