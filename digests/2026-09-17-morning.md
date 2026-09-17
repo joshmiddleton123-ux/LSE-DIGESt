@@ -3,21 +3,22 @@
 250 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:05:14 | SysGroup PLC | Regulatory application/grant | Result of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:04:20 | Pebble Group PLC (The) | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:01:22 | Harworth Group PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Computacenter PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Ninety One PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Computacenter PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Foresight Environmental Infrastruct | Board appointment/change | Appointment of Independent Non-Executive Director
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:59:11 | Axis Bank Limited | Miscellaneous | Update
   - [summary failed: HTTP Error 400: Bad Request]
+- 13:50:00 | Caldwell Partners International | NRA | Caldwell Strengthens Human Resources Practice
 - 13:50:00 | MyCelx Technologies Corporation | AGM statement | AGM Statement
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:50:00 | Caldwell Partners International | NRA | Caldwell Strengthens Human Resources Practice
 - 13:42:49 | Guardian Metal Resources PLC | Miscellaneous | Filing of Annual Report on Form 20-F
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:35:56 | Scottish Mortgage Inv Tst PLC | Miscellaneous | Update on NAV and Zipline Valuation
