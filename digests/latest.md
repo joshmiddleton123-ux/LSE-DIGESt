@@ -3,6 +3,7 @@
 353 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:05:09 | Satsuma Technology PLC | Final results | Final Audited Results 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:02:31 | CQS Natural Resources Grwth&Inc PLC | DOC | Monthly Fact Sheet as at 31 August 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:58:56 | Mercantile Investment Trust(The)PLC | Change of position | Transaction in Own Shares - Clarification Notice
