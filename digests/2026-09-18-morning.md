@@ -5,6 +5,7 @@
 - 16:00:00 | Burberry Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | ADM Energy Plc | MSCL | Further re: Receipt of Winding Up Petition
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:53:36 | Bezant Resources PLC | Issue of equity | Exercise of Warrants, Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:50:47 | Rotork PLC | Board appointment/change | Directorate Change
