@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-18
 
-164 announcements (07:00-latest). One line each plus AI summary where available.
+165 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:20:31 | Zoyo Limited | LOI | Letter of Intent Signed
 - 14:15:12 | Pennpetro Energy PLC | Miscellaneous | Update on return Contributed Share arrangements
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:15:00 | Coca-Cola HBC AG | Director/PDMR shareholding | Director/PDMR Shareholding
