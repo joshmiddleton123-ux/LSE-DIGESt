@@ -3,9 +3,9 @@
 281 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:14:35 | Lloyds Banking Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:13:32 | Banco Comercial Portugues, S.A. | MSCL | Banco Comercial Português, S.A. informs about Interim report on the transactions conducted under the Share Buy-Back Programme
