@@ -7,6 +7,7 @@
 - 09:00:00 | Celtic PLC | Board appointment/change | Directorate Appointments
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:59:00 | Oxford Instruments Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:51:52 | South32 Limited | Miscellaneous | Daily Buy-Back Notification
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:41:03 | Advanced Medical Solutions Grp PLC | Holding(s) in company | Holding(s) in Company
