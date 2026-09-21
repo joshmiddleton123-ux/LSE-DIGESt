@@ -3,6 +3,7 @@
 191 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:19:00 | BH Macro Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:18:26 | Jyske Bank A/S | Change of position | Aktietilbagekøb: Transaktioner i uge 38 2026
 - 09:15:14 | Forterra plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
