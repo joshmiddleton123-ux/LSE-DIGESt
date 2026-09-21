@@ -3,6 +3,7 @@
 266 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:10:20 | Ferrexpo PLC | Result of meeting | Results of General Meeting and Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:03:09 | Journeo PLC | Director/PDMR shareholding | Option Exercise, Issue of Equity & PDMR Dealings
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:01:30 | Journeo PLC | Holding(s) in company | Holding(s) in Company
