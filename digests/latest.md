@@ -9,6 +9,7 @@
 - 09:30:00 | Ryanair Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:28:23 | Funding Circle Holdings plc | MSCL | Completion of Share Buyback Programme and Commencement of New Buyback Programme
 - 09:25:58 | Mears Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
