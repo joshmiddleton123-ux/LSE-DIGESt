@@ -12,7 +12,9 @@
 - 11:00:01 | Eurocell plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Moonpig Group Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Moonpig Group Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:43:30 | Oxford Biomedica PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:40:43 | Telecom Plus PLC | Change of position | Transaction in Own Shares
@@ -94,13 +96,13 @@
 - 08:23:44 | Hellenic Telecomms Organization S A | Change of position | Purchase of own shares 
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:11:48 | Ringkjøbing Landbobank A/S | Change of position | Share buyback programme – week 38
-- 08:00:00 | Essentra plc | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | Metlen Energy & Metals PLC | NRA | Yannis Masvoulas joins as IR Senior Director 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:34:17 | Jyske Bank A/S | Change of position | Aktietilbagekøb: Transaktioner i uge 38 2026
+- 08:00:00 | Essentra plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:34:17 | Jyske Bank A/S | Change of position | Share repurchase programme: Transactions of week 38 2026
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:34:17 | Jyske Bank A/S | Change of position | Aktietilbagekøb: Transaktioner i uge 38 2026
 - 07:32:45 | JSC National Atomic Co. Kazatomprom | UPD | Expl rights for Kyzyltu,Update on Acid from Russia
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:31:01 | Central Asia Metals PLC | FUR | Further update regarding the Scheme of Arrangement
