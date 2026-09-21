@@ -3,7 +3,9 @@
 251 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:00:36 | Everyman Media Group PLC | Issue of equity | Exercise of Options, PDMR Dealing and TVR
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | easyJet | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:53:18 | Xtrackers ETC PLC | PFT | Publication of Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:50:49 | Xtrackers ETC PLC | PFT | Publication of Final Terms
