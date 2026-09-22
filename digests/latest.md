@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-22
 
-177 announcements (07:00-latest). One line each plus AI summary where available.
+179 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 10:25:29 | Big Technologies PLC | Miscellaneous | Contract Extension
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:18:38 | Insig AI Plc | Notice of AGM | Posting of AR&A and notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:15:38 | Sinfonia Finance B.V. | Miscellaneous | Notice of Delisting
@@ -83,8 +85,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:01 | Sunda Energy PLC | Result of issue | WRAP Retail Offer
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Sunda Energy PLC | Miscellaneous | Placing and Subscription
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Alien Metals Limited | Miscellaneous | New Priority Silver Target Adjacent Elizabeth Hill
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | JPMorgan Emerging Mkts Div Inc PLC | NRA | Kepler Trust Intelligence: New Research
@@ -106,7 +106,7 @@
 - 07:00:07 | Christie Group PLC | NRA | New Corporate Website
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Corvex Management LP | NRA | Corvex requests vote on Whitbread board seat
-- 07:00:07 | Mission Group PLC (The) | Board appointment/change | Chair Succession
+- 07:00:07 | Sunda Energy PLC | Miscellaneous | Placing and Subscription
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Supply@ME Capital PLC | Miscellaneous | Delay in publication of H1 2026 interim results
   - [summary failed: HTTP Error 400: Bad Request]
@@ -115,6 +115,8 @@
 - 07:00:07 | Caledonian Holdings PLC | Miscellaneous | Second Block Admission
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Quadrise PLC | Miscellaneous | Issue of Share Options and Director/PDMR Dealing
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:07 | Mission Group PLC (The) | Board appointment/change | Chair Succession
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | TP ICAP Group plc | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
@@ -272,9 +274,10 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Character Group PLC (The) | Change of position | Transaction in Own Shares and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | ZCCM Invs.Hldgs PLC | Interim results | Interim Results for the six months ended 30 June
+- 07:00:03 | Province of British Columbia | DOC | Province of BC: 2026/27 First Quarterly Report
+- 07:00:03 | B.P. Marsh & Partners PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
+- 07:00:03 | Fevertree Drinks PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Johnson Service Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -306,13 +309,13 @@
 - 07:00:03 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
 - 07:00:03 | CT Healthcare Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | B.P. Marsh & Partners PLC | Trading statement | Trading Update
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Fevertree Drinks PLC | Change of position | Transaction in Own Shares
+- 07:00:03 | ZCCM Invs.Hldgs PLC | Interim results | Interim Results for the six months ended 30 June
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Hays PLC | ACS | Annual Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Cairn Homes plc | Change of position | Cairn Homes Plc: Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Patria Private Equity Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
