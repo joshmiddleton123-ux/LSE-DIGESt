@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-22
 
-191 announcements (07:00-latest). One line each plus AI summary where available.
+192 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:00:46 | Sunrise Resources Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:57:39 | Nomura Financial Products Europe | STA | Post-Stab Notice SEB (NFPE) EUR 500Mn 20.08.2026
 - 10:55:31 | iShares V PLC | Miscellaneous | Shareholder notice iShares V iBonds € corp ETF Etf
 - 10:55:05 | 80 Mile PLC | Miscellaneous | Update on EBT
