@@ -8,6 +8,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:09:13 | Prosus NV | Change of position | Transaction in Own Shares
 - 16:09:00 | BlackRock World Mining Trust Plc | Strategy/company update | Submission of Documents
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:04:43 | Law Debenture Corp PLC | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:01 | NatWest Group plc | Director/PDMR shareholding | Director/PDMR Shareholding
