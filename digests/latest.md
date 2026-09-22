@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-22
 
-194 announcements (07:00-latest). One line each plus AI summary where available.
+196 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:15:39 | Qatar International Islamic Bank | DOC | Notice of Electronic Consent and of Meeting
+- 11:15:28 | Qatar International Islamic Bank | DOC | Launch of Consent Solicitation
 - 11:09:00 | UK Debt Management Office | Issue of debt | Issue of Debt
 - 11:08:04 | Albion Technology & General VCT PLC | Interim results | Albion Technology & General VCT PLC: Half-yearly Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
@@ -110,10 +112,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:01 | Sunda Energy PLC | Result of issue | WRAP Retail Offer
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | JPMorgan Emerging Mkts Div Inc PLC | NRA | Kepler Trust Intelligence: New Research
+- 07:00:07 | PCI-PAL PLC | NRA | Confirmation of reseller partnership with BT
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Corvex Management LP | NRA | Corvex requests vote on Whitbread board seat
-- 07:00:07 | Christie Group PLC | NRA | New Corporate Website
+- 07:00:07 | Mission Group PLC (The) | Board appointment/change | Chair Succession
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Caledonian Holdings PLC | Miscellaneous | Second Block Admission
   - [summary failed: HTTP Error 400: Bad Request]
@@ -127,9 +128,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Alien Metals Limited | Miscellaneous | New Priority Silver Target Adjacent Elizabeth Hill
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Mission Group PLC (The) | Board appointment/change | Chair Succession
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | PCI-PAL PLC | NRA | Confirmation of reseller partnership with BT
+- 07:00:07 | JPMorgan Emerging Mkts Div Inc PLC | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | M&G Credit Income Investment Trust | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
@@ -143,15 +142,18 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Kefi Gold and Copper PLC | NRA | Updated Company Presentation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | TP ICAP Group plc | Board appointment/change | Directorate change
+- 07:00:07 | Christie Group PLC | NRA | New Corporate Website
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:07 | Corvex Management LP | NRA | Corvex requests vote on Whitbread board seat
+- 07:00:06 | Meridian Mining plc | UPD | Meridian’s DFS Delivers NPV5 USD 2.09B & 108% IRR
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Oxford Biomedica PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Meridian Mining plc | UPD | Meridian’s DFS Delivers NPV5 USD 2.09B & 108% IRR
+- 07:00:06 | TP ICAP Group plc | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Shoe Zone PLC | Director/PDMR shareholding | Transaction in Own Shares
+- 07:00:06 | Fusion Antibodies PLC | Notice of AGM | Posting of Annual Report & Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | GENinCode PLC | Notice of results | Notice of Results
+- 07:00:06 | Zegona Communications PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Caledonia Mining Corporation PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -185,9 +187,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Rome Resources PLC | APP | Appointment of Nomad and Joint Brokers
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Fusion Antibodies PLC | Notice of AGM | Posting of Annual Report & Notice of AGM
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Zegona Communications PLC | Holding(s) in company | Holding(s) in Company
+- 07:00:06 | Shoe Zone PLC | Director/PDMR shareholding | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Gooch & Housego PLC | Miscellaneous | Update on Conditions and Expected Scheme Timetable
   - [summary failed: HTTP Error 400: Bad Request]
@@ -197,9 +197,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Seed Innovations Limited | Miscellaneous | Fundraising, Capital Access Window & Trading Halt
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Blackbird PLC | Notice of results | Notice of Interim Results & Investor Presentation
+- 07:00:06 | GENinCode PLC | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Origin Enterprises Plc | Final results | Final Results
+- 07:00:06 | Blackbird PLC | Notice of results | Notice of Interim Results & Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Tap Global Group PLC | Result of issue | Result of Placing 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -215,7 +215,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Rentokil Initial PLC | AGR | Sale of SOLitude Lake Management, LLC
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Hydrogen Utopia International PLC | Strategy/company update | Submission of Application to UK LCFF
+- 07:00:05 | Origin Enterprises Plc | Final results | Final Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Eco (Atlantic) Oil and Gas Ltd. | UPD | Completion of Farm Down in Block 1 CBK
   - [summary failed: HTTP Error 400: Bad Request]
@@ -237,9 +237,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Arrow Exploration Corp. | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | PureTech Health PLC | Interim results | Half-year Report
+- 07:00:05 | Hydrogen Utopia International PLC | Strategy/company update | Submission of Application to UK LCFF
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Pantheon International PLC | Change of position | Transaction in Own Shares
+- 07:00:05 | PureTech Health PLC | Interim results | Half-year Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -254,7 +254,8 @@
 - 07:00:04 | Glenstone REIT PLC | Offer update | Acceptance Level Update
 - 07:00:04 | itim Group PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Just Group PLC | Interim results | Half-year Financial Report
+- 07:00:04 | Pantheon International PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Harbour Energy PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Kingfisher PLC | Interim results | Half Year Results
@@ -279,6 +280,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Mission Group PLC (The) | Interim results | INTERIM RESULTS FOR THE SIX MONTHS TO 30 JUNE 2026
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Just Group PLC | Interim results | Half-year Financial Report
 - 07:00:04 | Airtel Africa PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Schroders PLC | Offer update | Update on Conditions Timetable & Anticipated Board
