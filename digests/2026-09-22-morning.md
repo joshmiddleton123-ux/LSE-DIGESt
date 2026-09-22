@@ -3,6 +3,7 @@
 197 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:25:00 | The Magnum Ice Cream Company N.V. | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:15:39 | Qatar International Islamic Bank | DOC | Notice of Electronic Consent and of Meeting
 - 11:15:28 | Qatar International Islamic Bank | DOC | Launch of Consent Solicitation
 - 11:09:00 | UK Debt Management Office | Issue of debt | Issue of Debt
