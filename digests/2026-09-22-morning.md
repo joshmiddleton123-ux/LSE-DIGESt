@@ -3,6 +3,7 @@
 174 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:05:21 | Imperial Brands PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:44:54 | Tekmar Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:43:47 | Shell plc | Change of position | Transaction in Own Shares
