@@ -3,17 +3,19 @@
 205 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:36:16 | Cadence Minerals PLC | Result of issue | Result of Oversubscribed WRAP Retail Offer
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:36:06 | Kazera Global PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:30:00 | Videndum PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:16:01 | McBride PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Rank Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Motability Operations Group PLC | Board appointment/change | Chief Finance Officer Succession
-- 11:00:00 | British Smaller Companies VCT PLC | Price/dividend information | Publication of a Prospectus
 - 11:00:00 | Dunelm Group plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | Rank Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | British Smaller Companies VCT PLC | Price/dividend information | Publication of a Prospectus
+- 11:00:00 | Motability Operations Group PLC | Board appointment/change | Chief Finance Officer Succession
 - 10:47:04 | Gresham House Energy Storage Fund | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:46:03 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: Intermediary Institution Warrants Issuance Application
