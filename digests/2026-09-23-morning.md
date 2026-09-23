@@ -3,6 +3,7 @@
 195 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:40:13 | Sunda Energy PLC | NOG | Posting of Circular and Notice of General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:37:17 | Jardine Matheson Hldgs Ltd | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:31:37 | Meridian Mining plc | Holding(s) in company | Holding(s) in Company
