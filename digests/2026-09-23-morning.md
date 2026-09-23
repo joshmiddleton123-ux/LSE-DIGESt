@@ -4,6 +4,7 @@
 
 - 09:24:16 | Triple Point Venture VCT PLC | Dividend declaration | Dividend Declaration
 - 09:24:00 | The Lindsell Train Investment Trust plc | MSCL | Monthly Report as at 31 August 2026
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:22:53 | St. James's Place PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:21:00 | Wickes Group PLC | RDN | Director Declaration
@@ -18,9 +19,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:05:13 | DFS Furniture plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | B&M European Value Retail PLC | Board appointment/change | Appointment of a Non-Executive Director
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:00:00 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:00 | Premier African Minerals Limited | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
@@ -39,9 +40,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:30:00 | Syncona Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 08:30:00 | Geo Exploration Limited | NRA | Gorge & Juno Gold Projects – Tom Harris Interview
-  - [summary failed: HTTP Error 400: Bad Request]
 - 08:30:00 | Keller Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 08:30:00 | Geo Exploration Limited | NRA | Gorge & Juno Gold Projects – Tom Harris Interview
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:21:24 | Deutsche Bank AG, Frankfurt | STA | Pre Stabilisation Notice - Bayer EUR 30NC6 & 30NC9
 - 08:20:23 | Inter-American Development Bank | Issue of debt | Issue of Debt
