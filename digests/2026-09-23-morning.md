@@ -1,8 +1,16 @@
 # LSE announcements — 2026-09-23
 
-422 announcements (07:00-latest). One line each plus AI summary where available.
+426 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 17:54:30 | Brunner Investment Trust PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:53:47 | Bankers Investment Trust PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:52:00 | Deutsche Bank AG | MSCL | Issuance of Securities
+- 17:51:00 | Molten Ventures | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:50:00 | Molten Ventures | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:49:00 | Ferro-Alloy Resources Limited | Miscellaneous | Replacement: US Strategic RE Separation MoU
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:45:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
@@ -19,9 +27,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:36:46 | Lowland Investment Co PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:35:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 17:35:00 | Gfinity PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 17:35:00 | HSBC Holdings PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:34:26 | Schroder Asian Total Retn InvCo PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -119,18 +127,18 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:57:07 | Templeton Emerging Markets IT PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:56:00 | JPMorgan American IT PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:56:00 | Gran Tierra Energy, Inc. | UPD |  Gran Tierra Energy Inc. Announces Filing of Definitive Proxy Statement for Special Meeting of Stockholders to Consider Approval of Sale of Colombian and Ecuadorian Businesses
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:56:00 | JPMorgan American IT PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:53:14 | JPMorgan Japanese Inv. Trust PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:52:44 | CVC Income & Growth Limited | Issue of equity | Issue of Equity
 - 16:52:03 | Currys PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:52:00 | Aberforth Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:52:00 | Monks Investment Trust PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:52:00 | Aberforth Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:51:05 | Utilico Emerging Markets Trust PLC | Change of position | Transaction in Own Shares & Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
@@ -211,9 +219,9 @@
 - 15:30:00 | Centrica PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:22:08 | Morgan Stanley Europe SE | Miscellaneous | ISM - MSESE-  PARTIAL_RETIREMENT -23-09-2026
+- 15:20:00 | EQT Fund Management S.à r.l. | Offer update | Publ. of Offering Memorandum & Other Documents
 - 15:20:00 | Informa PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:20:00 | EQT Fund Management S.à r.l. | Offer update | Publ. of Offering Memorandum & Other Documents
 - 15:19:41 | Royal Bank of Canada | PFT | Publication of Final Terms 
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:19:34 | Morgan Stanley B.V. | Miscellaneous | ISM_MSBV_EARLY REDEMPTION_23-09-2026
@@ -234,8 +242,8 @@
 - 15:00:00 | Airtel Mobile Commerce N.V. | REA | FCA Approves Registration Document
 - 14:56:23 | Card Factory PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:55:00 | Sampo Oyj | Holding(s) in company | Sampo Oyj: Arvopaperimarkkinalain 9 luvun 10 pykälässä tarkoitettu ilmoitus (Solidium Oy)
 - 14:55:00 | Sampo Oyj | Holding(s) in company | Sampo plc: Disclosure Under Chapter 9 Section 10 of the Securities Market Act (Solidium Oy)
+- 14:55:00 | Sampo Oyj | Holding(s) in company | Sampo Oyj: Arvopaperimarkkinalain 9 luvun 10 pykälässä tarkoitettu ilmoitus (Solidium Oy)
 - 14:54:26 | Hays PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:51:17 | Beazley PLC | Holding(s) in company | Holding(s) in Company
@@ -246,8 +254,8 @@
 - 14:42:00 | Natixis Syndicate | MSCL | Post-Stabilisation Announcement
 - 14:41:00 | Lancashire Holdings Limited | Notice of results | Notice of Q3 2026 Trading Statement and Conference Call
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:40:00 | Sampo Oyj | MSCL | Announcement of Sampo plc’s results and Annual General Meeting in 2027
 - 14:40:00 | Sampo Oyj | MSCL | Sampo Oyj:n tulostiedottaminen ja varsinainen yhtiökokous vuonna 2027
+- 14:40:00 | Sampo Oyj | MSCL | Announcement of Sampo plc’s results and Annual General Meeting in 2027
 - 14:38:36 | ING Bank N.V. London Branch | STA | Post Stabilisation Notice ASN
 - 14:36:14 | Gooch & Housego PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -301,9 +309,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:04:32 | Palace Capital PLC | Director/PDMR shareholding | PDMR/PCA Dealing
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Balfour Beatty PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Kier Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Balfour Beatty PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:44:14 | British Land Co PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -358,9 +366,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:35:00 | Scottish Mortgage Inv Tst PLC | Miscellaneous | Update on NAV and Anthropic Valuation
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:35:00 | Schiehallion Fund Limited (The) | Miscellaneous | Update on NAV and Anthropic Valuation
 - 12:35:00 | Baillie Gifford US Growth Trust PLC | Miscellaneous | Update on NAV and Anthropic Valuation
   - [summary failed: HTTP Error 400: Bad Request]
+- 12:35:00 | Schiehallion Fund Limited (The) | Miscellaneous | Update on NAV and Anthropic Valuation
 - 12:33:03 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: Prospectus – Summary
 - 12:30:57 | Baltic Classifieds Group PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
@@ -382,9 +390,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:02:48 | London & Quadrant Housing Trust | ACS | Audited Financial Statements & Group Board Change
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:00 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | GETECH Group plc | Miscellaneous | Exercise of Share Options & Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:00:00 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:59:23 | GE Capital UK Funding Unltd Company | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
@@ -406,12 +414,12 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:16:01 | McBride PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | Motability Operations Group PLC | Board appointment/change | Chief Finance Officer Succession
 - 11:00:00 | Rank Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Motability Operations Group PLC | Board appointment/change | Chief Finance Officer Succession
-- 11:00:00 | British Smaller Companies VCT PLC | Price/dividend information | Publication of a Prospectus
 - 11:00:00 | Dunelm Group plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | British Smaller Companies VCT PLC | Price/dividend information | Publication of a Prospectus
 - 10:46:03 | Turkiye Garanti Bankasi A.S. | MSCL | Turkiye Garanti Bankasi A.S.: Intermediary Institution Warrants Issuance Application
 - 10:40:13 | Sunda Energy PLC | NOG | Posting of Circular and Notice of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
@@ -433,9 +441,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:13:15 | Seeing Machines Limited | AGR | Interim extension of convertible loan notes
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:00:00 | Costain Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Aterian PLC | Contract | CLN Conversion
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:00 | Costain Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:59:36 | Cranswick PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -499,18 +507,18 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:30:00 | Eurocell plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
+- 08:30:00 | Syncona Limited | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:30:00 | Geo Exploration Limited | NRA | Gorge & Juno Gold Projects – Tom Harris Interview
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:30:00 | Keller Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 08:30:00 | Syncona Limited | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 08:21:24 | Deutsche Bank AG, Frankfurt | STA | Pre Stabilisation Notice - Bayer EUR 30NC6 & 30NC9
 - 08:20:23 | Inter-American Development Bank | Issue of debt | Issue of Debt
   - [summary failed: HTTP Error 400: Bad Request]
-- 08:00:00 | Ampeak Energy Limited | Board appointment/change | CEO Succession
-  - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | Essentra plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 08:00:00 | Ampeak Energy Limited | Board appointment/change | CEO Succession
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:52:52 | ING Bank N.V. London Branch | STA | Post-Stabilisation notice Dufry One B.V. 
 - 07:45:00 | TotalEnergies SE | MSCL | Nigeria: TotalEnergies Launches the Ima Gas Development to Supply Nigeria LNG Liquefaction Plant
@@ -526,9 +534,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:02:01 | Airtel Africa PLC | ITF | Airtel Money Intention to Float Announcement 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:01 | B.P. Marsh & Partners PLC | Change of position | Purchase of Own Shares and Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:01 | Judges Scientific PLC | Board appointment/change | Board change
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:01:01 | B.P. Marsh & Partners PLC | Change of position | Purchase of Own Shares and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:00 | NB Private Equity Partners Limited | Board appointment/change | NBPE Announces Appointment of New Non-Executive Director and Chairman Designate
   - [summary failed: HTTP Error 400: Bad Request]
@@ -536,21 +544,21 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Portmeirion Group PLC | Miscellaneous | Update on Proposed Name Change to Spode Group PLC 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Cordiant Digital Infrastructure Ltd | Trading statement | First Quarter Trading Update
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Sherborne Investors (Guernsey)C Ltd | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Cordiant Digital Infrastructure Ltd | Trading statement | First Quarter Trading Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Pharos Energy PLC | Interim results | 2026 Interim Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Novacyt S.A. | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Nexus Infrastructure PLC | Trading statement | Pre-close Trading update and Board change
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Savannah Resources PLC | Result of issue | Result of Accelerated Bookbuild and Subscription
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Aurrigo International PLC | Interim results | Interim results for the six months to 30 June 2026
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Globalworth Real Estate Inv Ltd | FUR | Issue of Scrip Dividend Shares & Admission to AIM 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Tritax Big Box REIT plc | Miscellaneous | 1 million sq ft logistics facility and pre-let 
+- 07:00:04 | Caledonia Mining Corporation PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | TruFin PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -577,24 +585,16 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Bradda Head Lithium Ltd | Notice of AGM | Notice of 2026 Annual General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Novacyt S.A. | Notice of results | Notice of Results
+- 07:00:04 | Aurrigo International PLC | Interim results | Interim results for the six months to 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Workspace Group PLC | Miscellaneous | Block Listing Application
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | R.E.A. Holdings plc | Interim results | R.E.A. Holdings plc: Half yearly results
 - 07:00:04 | Mendell Helium PLC | Miscellaneous | Rost 2-26 recent gas sample records 11.5% helium
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | NAHL Group PLC | Notice of results | Notice of Interim Results & Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Caledonia Mining Corporation PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Neoterra Group PLC | Miscellaneous | Extension of CCL Debt Facility
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Arkadian Strategic Metals PLC | NRA | Arkadian: US-Greenland deal may aid Motzfeldt
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Greatland Resources Limited | NRA | Corporate Presentation – September 2026 
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Fermi Inc. | NRA | Fermi and TensorWave Agree to Extend Closing Date
-- 07:00:04 | Potentially AI PLC | NRA | Q&A with Company co-founder and app demonstration
+- 07:00:04 | Tritax Big Box REIT plc | Miscellaneous | 1 million sq ft logistics facility and pre-let 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | AstraZeneca PLC | Miscellaneous | Trixeo approved in EU for asthma
   - [summary failed: HTTP Error 400: Bad Request]
@@ -604,7 +604,8 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | McBride PLC | Miscellaneous | Redemption of B Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | R.E.A. Holdings plc | Interim results | R.E.A. Holdings plc: Half yearly results
+- 07:00:04 | Neoterra Group PLC | Miscellaneous | Extension of CCL Debt Facility
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Ondine Biomedical Inc. | Miscellaneous | Steriwave Deploys in 5 Southern Ontario Hospitals
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Orosur Mining Inc | Miscellaneous | Private Placement for Gross Proceeds up to C$14m
@@ -615,19 +616,26 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Boku Inc | NRA | Boku appoints Karim Ahmad as Chief Product Officer
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | AEP Plantations PLC | Change of position | Transaction in Own Shares
+- 07:00:04 | Potentially AI PLC | NRA | Q&A with Company co-founder and app demonstration
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Tern PLC | Result of issue | Results of Open Offer and Total Voting Rights 
+- 07:00:04 | Fermi Inc. | NRA | Fermi and TensorWave Agree to Extend Closing Date
+- 07:00:04 | Greatland Resources Limited | NRA | Corporate Presentation – September 2026 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Portmeirion Group PLC | Interim results | Interim Results For Six Months Ended 30 June 2026
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | International Workplace Group PLC | Change of position | Transaction in Own Shares
+- 07:00:04 | Arkadian Strategic Metals PLC | NRA | Arkadian: US-Greenland deal may aid Motzfeldt
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | CT Healthcare Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | International Workplace Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Kooth PLC | Interim results | Unaudited Half Year Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Tern PLC | Result of issue | Results of Open Offer and Total Voting Rights 
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | AEP Plantations PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Kavango Resources PLC | Interim results | Unaudited Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Zinc Media Group PLC | Interim results | Interim results
+- 07:00:03 | BSF Enterprise PLC | UPD | Key US patent for ETSYL Technology 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Beacon Energy PLC | UPD | Update on well integrity & testing at Colle Santo
   - [summary failed: HTTP Error 400: Bad Request]
@@ -655,14 +663,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Tungsten West PLC | AGR | Strategic Tungsten Supply and Offtake Agreement
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Kooth PLC | Interim results | Unaudited Half Year Results
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Shuka Minerals PLC | Drilling/exploration | Kabwe Drilling (“KBDD01-05”) Results
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Sylvania Platinum Limited | Change of position | Share Buyback Update
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | AO World plc | Change of position | Transaction in Own Shares
-- 07:00:03 | BSF Enterprise PLC | UPD | Key US patent for ETSYL Technology 
+- 07:00:03 | Portmeirion Group PLC | Interim results | Interim Results For Six Months Ended 30 June 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | AJ Bell PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -672,22 +673,22 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | BTG Consulting PLC | Acquisition | Acquisition
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Great Western Mining Corp. plc | Drilling/exploration | Completion of Drilling: Defender Tungsten Project
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Cairn Homes plc | Change of position | Cairn Homes Plc: Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Nativo Resources Plc | Issue of equity | Equity Subscription Update
+- 07:00:03 | Zinc Media Group PLC | Interim results | Interim results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | GlobalData PLC | Change of position | Transaction in Own Shares
+- 07:00:03 | AO World plc | Change of position | Transaction in Own Shares
+- 07:00:03 | Sylvania Platinum Limited | Change of position | Share Buyback Update
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Shuka Minerals PLC | Drilling/exploration | Kabwe Drilling (“KBDD01-05”) Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Great Western Mining Corp. plc | Drilling/exploration | Completion of Drilling: Defender Tungsten Project
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
-- 07:00:02 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
+- 07:00:02 | GlobalData PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Patria Private Equity Trust PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Autins Group PLC | AGM statement | AGM Trading Update
+- 07:00:02 | Nativo Resources Plc | Issue of equity | Equity Subscription Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Big Yellow Group PLC | Disposal | Disposal of Bracknell Industrial Estate 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -701,9 +702,16 @@
 - 07:00:02 | Ecclesiastical Insurance Office PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Rolls-Royce Holdings plc | Change of position | Transaction in Own Shares
+- 07:00:02 | Partners Group Private Equity Ltd | Change of position | Transaction in Own Shares
+- 07:00:02 | Ceres Power Holdings plc | Interim results | Interim Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Patria Private Equity Trust PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Autins Group PLC | AGM statement | AGM Trading Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Venture Life Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Warpaint London PLC | Interim results | Interim Results
+- 07:00:02 | SDI Group PLC | Trading statement | AGM Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Grafton Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -731,7 +739,14 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Oakley Capital Investments Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Ceres Power Holdings plc | Interim results | Interim Results
+- 07:00:02 | Edinburgh Investment Trust PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Critical Mineral Resources PLC | Drilling/exploration | Drilling Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | JD Sports Fashion PLC | Interim results | HALF YEAR RESULTS 2026/27 
+- 07:00:02 | Digitalbox PLC | Interim results | Interim Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Foxtons Group PLC | Acquisition | Four regional acquisitions to augment growth
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Ingenta PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
@@ -739,46 +754,39 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | SDI Group PLC | Trading statement | AGM Trading Update
+- 07:00:02 | Warpaint London PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Foxtons Group PLC | Acquisition | Four regional acquisitions to augment growth
+- 07:00:01 | Senior PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Critical Mineral Resources PLC | Drilling/exploration | Drilling Results
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | JD Sports Fashion PLC | Interim results | HALF YEAR RESULTS 2026/27 
-- 07:00:02 | Digitalbox PLC | Interim results | Interim Results
+- 07:00:01 | Conduit Holdings Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Conduit Holdings Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:01 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Conduit Holdings Limited | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:01 | Senior PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BH Macro Limited | MSCL | Block Listing Six Monthly Return
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | MIGO Opportunities Trust plc | MSCL | Investor Presentation via Investor Meet Company
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Invesco Global Equity Income Trust | ACS | Annual Financial Report
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Gulf Keystone Petroleum | MSCL | Interim Dividend Exchange Rate
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Capita | Strategy/company update | Appointment of Joint Corporate Brokers
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | NB Private Equity Partners Limited | Interim results | NBPE Announces Interim Results
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:00 | Acuity RM Group Plc | MSCL | Clarification of Warrant Terms
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | ICG Enterprise Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | NB Private Equity Partners Limited | Change of position | NBPE Announces Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | NB Private Equity Partners Limited | Interim results | NBPE Announces Interim Results
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Capita | Strategy/company update | Appointment of Joint Corporate Brokers
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Gulf Keystone Petroleum | MSCL | Interim Dividend Exchange Rate
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Invesco Global Equity Income Trust | ACS | Annual Financial Report
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | BlackRock Energy and Resources Income Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | BlackRock American Income Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | MIGO Opportunities Trust plc | MSCL | Investor Presentation via Investor Meet Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | BH Macro Limited | MSCL | Block Listing Six Monthly Return
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | BlackRock Greater Europe Investment Trust Plc | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:00 | Acuity RM Group Plc | MSCL | Clarification of Warrant Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:00 | BlackRock Smaller Companies Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
