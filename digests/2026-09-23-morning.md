@@ -3,9 +3,9 @@
 434 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:35:00 | GlobeNewswire, Inc. | TSM | End of Day Message
+- 18:30:00 | MFN | TSM | End of Day Message
 - 18:30:00 | PR Newswire | TSM | End of Day
 - 18:30:00 | Business Wire | TSM | End of Day Message
-- 18:30:00 | MFN | TSM | End of Day Message
 - 18:12:00 | Deutsche Bank AG | MSCL | Buy-Back of Securities
 - 18:01:00 | Deutsche Bank AG | MSCL | Value Per Security
 - 17:59:00 | Manchester & London Investment Trust Plc | ACS | Annual Financial Report
