@@ -2,6 +2,8 @@
 
 230 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 13:13:27 | Futura Medical PLC | Total voting rights | Correction: Result of GM and Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:08:31 | iShares Physical Metals Plc | PFT | Publication of Final Terms
 - 13:07:04 | iShares Physical Metals Plc | PFT | Publication of Final Terms
 - 13:06:07 | iShares Physical Metals Plc | PFT | Publication of Final Terms
@@ -34,9 +36,9 @@
 - 12:33:03 | NAHL Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:32:47 | QIB Sukuk Ltd | Result of meeting | Results of Meetings & Notice of Adjourned Meetings
-- 12:30:01 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
 - 12:30:01 | Videndum PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
+- 12:30:01 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
 - 12:30:01 | Reach PLC | Holding(s) in company | Holdings in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:29:00 | Rightmove Plc | Holding(s) in company | Holding(s) in Company
@@ -86,11 +88,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:02:28 | Banco Santander S.A. | Change of position | Buyback programme: transactions 17-23sept
   - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:01 | BATM Advanced Communications Ld | Result of meeting | Result of General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:01 | ConvaTec Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:01 | Quilter PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:01 | BATM Advanced Communications Ld | Result of meeting | Result of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:51:42 | Shell plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -105,8 +107,6 @@
 - 10:44:02 | Thruvision Group PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:38:00 | Pacific Assets Trust plc | Result of meeting | Result of Second General Meeting and Scheme Entitlements
-- 10:36:17 | Futura Medical PLC | Total voting rights | Result of General Meeting and Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:36:06 | Dialight PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:35:57 | Wilmington PLC | Holding(s) in company | Holding(s) in Company
