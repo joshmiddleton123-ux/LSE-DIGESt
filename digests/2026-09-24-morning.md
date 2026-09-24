@@ -5,6 +5,7 @@
 - 13:48:20 | Pineapple Power Corporation PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:47:00 | BlackRock American Income Trust Plc | Portfolio update | Portfolio Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:45:39 | RHP Finance PLC | ACS | Annual Financial Report (Entity)
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:44:30 | RHP Finance PLC | ACS | Annual Financial Report (Group)
