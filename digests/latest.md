@@ -3,9 +3,11 @@
 160 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:05:13 | Origin Enterprises Plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:03:00 | Christie Group PLC | Miscellaneous | Christie & Co publishes Care Market Review 2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:02:43 | Custodian Property Income REIT plc | MSCL | Custodian Property Income REIT plc: Share Buyback
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:02:16 | Australia & New Zealand Banking Grp | PFT | Final Terms
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Glencore PLC | Miscellaneous | Expected ASX secondary listing date
@@ -36,9 +38,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:33:31 | South32 Limited | Dividend declaration | Update to Notification of Dividend
   - [summary failed: HTTP Error 400: Bad Request]
-- 09:30:00 | Domino's Pizza Group PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 09:30:00 | The Magnum Ice Cream Company N.V. | MSCL | Share Purchase - Long Term Incentive Plans
+  - [summary failed: HTTP Error 400: Bad Request]
+- 09:30:00 | Domino's Pizza Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:22:14 | Morgan Stanley B.V. | DOC | Half-year Financial Report 
   - [summary failed: HTTP Error 400: Bad Request]
