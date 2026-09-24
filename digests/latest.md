@@ -1,6 +1,6 @@
 # LSE announcements — 2026-09-24
 
-133 announcements (07:00-latest). One line each plus AI summary where available.
+132 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:00:00 | Geo Exploration Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -40,8 +40,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:09 | RWS Holdings PLC | NRA | RWS named a Leader in latest The Forrester Wave™
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Hikma Pharmaceuticals Plc | Board appointment/change | Hikma appoints Rebecca Hall as CFO 
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | TruFin PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | BRCK Group PLC | Holding(s) in company | Notification of Major Holdings
@@ -67,7 +65,7 @@
 - 07:00:08 | Eesti Energia AS | Miscellaneous | Change in the Articles of Association
 - 07:00:08 | Victrex PLC | Miscellaneous | Capital Markets Event
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Kazera Global PLC | Miscellaneous | 2A Executed, US$1.75m Triggered & Board Changes
+- 07:00:08 | Hikma Pharmaceuticals Plc | Board appointment/change | Hikma appoints Rebecca Hall as CFO 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | SSgA SPDR ETFs Europe II PLC | Dividend declaration | Dividend Declaration
 - 07:00:08 | Conygar Investment Company PLC(The) | Holding(s) in company | TR-1: Notification of Major Holdings
@@ -82,7 +80,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Hutchmed (China) Limited | NRA | Data to be Presented at ESMO 2026
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Henderson Smaller Cos Inv Tst PLC | NRA | Kepler Trust Intelligence: New Research
+- 07:00:08 | Kazera Global PLC | Miscellaneous | 2A Executed, US$1.75m Triggered & Board Changes
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | SDI Group PLC | Miscellaneous | Grant of Share Option Awards
   - [summary failed: HTTP Error 400: Bad Request]
@@ -102,7 +100,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | CT Private Equity Trust PLC | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Halma PLC | Trading statement | Trading Update
+- 07:00:08 | Henderson Smaller Cos Inv Tst PLC | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Capricorn Energy PLC | Interim results | Half-Year Report Announcement
   - [summary failed: HTTP Error 400: Bad Request]
@@ -112,7 +110,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Plus500 Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | FIH Group PLC | AGM statement | AGM Statement
+- 07:00:07 | Halma PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Everplay Group plc | Director/PDMR shareholding | Grant of Options
   - [summary failed: HTTP Error 400: Bad Request]
@@ -148,11 +146,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | AEP Plantations PLC | Dividend declaration | Interim Dividend Update
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:07 | FIH Group PLC | AGM statement | AGM Statement
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | ASOS PLC | Trading statement | Pre-close Trading Update 
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
+- 07:00:06 | International Workplace Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | SThree plc | Change of position | Transaction in Own Shares & Rule 2.9 Announcement
+- 07:00:06 | Amicorp FS (UK) PLC | Interim results | Interim Results 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Venture Life Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -185,9 +185,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Greencoat Renewables PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | International Workplace Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Amicorp FS (UK) PLC | Interim results | Interim Results 
+- 07:00:06 | Renewables Infrastructure Grp (The) | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Tavistock Investments PLC | Final results | Results for the year ended 31 March 2026
   - [summary failed: HTTP Error 400: Bad Request]
@@ -199,7 +197,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | On the Beach Group PLC | Trading statement | 2026 Pre-Close Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | Dar Global PLC | Interim results | Dar Global Half Year 2026 Results
+- 07:00:06 | SThree plc | Change of position | Transaction in Own Shares & Rule 2.9 Announcement
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Zegona Communications PLC | UPD | New Capital Allocation Framework
   - [summary failed: HTTP Error 400: Bad Request]
@@ -215,7 +213,7 @@
 - 07:00:06 | IMI PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | AO World plc | Trading statement | Trading Statement
-- 07:00:05 | First Property Group PLC | AGM statement | AGM Statement
+- 07:00:06 | Dar Global PLC | Interim results | Dar Global Half Year 2026 Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | First Property Group PLC | AGM statement | Withdrawal of Resolutions from AGM
   - [summary failed: HTTP Error 400: Bad Request]
