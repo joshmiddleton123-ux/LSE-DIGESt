@@ -3,6 +3,7 @@
 209 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:40:11 | Octopus Renewables Infra Trust PLC | NRA | Results analysis from Kepler Trust Intelligence
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:39:34 | STV Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:36:34 | UK Energy Group PLC | Holding(s) in company | Holding(s) in Company
