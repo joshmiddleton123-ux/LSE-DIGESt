@@ -1,7 +1,9 @@
 # LSE announcements — 2026-09-25
 
-154 announcements (07:00-latest). One line each plus AI summary where available.
+155 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:50:32 | Bunzl PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:47:13 | Mothercare PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:47:00 | B90 Holdings PLC | Director/PDMR shareholding | Director's Dealings
@@ -102,21 +104,23 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:20:02 | Capricorn Energy PLC | Offer | Increased Cash Offer for Capricorn by Genel Energy
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:15:00 | Tharisa PLC | Miscellaneous | Bond proceeds placed in Escrow - CP satisfied
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:15:00 | Young & Co's Brewery PLC | RDN | Director Declaration
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:15:00 | Tharisa PLC | Miscellaneous | Bond proceeds placed in Escrow - CP satisfied
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:12:22 | Lloyds Banking Group PLC | Miscellaneous | COMPLETION OF £1.75BN SHARE BUYBACK PROGRAMME
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:05:04 | Genel Energy PLC | Issue of debt | Genel Energy PLC: Contemplated tap issue of existing bond
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:01 | Upland Resources Limited | Interim results | Half-year Financial Report
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:01 | Pantheon International PLC | UPD | Monthly Performance Update 
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:01:01 | Upland Resources Limited | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:01 | Parvus Energy Efficiency Trust PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:37 | Goodweather Holdings Limited | Offer update | Recommended Increased Best and Final Offer 
+- 07:00:08 | Kooth PLC | TRS | Transfer of Treasury Shares & Exercise of Options
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Lendinvest PLC | NRA | LendInvest Completes £300m Securitisation 
 - 07:00:08 | Vietnam Enterprise Investments Ltd | NRA | Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
@@ -127,16 +131,12 @@
 - 07:00:08 | Savannah Resources PLC | NRA | Investor Presentation via Investor Meet Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Fermi Inc. | NRA | Fermi Selects CBRE to Operate Data Center
-- 07:00:08 | Kooth PLC | TRS | Transfer of Treasury Shares & Exercise of Options
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Savannah Resources PLC | Result of issue | Total Fundraise of US$40 million
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Volvere PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Sovereign Metals Limited | ACS | Annual Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Neo Energy Metals PLC | Issue of equity | £1.75 Million Placement
-- 07:00:07 | Hollywood Bowl Group plc | Board appointment/change | Directorate change
+- 07:00:07 | Savannah Resources PLC | Result of issue | Total Fundraise of US$40 million
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Robinson PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
@@ -158,6 +158,8 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Technology Minerals PLC | NOG | Notice of General Meeting
 - 07:00:07 | Grafton Group PLC | Miscellaneous | Completion of Share Buyback Programme
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:07 | Hollywood Bowl Group plc | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Dunelm Group plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
