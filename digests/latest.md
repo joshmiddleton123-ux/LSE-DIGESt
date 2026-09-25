@@ -3,14 +3,17 @@
 162 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:30:45 | Xtrackers ETC PLC | PFT | Publication of Final Terms
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:22 | Dillistone Group PLC | UPD | Changes to Board & Strategy and Notice of Results
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:00 | Mondi PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:16:57 | Trainline PLC | Holding(s) in company | Holding(s) in Company
 - 13:09:15 | Georgia Capital PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | Ondo InsurTech PLC | Regulatory application/grant | Result of AGM
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Valereum PLC | NRA | Valereum Vox Issue 12 Published
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:00:00 | Ondo InsurTech PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:50:32 | Bunzl PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
