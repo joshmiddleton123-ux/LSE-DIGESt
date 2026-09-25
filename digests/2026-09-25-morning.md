@@ -3,6 +3,7 @@
 138 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:20:10 | Elixirr International PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:18:39 | Tooru PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:15:04 | JSC Halyk Bank | Result of meeting | Resolutions adopted at the EGM
