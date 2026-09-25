@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-25
 
-302 announcements (07:00-latest). One line each plus AI summary where available.
+303 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 18:05:06 | Ashtead Technology Holdings plc | Holding(s) in company | Holding(s) in Company
 - 17:58:30 | Serco Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:56:04 | NatWest Group plc | Change of position | Transaction in Own Shares
@@ -488,7 +489,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Helix Exploration PLC | UPD | Rudyard – Extension of Helium Sales Arrangement
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Wells Fargo & Company | DOC | Doc re. 8-K
 - 07:00:05 | Upland Resources Limited | Drilling/exploration | LSOG Gas Sales Pipeline Now Under Construction
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Gaming Realms PLC | Change of position | Transaction in Own Shares
@@ -517,8 +517,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Grafton Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Pantheon International PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | Wells Fargo & Company | DOC | Doc re. 8-K
 - 07:00:05 | B90 Holdings PLC | Director/PDMR shareholding | Director's Purchase of Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Vietnam Enterprise Investments Ltd | Change of position | Transaction in Own Shares
@@ -530,6 +529,8 @@
 - 07:00:05 | Safestay PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Macau Property Opportunities Fund | Interim results | Interim Results for the period ended 30 June 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | Pantheon International PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Genel Energy PLC | Offer | Genel Energy PLC: INCREASED RECOMMENDED CASH OFFER for Capricorn Energy plc (“Capricorn”) by Genel Energy No.9 Limited
   - [summary failed: HTTP Error 400: Bad Request]
