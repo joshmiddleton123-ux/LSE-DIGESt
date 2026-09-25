@@ -5,6 +5,7 @@
 - 08:49:22 | Achilles Investment Company Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:48:00 | Oxford Instruments Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:44:08 | South32 Limited | Change of position | Daily Buy-Back Notification
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:00:00 | Avacta Group PLC | NRA | pre|CISION® Platform Wins R&D Achievement Award 
