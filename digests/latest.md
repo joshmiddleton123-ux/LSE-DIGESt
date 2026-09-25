@@ -3,6 +3,7 @@
 168 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:50:20 | European Metals Holdings Limited | Miscellaneous | Issue of Unlisted Options
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:46:07 | iShares Digital Assets AG | PFT | Final Terms ishares digital Asset 25.09.2026
 - 13:44:19 | Capricorn Energy PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
