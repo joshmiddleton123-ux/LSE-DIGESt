@@ -3,6 +3,7 @@
 473 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 17:54:00 | Capital Gearing Trust P.l.c. | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:52:00 | Molten Ventures | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:51:00 | Molten Ventures | Holding(s) in company | Holding(s) in Company
