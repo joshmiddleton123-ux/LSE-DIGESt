@@ -5,7 +5,9 @@
 - 15:19:06 | Morgan Stanley B.V. | Miscellaneous | ISM - MSBV- PARTIAL_RETIREMENT -28-09-2026
 - 15:18:25 | Morgan Stanley Europe SE | Miscellaneous | ISM - MSESE- PARTIAL_RETIREMENT -28-09-2026
 - 15:18:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:17:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:16:00 | BlackRock Greater Europe Investment Trust Plc | Strategy/company update | Mandatory Closed Period Compliance with MAR
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:15:54 | Kefi Gold and Copper PLC | Holding(s) in company | Holding(s) in Company
