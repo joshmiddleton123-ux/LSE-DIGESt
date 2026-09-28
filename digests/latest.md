@@ -3,6 +3,7 @@
 467 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 17:40:00 | FWT SHS 1P | ODP | Publication of an Offer Document and Relevant Related Party Transaction Offer for Subscription
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:39:45 | Galantas Gold Corporation | Circular | Posting of AGM Circular
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:37:26 | RCB Bonds PLC | ACS | The Alnwick Garden - Accounts and Impact Report
