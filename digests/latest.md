@@ -6,15 +6,15 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:22 | Elementis PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | HSBC Holdings PLC | Miscellaneous | Notice of Redemption
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | InterContinental Hotels Group PLC | ADM | Admission to Trading
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | ASOS PLC | Holding(s) in company | Holding(s) in Company
+- 15:00:00 | EDX Medical Group PLC | Regulatory application/grant | Result of AGM
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:00:00 | HSBC Holdings PLC | Miscellaneous | Notice of Redemption
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Kingfisher PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | EDX Medical Group PLC | Regulatory application/grant | Result of AGM
+- 15:00:00 | ASOS PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:57:00 | Deutsche Bank AG | MSCL | Value Per Security
 - 14:56:57 | JD Sports Fashion PLC | Director/PDMR shareholding | Director/PDMR Shareholding
