@@ -1,7 +1,11 @@
 # LSE announcements — 2026-09-28
 
-295 announcements (07:00-latest). One line each plus AI summary where available.
+297 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:30:35 | BUPA Finance PLC | Issue of debt | Issuance - Publication of Admission Particulars
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:30:34 | Ming Yang Smart Energy Group Ltd | Director/PDMR shareholding | PDMR Notification
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:00 | easyJet | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:23:55 | Geiger Counter Ltd | DOC | Monthly Factsheet- August 2026 
@@ -16,9 +20,9 @@
 - 12:00:22 | Symphony International Holdings Ltd | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | QinetiQ Group plc | Change of position | Transaction in Own Shares
-- 12:00:00 | Smarter Web Company PLC (The) | Result of meeting | Result of General Meeting
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Ninety One PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:00:00 | Smarter Web Company PLC (The) | Result of meeting | Result of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:59:26 | Touchstar PLC | Dividend declaration | Interim Dividend Timetable 
   - [summary failed: HTTP Error 400: Bad Request]
