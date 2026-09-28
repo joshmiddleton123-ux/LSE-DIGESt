@@ -3,6 +3,7 @@
 228 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:18:33 | Funding Circle Holdings plc | Change of position | POS-Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:05:38 | Telecom Plus PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:05:30 | Consort Healthcare (Birmingham)Fund | ACS | Annual Financial Report
