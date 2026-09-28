@@ -3,6 +3,7 @@
 340 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 14:45:35 | Workspace Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:45:00 | North Atlantic Smlr Co Inv Tst PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:43:51 | Lion Finance Group PLC | Change of position | Transaction in Own Shares
