@@ -5,6 +5,7 @@
 - 09:18:27 | PayPoint PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:17:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:16:58 | Gore Street Energy Storage Fund PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:16:16 | Leverage Shares PLC | Miscellaneous | Notice of Original Meeting - -4x Semi-Conductors
