@@ -3,6 +3,7 @@
 228 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:30:09 | Axis Bank Limited | Miscellaneous | Updates
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:03 | Grit Real Estate Income Group | Suspension | UPDATE ON PUBLICATION OF FINANCIAL RESULTS AND CONTINUED SUSPENSION OF LISTING
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Hyde Group | ACS | Hyde Group Annual Report and Financial Statements
