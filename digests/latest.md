@@ -167,9 +167,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:01:00 | Fidelity Emerging Markets Limited | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | Kingfisher PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Renishaw PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:00:00 | Kingfisher PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:57:06 | Plexus Holdings Plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -251,9 +251,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:01:12 | Caledonia Investments PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Continent 8 LLC | NRA | Continent 8 and FuturePath AI Launch Future8
 - 14:00:00 | Hollywood Bowl Group plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Continent 8 LLC | NRA | Continent 8 and FuturePath AI Launch Future8
 - 13:57:56 | Marks and Spencer Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:55:00 | UK Debt Management Office | Issue of debt | Issue of Debt
@@ -360,9 +360,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:06:09 | R8 Capital Investments PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:00:00 | Tate & Lyle PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Asia Strategic Holdings Limited | Result of meeting | Result of EGM
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:00 | Tate & Lyle PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:58:34 | R8 Capital Investments PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -416,13 +416,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:20:55 | GSTechnologies Ltd | Miscellaneous | Completion of Strategic Investment in Sodales Al
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:00 | Helios Underwriting Plc | TEN | Proposed Tender Offer and Notice of GM
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:00 | Niox Group PLC | TEN | Proposed Tender Offer & Notice of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Franchise Brands PLC | NRA | Investor Event – MelloLondon 2026
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Hutchmed (China) Limited | NRA | Submission of US NDA for ORPATHYS® plus TAGRISSO
+- 07:01:00 | Helios Underwriting Plc | TEN | Proposed Tender Offer and Notice of GM
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | 
 Borussia Dortmund GmbH & Co. KGaA | NRA | MD Contracts Extended;Cramer Appointed Board Chair
@@ -431,13 +427,15 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | MD Contracts Extended;Cramer Appointed
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | AstraZeneca PLC | Miscellaneous | AstraZeneca announces equity investment in Summit
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Meridian Mining plc | Miscellaneous | Meridian reports Inclusion in FTSE 250 Index 
+- 07:00:08 | Hutchmed (China) Limited | NRA | Submission of US NDA for ORPATHYS® plus TAGRISSO
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Netcall PLC | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:08 | Goldstone Resources Ltd | Miscellaneous | Gold Loan Interest Waiver Extension
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Tap Global Group PLC | Miscellaneous | DAIS Bitcoin Purchase
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | Goldstone Resources Ltd | Miscellaneous | Gold Loan Interest Waiver Extension
+- 07:00:08 | Meridian Mining plc | Miscellaneous | Meridian reports Inclusion in FTSE 250 Index 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Abingdon Health PLC | NRA | UKAS ISO/IEC 17025 accreditation
   - [summary failed: HTTP Error 400: Bad Request]
@@ -445,9 +443,9 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | MD Contracts Extended;Cramer Appointed
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:08 | Alkemy Capital Investments PLC | NRA | Glencore visits TVL site at Billingham
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:08 | DX (Group) | NRA | Further Investment in DX SameDay Service
-- 07:00:07 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback
+- 07:00:08 | Franchise Brands PLC | NRA | Investor Event – MelloLondon 2026
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:08 | DX (Group) | NRA | Further Investment in DX SameDay Service
 - 07:00:07 | Commonwealth Bank of Australia | PFT | Publication of Final Terms XS3520692560
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Commonwealth Bank of Australia | ADM | Admission to Trading XS3520692560
@@ -465,7 +463,7 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | MD Contracts Extended;Cramer Appointed
 - 07:00:07 | Takeover Panel | POT | Gamma Communications – deadline for clarification
 - 07:00:07 | TruFin PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Bluebird Mining Ventures Ltd | Holding(s) in company | Holdings in Company - TR-1s and PCA
+- 07:00:07 | EKF Diagnostics Holdings PLC | Change of position | Share Buyback
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | MicroSalt PLC | Interim results | Unaudited Half-year Report 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -484,19 +482,19 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | MD Contracts Extended;Cramer Appointed
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | First Development Resources PLC | Miscellaneous | Strategic Divestment of Non-Core WA Assets
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | Wilmington PLC | PRE | Preliminary Results
+- 07:00:07 | The Beauty Tech Group PLC | Miscellaneous | Share Buyback via Reverse Accelerated Bookbuild
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Bridgepoint Group plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:07 | Cake Box Holdings PLC | Director/PDMR shareholding | Director purchase of shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:07 | The Beauty Tech Group PLC | Miscellaneous | Share Buyback via Reverse Accelerated Bookbuild
+- 07:00:07 | Bluebird Mining Ventures Ltd | Holding(s) in company | Holdings in Company - TR-1s and PCA
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | EnergyPathways PLC | Interim results | Interim Results
+- 07:00:07 | Wilmington PLC | PRE | Preliminary Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Rockfire Resources PLC | Drilling/exploration | Molaoi Inferred Germanium Estimate Underway
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:06 | MobilityOne Limited | Interim results | Half-year Report
+- 07:00:06 | EnergyPathways PLC | Interim results | Interim Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | MobilityOne Limited | Final results | Final Results and Restoration in Trading
   - [summary failed: HTTP Error 400: Bad Request]
@@ -515,6 +513,8 @@ Borussia Dortmund GmbH & Co. KGaA | NRA | MD Contracts Extended;Cramer Appointed
 - 07:00:06 | Reabold Resources PLC | Offer update | Day 56 Acceptance Level Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Bay Capital PLC | Interim results | Interim Report for the period ended 30 June 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:06 | MobilityOne Limited | Interim results | Half-year Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:06 | Card Factory PLC | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
