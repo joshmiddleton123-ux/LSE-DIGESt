@@ -2,6 +2,7 @@
 
 359 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:40:28 | Atlas Metals Group PLC | Interim results | Interim Results 
 - 12:34:52 | iShares IV PLC | ACS | iShares IV plc - Annual Financial Report
 - 12:34:09 | ProService Building Services Mktplc | Regulatory application/grant | Results of Annual General Meeting 
   - [summary failed: HTTP Error 400: Bad Request]
@@ -32,7 +33,6 @@
 - 12:04:56 | Sandwell Commercial Finance No2 PLC | ACS | Annual Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:04:15 | iShares Physical Metals Plc | PFT | Final Terms
-- 12:04:13 | iShares Physical Metals Plc | PFT | Final Terms
 - 12:04:13 | Hongkong Land Hldgs Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:02:56 | Hon Hai Precision Industry Co Ld | Strategy/company update | Subsidiary obtaining Shares
