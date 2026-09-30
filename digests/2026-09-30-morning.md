@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-30
 
-361 announcements (07:00-latest). One line each plus AI summary where available.
+362 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:55:25 | Stonewater Funding PLC | Miscellaneous | Transfer of Engagements
 - 12:43:00 | British & American Investment Trust Plc | Interim results | Half-year Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:40:28 | Atlas Metals Group PLC | Interim results | Interim Results 
