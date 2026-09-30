@@ -1,7 +1,8 @@
 # LSE announcements — 2026-09-30
 
-444 announcements (07:00-latest). One line each plus AI summary where available.
+445 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:55:03 | Hargreave Hale AIM VCT 1 PLC | Change of position | Transaction in Own Shares
 - 15:46:32 | Intertek Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:46:20 | Future PLC | Holding(s) in company | Holding(s) in Company
