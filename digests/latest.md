@@ -5,6 +5,7 @@
 - 12:09:30 | Maven Renovar VCT PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:09:20 | The Magnum Ice Cream Company N.V. | MSCL | Share Purchase - Long Term Incentive Plans
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:06:36 | Hongkong Land Hldgs Ltd | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:06:00 | Solvonis Therapeutics PLC | Total voting rights | Notification of Admission of Shares and TVR
@@ -17,9 +18,9 @@
 - 12:04:56 | Sandwell Commercial Finance No2 PLC | ACS | Annual Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:04:15 | iShares Physical Metals Plc | PFT | Final Terms
-- 12:04:13 | iShares Physical Metals Plc | PFT | Final Terms
 - 12:04:13 | Hongkong Land Hldgs Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
+- 12:04:13 | iShares Physical Metals Plc | PFT | Final Terms
 - 12:02:56 | Hon Hai Precision Industry Co Ld | Strategy/company update | Subsidiary obtaining Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:02:30 | Gresham House Energy Storage Fund | RDN | Director Declaration
@@ -29,11 +30,11 @@
 - 12:02:23 | Funding Circle Holdings plc | Change of position | Correction of a release from 28.09.2026 10:18 GMT/BST - POS-Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:38 | iShares Physical Metals Plc | PFT | Final Terms
-- 12:00:00 | Alternative Income REIT PLC | Board appointment/change | Directorate changes
+- 12:00:00 | Aterian PLC | Total voting rights | Total Voting Rights & Admission to Trading
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Contango Holdings PLC | ACS | Annual Financial Report
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:00 | Aterian PLC | Total voting rights | Total Voting Rights & Admission to Trading
+- 12:00:00 | Alternative Income REIT PLC | Board appointment/change | Directorate changes
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:59:46 | Unite Group PLC (The) | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
