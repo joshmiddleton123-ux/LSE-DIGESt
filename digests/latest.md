@@ -2,6 +2,7 @@
 
 428 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:25:24 | Electric Guitar PLC | Miscellaneous | Publication of Annual Report and Accounts
 - 15:19:33 | Conygar Investment Company PLC(The) | Holding(s) in company | TR-1: Notification of Major Holdings 
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:17:56 | Blackfinch Spring VCT PLC | ADM | Admission of Further Securities to Trading
@@ -18,24 +19,22 @@
 - 15:07:41 | Sorted Group Holdings PLC | UPD | Delay to publication of interim results 
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:05:08 | Morgan Stanley Finance LLC | Miscellaneous | ISM -MSF- PARTIAL - RETIREMENT -30-09-2026
-- 15:05:00 | Deutsche Bank AG | MSCL | Value Per Security
 - 15:05:00 | easyJet | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
+- 15:05:00 | Deutsche Bank AG | MSCL | Value Per Security
+- 15:00:00 | Deutsche Bank AG | MSCL | Issuance of Securities
+- 15:00:00 | Schiehallion Fund Limited (The) | Director/PDMR shareholding | Director/PDMR Shareholding
 - 15:00:00 | Anglo American PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | easyJet | Holding(s) in company | Holding(s) in Company
+- 15:00:00 | Arecor Therapeutics PLC | Issue of equity | Retail Offer to raise up to £130,000
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Ninety One PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | Greencore Group PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | Schiehallion Fund Limited (The) | Director/PDMR shareholding | Director/PDMR Shareholding
-- 15:00:00 | Deutsche Bank AG | MSCL | Issuance of Securities
-- 15:00:00 | Arecor Therapeutics PLC | Issue of equity | Retail Offer to raise up to £130,000
+- 15:00:00 | easyJet | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:59:04 | Morgan Stanley B.V. | Miscellaneous | ISM_MSBV_EARLY REDEMPTION_30-09-2026
-- 14:58:40 | Arecor Therapeutics PLC | Result of issue | Results of Placing
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:55:44 | Morgan Stanley B.V. | Miscellaneous | ISM -MSBV-RETIREMENT -30-09-2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:52:35 | CML Microsystems PLC | Director/PDMR shareholding | Director/PDMR Shareholding
