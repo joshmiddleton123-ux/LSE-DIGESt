@@ -109,11 +109,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:00:05 | Templeton Emerging Markets IT PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:00:01 | Moyle Interconnector (Financing)PLC | Board appointment/change | Directorate change
+- 17:00:01 | Belfast Gas Transmission Fin PLC | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:00:01 | Airtel Africa PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 17:00:01 | Belfast Gas Transmission Fin PLC | Board appointment/change | Directorate change
+- 17:00:01 | Moyle Interconnector (Financing)PLC | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:00:01 | MITIE Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -156,9 +156,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:48:39 | Baillie Gifford UK Growth Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:45:00 | MITIE Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:45:00 | Aberforth Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:45:00 | MITIE Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:45:00 | Strategic Equity Capital Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -175,15 +175,15 @@
 - 16:32:57 | Bank of Montreal | STA | Post Stabilisation Notice - Bank of Montreal
 - 16:30:01 | Anglo American PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:30:01 | Vistry Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:01 | Venture Life Group PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:30:00 | Invesco Global Equity Income Trust | Issue of equity | Issue of Equity
+- 16:30:01 | Vistry Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:30:00 | Fidelity Emerging Markets Limited | MSCL | Five-year performance test met and tender mechanism renewed
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:30:00 | MITIE Group PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:30:00 | Fidelity Emerging Markets Limited | MSCL | Five-year performance test met and tender mechanism renewed
+- 16:30:00 | Invesco Global Equity Income Trust | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:28:41 | Bank of Montreal | STA | Post Stabilisation Notice - European Bank for  R&D
 - 16:28:11 | AJ Bell PLC | Total voting rights | Total Voting Rights and Capital
@@ -228,11 +228,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Rio Tinto PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 16:00:00 | Oxford Nanopore Technologies plc | Total voting rights | Issue of Equity and Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Ecofin Global Utilities Inf Tst PLC | Miscellaneous | Compliance with UK Market Abuse Regulation
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | On the Beach Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 16:00:00 | Oxford Nanopore Technologies plc | Total voting rights | Issue of Equity and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Capital Gearing Trust P.l.c. | MSCL | Compliance with Market Abuse Regulation
   - [summary failed: HTTP Error 400: Bad Request]
@@ -279,9 +279,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:37:25 | OSB GROUP PLC | ADM | OSB GROUP PLC - Admission to Trading
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:37:00 | BlackRock Latin American Investment Trust Plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:37:00 | BlackRock Latin American Investment Trust Plc | Dividend declaration | Dividend Declaration
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:37:00 | BlackRock Latin American Investment Trust Plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:35:38 | Odyssean Investment Trust PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
@@ -316,13 +316,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:04 | Metro Bank Holdings PLC | Total voting rights | Shares Admitted to Trading and Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | Anglo American PLC | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 15:00:00 | AstraZeneca PLC | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | GSK PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:00 | NB Private Equity Partners Limited | MSCL | NBPE Announces Change in Registered Office
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:00:00 | Anglo American PLC | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:00:00 | AstraZeneca PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:59:53 | European Smaller Companies Tst PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
@@ -353,9 +353,9 @@
 - 14:34:59 | Morgan Stanley Europe SE | Miscellaneous | ISM_MSESE_EARLY REDEMPTION_01-10-2026
 - 14:32:22 | Lion Finance Group PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:30:00 | IG Group Holdings plc | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
 - 14:30:00 | Bridgepoint Group plc | Result of meeting | Results of General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:30:00 | IG Group Holdings plc | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:29:31 | CT UK High Income Trust PLC | Miscellaneous | Compliance with Market Abuse Regulation
   - [summary failed: HTTP Error 400: Bad Request]
@@ -386,13 +386,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | London Stock Exchange Group PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Quilter PLC | Total voting rights | Total Voting Rights
-  - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | JPMorgan ETFs (Ireland) ICAV | Dividend declaration | Dividend Declaration
+- 14:00:00 | Burberry Group PLC | Total voting rights | Issue of Shares & Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | ITV PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Burberry Group PLC | Total voting rights | Issue of Shares & Total Voting Rights
+- 14:00:00 | JPMorgan ETFs (Ireland) ICAV | Dividend declaration | Dividend Declaration
+  - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Quilter PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:50:32 | Aberdeen Group PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
