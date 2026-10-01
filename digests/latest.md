@@ -1,7 +1,9 @@
 # LSE announcements — 2026-10-01
 
-467 announcements (07:00-latest). One line each plus AI summary where available.
+468 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 13:15:26 | Lowland Investment Co PLC | Board appointment/change | Appointment of New Non-Executive Director  
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:14:13 | Standard Chartered PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:11:36 | Reckitt Benckiser Group PLC | Total voting rights | Total Voting Rights
@@ -26,11 +28,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:07 | Lowland Investment Co PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:00:00 | FirstGroup PLC | MSCL | Blocklisting - Interim Review
-  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | WPP PLC | Miscellaneous | Notification of Q3 2026 Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | British American Tobacco PLC | Total voting rights | Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
+- 13:00:00 | FirstGroup PLC | MSCL | Blocklisting - Interim Review
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:59:17 | Gamma Communications PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
