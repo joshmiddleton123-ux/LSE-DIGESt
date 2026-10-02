@@ -3,6 +3,7 @@
 192 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:00:27 | MicroSalt PLC | Result of meeting | Result of General Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:58:00 | Deutsche Bank AG | MSCL | Value Per Security
 - 14:54:06 | Wilmington PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
