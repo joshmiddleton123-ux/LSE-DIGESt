@@ -3,6 +3,7 @@
 93 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 07:49:07 | Wetherspoon (JD) PLC | ACS | Annual Financial Report
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:35:39 | Harworth Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:34:58 | Abu Dhabi Future Energy Co. PJSC | DOC | Half-year Financial Report
