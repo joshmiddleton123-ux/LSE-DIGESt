@@ -5,6 +5,7 @@
 - 13:00:00 | Burford Capital Limited | Issue of equity | Issue of Equity in Connection with LTIP
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Fidelity European Trust Plc | Board appointment/change | Director appointment
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:00 | Sampo Oyj | Director/PDMR shareholding | Sampo plc: Managers’ Transactions (Svensson)
 - 12:30:00 | Sampo Oyj | Director/PDMR shareholding | Sampo Oyj: Johdon liiketoimet (Svensson)
 - 12:26:15 | Intertek Group PLC | Holding(s) in company | Holding(s) in Company
