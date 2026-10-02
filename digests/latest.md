@@ -3,6 +3,7 @@
 213 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:00:07 | International Cons Airlines Group | Miscellaneous | Launch of €500 million share buyback programme 
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Close Brothers Group PLC | Miscellaneous | Pillar 3 disclosures
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:00:00 | Videndum PLC | Holding(s) in company | Holding(s) in Company
