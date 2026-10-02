@@ -1,7 +1,8 @@
 # LSE announcements — 2026-10-02
 
-215 announcements (07:00-latest). One line each plus AI summary where available.
+216 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 16:25:12 | Ruffer Investment Company Limited | Director/PDMR shareholding | Director/PDMR Shareholding
 - 16:10:09 | Gamma Communications PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:06:43 | Renalytix PLC | Director/PDMR shareholding | Director/PDMR Shareholding (Replacement)
