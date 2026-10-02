@@ -3,6 +3,7 @@
 149 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:18:00 | Petra Diamonds Limited | MSCL | Update in relation to Petra Diamonds UK Treasury Limited
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:17:23 | Fevara PLC | NRA | MelloMonday Investor Webinar
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:15:00 | BH Macro Limited | Contract | Conversion of Securities
