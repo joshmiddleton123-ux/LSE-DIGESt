@@ -2,6 +2,7 @@
 
 144 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:05:00 | Shell plc | Change of position | Transaction in Own Shares
 - 11:00:00 | ConvaTec Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:59:04 | Symphony International Holdings Ltd | Director/PDMR shareholding | Director/PDMR Shareholding
@@ -32,15 +33,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:15:32 | Ampeak Energy Limited | Director/PDMR shareholding | Director Dealings
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:15:00 | IG Group Holdings plc | Director/PDMR shareholding | Director/PDMR Shareholding
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:15:00 | British American Tobacco PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:15:00 | IG Group Holdings plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:09:45 | SSE PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:09:09 | Polar Capital Technology Trust PLC | RDN | Director Declaration
-  - [summary failed: HTTP Error 400: Bad Request]
-- 10:02:45 | Plus500 Limited | Trading statement | Q3 2026 Update
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:01 | Chariot Limited | Director/PDMR shareholding | Grant of Deferred Share Awards
   - [summary failed: HTTP Error 400: Bad Request]
