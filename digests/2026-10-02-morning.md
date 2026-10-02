@@ -3,6 +3,7 @@
 122 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:47:00 | Bodycote PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:41:18 | Savills PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:41:04 | Caledonia Investments PLC | Holding(s) in company | Holding(s) in Company
