@@ -2,9 +2,10 @@
 
 171 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 13:30:00 | Pan African Resources Plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:00 | Smiths Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 13:30:00 | Pan African Resources Plc | Holding(s) in company | Holding(s) in Company
 - 13:24:00 | BlackRock American Income Trust Plc | Strategy/company update | Disclosure of Portfolio Holdings
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:09:06 | JPMorgan ETFs (Ireland) ICAV | Result of meeting | Results of Extraordinary General Meeting
@@ -23,9 +24,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:01:06 | Forterra plc | Miscellaneous | Employee Benefit Trust Share Purchase
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:00:00 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Jupiter Fund Management PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:00:00 | Bytes Technology Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:58:04 | Alien Metals Limited | NRA | Investor Webinar
   - [summary failed: HTTP Error 400: Bad Request]
