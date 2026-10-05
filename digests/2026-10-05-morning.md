@@ -3,6 +3,7 @@
 245 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:00:04 | AstraZeneca PLC | Miscellaneous | AstraZeneca completes equity investment in Summit
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:01 | Derwent London PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Vistry Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
