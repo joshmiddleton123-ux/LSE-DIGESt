@@ -3,8 +3,11 @@
 237 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 11:40:05 | JPMorgan China Growth & Income PLC | Miscellaneous | Gearing Announcement
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:40:04 | JPMorgan Emerg Mkts Growth & Income | Miscellaneous | Gearing Announcement
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:40:03 | JPMorgan Japanese Inv. Trust PLC | Miscellaneous | Gearing Announcement
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:40:02 | JPMorgan Emerging Mkts Div Inc PLC | Miscellaneous | Gearing Announcement
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:40:01 | JPMorgan Claverhouse IT PLC | Miscellaneous | Gearing Announcement
@@ -56,13 +59,13 @@
 - 11:02:03 | Cropper(James) PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:01:39 | Partners Group Private Equity Ltd | FUR | Update re. Results of Elections
-- 11:00:00 | ConvaTec Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Autotrader Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Moonpig Group Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Taylor Wimpey PLC | Change of position | Transaction in Own Shares
+- 11:00:00 | Autotrader Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | ConvaTec Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:58:47 | Elenia Verkko Oyj | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:51:23 | Jardine Matheson Hldgs Ltd | Change of position | Transaction in Own Shares
