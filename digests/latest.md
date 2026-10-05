@@ -7,6 +7,7 @@
 - 13:00:00 | EnSilica PLC | Final results | Final Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:00 | Moonpig Group Plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:36:34 | Applied Nutrition PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:25:00 | Johnson Matthey PLC | Change of position | Transaction in Own Shares
