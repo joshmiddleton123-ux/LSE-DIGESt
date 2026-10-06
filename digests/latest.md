@@ -3,6 +3,7 @@
 134 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 10:15:14 | Christie Group PLC | Miscellaneous | Christie & Co publishes Pubs & Rest. Review 2026
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:13:24 | Investment Company PLC | DOC | Publication of September 2026 Factsheet
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:13:12 | Net Zero Infrastructure PLC | Holding(s) in company | Holding(s) in Company
