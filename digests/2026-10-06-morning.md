@@ -3,6 +3,7 @@
 304 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 17:39:00 | Fidelity Emerging Markets Limited | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 17:36:18 | Bankers Investment Trust PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:36:00 | BlackRock Energy and Resources Income Trust Plc | Change of position | Transaction in Own Shares
