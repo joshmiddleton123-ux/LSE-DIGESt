@@ -3,6 +3,7 @@
 165 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:18:00 | British & American Investment Trust Plc | Strategy/company update | Appointment of Auditor
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:16:37 | Land Securities Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:08:50 | Cambridge Nutritional Sciences PLC | Holding(s) in company | Holding(s) in Company
