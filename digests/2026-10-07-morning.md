@@ -1,7 +1,9 @@
 # LSE announcements — 2026-10-07
 
-236 announcements (07:00-latest). One line each plus AI summary where available.
+237 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 15:20:35 | Critical Mineral Resources PLC | ADM | Admission to Trading
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:19:38 | Brunner Investment Trust PLC | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:11:03 | Funding Circle Holdings plc | Holding(s) in company | HOL-Holdings in Company
@@ -185,8 +187,8 @@
 - 08:00:14 | Kuntarahoitus Oyj | Issue of debt | Municipality Finance issues a USD 50 million tap under its MTN programme
 - 08:00:00 | Essentra plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:58:23 | Øresundsbro Konsortiet | NOG | Notice of GM
 - 07:58:23 | Øresundsbro Konsortiet | NOG | Generalforsamling
+- 07:58:23 | Øresundsbro Konsortiet | NOG | Notice of GM
 - 07:52:49 | Beeks Financial Cloud Group PLC | Notice of results | Notice of Results and Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:50:23 | Sydbank A/S | Director/PDMR shareholding | Ledende medarbejdere og nærtståendes transaktioner med aktier i AL Sydbank
@@ -202,23 +204,20 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:07:58 | Reabold Resources PLC | Miscellaneous | Reabold Notes Beacon Announcement
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:00 | Henderson Smaller Cos Inv Tst PLC | Change of position | Transaction in Own Shares
+- 07:01:00 | Pennon Group PLC | Miscellaneous | Rights Issue
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:00 | Fletcher King PLC | Final results | Final Results
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:01:00 | Pennon Group PLC | Miscellaneous | Rights Issue
+- 07:01:00 | Henderson Smaller Cos Inv Tst PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:01:00 | Serval Resources Plc | UPD | Assay Results confirm High-Grade Copper-Silver Mineralisation across Multiple Prospects at Serval's Kaoko Basin Project in Namibia
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Wheaton Precious Metals Corp. | Notice of results | Notice of 2026 Third Quarter Results
+- 07:00:05 | JPMorgan US Smaller Co. IT | Miscellaneous | Proposed combination with BASC
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | Valeura Energy Inc. | NRA | Q3 2026 Operations Update
 - 07:00:05 | Property Franchise Group PLC (The) | NRA | Strategic investment in Enteka Ai
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | JPMorgan European Discovery Trust | NRA | Sharesify Investor Webinar
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Seraphim Space Investment Trust PLC | NRA | SpaceTech Sector Newsletter - September 2026
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Breedon Group PLC | NRA | Investor site visit
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | London BTC Company Limited | Miscellaneous | Teep Assays Return up to 104.99 g/t gold
   - [summary failed: HTTP Error 400: Bad Request]
@@ -228,8 +227,7 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Beacon Energy PLC | Miscellaneous | Transaction Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:05 | Valeura Energy Inc. | NRA | Q3 2026 Operations Update
-- 07:00:05 | JPMorgan US Smaller Co. IT | Miscellaneous | Proposed combination with BASC
+- 07:00:05 | Wheaton Precious Metals Corp. | Notice of results | Notice of 2026 Third Quarter Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Cerillion PLC | NRA | Recognised in Gartner Report
   - [summary failed: HTTP Error 400: Bad Request]
@@ -239,20 +237,24 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:05 | Oryx International Growth Fund Ld | NRA | Notice of Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Tertiary Minerals PLC | NOG | Circular and Notice of General Meeting
+- 07:00:05 | Breedon Group PLC | NRA | Investor site visit
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:05 | Seraphim Space Investment Trust PLC | NRA | SpaceTech Sector Newsletter - September 2026
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Abenojar Tungsten S.A | ITF | Intention to Float
 - 07:00:04 | Diaceutics PLC | Miscellaneous | Block Listing Return
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Steppe Cement Limited | Dividend declaration | Declaration of Interim Dividend
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Naked Wines PLC | Board appointment/change | Board Change
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:04 | Abenojar Tungsten S.A | ITF | Intention to Float
 - 07:00:04 | Tungsten West PLC | APP | Appointment of Joint Corporate Broker
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Ashoka WhiteOak Emerging Mkts Tst. | NRA | Kepler Trust Intelligence: New Research
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | RC365 Holding PLC | Miscellaneous | TITL Onboarded to Wealth Management System
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:04 | Tertiary Minerals PLC | NOG | Circular and Notice of General Meeting
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:04 | Tavistock Investments PLC | Notice of AGM | Notice of AGM
   - [summary failed: HTTP Error 400: Bad Request]
