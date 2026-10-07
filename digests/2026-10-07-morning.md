@@ -3,6 +3,7 @@
 215 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:45:16 | Dillistone Group PLC | UPD | Update on Change of Strategy & Notice of GM
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:45:01 | Rockhopper Exploration plc | Miscellaneous | OSX-1 FPSO Acquisition Update 
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:30:00 | First Class Metals PLC | Miscellaneous | Commencement of US trading on OTCID 
