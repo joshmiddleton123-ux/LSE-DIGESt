@@ -2,6 +2,7 @@
 
 219 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:23:25 | HANetf II ICAV | Dividend declaration | Dividend Declaration - Correction
 - 14:14:17 | Odyssean Investment Trust PLC | Issue of equity | Issue of Equity
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:13:06 | BNP Paribas Primary New Issues | STA | Stabilization Notice - Banijay Gaming SAS  pre stab
@@ -80,7 +81,6 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:03:54 | Prudential PLC | Issue of equity | New shares to be issued for scrip dividend
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:10 | HANetf II ICAV | Dividend declaration | Dividend Declaration
 - 11:00:00 | Moonpig Group Plc | RDN | Director Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Close Brothers Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
