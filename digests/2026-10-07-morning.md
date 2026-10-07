@@ -1,7 +1,9 @@
 # LSE announcements — 2026-10-07
 
-151 announcements (07:00-latest). One line each plus AI summary where available.
+153 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 09:55:12 | Bloomsbury Publishing PLC | Holding(s) in company | Holding(s) in Company
+- 09:55:06 | AVI Global Trust PLC | Director/PDMR shareholding | Director/PDMR Shareholding
 - 09:45:53 | Touchstar PLC | Director/PDMR shareholding | Director/PDMR Shareholding - Replacement
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:45:42 | Mony Group PLC | Holding(s) in company | Holding(s) in Company
