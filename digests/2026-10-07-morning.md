@@ -1,7 +1,8 @@
 # LSE announcements — 2026-10-07
 
-226 announcements (07:00-latest). One line each plus AI summary where available.
+227 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 14:45:17 | Morgan Stanley Europe SE | Miscellaneous | ISM_MSESE_EARLY REDEMPTION_07-10-2026
 - 14:43:16 | Redcentric PLC | Holding(s) in company | Notification of Major Holdings
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:41:38 | Severn Trent Utilities Finance PLC | Miscellaneous | Notification of Admission 
