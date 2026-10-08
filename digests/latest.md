@@ -3,6 +3,7 @@
 316 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 18:15:18 | Built Cybernetics PLC | Issue of equity | WRAP Retail Offer
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:14:57 | Built Cybernetics PLC | Result of issue | Result of Placing and Subscription
   - [summary failed: HTTP Error 400: Bad Request]
 - 17:52:54 | On the Beach Group PLC | Director/PDMR shareholding | Director/PDMR Shareholding
@@ -161,9 +162,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:08:10 | PIMCO Fixed Income Source ETFs PLC | Dividend declaration | Dividend Declaration
 - 15:03:12 | Morgan Stanley Europe SE | Miscellaneous | ISM - MSESE- PARTIAL_RETIREMENT -08-10-2026
-- 15:00:01 | Jupiter Fund Management PLC | Change of position | Transaction in Own Shares/Share Buyback Completion
-  - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:01 | Essentra plc | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
+- 15:00:01 | Jupiter Fund Management PLC | Change of position | Transaction in Own Shares/Share Buyback Completion
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:00:01 | GSK PLC | RDN | Wendy Becker CBE - New Directorship
   - [summary failed: HTTP Error 400: Bad Request]
@@ -215,9 +216,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:56:42 | Arecor Therapeutics PLC | NRA | Half Year Results Investor Presentation
   - [summary failed: HTTP Error 400: Bad Request]
-- 12:30:00 | Trekor Metals Limited | MSCL | Trekor Announces 41 Million Pounds of Copper Production from Gibraltar and Florence Copper in the Third Quarter
-  - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:00 | Barr(A.G.) PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 12:30:00 | Trekor Metals Limited | MSCL | Trekor Announces 41 Million Pounds of Copper Production from Gibraltar and Florence Copper in the Third Quarter
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:22:47 | Altitude Group PLC | Issue of equity | Exercise of Options and Total Voting Rights 
   - [summary failed: HTTP Error 400: Bad Request]
