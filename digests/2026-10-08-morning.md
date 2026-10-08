@@ -5,6 +5,7 @@
 - 09:04:25 | Boku Inc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:04:17 | Hargreave Hale AIM VCT 1 PLC | MSCL | Admission of Further Shares to Trading
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:00:01 | GCP Infrastructure Investments Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:56:39 | Gym Group PLC (The) | Holding(s) in company | Holding(s) in Company
