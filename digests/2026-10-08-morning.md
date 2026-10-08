@@ -3,6 +3,7 @@
 144 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 08:40:30 | Bunzl PLC | Acquisition | Acquisition
+  - [summary failed: HTTP Error 400: Bad Request]
 - 08:37:22 | Pinewood Technologies Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 08:20:37 | Senior PLC | Holding(s) in company | Holding(s) in Company
