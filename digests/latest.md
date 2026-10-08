@@ -1,7 +1,9 @@
 # LSE announcements — 2026-10-08
 
-184 announcements (07:00-latest). One line each plus AI summary where available.
+185 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:15:00 | Mondi PLC | Strategy/company update | 2026 AGM voting update statement
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:14:13 | Jardine Matheson Hldgs Ltd | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:11:04 | Goodwin PLC | Regulatory application/grant | Result of AGM
@@ -179,9 +181,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Medpal AI PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | iShares III Broad HY CP BD UCT ETF$ | Dividend declaration | Dividend Declaration
+- 07:00:03 | iShares III Broad $ HG YD CP BD £ | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | iShares VI MSCI US Swap GBP HEDG £ | Dividend declaration | Dividend Declaration
+- 07:00:03 | iShares VI JPM $ EM Bd EUR Hdgd Dst | Dividend declaration | Dividend Declaration
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | iShares III INTMD BND UCITS £ | Dividend declaration | Dividend Declaration
 - 07:00:03 | iShares III Intermediate Credit Bd$ | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | iShares III MSCI Target UK RealEst£ | Dividend declaration | Dividend Declaration
@@ -211,9 +215,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | iShares VI Glbl AAA-AA Gov Bnd$Dist | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | iShares VI JPM $ EM Bd EUR Hdgd Dst | Dividend declaration | Dividend Declaration
+- 07:00:03 | iShares III Broad HY CP BD UCT ETF$ | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | iShares III INTMD BND UCITS £ | Dividend declaration | Dividend Declaration
+- 07:00:03 | iShares VI MSCI US Swap GBP HEDG £ | Dividend declaration | Dividend Declaration
 - 07:00:03 | Supermarket Income REIT PLC | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Futura Medical PLC | Board appointment/change | Board Change and Formal Sale Process Update
@@ -222,20 +226,16 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Beacon Energy PLC | Director/PDMR shareholding | Director Dealings
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:03 | Custodian Property Income REIT plc | Disposal | Custodian Property Income REIT plc: Disposal of Petrol Station at an 8% Premium to Valuation
-  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | M&G (Ireland) ETF ICAV | Dividend declaration | Dividend Declaration
 - 07:00:03 | Brooks Macdonald Group PLC | Board appointment/change | Directorate change
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Baker Steel Resources Trust Ltd | Portfolio update | Investment Update and 30 September 2026 NAV 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Grafton Group PLC | Board appointment/change | Board Change - Chair Succession 
   - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:03 | Custodian Property Income REIT plc | Disposal | Custodian Property Income REIT plc: Disposal of Petrol Station at an 8% Premium to Valuation
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:03 | Invesco Markets II PLC | Dividend declaration | Dividend Declaration
-- 07:00:03 | M&G (Ireland) ETF ICAV | Dividend declaration | Dividend Declaration
-- 07:00:03 | iShares III Broad $ HG YD CP BD £ | Dividend declaration | Dividend Declaration
-  - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Foresight Group Holdings Limited | Trading statement | Trading update for the six months ended 30/09/2026
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Tesco PLC | Interim results | Interim Results 2026/27
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Unite Group PLC (The) | Trading statement | Q3 Trading Update
@@ -244,15 +244,17 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Gaming Realms PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Intercede Group PLC | Trading statement | Trading Update, New Contract Orders and Renewals
+- 07:00:02 | Babcock International Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Logistics Development Group PLC | OFD | Statement re possible offer 
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Imperial Brands PLC | Trading statement | Trading Update
   - [summary failed: HTTP Error 400: Bad Request]
-- 07:00:02 | Babcock International Group PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | International Workplace Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Intercede Group PLC | Trading statement | Trading Update, New Contract Orders and Renewals
+  - [summary failed: HTTP Error 400: Bad Request]
+- 07:00:02 | Foresight Group Holdings Limited | Trading statement | Trading update for the six months ended 30/09/2026
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:00:02 | Jubilee Metals Group PLC | Disposal | Update on Large Waste Project Disposal
   - [summary failed: HTTP Error 400: Bad Request]
