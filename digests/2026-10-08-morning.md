@@ -3,6 +3,7 @@
 209 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 13:09:31 | Shell plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:49 | Dr. Martens PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:00:10 | Kerry Group PLC | Miscellaneous | Kerry Investor Day
