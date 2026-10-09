@@ -3,6 +3,7 @@
 208 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 16:18:00 | Temple Bar Investment Trust Plc | MSCL | Monthly Fact Sheet as at 30 September 2026
+  - [summary failed: HTTP Error 400: Bad Request]
 - 16:15:00 | Great Western Mining Corp. plc | Issue of equity | EXERCISE OF WARRANTS AND ISSUE OF EQUITY 
   - [summary failed: HTTP Error 400: Bad Request]
 - 16:11:00 | Deutsche Bank AG | MSCL | Value Per Security
