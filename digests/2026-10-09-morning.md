@@ -1,7 +1,9 @@
 # LSE announcements — 2026-10-09
 
-148 announcements (07:00-latest). One line each plus AI summary where available.
+149 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 12:00:34 | Ferrexpo PLC | Result of meeting | Result of Meeting
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | easyJet | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Foresight Enterprise VCT Plc | Change of position | Transaction in Own Shares
