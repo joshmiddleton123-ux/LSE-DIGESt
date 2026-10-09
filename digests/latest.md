@@ -3,6 +3,7 @@
 96 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 07:33:00 | Delta Gold Technologies Plc | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 07:30:01 | Barclays PLC | APP | Appointment of Joint Corporate Broker
   - [summary failed: HTTP Error 400: Bad Request]
 - 07:23:26 | GSTechnologies Ltd | Regulatory application/grant | Result of AGM
