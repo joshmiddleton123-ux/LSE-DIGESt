@@ -3,6 +3,7 @@
 197 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 15:45:13 | SSE PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 15:38:49 | Helios Towers PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 15:37:17 | Mercantile Ports & Logistics Ltd | UPD | NCLT Hearing - Update
