@@ -3,6 +3,7 @@
 123 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 09:50:11 | Gore Street Energy Storage Fund PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 09:49:29 | Prudential PLC | COS | Company Secretary Change
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:45:42 | NB Private Equity Partners Limited | Holding(s) in company | NBPE - Holding(s) in Company
