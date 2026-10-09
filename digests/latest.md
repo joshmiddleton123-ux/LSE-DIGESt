@@ -1,7 +1,9 @@
 # LSE announcements — 2026-10-09
 
-284 announcements (07:00-latest). One line each plus AI summary where available.
+285 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 18:20:24 | DCC Energy PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 18:14:03 | Irish Residential Properties REIT plc | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 18:12:00 | BlackRock Smaller Companies Trust Plc | Change of position | Transaction in Own Shares
