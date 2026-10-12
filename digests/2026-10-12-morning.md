@@ -11,11 +11,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | ConvaTec Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Helical PLC | Notice of results | Notice of Results
+- 11:00:00 | Autotrader Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Moonpig Group Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Autotrader Group PLC | Change of position | Transaction in Own Shares
+- 11:00:00 | Helical PLC | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:57:00 | Acuity RM Group Plc | MSCL | Exercise of Share Warrants
   - [summary failed: HTTP Error 400: Bad Request]
