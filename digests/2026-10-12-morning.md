@@ -134,13 +134,13 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:13:22 | DCC Energy PLC | Total voting rights | Total Voting Rights
   - [summary failed: HTTP Error 400: Bad Request]
+- 14:00:00 | Burberry Group PLC | Holding(s) in company | Holding(s) in Company
+  - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Volution Group plc | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | Keras Resources PLC | Regulatory application/grant | Result of AGM and Change of Name to Okopa plc
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | British American Tobacco PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
-- 14:00:00 | Burberry Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:56:04 | Smart(J.)&Co(Contractors) PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -214,11 +214,11 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:09 | Springfield Properties PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
-- 11:00:00 | Helical PLC | Notice of results | Notice of Results
-  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Autotrader Group PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | ConvaTec Group PLC | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
+- 11:00:00 | Helical PLC | Notice of results | Notice of Results
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | Moonpig Group Plc | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
@@ -254,16 +254,16 @@
 - 10:54:01 | JPMorgan American IT PLC | Miscellaneous | Gearing Announcement
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:53:05 | Secured Fixed Income PLC | PFT | Publication of Final Terms
+- 10:52:41 | Sydbank A/S | Change of position | Aktietilbagekøb i AL Sydbank A/S – transaktioner i uge 41
 - 10:52:41 | Sydbank A/S | Change of position | AL Sydbank A/S share buyback programme: transactions in week 41
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:52:41 | Sydbank A/S | Change of position | Aktietilbagekøb i AL Sydbank A/S – transaktioner i uge 41
 - 10:47:03 | Diaceutics PLC | Holding(s) in company | Holding(s) in Company
 - 10:45:51 | JPMorgan Investment Trusts | Miscellaneous | Gearing Announcement
 - 10:30:00 | M&G PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:30:00 | AJ Bell PLC | Change of position | Transaction in Own Shares
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:00 | Ariana Resources PLC | NRA | Upcoming Events Calendar
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:30:00 | AJ Bell PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:00 | Grainger PLC | Holding(s) in company | Holding(s) in Company  
   - [summary failed: HTTP Error 400: Bad Request]
@@ -273,9 +273,9 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:23:20 | Helios Towers PLC | Change of position | Transaction in Own Shares (Replacement)
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:20:41 | Jyske Bank A/S | PRE | Forventet resultat pr. aktie i 2026 opjusteret til 78-87 kr.
 - 10:20:41 | Jyske Bank A/S | PRE | Earnings per share outlook for 2026 raised to DKK 78-87
   - [summary failed: HTTP Error 400: Bad Request]
+- 10:20:41 | Jyske Bank A/S | PRE | Forventet resultat pr. aktie i 2026 opjusteret til 78-87 kr.
 - 10:19:00 | BH Macro Limited | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:18:20 | Mobius Investment Trust PLC | Holding(s) in company | Holding(s) in Company
@@ -292,14 +292,14 @@
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:01:00 | TomCo Energy PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:00:00 | TomCo Energy PLC | Holding(s) in company | Holding(s) in Company
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Axis Capital Limited | OFD | Statement re Possible Offer
 - 10:00:00 | Bunzl PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Domino's Pizza Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | HSBC Holdings PLC | Miscellaneous | Overseas Regulatory Announcement - Grant of Awards
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:00 | TomCo Energy PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | Secure Trust Bank PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
