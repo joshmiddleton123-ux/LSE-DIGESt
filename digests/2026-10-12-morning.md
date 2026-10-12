@@ -51,18 +51,18 @@
 - 10:54:01 | JPMorgan American IT PLC | Miscellaneous | Gearing Announcement
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:53:05 | Secured Fixed Income PLC | PFT | Publication of Final Terms
+- 10:52:41 | Sydbank A/S | Change of position | Aktietilbagekøb i AL Sydbank A/S – transaktioner i uge 41
 - 10:52:41 | Sydbank A/S | Change of position | AL Sydbank A/S share buyback programme: transactions in week 41
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:52:41 | Sydbank A/S | Change of position | Aktietilbagekøb i AL Sydbank A/S – transaktioner i uge 41
 - 10:47:03 | Diaceutics PLC | Holding(s) in company | Holding(s) in Company
 - 10:45:51 | JPMorgan Investment Trusts | Miscellaneous | Gearing Announcement
-- 10:30:00 | M&G PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+- 10:30:00 | Ariana Resources PLC | NRA | Upcoming Events Calendar
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:30:00 | AJ Bell PLC | Change of position | Transaction in Own Shares
+- 10:30:00 | M&G PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:30:00 | Grainger PLC | Holding(s) in company | Holding(s) in Company  
   - [summary failed: HTTP Error 400: Bad Request]
-- 10:30:00 | Ariana Resources PLC | NRA | Upcoming Events Calendar
+- 10:30:00 | AJ Bell PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:29:53 | Funding Circle Holdings plc | Change of position | POS-Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
