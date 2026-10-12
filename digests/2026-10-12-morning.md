@@ -3,6 +3,7 @@
 237 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:00:33 | Axis Bank Limited | UPD | Update
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:00:00 | Ninety One PLC | Change of position | Transaction in Own Shares
   - [summary failed: HTTP Error 400: Bad Request]
 - 11:52:10 | Georgia Capital PLC | Change of position | Transaction in Own Shares
