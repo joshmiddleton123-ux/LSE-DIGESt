@@ -5,6 +5,7 @@
 - 10:19:38 | Yorkshire Housing Finance plc | Board appointment/change | Yorkshire Housing appoints Leann Hearne as Chair
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:19:33 | Shell plc | Change of position | Transaction in Own Shares
+  - [summary failed: HTTP Error 400: Bad Request]
 - 10:17:48 | Kier Group PLC | NRA | Long-term issuer default rating upgraded by Fitch
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:16:00 | Artemis UK Future Leaders Plc | Change of position | Transaction in Own Shares
