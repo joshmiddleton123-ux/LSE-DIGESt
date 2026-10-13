@@ -1,7 +1,9 @@
 # LSE announcements — 2026-10-13
 
-165 announcements (07:00-latest). One line each plus AI summary where available.
+166 announcements (07:00-latest). One line each plus AI summary where available.
 
+- 11:00:49 | Water Intelligence PLC | Change of position | Transaction in Own Shares and Total Voting Rights
+  - [summary failed: HTTP Error 400: Bad Request]
 - 11:00:00 | UK Debt Management Office | Issue of debt | Issue of Debt
 - 10:56:40 | Theracryf PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
@@ -28,9 +30,9 @@
 - 10:07:44 | Diageo PLC | Director/PDMR shareholding | Director/PDMR Shareholding
   - [summary failed: HTTP Error 400: Bad Request]
 - 10:03:23 | UIL Finance Limited | Miscellaneous | Redemption of 2026 ZDP Shares
-- 10:00:00 | Electric Guitar PLC | Miscellaneous | Completion of Subscription and other matters
-  - [summary failed: HTTP Error 400: Bad Request]
 - 10:00:00 | M&G PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
+- 10:00:00 | Electric Guitar PLC | Miscellaneous | Completion of Subscription and other matters
   - [summary failed: HTTP Error 400: Bad Request]
 - 09:57:30 | Focus Xplore PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
