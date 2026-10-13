@@ -3,6 +3,7 @@
 190 announcements (07:00-latest). One line each plus AI summary where available.
 
 - 12:30:36 | Rotork PLC | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 12:30:09 | Intertek Group PLC | Holding(s) in company | Holding(s) in Company
   - [summary failed: HTTP Error 400: Bad Request]
 - 12:29:09 | iShares Digital Assets AG | PFT | Final Terms iShares Digital Asset 13.10.2026
