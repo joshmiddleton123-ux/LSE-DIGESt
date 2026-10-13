@@ -5,6 +5,7 @@
 - 14:00:00 | Brooks Macdonald Group PLC | Regulatory application/grant | Result of AGM
   - [summary failed: HTTP Error 400: Bad Request]
 - 14:00:00 | easyJet | Director/PDMR shareholding | Director/PDMR Shareholding
+  - [summary failed: HTTP Error 400: Bad Request]
 - 13:56:31 | International Paper Company | Dividend declaration | Dividend Declaration
   - [summary failed: HTTP Error 400: Bad Request]
 - 13:54:35 | Mears Group PLC | Holding(s) in company | Holding(s) in Company
